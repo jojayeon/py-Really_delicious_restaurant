@@ -30,6 +30,7 @@ results = []
 # 식당 이름으로 검색
 for restaurant in restaurants:  # 리스트를 순회
     name = restaurant['restrntNm']  # 식당 이름
+    phone = restaurant['restrntInqrTel']  # 식당 전화번호
     print(name)
     
     search_url = f'https://map.kakao.com/?q={name}'
@@ -41,9 +42,15 @@ for restaurant in restaurants:  # 리스트를 순회
         # 검색 결과가 나올 때까지 대기
         time.sleep(3)
         
-        # "상세보기" 링크를 찾고 클릭
-        moreview_link = driver.find_element(By.CSS_SELECTOR, "#info\\.search\\.place\\.list > li > div.info_item > div.contact.clickArea > a.moreview")
-        moreview_link.click()  # "상세보기" 링크 클릭
+        # 검색 결과의 모든 상세보기 링크 찾기
+        moreview_links = driver.find_elements(By.CSS_SELECTOR, "#info\\.search\\.place\\.list > li > div.info_item > div.contact.clickArea > a.moreview")
+        
+        for link in moreview_links:
+            # 전화번호 가져오기
+            phone_element = link.find_element(By.XPATH, "..//span[@data-id='phone']")
+            if phone_element.text == phone:  # 전화번호 비교
+                link.click()  # 일치하는 링크 클릭
+                break  # 일치하는 링크 클릭 후 루프 종료
         
         time.sleep(2)  # 로딩 대기
 
