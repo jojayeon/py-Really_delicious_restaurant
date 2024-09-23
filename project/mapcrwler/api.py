@@ -2,7 +2,7 @@ import requests
 import json
 # 공공데이터포털 API URL 및 키 (실제 API URL과 키로 교체)
 api_url = 'https://apis.data.go.kr/6300000/openapi2022/restrnt/getrestrnt?'  # 예시 URL, 실제 URL로 수정 필요
-service_key = "dpEPUK36yqhSZNgzBL5MGZgpiVG2Q12SzEbTGv0kFXlqDuOKTFrOvaih2%2BBHmcBEMp%2Fhqy5qSaLYvVAG%2Fw75pw%3D%3D"  # 공공데이터포털에서 발급받은 서비스 키
+service_key = "dpEPUK36yqhSZNgzBL5MGZgpiVG2Q12SzEbTGv0kFXlqDuOKTFrOvaih2+BHmcBEMp/hqy5qSaLYvVAG/w75pw=="  # 공공데이터포털에서 발급받은 서비스 키
 
 # API에서 대전 지역 데이터를 가져오는 함수
 def fetch_daejeon_data():
@@ -11,8 +11,9 @@ def fetch_daejeon_data():
         'pageNo': '1',              # 페이지 번호
         'numOfRows': '100',          # 한 번에 가져올 데이터 수
     }
-    response = requests.get(api_url, params=params)
-
+    full_url = requests.Request('GET', api_url, params=params).prepare().url
+    print(f"Request URL: {full_url}")
+    response = requests.get(full_url)
     # 응답 상태 코드 확인
     print(f"HTTP Status Code: {response.status_code}")
 
