@@ -1,0 +1,893 @@
+[
+    {
+        "restaurant_name": "개천식당",
+        "positive_count": 17,
+        "negative_count": 40,
+        "sentiment": "부정적",
+        "rating": 3.2,
+        "review_count": 53,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "경동 오징어국수",
+        "positive_count": 6,
+        "negative_count": 3,
+        "sentiment": "긍정적",
+        "rating": 3.8,
+        "review_count": 25,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "구름식당",
+        "positive_count": 12,
+        "negative_count": 7,
+        "sentiment": "긍정적",
+        "rating": 4.1,
+        "review_count": 19,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "누나돈가스",
+        "positive_count": 13,
+        "negative_count": 9,
+        "sentiment": "긍정적",
+        "rating": 4.0,
+        "review_count": 37,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "명랑식당",
+        "positive_count": 12,
+        "negative_count": 5,
+        "sentiment": "긍정적",
+        "rating": 4.3,
+        "review_count": 53,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "블루부코",
+        "positive_count": 11,
+        "negative_count": 10,
+        "sentiment": "긍정적",
+        "rating": 3.4,
+        "review_count": 31,
+        "rating_status": "평범합니다"
+    },
+    {
+        "restaurant_name": "산내돌짜장",
+        "positive_count": 11,
+        "negative_count": 11,
+        "sentiment": "중립적",
+        "rating": 3.1,
+        "review_count": 45,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "오씨칼국수",
+        "positive_count": 6,
+        "negative_count": 7,
+        "sentiment": "부정적",
+        "rating": 3.0,
+        "review_count": 21,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "줄리앤칩",
+        "positive_count": 5,
+        "negative_count": 1,
+        "sentiment": "긍정적",
+        "rating": 4.4,
+        "review_count": 11,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "카페조각구름",
+        "positive_count": 12,
+        "negative_count": 3,
+        "sentiment": "긍정적",
+        "rating": 4.8,
+        "review_count": 12,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "투웨이버거",
+        "positive_count": 5,
+        "negative_count": 2,
+        "sentiment": "긍정적",
+        "rating": 4.4,
+        "review_count": 9,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "함경도집",
+        "positive_count": 5,
+        "negative_count": 5,
+        "sentiment": "중립적",
+        "rating": 3.6,
+        "review_count": 20,
+        "rating_status": "평범합니다"
+    },
+    {
+        "restaurant_name": "허브향기",
+        "positive_count": 6,
+        "negative_count": 1,
+        "sentiment": "긍정적",
+        "rating": 4.1,
+        "review_count": 11,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "고향콩나물밥집",
+        "positive_count": 2,
+        "negative_count": 0,
+        "sentiment": "긍정적",
+        "rating": 4.0,
+        "review_count": 7,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "꼬꼬치킨",
+        "positive_count": 4,
+        "negative_count": 0,
+        "sentiment": "긍정적",
+        "rating": 2.8,
+        "review_count": 4,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "논두렁 추어칼국수",
+        "positive_count": 3,
+        "negative_count": 3,
+        "sentiment": "중립적",
+        "rating": 4.3,
+        "review_count": 11,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "별뜨는 집",
+        "positive_count": 14,
+        "negative_count": 2,
+        "sentiment": "긍정적",
+        "rating": 4.5,
+        "review_count": 33,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "세웅이네 가족식당",
+        "positive_count": 4,
+        "negative_count": 5,
+        "sentiment": "부정적",
+        "rating": 2.6,
+        "review_count": 11,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "소담회",
+        "positive_count": 3,
+        "negative_count": 4,
+        "sentiment": "부정적",
+        "rating": 4.3,
+        "review_count": 8,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "신화수산",
+        "positive_count": 2,
+        "negative_count": 50,
+        "sentiment": "부정적",
+        "rating": 1.4,
+        "review_count": 37,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "시골막국수와 옹심이",
+        "positive_count": 2,
+        "negative_count": 2,
+        "sentiment": "중립적",
+        "rating": 4.3,
+        "review_count": 8,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "와와삼겹살",
+        "positive_count": 2,
+        "negative_count": 1,
+        "sentiment": "긍정적",
+        "rating": 5.0,
+        "review_count": 3,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "진주냉면 이설옥",
+        "positive_count": 12,
+        "negative_count": 19,
+        "sentiment": "부정적",
+        "rating": 3.9,
+        "review_count": 53,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "진로집",
+        "positive_count": 17,
+        "negative_count": 25,
+        "sentiment": "부정적",
+        "rating": 3.2,
+        "review_count": 53,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "포항구룡포 과메기와 생태",
+        "positive_count": 2,
+        "negative_count": 0,
+        "sentiment": "긍정적",
+        "rating": 4.3,
+        "review_count": 6,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "하루방만두",
+        "positive_count": 7,
+        "negative_count": 9,
+        "sentiment": "부정적",
+        "rating": 3.7,
+        "review_count": 29,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "항아리보쌈",
+        "positive_count": 7,
+        "negative_count": 4,
+        "sentiment": "긍정적",
+        "rating": 3.8,
+        "review_count": 26,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "갈마짬뽕",
+        "positive_count": 22,
+        "negative_count": 9,
+        "sentiment": "긍정적",
+        "rating": 3.8,
+        "review_count": 53,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "금강 어죽 매운탕",
+        "positive_count": 2,
+        "negative_count": 2,
+        "sentiment": "중립적",
+        "rating": 4.1,
+        "review_count": 10,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "동창 관저점",
+        "positive_count": 0,
+        "negative_count": 1,
+        "sentiment": "부정적",
+        "rating": 5.0,
+        "review_count": 1,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "만년횟집",
+        "positive_count": 0,
+        "negative_count": 0,
+        "sentiment": "중립적",
+        "rating": 3.4,
+        "review_count": 5,
+        "rating_status": "평범합니다"
+    },
+    {
+        "restaurant_name": "몽상도취",
+        "positive_count": 2,
+        "negative_count": 1,
+        "sentiment": "긍정적",
+        "rating": 3.3,
+        "review_count": 3,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "병규돈가스 본점",
+        "positive_count": 8,
+        "negative_count": 10,
+        "sentiment": "부정적",
+        "rating": 3.4,
+        "review_count": 43,
+        "rating_status": "평범합니다"
+    },
+    {
+        "restaurant_name": "설짬뽕",
+        "positive_count": 24,
+        "negative_count": 11,
+        "sentiment": "긍정적",
+        "rating": 4.3,
+        "review_count": 53,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "어담",
+        "positive_count": 2,
+        "negative_count": 0,
+        "sentiment": "긍정적",
+        "rating": 5.0,
+        "review_count": 4,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "오렌지블루스",
+        "positive_count": 7,
+        "negative_count": 2,
+        "sentiment": "긍정적",
+        "rating": 3.8,
+        "review_count": 20,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "옥수 숯불구이",
+        "positive_count": 0,
+        "negative_count": 0,
+        "sentiment": "중립적",
+        "rating": 4.0,
+        "review_count": 3,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "온유네 닭매운탕",
+        "positive_count": 9,
+        "negative_count": 5,
+        "sentiment": "긍정적",
+        "rating": 3.4,
+        "review_count": 27,
+        "rating_status": "평범합니다"
+    },
+    {
+        "restaurant_name": "와타요업",
+        "positive_count": 18,
+        "negative_count": 21,
+        "sentiment": "부정적",
+        "rating": 4.0,
+        "review_count": 53,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "운향",
+        "positive_count": 9,
+        "negative_count": 5,
+        "sentiment": "긍정적",
+        "rating": 3.2,
+        "review_count": 15,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "초가집",
+        "positive_count": 6,
+        "negative_count": 7,
+        "sentiment": "부정적",
+        "rating": 3.6,
+        "review_count": 20,
+        "rating_status": "평범합니다"
+    },
+    {
+        "restaurant_name": "카페멜리사",
+        "positive_count": 1,
+        "negative_count": 0,
+        "sentiment": "긍정적",
+        "rating": 5.0,
+        "review_count": 4,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "해몽",
+        "positive_count": 24,
+        "negative_count": 8,
+        "sentiment": "긍정적",
+        "rating": 4.3,
+        "review_count": 53,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "행복한 분식",
+        "positive_count": 15,
+        "negative_count": 12,
+        "sentiment": "긍정적",
+        "rating": 3.6,
+        "review_count": 34,
+        "rating_status": "평범합니다"
+    },
+    {
+        "restaurant_name": "황짬뽕",
+        "positive_count": 8,
+        "negative_count": 3,
+        "sentiment": "긍정적",
+        "rating": 3.3,
+        "review_count": 15,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "권영철 콩짬뽕",
+        "positive_count": 6,
+        "negative_count": 1,
+        "sentiment": "긍정적",
+        "rating": 4.7,
+        "review_count": 18,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "나마미돈카츠",
+        "positive_count": 11,
+        "negative_count": 5,
+        "sentiment": "긍정적",
+        "rating": 3.7,
+        "review_count": 39,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "늘상상",
+        "positive_count": 20,
+        "negative_count": 25,
+        "sentiment": "부정적",
+        "rating": 3.4,
+        "review_count": 49,
+        "rating_status": "평범합니다"
+    },
+    {
+        "restaurant_name": "다해어죽",
+        "positive_count": 6,
+        "negative_count": 11,
+        "sentiment": "부정적",
+        "rating": 3.8,
+        "review_count": 25,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "동신수산",
+        "positive_count": 6,
+        "negative_count": 4,
+        "sentiment": "긍정적",
+        "rating": 3.0,
+        "review_count": 18,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "리코타코",
+        "positive_count": 10,
+        "negative_count": 11,
+        "sentiment": "부정적",
+        "rating": 3.3,
+        "review_count": 53,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "마시기통차",
+        "positive_count": 0,
+        "negative_count": 0,
+        "sentiment": "중립적",
+        "rating": 5.0,
+        "review_count": 2,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "슬로우브레드",
+        "positive_count": 16,
+        "negative_count": 5,
+        "sentiment": "긍정적",
+        "rating": 3.6,
+        "review_count": 39,
+        "rating_status": "평범합니다"
+    },
+    {
+        "restaurant_name": "아람답다",
+        "positive_count": 0,
+        "negative_count": 1,
+        "sentiment": "부정적",
+        "rating": 4.0,
+        "review_count": 2,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "오시오칼국수",
+        "positive_count": 22,
+        "negative_count": 11,
+        "sentiment": "긍정적",
+        "rating": 3.6,
+        "review_count": 53,
+        "rating_status": "평범합니다"
+    },
+    {
+        "restaurant_name": "온천칼국수",
+        "positive_count": 21,
+        "negative_count": 15,
+        "sentiment": "긍정적",
+        "rating": 3.7,
+        "review_count": 53,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "왕비성",
+        "positive_count": 9,
+        "negative_count": 21,
+        "sentiment": "부정적",
+        "rating": 2.6,
+        "review_count": 53,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "잇마이타이",
+        "positive_count": 11,
+        "negative_count": 8,
+        "sentiment": "긍정적",
+        "rating": 3.9,
+        "review_count": 42,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "진신",
+        "positive_count": 16,
+        "negative_count": 13,
+        "sentiment": "긍정적",
+        "rating": 4.1,
+        "review_count": 37,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "콜마르브레드",
+        "positive_count": 11,
+        "negative_count": 5,
+        "sentiment": "긍정적",
+        "rating": 4.1,
+        "review_count": 40,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "테판마루",
+        "positive_count": 4,
+        "negative_count": 1,
+        "sentiment": "긍정적",
+        "rating": 2.8,
+        "review_count": 8,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "홍천식당",
+        "positive_count": 7,
+        "negative_count": 6,
+        "sentiment": "긍정적",
+        "rating": 3.6,
+        "review_count": 13,
+        "rating_status": "평범합니다"
+    },
+    {
+        "restaurant_name": "흑룡산촌두부",
+        "positive_count": 3,
+        "negative_count": 6,
+        "sentiment": "부정적",
+        "rating": 2.5,
+        "review_count": 10,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "강길도 낙지마을",
+        "positive_count": 4,
+        "negative_count": 4,
+        "sentiment": "중립적",
+        "rating": 4.0,
+        "review_count": 13,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "뚝배기에 담은 이탈리아 ",
+        "positive_count": 7,
+        "negative_count": 6,
+        "sentiment": "긍정적",
+        "rating": 3.4,
+        "review_count": 19,
+        "rating_status": "평범합니다"
+    },
+    {
+        "restaurant_name": "뜰에식당",
+        "positive_count": 3,
+        "negative_count": 0,
+        "sentiment": "긍정적",
+        "rating": 4.6,
+        "review_count": 12,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "다온",
+        "positive_count": 2,
+        "negative_count": 0,
+        "sentiment": "긍정적",
+        "rating": 4.0,
+        "review_count": 2,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "부추해물칼국수",
+        "positive_count": 7,
+        "negative_count": 0,
+        "sentiment": "긍정적",
+        "rating": 4.5,
+        "review_count": 8,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "비래키키",
+        "positive_count": 6,
+        "negative_count": 8,
+        "sentiment": "부정적",
+        "rating": 3.2,
+        "review_count": 24,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "양푼이 동태찌개",
+        "positive_count": 0,
+        "negative_count": 0,
+        "sentiment": "중립적",
+        "rating": 4.0,
+        "review_count": 2,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "코다리밥상 송촌점",
+        "positive_count": 4,
+        "negative_count": 6,
+        "sentiment": "부정적",
+        "rating": 3.6,
+        "review_count": 13,
+        "rating_status": "평범합니다"
+    },
+    {
+        "restaurant_name": "통일면옥",
+        "positive_count": 26,
+        "negative_count": 8,
+        "sentiment": "긍정적",
+        "rating": 4.2,
+        "review_count": 46,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "금광식당",
+        "positive_count": 11,
+        "negative_count": 10,
+        "sentiment": "긍정적",
+        "rating": 3.5,
+        "review_count": 17,
+        "rating_status": "평범합니다"
+    },
+    {
+        "restaurant_name": "연아식당",
+        "positive_count": 3,
+        "negative_count": 0,
+        "sentiment": "긍정적",
+        "rating": 3.7,
+        "review_count": 6,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "별천지",
+        "positive_count": 8,
+        "negative_count": 3,
+        "sentiment": "긍정적",
+        "rating": 4.0,
+        "review_count": 18,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "홍천식당",
+        "positive_count": 7,
+        "negative_count": 6,
+        "sentiment": "긍정적",
+        "rating": 3.6,
+        "review_count": 13,
+        "rating_status": "평범합니다"
+    },
+    {
+        "restaurant_name": "영동식당",
+        "positive_count": 6,
+        "negative_count": 0,
+        "sentiment": "긍정적",
+        "rating": 4.1,
+        "review_count": 8,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "광천식당",
+        "positive_count": 19,
+        "negative_count": 51,
+        "sentiment": "부정적",
+        "rating": 3.1,
+        "review_count": 53,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "사리원면옥",
+        "positive_count": 9,
+        "negative_count": 24,
+        "sentiment": "부정적",
+        "rating": 3.1,
+        "review_count": 53,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "중국성",
+        "positive_count": 12,
+        "negative_count": 1,
+        "sentiment": "긍정적",
+        "rating": 4.5,
+        "review_count": 26,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "평양숨두부",
+        "positive_count": 2,
+        "negative_count": 5,
+        "sentiment": "부정적",
+        "rating": 3.3,
+        "review_count": 10,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "태화장",
+        "positive_count": 17,
+        "negative_count": 42,
+        "sentiment": "부정적",
+        "rating": 3.0,
+        "review_count": 53,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "백천집식당",
+        "positive_count": 0,
+        "negative_count": 0,
+        "sentiment": "중립적",
+        "rating": 5.0,
+        "review_count": 1,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "대성관",
+        "positive_count": 11,
+        "negative_count": 2,
+        "sentiment": "긍정적",
+        "rating": 4.1,
+        "review_count": 18,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "정식당",
+        "positive_count": 9,
+        "negative_count": 5,
+        "sentiment": "긍정적",
+        "rating": 4.0,
+        "review_count": 40,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "왕관식당",
+        "positive_count": 4,
+        "negative_count": 10,
+        "sentiment": "부정적",
+        "rating": 3.4,
+        "review_count": 44,
+        "rating_status": "평범합니다"
+    },
+    {
+        "restaurant_name": "진로집",
+        "positive_count": 17,
+        "negative_count": 25,
+        "sentiment": "부정적",
+        "rating": 3.2,
+        "review_count": 53,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "만수불고기",
+        "positive_count": 4,
+        "negative_count": 1,
+        "sentiment": "긍정적",
+        "rating": 3.8,
+        "review_count": 13,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "경동오징어국수",
+        "positive_count": 6,
+        "negative_count": 3,
+        "sentiment": "긍정적",
+        "rating": 3.8,
+        "review_count": 25,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "광천식당",
+        "positive_count": 19,
+        "negative_count": 51,
+        "sentiment": "부정적",
+        "rating": 3.1,
+        "review_count": 53,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "사리원면옥",
+        "positive_count": 9,
+        "negative_count": 24,
+        "sentiment": "부정적",
+        "rating": 3.1,
+        "review_count": 53,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "신도칼국수",
+        "positive_count": 9,
+        "negative_count": 5,
+        "sentiment": "긍정적",
+        "rating": 3.4,
+        "review_count": 27,
+        "rating_status": "평범합니다"
+    },
+    {
+        "restaurant_name": "전통칼국수",
+        "positive_count": 15,
+        "negative_count": 10,
+        "sentiment": "긍정적",
+        "rating": 4.1,
+        "review_count": 37,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "대들보 함흥면옥",
+        "positive_count": 5,
+        "negative_count": 10,
+        "sentiment": "부정적",
+        "rating": 2.9,
+        "review_count": 30,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "대전갈비집",
+        "positive_count": 11,
+        "negative_count": 8,
+        "sentiment": "긍정적",
+        "rating": 3.4,
+        "review_count": 53,
+        "rating_status": "평범합니다"
+    },
+    {
+        "restaurant_name": "학선식당",
+        "positive_count": 1,
+        "negative_count": 3,
+        "sentiment": "부정적",
+        "rating": 2.5,
+        "review_count": 8,
+        "rating_status": "3.3 이하 가지 마세요"
+    },
+    {
+        "restaurant_name": "한영식당",
+        "positive_count": 14,
+        "negative_count": 21,
+        "sentiment": "부정적",
+        "rating": 3.6,
+        "review_count": 53,
+        "rating_status": "평범합니다"
+    },
+    {
+        "restaurant_name": "성심당",
+        "positive_count": 9,
+        "negative_count": 5,
+        "sentiment": "긍정적",
+        "rating": 4.6,
+        "review_count": 53,
+        "rating_status": "3.7 이상 맛집입니다"
+    },
+    {
+        "restaurant_name": "띠울석갈비",
+        "positive_count": 9,
+        "negative_count": 17,
+        "sentiment": "부정적",
+        "rating": 2.6,
+        "review_count": 34,
+        "rating_status": "3.3 이하 가지 마세요"
+    }
+]
