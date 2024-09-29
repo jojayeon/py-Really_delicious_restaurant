@@ -1,6 +1,6 @@
 import requests
 import json
-
+import os
 # 공공데이터포털 API URL 및 키
 api_url = 'https://apis.data.go.kr/6300000/openapi2022/restrnt/getrestrnt'
 service_key = "dpEPUK36yqhSZNgzBL5MGZgpiVG2Q12SzEbTGv0kFXlqDuOKTFrOvaih2+BHmcBEMp/hqy5qSaLYvVAG/w75pw=="
@@ -45,9 +45,11 @@ def fetch_daejeon_data():
             print(f"Error: {response.status_code}")
             break
 
+    save_directory = './data/'  # 현재 디렉토리의 ab 폴더
+    os.makedirs(save_directory, exist_ok=True)  # ab 폴더가 없으면 생성
     # 모든 데이터를 JSON 파일로 저장
-    with open('daejeon_restaurants.json', 'w', encoding='utf-8') as json_file:
-        json.dump(all_data, json_file, ensure_ascii=False, indent=4)
+    with open(os.path.join(save_directory, 'daejeon_restaurants.json'), 'w', encoding='utf-8') as outfile:
+        json.dump(all_data, outfile, ensure_ascii=False, indent=4)
     print("모든 데이터가 성공적으로 저장되었습니다.")
 
 # 함수 호출

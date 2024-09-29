@@ -4,6 +4,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 import time
 import json
+import os
 
 # 크롬 드라이버 경로 (설치한 경로에 맞게 수정)
 driver_path = r'C:\Program Files\chromedriver-win64\chromedriver.exe'
@@ -92,7 +93,11 @@ for restaurant in restaurants:  # 리스트를 순회
         print(f"식당: {name} 정보를 가져오는 데 실패했습니다: {e}")
 
 # JSON 파일로 저장
-with open('restaurant_reviews.json', 'w', encoding='utf-8') as f:
-    json.dump(results, f, ensure_ascii=False, indent=4)
+
+save_directory = './data/'  # 현재 디렉토리의 ab 폴더
+os.makedirs(save_directory, exist_ok=True)  # ab 폴더가 없으면 생성
+
+with open(os.path.join(save_directory, 'restaurant_reviews.json'), 'w', encoding='utf-8') as outfile:
+    json.dump(results, outfile, ensure_ascii=False, indent=4)
 
 driver.quit()

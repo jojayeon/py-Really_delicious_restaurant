@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import json
 from konlpy.tag import Okt
+import os
 
 # JSON 파일에서 데이터 로드
 with open('restaurant_reviews.json', 'r', encoding='utf-8') as f:
@@ -113,10 +114,12 @@ for restaurant in results:
         'review_count': review_count,  # 리뷰 개수 추가
         'rating_status': rating_status  # 평점 상태 추가
     })
+save_directory = './data/'  # 현재 디렉토리의 ab 폴더
+os.makedirs(save_directory, exist_ok=True)  # ab 폴더가 없으면 생성
 
 # 결과를 JSON 파일로 저장
-with open('restaurant_analysis.json', 'w', encoding='utf-8') as json_file:
-    json.dump(restaurant_analysis, json_file, ensure_ascii=False, indent=4)
+with open(os.path.join(save_directory, 'restaurant_analysis.json'), 'w', encoding='utf-8') as outfile:
+    json.dump(restaurant_analysis, outfile, ensure_ascii=False, indent=4)
 
 print("분석 결과가 restaurant_analysis.json 파일에 저장되었습니다.")
 # 결과 출력
