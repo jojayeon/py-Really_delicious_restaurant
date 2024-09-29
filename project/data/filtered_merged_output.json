@@ -90,15 +90,6 @@
         "mapLot": "127.429146"
     },
     {
-        "restaurant_name": "와와삼겹살",
-        "sentiment": "긍정적",
-        "rating": 5.0,
-        "rating_status": "3.7 이상 맛집입니다",
-        "restrntAddr": "대전 중구 수침로55번길 1",
-        "mapLat": "36.32446",
-        "mapLot": "127.40049"
-    },
-    {
         "restaurant_name": "포항구룡포 과메기와 생태",
         "sentiment": "긍정적",
         "rating": 4.3,
@@ -135,15 +126,6 @@
         "mapLot": "127.334404"
     },
     {
-        "restaurant_name": "어담",
-        "sentiment": "긍정적",
-        "rating": 5.0,
-        "rating_status": "3.7 이상 맛집입니다",
-        "restrntAddr": "대전 서구 둔산남로105번길 11",
-        "mapLat": "36.34964",
-        "mapLot": "127.389015"
-    },
-    {
         "restaurant_name": "오렌지블루스",
         "sentiment": "긍정적",
         "rating": 3.8,
@@ -151,15 +133,6 @@
         "restrntAddr": "대전 서구 갈마역로25번길 9-3",
         "mapLat": "36.3526",
         "mapLot": "127.373726"
-    },
-    {
-        "restaurant_name": "카페멜리사",
-        "sentiment": "긍정적",
-        "rating": 5.0,
-        "rating_status": "3.7 이상 맛집입니다",
-        "restrntAddr": "대전 서구 관저동로105번길 54",
-        "mapLat": "36.301292",
-        "mapLot": "127.33754"
     },
     {
         "restaurant_name": "해몽",
@@ -232,15 +205,6 @@
         "restrntAddr": "대전 대덕구 덕암로 247",
         "mapLat": "36.44272",
         "mapLot": "127.424675"
-    },
-    {
-        "restaurant_name": "다온",
-        "sentiment": "긍정적",
-        "rating": 4.0,
-        "rating_status": "3.7 이상 맛집입니다",
-        "restrntAddr": "대전 대덕구 계족산로81번길 9",
-        "mapLat": "36.3634",
-        "mapLot": "127.44"
     },
     {
         "restaurant_name": "부추해물칼국수",
