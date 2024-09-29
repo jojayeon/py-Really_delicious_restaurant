@@ -1,0 +1,1062 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_7466611d8efd503c9b258f596052a0b3 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>
+    
+    
+<div style="position: fixed; top: 10px; left: 10px; z-index: 9999; background: white; padding: 10px; border-radius: 5px;">
+    <input type="text" id="search" placeholder="식당 이름 검색..." style="width: 200px;"/>
+    <button id="searchButton">검색</button>
+</div>
+<script>
+    var markers = {};
+    var markerList = [];
+    var restaurantData = [{"restaurant_name": "\uacbd\ub3d9 \uc624\uc9d5\uc5b4\uad6d\uc218", "sentiment": "\uae0d\uc815\uc801", "rating": 3.8, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \ub3d9\uad6c \uc131\ub0a8\ub3d9 200-342", "mapLat": "36.34479", "mapLot": "127.43322"}, {"restaurant_name": "\uad6c\ub984\uc2dd\ub2f9", "sentiment": "\uae0d\uc815\uc801", "rating": 4.1, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \ub3d9\uad6c \uacc4\uc871\ub85c 184-29", "mapLat": "36.331303", "mapLot": "127.44309"}, {"restaurant_name": "\ub204\ub098\ub3c8\uac00\uc2a4", "sentiment": "\uae0d\uc815\uc801", "rating": 4.0, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \ub3d9\uad6c \ub300\ud559\ub85c 68", "mapLat": "36.33567", "mapLot": "127.45679"}, {"restaurant_name": "\uba85\ub791\uc2dd\ub2f9", "sentiment": "\uae0d\uc815\uc801", "rating": 4.3, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \ub3d9\uad6c \ud0dc\uc804\ub85c 56-20", "mapLat": "36.33551", "mapLot": "127.42887"}, {"restaurant_name": "\uc904\ub9ac\uc564\uce69", "sentiment": "\uae0d\uc815\uc801", "rating": 4.4, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \ub3d9\uad6c \uc6a9\ub300\uae38 4", "mapLat": "36.32363", "mapLot": "127.446785"}, {"restaurant_name": "\uce74\ud398\uc870\uac01\uad6c\ub984", "sentiment": "\uae0d\uc815\uc801", "rating": 4.8, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \ub3d9\uad6c \uacc4\uc871\ub85c 194-21", "mapLat": "36.331112", "mapLot": "127.442825"}, {"restaurant_name": "\ud22c\uc6e8\uc774\ubc84\uac70", "sentiment": "\uae0d\uc815\uc801", "rating": 4.4, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \ub3d9\uad6c \ub300\uc804\ub85c 442", "mapLat": "36.305584", "mapLot": "127.45277"}, {"restaurant_name": "\ud5c8\ube0c\ud5a5\uae30", "sentiment": "\uae0d\uc815\uc801", "rating": 4.1, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \ub3d9\uad6c \ud558\uc18c\ub3d9 424", "mapLat": "36.211918", "mapLot": "127.439156"}, {"restaurant_name": "\uace0\ud5a5\ucf69\ub098\ubb3c\ubc25\uc9d1", "sentiment": "\uae0d\uc815\uc801", "rating": 4.0, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \uc911\uad6c \ubcf4\ubb38\ub85c 305", "mapLat": "36.329403", "mapLot": "127.41995"}, {"restaurant_name": "\ubcc4\ub728\ub294 \uc9d1", "sentiment": "\uae0d\uc815\uc801", "rating": 4.5, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \uc911\uad6c \ubcf4\ubb38\ub85c162\ubc88\uae38 66", "mapLat": "36.318874", "mapLot": "127.429146"}, {"restaurant_name": "\ud3ec\ud56d\uad6c\ub8e1\ud3ec \uacfc\uba54\uae30\uc640 \uc0dd\ud0dc", "sentiment": "\uae0d\uc815\uc801", "rating": 4.3, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \uc911\uad6c \uc911\uc559\ub85c13\ubc88\uae38 34-1", "mapLat": "36.324127", "mapLot": "127.41322"}, {"restaurant_name": "\ud56d\uc544\ub9ac\ubcf4\uc308", "sentiment": "\uae0d\uc815\uc801", "rating": 3.8, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \uc911\uad6c \uacc4\ub8e1\ub85c874\ubc88\uae38 15", "mapLat": "36.323055", "mapLot": "127.41031"}, {"restaurant_name": "\uac08\ub9c8\uc9ec\ubf55", "sentiment": "\uae0d\uc815\uc801", "rating": 3.8, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \uc11c\uad6c \uc6d4\ud3c9\ub3d9\ub85c 5-11", "mapLat": "36.355312", "mapLot": "127.36837"}, {"restaurant_name": "\uc124\uc9ec\ubf55", "sentiment": "\uae0d\uc815\uc801", "rating": 4.3, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \uc11c\uad6c \ub3c4\uc548\ub300\ub85c 37", "mapLat": "36.30496", "mapLot": "127.334404"}, {"restaurant_name": "\uc624\ub80c\uc9c0\ube14\ub8e8\uc2a4", "sentiment": "\uae0d\uc815\uc801", "rating": 3.8, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \uc11c\uad6c \uac08\ub9c8\uc5ed\ub85c25\ubc88\uae38 9-3", "mapLat": "36.3526", "mapLot": "127.373726"}, {"restaurant_name": "\ud574\ubabd", "sentiment": "\uae0d\uc815\uc801", "rating": 4.3, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \uc11c\uad6c \ub9cc\ub144\ub0a8\ub85c11\ubc88\uae38 55", "mapLat": "36.366123", "mapLot": "127.3735"}, {"restaurant_name": "\uad8c\uc601\ucca0 \ucf69\uc9ec\ubf55", "sentiment": "\uae0d\uc815\uc801", "rating": 4.7, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \uc720\uc131\uad6c \uc6d4\ub4dc\ucef5\ub300\ub85c275\ubc88\uae38 49", "mapLat": "36.350716", "mapLot": "127.33148"}, {"restaurant_name": "\ub098\ub9c8\ubbf8\ub3c8\uce74\uce20", "sentiment": "\uae0d\uc815\uc801", "rating": 3.7, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \uc720\uc131\uad6c \uad00\ud3c91\ub85c 52", "mapLat": "36.424038", "mapLot": "127.39041"}, {"restaurant_name": "\uc628\ucc9c\uce7c\uad6d\uc218", "sentiment": "\uae0d\uc815\uc801", "rating": 3.7, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \uc720\uc131\uad6c \uc628\ucc9c\ubd81\ub85c 61", "mapLat": "36.356598", "mapLot": "127.349785"}, {"restaurant_name": "\uc787\ub9c8\uc774\ud0c0\uc774", "sentiment": "\uae0d\uc815\uc801", "rating": 3.9, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \uc720\uc131\uad6c \ubb38\ud654\uc6d0\ub85c 77", "mapLat": "36.359432", "mapLot": "127.344536"}, {"restaurant_name": "\uc9c4\uc2e0", "sentiment": "\uae0d\uc815\uc801", "rating": 4.1, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \uc720\uc131\uad6c \uc6d0\uc2e0\ud765\ub85c55\ubc88\uae38 66-25", "mapLat": "36.33891", "mapLot": "127.344185"}, {"restaurant_name": "\ucf5c\ub9c8\ub974\ube0c\ub808\ub4dc", "sentiment": "\uae0d\uc815\uc801", "rating": 4.1, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \uc720\uc131\uad6c \uc5b4\uc740\ub85c51\ubc88\uae38 52", "mapLat": "36.36201", "mapLot": "127.35406"}, {"restaurant_name": "\ub730\uc5d0\uc2dd\ub2f9", "sentiment": "\uae0d\uc815\uc801", "rating": 4.6, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \ub300\ub355\uad6c \ub355\uc554\ub85c 247", "mapLat": "36.44272", "mapLot": "127.424675"}, {"restaurant_name": "\ubd80\ucd94\ud574\ubb3c\uce7c\uad6d\uc218", "sentiment": "\uae0d\uc815\uc801", "rating": 4.5, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \ub300\ub355\uad6c \uc2e0\ud0c4\uc9c4\ub85c804\ubc88\uae38 31", "mapLat": "36.44956", "mapLot": "127.43165"}, {"restaurant_name": "\ud1b5\uc77c\uba74\uc625", "sentiment": "\uae0d\uc815\uc801", "rating": 4.2, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \ub300\ub355\uad6c \ud55c\ubc2d\ub300\ub85c1117\ubc88\uae38 17", "mapLat": "36.359745", "mapLot": "127.42254"}, {"restaurant_name": "\uc5f0\uc544\uc2dd\ub2f9", "sentiment": "\uae0d\uc815\uc801", "rating": 3.7, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \uc911\uad6c \uc720\ucc9c\ub85c 57-9", "mapLat": "36.317585", "mapLot": "127.397285"}, {"restaurant_name": "\ubcc4\ucc9c\uc9c0", "sentiment": "\uae0d\uc815\uc801", "rating": 4.0, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \ub3d9\uad6c \uc0b0\uc11c\ub85c1659\ubc88\uae38 29", "mapLat": "36.2911", "mapLot": "127.460945"}, {"restaurant_name": "\uc601\ub3d9\uc2dd\ub2f9", "sentiment": "\uae0d\uc815\uc801", "rating": 4.1, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \uc911\uad6c \uacc4\ub8e1\ub85c874\ubc88\uae38 27-9", "mapLat": "36.322655", "mapLot": "127.40989"}, {"restaurant_name": "\uc911\uad6d\uc131", "sentiment": "\uae0d\uc815\uc801", "rating": 4.5, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \ub3d9\uad6c \ub300\uc804\ub85c815\ubc88\uae38 66", "mapLat": "36.334675", "mapLot": "127.43027"}, {"restaurant_name": "\ub300\uc131\uad00", "sentiment": "\uae0d\uc815\uc801", "rating": 4.1, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \uc911\uad6c \uacc4\ubc31\ub85c1584\ubc88\uae38 114", "mapLat": "36.313004", "mapLot": "127.39759"}, {"restaurant_name": "\uc815\uc2dd\ub2f9", "sentiment": "\uae0d\uc815\uc801", "rating": 4.0, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \uc911\uad6c \uc911\uc559\ub85c130\ubc88\uae38 37-13", "mapLat": "36.32678", "mapLot": "127.42573"}, {"restaurant_name": "\ub9cc\uc218\ubd88\uace0\uae30", "sentiment": "\uae0d\uc815\uc801", "rating": 3.8, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \uc720\uc131\uad6c \uc7a5\ub300\ub85c 38", "mapLat": "36.358402", "mapLot": "127.33652"}, {"restaurant_name": "\uacbd\ub3d9\uc624\uc9d5\uc5b4\uad6d\uc218", "sentiment": "\uae0d\uc815\uc801", "rating": 3.8, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \ub3d9\uad6c \uacc4\uc871\ub85c 369", "mapLat": "36.344784", "mapLot": "127.433174"}, {"restaurant_name": "\uc804\ud1b5\uce7c\uad6d\uc218", "sentiment": "\uae0d\uc815\uc801", "rating": 4.1, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \ub3d9\uad6c \ub300\uc804\ub85c825\ubc88\uae38 13", "mapLat": "36.332554", "mapLot": "127.430855"}, {"restaurant_name": "\uc131\uc2ec\ub2f9", "sentiment": "\uae0d\uc815\uc801", "rating": 4.6, "rating_status": "3.7 \uc774\uc0c1 \ub9db\uc9d1\uc785\ub2c8\ub2e4", "restrntAddr": "\ub300\uc804 \uc911\uad6c \ub300\uc885\ub85c480\ubc88\uae38 15", "mapLat": "36.327744", "mapLot": "127.427246"}];
+
+    function addMarkers(data) {
+        for (var i = 0; i < data.length; i++) {
+            var restaurant = data[i];
+            var marker = L.marker([restaurant.mapLat, restaurant.mapLot]).addTo(markerCluster).bindPopup("<strong>" + restaurant.restaurant_name + "</strong><br>주소: " + restaurant.restrntAddr + "<br>평점: " + restaurant.rating);
+            markers[restaurant.restaurant_name] = marker;
+            markerList.push(restaurant.restaurant_name);
+        }
+    }
+
+    function searchMarkers() {
+        var searchTerm = document.getElementById('search').value.toLowerCase();
+        for (var name in markers) {
+            if (name.toLowerCase().includes(searchTerm)) {
+                markers[name].addTo(markerCluster);
+            } else {
+                markerCluster.removeLayer(markers[name]);
+            }
+        }
+    }
+
+    document.getElementById('searchButton').onclick = searchMarkers;
+
+    addMarkers(restaurantData);
+</script>
+    
+            <div class="folium-map" id="map_7466611d8efd503c9b258f596052a0b3" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_7466611d8efd503c9b258f596052a0b3 = L.map(
+                "map_7466611d8efd503c9b258f596052a0b3",
+                {
+                    center: [36.35111, 127.385],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 13,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_eee5fdf266d3d4dcae8fa95a449fd25d = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_eee5fdf266d3d4dcae8fa95a449fd25d.addTo(map_7466611d8efd503c9b258f596052a0b3);
+        
+    
+            var marker_cluster_133b91becca18ed72d9d5a832d4d7df4 = L.markerClusterGroup(
+                {}
+            );
+        
+    
+            var marker_643868231bc00e6c94b822a0b618313d = L.marker(
+                [36.34479, 127.43322],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_34ca7707b2c8110604166e648c8d794c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_643868231bc00e6c94b822a0b618313d.setIcon(icon_34ca7707b2c8110604166e648c8d794c);
+        
+    
+        var popup_f522bc3e4dda7fea10fddc9392f717f2 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_840be99f3fd4a07b7e4fd306b8edb222 = $(`<div id="html_840be99f3fd4a07b7e4fd306b8edb222" style="width: 100.0%; height: 100.0%;"><strong>경동 오징어국수</strong><br>주소: 대전 동구 성남동 200-342<br>평점: 3.8 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_f522bc3e4dda7fea10fddc9392f717f2.setContent(html_840be99f3fd4a07b7e4fd306b8edb222);
+            
+        
+
+        marker_643868231bc00e6c94b822a0b618313d.bindPopup(popup_f522bc3e4dda7fea10fddc9392f717f2)
+        ;
+
+        
+    
+    
+            var marker_961fe385da7441d761bd20b38a9da8e6 = L.marker(
+                [36.331303, 127.44309],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_3c7c71c90438721d2d02619a8c7886e7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_961fe385da7441d761bd20b38a9da8e6.setIcon(icon_3c7c71c90438721d2d02619a8c7886e7);
+        
+    
+        var popup_2dc3c825c616cd55398580c30f23ddb1 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_5133e0f470b684dbeafb22cf6eabfce9 = $(`<div id="html_5133e0f470b684dbeafb22cf6eabfce9" style="width: 100.0%; height: 100.0%;"><strong>구름식당</strong><br>주소: 대전 동구 계족로 184-29<br>평점: 4.1 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_2dc3c825c616cd55398580c30f23ddb1.setContent(html_5133e0f470b684dbeafb22cf6eabfce9);
+            
+        
+
+        marker_961fe385da7441d761bd20b38a9da8e6.bindPopup(popup_2dc3c825c616cd55398580c30f23ddb1)
+        ;
+
+        
+    
+    
+            var marker_05ee08599356f0a36ec15a70171fcf5b = L.marker(
+                [36.33567, 127.45679],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_7f1f922ce9785f5c9128ec015df3c6ad = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_05ee08599356f0a36ec15a70171fcf5b.setIcon(icon_7f1f922ce9785f5c9128ec015df3c6ad);
+        
+    
+        var popup_18c5ddbd9ef9ecd28c61ab9b6416c62a = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_bde1d82457010db4d85a5a387c9017ee = $(`<div id="html_bde1d82457010db4d85a5a387c9017ee" style="width: 100.0%; height: 100.0%;"><strong>누나돈가스</strong><br>주소: 대전 동구 대학로 68<br>평점: 4.0 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_18c5ddbd9ef9ecd28c61ab9b6416c62a.setContent(html_bde1d82457010db4d85a5a387c9017ee);
+            
+        
+
+        marker_05ee08599356f0a36ec15a70171fcf5b.bindPopup(popup_18c5ddbd9ef9ecd28c61ab9b6416c62a)
+        ;
+
+        
+    
+    
+            var marker_a1212bd1067ae30ff0103d4070c1aefc = L.marker(
+                [36.33551, 127.42887],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_f5073f2c2a2ab2e6f064b1c17cb11f88 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_a1212bd1067ae30ff0103d4070c1aefc.setIcon(icon_f5073f2c2a2ab2e6f064b1c17cb11f88);
+        
+    
+        var popup_81e3b99ef40369e6d300882d36a0d0b7 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_ac1e25341102876f312693a7ae540437 = $(`<div id="html_ac1e25341102876f312693a7ae540437" style="width: 100.0%; height: 100.0%;"><strong>명랑식당</strong><br>주소: 대전 동구 태전로 56-20<br>평점: 4.3 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_81e3b99ef40369e6d300882d36a0d0b7.setContent(html_ac1e25341102876f312693a7ae540437);
+            
+        
+
+        marker_a1212bd1067ae30ff0103d4070c1aefc.bindPopup(popup_81e3b99ef40369e6d300882d36a0d0b7)
+        ;
+
+        
+    
+    
+            var marker_2872d61bc8bbbb05c19e731166d1e7ab = L.marker(
+                [36.32363, 127.446785],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_9d534699813dc8ff926a67991eeb7d67 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_2872d61bc8bbbb05c19e731166d1e7ab.setIcon(icon_9d534699813dc8ff926a67991eeb7d67);
+        
+    
+        var popup_00f1032cb8b539b829bfb43742fdd77a = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_c0acd0ac9dcc0db550e65b46eb33110f = $(`<div id="html_c0acd0ac9dcc0db550e65b46eb33110f" style="width: 100.0%; height: 100.0%;"><strong>줄리앤칩</strong><br>주소: 대전 동구 용대길 4<br>평점: 4.4 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_00f1032cb8b539b829bfb43742fdd77a.setContent(html_c0acd0ac9dcc0db550e65b46eb33110f);
+            
+        
+
+        marker_2872d61bc8bbbb05c19e731166d1e7ab.bindPopup(popup_00f1032cb8b539b829bfb43742fdd77a)
+        ;
+
+        
+    
+    
+            var marker_1c39033145aa0a8ae59c49e858746060 = L.marker(
+                [36.331112, 127.442825],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_ed2c40740b459daa5c36ff4feb8db0cf = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_1c39033145aa0a8ae59c49e858746060.setIcon(icon_ed2c40740b459daa5c36ff4feb8db0cf);
+        
+    
+        var popup_6421a9af67054b08074d19ad199e6ee6 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_a1cefd441822cea1848f5f51ad693934 = $(`<div id="html_a1cefd441822cea1848f5f51ad693934" style="width: 100.0%; height: 100.0%;"><strong>카페조각구름</strong><br>주소: 대전 동구 계족로 194-21<br>평점: 4.8 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_6421a9af67054b08074d19ad199e6ee6.setContent(html_a1cefd441822cea1848f5f51ad693934);
+            
+        
+
+        marker_1c39033145aa0a8ae59c49e858746060.bindPopup(popup_6421a9af67054b08074d19ad199e6ee6)
+        ;
+
+        
+    
+    
+            var marker_2f49ea690e8f8a38d1cfc335df4a25df = L.marker(
+                [36.305584, 127.45277],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_fc5150b83ff54076d58207988f4a8995 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_2f49ea690e8f8a38d1cfc335df4a25df.setIcon(icon_fc5150b83ff54076d58207988f4a8995);
+        
+    
+        var popup_77e7844a84a1749f1371b68a1aee7adf = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_84e0d9f540722189178fd0bea103041b = $(`<div id="html_84e0d9f540722189178fd0bea103041b" style="width: 100.0%; height: 100.0%;"><strong>투웨이버거</strong><br>주소: 대전 동구 대전로 442<br>평점: 4.4 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_77e7844a84a1749f1371b68a1aee7adf.setContent(html_84e0d9f540722189178fd0bea103041b);
+            
+        
+
+        marker_2f49ea690e8f8a38d1cfc335df4a25df.bindPopup(popup_77e7844a84a1749f1371b68a1aee7adf)
+        ;
+
+        
+    
+    
+            var marker_d9750ae1edd37fdb08f46b104af859fd = L.marker(
+                [36.211918, 127.439156],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_6bb49c4c138313c2ebf386fa25be86ef = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_d9750ae1edd37fdb08f46b104af859fd.setIcon(icon_6bb49c4c138313c2ebf386fa25be86ef);
+        
+    
+        var popup_842984ef887bf3164bdcc85f84b63e34 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_7c366ab0bfaa2fc84ef6cc40e338f931 = $(`<div id="html_7c366ab0bfaa2fc84ef6cc40e338f931" style="width: 100.0%; height: 100.0%;"><strong>허브향기</strong><br>주소: 대전 동구 하소동 424<br>평점: 4.1 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_842984ef887bf3164bdcc85f84b63e34.setContent(html_7c366ab0bfaa2fc84ef6cc40e338f931);
+            
+        
+
+        marker_d9750ae1edd37fdb08f46b104af859fd.bindPopup(popup_842984ef887bf3164bdcc85f84b63e34)
+        ;
+
+        
+    
+    
+            var marker_8abd4e450f0d262e0c841e56cf4a6b99 = L.marker(
+                [36.329403, 127.41995],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_2c4921280756f44e3caaa7fa2bfe87d9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_8abd4e450f0d262e0c841e56cf4a6b99.setIcon(icon_2c4921280756f44e3caaa7fa2bfe87d9);
+        
+    
+        var popup_ae72e90079fefb7b86e90e0ca78132ad = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_1b7ceb1d6ddfd7fcf79fccf0a8a00790 = $(`<div id="html_1b7ceb1d6ddfd7fcf79fccf0a8a00790" style="width: 100.0%; height: 100.0%;"><strong>고향콩나물밥집</strong><br>주소: 대전 중구 보문로 305<br>평점: 4.0 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_ae72e90079fefb7b86e90e0ca78132ad.setContent(html_1b7ceb1d6ddfd7fcf79fccf0a8a00790);
+            
+        
+
+        marker_8abd4e450f0d262e0c841e56cf4a6b99.bindPopup(popup_ae72e90079fefb7b86e90e0ca78132ad)
+        ;
+
+        
+    
+    
+            var marker_101bd2d82cbb5bf2ec983d1221305e86 = L.marker(
+                [36.318874, 127.429146],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_b1317e47e273cc1d5ac785268e9a3aa8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_101bd2d82cbb5bf2ec983d1221305e86.setIcon(icon_b1317e47e273cc1d5ac785268e9a3aa8);
+        
+    
+        var popup_47b806fcba7b91f5f86f9551e4915d67 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_381dc638f9bd2873de66274d3fbe1d88 = $(`<div id="html_381dc638f9bd2873de66274d3fbe1d88" style="width: 100.0%; height: 100.0%;"><strong>별뜨는 집</strong><br>주소: 대전 중구 보문로162번길 66<br>평점: 4.5 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_47b806fcba7b91f5f86f9551e4915d67.setContent(html_381dc638f9bd2873de66274d3fbe1d88);
+            
+        
+
+        marker_101bd2d82cbb5bf2ec983d1221305e86.bindPopup(popup_47b806fcba7b91f5f86f9551e4915d67)
+        ;
+
+        
+    
+    
+            var marker_e3fee2df2848e13f7e6783f05eea514d = L.marker(
+                [36.324127, 127.41322],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_41226a101317fc46abdc6a1b71e4bd6c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_e3fee2df2848e13f7e6783f05eea514d.setIcon(icon_41226a101317fc46abdc6a1b71e4bd6c);
+        
+    
+        var popup_ca3c225bf0a48515137b6e4f4c2cb820 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_91de87ee8d66ff736b44db0198d1c6bc = $(`<div id="html_91de87ee8d66ff736b44db0198d1c6bc" style="width: 100.0%; height: 100.0%;"><strong>포항구룡포 과메기와 생태</strong><br>주소: 대전 중구 중앙로13번길 34-1<br>평점: 4.3 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_ca3c225bf0a48515137b6e4f4c2cb820.setContent(html_91de87ee8d66ff736b44db0198d1c6bc);
+            
+        
+
+        marker_e3fee2df2848e13f7e6783f05eea514d.bindPopup(popup_ca3c225bf0a48515137b6e4f4c2cb820)
+        ;
+
+        
+    
+    
+            var marker_372b3061444b2af68614ac722a4e13e4 = L.marker(
+                [36.323055, 127.41031],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_b03279ea6fc5ab84c96a1b7522892d2f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_372b3061444b2af68614ac722a4e13e4.setIcon(icon_b03279ea6fc5ab84c96a1b7522892d2f);
+        
+    
+        var popup_098b1d9db64ba13a2e204a86814bc269 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_c1d1abbeca9d1ff91c7beff8765a09ad = $(`<div id="html_c1d1abbeca9d1ff91c7beff8765a09ad" style="width: 100.0%; height: 100.0%;"><strong>항아리보쌈</strong><br>주소: 대전 중구 계룡로874번길 15<br>평점: 3.8 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_098b1d9db64ba13a2e204a86814bc269.setContent(html_c1d1abbeca9d1ff91c7beff8765a09ad);
+            
+        
+
+        marker_372b3061444b2af68614ac722a4e13e4.bindPopup(popup_098b1d9db64ba13a2e204a86814bc269)
+        ;
+
+        
+    
+    
+            var marker_1aa83f0dcee75c4f21f69375bd63f187 = L.marker(
+                [36.355312, 127.36837],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_b1a9c322dc84b208bdddfc834dace9f3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_1aa83f0dcee75c4f21f69375bd63f187.setIcon(icon_b1a9c322dc84b208bdddfc834dace9f3);
+        
+    
+        var popup_39377f92914f24f40d145f6408553610 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_9c3664f6e30da9b14b273e8b01965844 = $(`<div id="html_9c3664f6e30da9b14b273e8b01965844" style="width: 100.0%; height: 100.0%;"><strong>갈마짬뽕</strong><br>주소: 대전 서구 월평동로 5-11<br>평점: 3.8 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_39377f92914f24f40d145f6408553610.setContent(html_9c3664f6e30da9b14b273e8b01965844);
+            
+        
+
+        marker_1aa83f0dcee75c4f21f69375bd63f187.bindPopup(popup_39377f92914f24f40d145f6408553610)
+        ;
+
+        
+    
+    
+            var marker_4897b8a01d3023eec44c555a806265ca = L.marker(
+                [36.30496, 127.334404],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_29d9a2b8714e486eda1042bd645bd67a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_4897b8a01d3023eec44c555a806265ca.setIcon(icon_29d9a2b8714e486eda1042bd645bd67a);
+        
+    
+        var popup_43fa7cae54b72146be65394276f89b12 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_4738a747bd264ca547985602d1b44be3 = $(`<div id="html_4738a747bd264ca547985602d1b44be3" style="width: 100.0%; height: 100.0%;"><strong>설짬뽕</strong><br>주소: 대전 서구 도안대로 37<br>평점: 4.3 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_43fa7cae54b72146be65394276f89b12.setContent(html_4738a747bd264ca547985602d1b44be3);
+            
+        
+
+        marker_4897b8a01d3023eec44c555a806265ca.bindPopup(popup_43fa7cae54b72146be65394276f89b12)
+        ;
+
+        
+    
+    
+            var marker_a7f747e2ab36a524a7a975f87203f939 = L.marker(
+                [36.3526, 127.373726],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_ba0f16a7addb8154e5f465002bf770d9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_a7f747e2ab36a524a7a975f87203f939.setIcon(icon_ba0f16a7addb8154e5f465002bf770d9);
+        
+    
+        var popup_eeff6f717b0bc665c58cd3f5c5574c10 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_34c4cd58378584994256114c6463bc3c = $(`<div id="html_34c4cd58378584994256114c6463bc3c" style="width: 100.0%; height: 100.0%;"><strong>오렌지블루스</strong><br>주소: 대전 서구 갈마역로25번길 9-3<br>평점: 3.8 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_eeff6f717b0bc665c58cd3f5c5574c10.setContent(html_34c4cd58378584994256114c6463bc3c);
+            
+        
+
+        marker_a7f747e2ab36a524a7a975f87203f939.bindPopup(popup_eeff6f717b0bc665c58cd3f5c5574c10)
+        ;
+
+        
+    
+    
+            var marker_4f3bfd9736c088de89f1d1a17d4447e8 = L.marker(
+                [36.366123, 127.3735],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_3f2235ca2880c04286168c5f9daf198e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_4f3bfd9736c088de89f1d1a17d4447e8.setIcon(icon_3f2235ca2880c04286168c5f9daf198e);
+        
+    
+        var popup_c7a0c46aedf1d437438163e62a7bf17f = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_9978bdf9506154c64ca44c707c969d43 = $(`<div id="html_9978bdf9506154c64ca44c707c969d43" style="width: 100.0%; height: 100.0%;"><strong>해몽</strong><br>주소: 대전 서구 만년남로11번길 55<br>평점: 4.3 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_c7a0c46aedf1d437438163e62a7bf17f.setContent(html_9978bdf9506154c64ca44c707c969d43);
+            
+        
+
+        marker_4f3bfd9736c088de89f1d1a17d4447e8.bindPopup(popup_c7a0c46aedf1d437438163e62a7bf17f)
+        ;
+
+        
+    
+    
+            var marker_43da023c2f5da50064bb678dd682f8f5 = L.marker(
+                [36.350716, 127.33148],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_e91c2a538851abb1126f552b85a47e1e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_43da023c2f5da50064bb678dd682f8f5.setIcon(icon_e91c2a538851abb1126f552b85a47e1e);
+        
+    
+        var popup_3d5ce07259e060309542c2a0935eb327 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_2bdff3c192d27a97d276f899cc48b715 = $(`<div id="html_2bdff3c192d27a97d276f899cc48b715" style="width: 100.0%; height: 100.0%;"><strong>권영철 콩짬뽕</strong><br>주소: 대전 유성구 월드컵대로275번길 49<br>평점: 4.7 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_3d5ce07259e060309542c2a0935eb327.setContent(html_2bdff3c192d27a97d276f899cc48b715);
+            
+        
+
+        marker_43da023c2f5da50064bb678dd682f8f5.bindPopup(popup_3d5ce07259e060309542c2a0935eb327)
+        ;
+
+        
+    
+    
+            var marker_54d2606e6c8dac2386ce672462dfae6b = L.marker(
+                [36.424038, 127.39041],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_e117770975b0a56f576442d83415a949 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_54d2606e6c8dac2386ce672462dfae6b.setIcon(icon_e117770975b0a56f576442d83415a949);
+        
+    
+        var popup_3110dd2039a4a9b092638d8a6957fa07 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_21ce86ea261744e9d7076f77175f77a6 = $(`<div id="html_21ce86ea261744e9d7076f77175f77a6" style="width: 100.0%; height: 100.0%;"><strong>나마미돈카츠</strong><br>주소: 대전 유성구 관평1로 52<br>평점: 3.7 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_3110dd2039a4a9b092638d8a6957fa07.setContent(html_21ce86ea261744e9d7076f77175f77a6);
+            
+        
+
+        marker_54d2606e6c8dac2386ce672462dfae6b.bindPopup(popup_3110dd2039a4a9b092638d8a6957fa07)
+        ;
+
+        
+    
+    
+            var marker_2f3f31f92f2f5888ef32775eb3d13ee0 = L.marker(
+                [36.356598, 127.349785],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_0fff2ba01148e61fe32120d7a6a7daa0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_2f3f31f92f2f5888ef32775eb3d13ee0.setIcon(icon_0fff2ba01148e61fe32120d7a6a7daa0);
+        
+    
+        var popup_3b0007489173df29da2838197ffdb9b5 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_87ad43f74a7d498adfb9ba130cdcb236 = $(`<div id="html_87ad43f74a7d498adfb9ba130cdcb236" style="width: 100.0%; height: 100.0%;"><strong>온천칼국수</strong><br>주소: 대전 유성구 온천북로 61<br>평점: 3.7 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_3b0007489173df29da2838197ffdb9b5.setContent(html_87ad43f74a7d498adfb9ba130cdcb236);
+            
+        
+
+        marker_2f3f31f92f2f5888ef32775eb3d13ee0.bindPopup(popup_3b0007489173df29da2838197ffdb9b5)
+        ;
+
+        
+    
+    
+            var marker_82d3dce9426941c56e6749b9f179a74e = L.marker(
+                [36.359432, 127.344536],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_cdcc10a93a3f511afdf71b5072be5bcd = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_82d3dce9426941c56e6749b9f179a74e.setIcon(icon_cdcc10a93a3f511afdf71b5072be5bcd);
+        
+    
+        var popup_7b9e9820dc80c6b819a40512044c06ee = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_0fb744640390e60e4c2938f8f3d32859 = $(`<div id="html_0fb744640390e60e4c2938f8f3d32859" style="width: 100.0%; height: 100.0%;"><strong>잇마이타이</strong><br>주소: 대전 유성구 문화원로 77<br>평점: 3.9 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_7b9e9820dc80c6b819a40512044c06ee.setContent(html_0fb744640390e60e4c2938f8f3d32859);
+            
+        
+
+        marker_82d3dce9426941c56e6749b9f179a74e.bindPopup(popup_7b9e9820dc80c6b819a40512044c06ee)
+        ;
+
+        
+    
+    
+            var marker_5b28752d32d115720c5078d7a78792a9 = L.marker(
+                [36.33891, 127.344185],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_94700ae3b28623d216676c04fd5f6915 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_5b28752d32d115720c5078d7a78792a9.setIcon(icon_94700ae3b28623d216676c04fd5f6915);
+        
+    
+        var popup_541d8cbe28e98427731932098830635b = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_2bff4fe9198c4dd141dd58d57b3539d0 = $(`<div id="html_2bff4fe9198c4dd141dd58d57b3539d0" style="width: 100.0%; height: 100.0%;"><strong>진신</strong><br>주소: 대전 유성구 원신흥로55번길 66-25<br>평점: 4.1 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_541d8cbe28e98427731932098830635b.setContent(html_2bff4fe9198c4dd141dd58d57b3539d0);
+            
+        
+
+        marker_5b28752d32d115720c5078d7a78792a9.bindPopup(popup_541d8cbe28e98427731932098830635b)
+        ;
+
+        
+    
+    
+            var marker_4d6075ca542c4a595545cd5e4056d569 = L.marker(
+                [36.36201, 127.35406],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_7ebb53c0c5676a13e609a95793b46364 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_4d6075ca542c4a595545cd5e4056d569.setIcon(icon_7ebb53c0c5676a13e609a95793b46364);
+        
+    
+        var popup_799b2bfcf54433e47fdfed8bb83c8b0b = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_9e0bd7339afd84152d382482fa762a48 = $(`<div id="html_9e0bd7339afd84152d382482fa762a48" style="width: 100.0%; height: 100.0%;"><strong>콜마르브레드</strong><br>주소: 대전 유성구 어은로51번길 52<br>평점: 4.1 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_799b2bfcf54433e47fdfed8bb83c8b0b.setContent(html_9e0bd7339afd84152d382482fa762a48);
+            
+        
+
+        marker_4d6075ca542c4a595545cd5e4056d569.bindPopup(popup_799b2bfcf54433e47fdfed8bb83c8b0b)
+        ;
+
+        
+    
+    
+            var marker_60d14972f81c31d44ac91e7057fd6201 = L.marker(
+                [36.44272, 127.424675],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_1decf0adb4ab0480a887f7eb9af2c98b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_60d14972f81c31d44ac91e7057fd6201.setIcon(icon_1decf0adb4ab0480a887f7eb9af2c98b);
+        
+    
+        var popup_94b5c44485b59215dd59930aa2c487bb = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_77eeced13eb41de8aad412842b3941d5 = $(`<div id="html_77eeced13eb41de8aad412842b3941d5" style="width: 100.0%; height: 100.0%;"><strong>뜰에식당</strong><br>주소: 대전 대덕구 덕암로 247<br>평점: 4.6 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_94b5c44485b59215dd59930aa2c487bb.setContent(html_77eeced13eb41de8aad412842b3941d5);
+            
+        
+
+        marker_60d14972f81c31d44ac91e7057fd6201.bindPopup(popup_94b5c44485b59215dd59930aa2c487bb)
+        ;
+
+        
+    
+    
+            var marker_69309a1a40d7c96f44012425279bf16d = L.marker(
+                [36.44956, 127.43165],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_d475a4f21273fb2bf16c2953509670dc = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_69309a1a40d7c96f44012425279bf16d.setIcon(icon_d475a4f21273fb2bf16c2953509670dc);
+        
+    
+        var popup_c185454666d6a6a961560069d52e1514 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_2697c67f0861734b7b78ea35603ca6d5 = $(`<div id="html_2697c67f0861734b7b78ea35603ca6d5" style="width: 100.0%; height: 100.0%;"><strong>부추해물칼국수</strong><br>주소: 대전 대덕구 신탄진로804번길 31<br>평점: 4.5 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_c185454666d6a6a961560069d52e1514.setContent(html_2697c67f0861734b7b78ea35603ca6d5);
+            
+        
+
+        marker_69309a1a40d7c96f44012425279bf16d.bindPopup(popup_c185454666d6a6a961560069d52e1514)
+        ;
+
+        
+    
+    
+            var marker_a806716d13f398f4d3240f002f8fa6cc = L.marker(
+                [36.359745, 127.42254],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_4ab6cf669242bbd7f7d9de63c16835aa = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_a806716d13f398f4d3240f002f8fa6cc.setIcon(icon_4ab6cf669242bbd7f7d9de63c16835aa);
+        
+    
+        var popup_0b68ec11e7b4e9123c27b949d57c7467 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_3c90db066395a1599572e673c7d85f03 = $(`<div id="html_3c90db066395a1599572e673c7d85f03" style="width: 100.0%; height: 100.0%;"><strong>통일면옥</strong><br>주소: 대전 대덕구 한밭대로1117번길 17<br>평점: 4.2 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_0b68ec11e7b4e9123c27b949d57c7467.setContent(html_3c90db066395a1599572e673c7d85f03);
+            
+        
+
+        marker_a806716d13f398f4d3240f002f8fa6cc.bindPopup(popup_0b68ec11e7b4e9123c27b949d57c7467)
+        ;
+
+        
+    
+    
+            var marker_f203ed0e821b146385008d19d21128f5 = L.marker(
+                [36.317585, 127.397285],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_51f9b9a3bcea5b8b5d8b45f0a90ebc91 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_f203ed0e821b146385008d19d21128f5.setIcon(icon_51f9b9a3bcea5b8b5d8b45f0a90ebc91);
+        
+    
+        var popup_1a69f9776518dcd32658360f48433745 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_fc637194850870254d5a9a3d05cdd88d = $(`<div id="html_fc637194850870254d5a9a3d05cdd88d" style="width: 100.0%; height: 100.0%;"><strong>연아식당</strong><br>주소: 대전 중구 유천로 57-9<br>평점: 3.7 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_1a69f9776518dcd32658360f48433745.setContent(html_fc637194850870254d5a9a3d05cdd88d);
+            
+        
+
+        marker_f203ed0e821b146385008d19d21128f5.bindPopup(popup_1a69f9776518dcd32658360f48433745)
+        ;
+
+        
+    
+    
+            var marker_d94938263eba287b267d9f0c802124ad = L.marker(
+                [36.2911, 127.460945],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_5f4ca90dad7f222978f1ee944101466b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_d94938263eba287b267d9f0c802124ad.setIcon(icon_5f4ca90dad7f222978f1ee944101466b);
+        
+    
+        var popup_b0c9bfe0c42c512e52af985184a35ce5 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_3907ce1565e9d8c0e845121e95b4f5ee = $(`<div id="html_3907ce1565e9d8c0e845121e95b4f5ee" style="width: 100.0%; height: 100.0%;"><strong>별천지</strong><br>주소: 대전 동구 산서로1659번길 29<br>평점: 4.0 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_b0c9bfe0c42c512e52af985184a35ce5.setContent(html_3907ce1565e9d8c0e845121e95b4f5ee);
+            
+        
+
+        marker_d94938263eba287b267d9f0c802124ad.bindPopup(popup_b0c9bfe0c42c512e52af985184a35ce5)
+        ;
+
+        
+    
+    
+            var marker_81c428d39c1088f283dc5337fdf0c0eb = L.marker(
+                [36.322655, 127.40989],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_1ba74fae97d13c88816a32c8c3056672 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_81c428d39c1088f283dc5337fdf0c0eb.setIcon(icon_1ba74fae97d13c88816a32c8c3056672);
+        
+    
+        var popup_13730afb1591cbc5f2307b3678ebd1ff = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_8f6f53b8a7f1682855d1dcfbb4595445 = $(`<div id="html_8f6f53b8a7f1682855d1dcfbb4595445" style="width: 100.0%; height: 100.0%;"><strong>영동식당</strong><br>주소: 대전 중구 계룡로874번길 27-9<br>평점: 4.1 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_13730afb1591cbc5f2307b3678ebd1ff.setContent(html_8f6f53b8a7f1682855d1dcfbb4595445);
+            
+        
+
+        marker_81c428d39c1088f283dc5337fdf0c0eb.bindPopup(popup_13730afb1591cbc5f2307b3678ebd1ff)
+        ;
+
+        
+    
+    
+            var marker_9e4ef05740574e9162f95b75da256f06 = L.marker(
+                [36.334675, 127.43027],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_80423cb64092a86e743d70d09efb565a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_9e4ef05740574e9162f95b75da256f06.setIcon(icon_80423cb64092a86e743d70d09efb565a);
+        
+    
+        var popup_222b70bf0ac3373b6d2916a45d161e16 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_4a79ef095fd9fd2e7b6fc9fcfc39f9ff = $(`<div id="html_4a79ef095fd9fd2e7b6fc9fcfc39f9ff" style="width: 100.0%; height: 100.0%;"><strong>중국성</strong><br>주소: 대전 동구 대전로815번길 66<br>평점: 4.5 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_222b70bf0ac3373b6d2916a45d161e16.setContent(html_4a79ef095fd9fd2e7b6fc9fcfc39f9ff);
+            
+        
+
+        marker_9e4ef05740574e9162f95b75da256f06.bindPopup(popup_222b70bf0ac3373b6d2916a45d161e16)
+        ;
+
+        
+    
+    
+            var marker_7a4d93d38d58b476272c03565aeec93c = L.marker(
+                [36.313004, 127.39759],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_b868913f965de23ae794b19e4653e2f2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_7a4d93d38d58b476272c03565aeec93c.setIcon(icon_b868913f965de23ae794b19e4653e2f2);
+        
+    
+        var popup_b296ee12deac492d2ea5554c97809d09 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_4dd6dd3bbf021c3793fddf3954bfdc7a = $(`<div id="html_4dd6dd3bbf021c3793fddf3954bfdc7a" style="width: 100.0%; height: 100.0%;"><strong>대성관</strong><br>주소: 대전 중구 계백로1584번길 114<br>평점: 4.1 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_b296ee12deac492d2ea5554c97809d09.setContent(html_4dd6dd3bbf021c3793fddf3954bfdc7a);
+            
+        
+
+        marker_7a4d93d38d58b476272c03565aeec93c.bindPopup(popup_b296ee12deac492d2ea5554c97809d09)
+        ;
+
+        
+    
+    
+            var marker_fa01d1563b07c9f7f95becc309363b55 = L.marker(
+                [36.32678, 127.42573],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_a9e02dc7ed0a0628dd2b447ff8b0f483 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_fa01d1563b07c9f7f95becc309363b55.setIcon(icon_a9e02dc7ed0a0628dd2b447ff8b0f483);
+        
+    
+        var popup_628e1edf0286d31cecc72a15f0da9d3e = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_500f728718913bc5613072b74927a55b = $(`<div id="html_500f728718913bc5613072b74927a55b" style="width: 100.0%; height: 100.0%;"><strong>정식당</strong><br>주소: 대전 중구 중앙로130번길 37-13<br>평점: 4.0 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_628e1edf0286d31cecc72a15f0da9d3e.setContent(html_500f728718913bc5613072b74927a55b);
+            
+        
+
+        marker_fa01d1563b07c9f7f95becc309363b55.bindPopup(popup_628e1edf0286d31cecc72a15f0da9d3e)
+        ;
+
+        
+    
+    
+            var marker_c232f8f12404894535ffb4bd609fce6d = L.marker(
+                [36.358402, 127.33652],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_9bf1eab3197e68b2f7e008523e25c8a7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_c232f8f12404894535ffb4bd609fce6d.setIcon(icon_9bf1eab3197e68b2f7e008523e25c8a7);
+        
+    
+        var popup_37b5c6c2998d08f4d1f08cf72d20970f = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_95a7da204ac4658c20270fc2e4600698 = $(`<div id="html_95a7da204ac4658c20270fc2e4600698" style="width: 100.0%; height: 100.0%;"><strong>만수불고기</strong><br>주소: 대전 유성구 장대로 38<br>평점: 3.8 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_37b5c6c2998d08f4d1f08cf72d20970f.setContent(html_95a7da204ac4658c20270fc2e4600698);
+            
+        
+
+        marker_c232f8f12404894535ffb4bd609fce6d.bindPopup(popup_37b5c6c2998d08f4d1f08cf72d20970f)
+        ;
+
+        
+    
+    
+            var marker_bb8aa01ba45186022b72f2abe9b5a65f = L.marker(
+                [36.344784, 127.433174],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_58e4ac1187b269b80c6ea5c42ae2351d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_bb8aa01ba45186022b72f2abe9b5a65f.setIcon(icon_58e4ac1187b269b80c6ea5c42ae2351d);
+        
+    
+        var popup_4ab0289b2e0a6763adfabdbb0332ef8f = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_90789c2bca1b9638167d4fdc9b0a3275 = $(`<div id="html_90789c2bca1b9638167d4fdc9b0a3275" style="width: 100.0%; height: 100.0%;"><strong>경동오징어국수</strong><br>주소: 대전 동구 계족로 369<br>평점: 3.8 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_4ab0289b2e0a6763adfabdbb0332ef8f.setContent(html_90789c2bca1b9638167d4fdc9b0a3275);
+            
+        
+
+        marker_bb8aa01ba45186022b72f2abe9b5a65f.bindPopup(popup_4ab0289b2e0a6763adfabdbb0332ef8f)
+        ;
+
+        
+    
+    
+            var marker_22ffbc744b70c1371b37b901239fe560 = L.marker(
+                [36.332554, 127.430855],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_bbd693993310a5443fde15cb9daaa5eb = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_22ffbc744b70c1371b37b901239fe560.setIcon(icon_bbd693993310a5443fde15cb9daaa5eb);
+        
+    
+        var popup_6edfb0f06206377b3ad1e4f43cf081e0 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_58499e3fcd1ccc86d962dac9608d5d94 = $(`<div id="html_58499e3fcd1ccc86d962dac9608d5d94" style="width: 100.0%; height: 100.0%;"><strong>전통칼국수</strong><br>주소: 대전 동구 대전로825번길 13<br>평점: 4.1 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_6edfb0f06206377b3ad1e4f43cf081e0.setContent(html_58499e3fcd1ccc86d962dac9608d5d94);
+            
+        
+
+        marker_22ffbc744b70c1371b37b901239fe560.bindPopup(popup_6edfb0f06206377b3ad1e4f43cf081e0)
+        ;
+
+        
+    
+    
+            var marker_82573dc8bf743a9bc3b499167e827d0e = L.marker(
+                [36.327744, 127.427246],
+                {}
+            ).addTo(marker_cluster_133b91becca18ed72d9d5a832d4d7df4);
+        
+    
+            var icon_843db8b4a2ff364e15241cce8c6cfda2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_82573dc8bf743a9bc3b499167e827d0e.setIcon(icon_843db8b4a2ff364e15241cce8c6cfda2);
+        
+    
+        var popup_6bd205ae26ad9c210331acf84f58633b = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_c4c48a04a72b7cfa5b37a55549492e1d = $(`<div id="html_c4c48a04a72b7cfa5b37a55549492e1d" style="width: 100.0%; height: 100.0%;"><strong>성심당</strong><br>주소: 대전 중구 대종로480번길 15<br>평점: 4.6 (3.7 이상 맛집입니다)</div>`)[0];
+                popup_6bd205ae26ad9c210331acf84f58633b.setContent(html_c4c48a04a72b7cfa5b37a55549492e1d);
+            
+        
+
+        marker_82573dc8bf743a9bc3b499167e827d0e.bindPopup(popup_6bd205ae26ad9c210331acf84f58633b)
+        ;
+
+        
+    
+    
+            marker_cluster_133b91becca18ed72d9d5a832d4d7df4.addTo(map_7466611d8efd503c9b258f596052a0b3);
+        
+</script>
+</html>
