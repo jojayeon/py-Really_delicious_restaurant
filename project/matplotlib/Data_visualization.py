@@ -8,7 +8,7 @@ with open('./data/filtered_merged_output.json', 'r', encoding='utf-8') as file:
     restaurant_data = json.load(file)
 
 # 지도 생성 (대전 지역을 중심으로)
-map_center = [36.34479, 127.43322]
+map_center = [36.35111, 127.385]
 mymap = folium.Map(location=map_center, zoom_start=13)
 
 # 각 레스토랑에 마커 추가
