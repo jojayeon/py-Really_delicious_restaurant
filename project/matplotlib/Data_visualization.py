@@ -25,7 +25,7 @@ for restaurant in restaurant_data:
     ).add_to(mymap)
 
 # 저장할 파일 경로와 파일명 설정 (상위 디렉토리로 나가기)
-save_directory = '../'  # 현재 디렉토리의 상위 디렉토리로 이동
+save_directory = '../html'  # 현재 디렉토리의 상위 디렉토리로 이동
 name = "basic_map.html"
 map_filename = os.path.join(save_directory, name)
 
