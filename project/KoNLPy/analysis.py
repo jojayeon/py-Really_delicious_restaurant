@@ -4,7 +4,7 @@ from konlpy.tag import Okt
 import os
 
 # JSON 파일에서 데이터 로드
-with open('restaurant_reviews.json', 'r', encoding='utf-8') as f:
+with open('./data/restaurant_reviews.json', 'r', encoding='utf-8') as f:
     results = json.load(f)
 
 # Okt 객체 생성
@@ -39,7 +39,7 @@ for restaurant in results:
     review_count = len(restaurant['reviews'])
     
     # 리뷰 개수가 5개 이상인 경우에만 평점 비교
-    if review_count >= 5:
+    if review_count >= 6:
         # 평점 비교
         if rating > highest_rating:
             highest_rating = rating

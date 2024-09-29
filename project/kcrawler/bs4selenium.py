@@ -22,7 +22,7 @@ service = Service(driver_path)
 driver = webdriver.Chrome(service=service, options=chrome_options)
 
 # JSON 파일에서 식당 이름 로드
-with open('daejeon_restaurants.json', 'r', encoding='utf-8') as f:
+with open('./data/daejeon_restaurants.json', 'r', encoding='utf-8') as f:
     restaurants = json.load(f)
 
 # 결과를 저장할 리스트
