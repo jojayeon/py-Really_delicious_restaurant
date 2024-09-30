@@ -45,6 +45,7 @@ for restaurant in restaurants:  # 리스트를 순회
         # 검색 결과의 첫 번째 상세보기 링크 찾기
         moreview_link = driver.find_element(By.CSS_SELECTOR, "#info\\.search\\.place\\.list > li > div.info_item > div.contact.clickArea > a.moreview")
         
+        detail_url = moreview_link.get_attribute('href')
         # 첫 번째 상세보기 링크 클릭
         moreview_link.click()
         
@@ -80,10 +81,11 @@ for restaurant in restaurants:  # 리스트를 순회
         results.append({
             'restaurant_name': name,
             'rating': rating,
-            'reviews': reviews  # 리스트로 저장
+            'reviews': reviews,  # 리스트로 저장
+            'detail_url': detail_url 
         })
 
-        print(f"식당: {name}, 평점: {rating}, 리뷰: {reviews}")
+        print(f"식당: {name}, 평점: {rating}, 리뷰: {reviews}, 상세보기 URL: {detail_url}")
         
         # 새 탭 닫기 후 원래 탭으로 전환
         driver.close()
