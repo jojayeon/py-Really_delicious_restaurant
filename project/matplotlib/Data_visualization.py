@@ -13,12 +13,16 @@ mymap = folium.Map(location=map_center, zoom_start=13)
 
 # 각 레스토랑에 마커 추가
 for restaurant in restaurant_data:
+
+    detail_url = f'<a href="{restaurant["detail_url"]}" target="_blank">주소 바로가기</a>' if restaurant["detail_url"] else "N/A"
+
     folium.Marker(
         location=[float(restaurant["mapLat"]), float(restaurant["mapLot"])],
         popup=folium.Popup(
             f"<h1>{restaurant['restaurant_name']}</h1>"
             f"주소: {restaurant['restrntAddr']}<br>"
-            f"평점: {restaurant['rating']}",
+            f"평점: {restaurant['rating']}<br>"
+            f"상세보기: {detail_url}",
             max_width=300  # 팝업의 최대 너비를 설정하여 가로로 넓게 표시
         ),
         icon=folium.Icon(color='blue')  # 마커 색상 설정
