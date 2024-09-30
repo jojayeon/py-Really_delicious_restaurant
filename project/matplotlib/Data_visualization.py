@@ -16,9 +16,9 @@ for restaurant in restaurant_data:
     folium.Marker(
         location=[float(restaurant["mapLat"]), float(restaurant["mapLot"])],
         popup=folium.Popup(
-            f"<strong>{restaurant['restaurant_name']}</strong><br>"
+            f"<h1>{restaurant['restaurant_name']}</h1>"
             f"주소: {restaurant['restrntAddr']}<br>"
-            f"평점: {restaurant['rating']} ({restaurant['rating_status']})",
+            f"평점: {restaurant['rating']}",
             max_width=300  # 팝업의 최대 너비를 설정하여 가로로 넓게 표시
         ),
         icon=folium.Icon(color='blue')  # 마커 색상 설정
