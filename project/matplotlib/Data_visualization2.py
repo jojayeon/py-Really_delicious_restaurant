@@ -22,7 +22,8 @@ for restaurant in restaurant_data:
         popup=folium.Popup(
             f"<h1>{restaurant['restaurant_name']}</h1>"
             f"주소: {restaurant['restrntAddr']}<br>"
-            f"평점: {restaurant['rating']}",
+            f"평점: {restaurant['rating']}<br>"
+            f"<a href='{restaurant['detail_url']}' target='_blank'>상세보기</a>",
             max_width=300  # 팝업의 최대 너비를 설정하여 가로로 넓게 표시
         ),
         icon=folium.Icon(color='blue')  # 마커 색상 설정
@@ -35,33 +36,42 @@ search_html = """
     <button id="searchButton">검색</button>
 </div>
 <script>
-    var markers = {};
-    var markerList = [];
+    var markers = [];
+    var markerCluster = L.markerClusterGroup();
     var restaurantData = %s;
 
+    // 기존 마커 클러스터 제거
+    mymap.eachLayer(function(layer) {
+        if (layer instanceof L.MarkerClusterGroup) {
+            mymap.removeLayer(layer);
+        }
+    });
+
+    // 레스토랑 데이터를 기반으로 마커 추가
     function addMarkers(data) {
+        markers = [];
         for (var i = 0; i < data.length; i++) {
             var restaurant = data[i];
-            var marker = L.marker([restaurant.mapLat, restaurant.mapLot]).addTo(markerCluster).bindPopup("<strong>" + restaurant.restaurant_name + "</strong><br>주소: " + restaurant.restrntAddr + "<br>평점: " + restaurant.rating);
-            markers[restaurant.restaurant_name] = marker;
-            markerList.push(restaurant.restaurant_name);
+            var marker = L.marker([restaurant.mapLat, restaurant.mapLot]).bindPopup("<strong>" + restaurant.restaurant_name + "</strong><br>주소: " + restaurant.restrntAddr + "<br>평점: " + restaurant.rating + "<br><a href='" + restaurant.detail_url + "' target='_blank'>상세보기</a>");
+            markers.push(marker);
+            markerCluster.addLayer(marker);
         }
+        mymap.addLayer(markerCluster);
     }
 
+    // 검색 필터 기능
     function searchMarkers() {
         var searchTerm = document.getElementById('search').value.toLowerCase();
-        for (var name in markers) {
-            if (name.toLowerCase().includes(searchTerm)) {
-                markers[name].addTo(markerCluster);
-            } else {
-                markerCluster.removeLayer(markers[name]);
-            }
-        }
+        markerCluster.clearLayers();  // 기존 마커 클러스터 초기화
+        var filteredData = restaurantData.filter(function(restaurant) {
+            return restaurant.restaurant_name.toLowerCase().includes(searchTerm);
+        });
+        addMarkers(filteredData);
     }
 
     document.getElementById('searchButton').onclick = searchMarkers;
 
-    addMarkers(restaurantData);
+    addMarkers(restaurantData);  // 초기 마커 추가
 </script>
 """ % json.dumps(restaurant_data)  # restaurant_data를 JSON 문자열로 변환
 
