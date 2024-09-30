@@ -6,7 +6,8 @@
         "sentiment": "부정적",
         "rating": 3.2,
         "review_count": 53,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/11051453"
     },
     {
         "restaurant_name": "경동 오징어국수",
@@ -15,7 +16,8 @@
         "sentiment": "긍정적",
         "rating": 3.8,
         "review_count": 25,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/12471382"
     },
     {
         "restaurant_name": "구름식당",
@@ -24,7 +26,8 @@
         "sentiment": "긍정적",
         "rating": 4.1,
         "review_count": 19,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/2043913170"
     },
     {
         "restaurant_name": "누나돈가스",
@@ -32,8 +35,9 @@
         "negative_count": 9,
         "sentiment": "긍정적",
         "rating": 4.0,
-        "review_count": 37,
-        "rating_status": "3.7 이상 맛집입니다"
+        "review_count": 38,
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/27529189"
     },
     {
         "restaurant_name": "명랑식당",
@@ -42,7 +46,8 @@
         "sentiment": "긍정적",
         "rating": 4.3,
         "review_count": 53,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/11891952"
     },
     {
         "restaurant_name": "블루부코",
@@ -51,7 +56,8 @@
         "sentiment": "긍정적",
         "rating": 3.4,
         "review_count": 31,
-        "rating_status": "평범합니다"
+        "rating_status": "평범합니다",
+        "detail_url": "https://place.map.kakao.com/449771957"
     },
     {
         "restaurant_name": "산내돌짜장",
@@ -60,16 +66,18 @@
         "sentiment": "중립적",
         "rating": 3.1,
         "review_count": 45,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/1868620251"
     },
     {
         "restaurant_name": "오씨칼국수",
-        "positive_count": 6,
-        "negative_count": 7,
+        "positive_count": 8,
+        "negative_count": 10,
         "sentiment": "부정적",
-        "rating": 3.0,
-        "review_count": 21,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating": 2.9,
+        "review_count": 24,
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/295692051"
     },
     {
         "restaurant_name": "줄리앤칩",
@@ -78,7 +86,8 @@
         "sentiment": "긍정적",
         "rating": 4.4,
         "review_count": 11,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/1614184281"
     },
     {
         "restaurant_name": "카페조각구름",
@@ -87,16 +96,18 @@
         "sentiment": "긍정적",
         "rating": 4.8,
         "review_count": 12,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/462715484"
     },
     {
         "restaurant_name": "투웨이버거",
-        "positive_count": 5,
+        "positive_count": 6,
         "negative_count": 2,
         "sentiment": "긍정적",
-        "rating": 4.4,
-        "review_count": 9,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating": 4.1,
+        "review_count": 10,
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/1855074213"
     },
     {
         "restaurant_name": "함경도집",
@@ -105,7 +116,8 @@
         "sentiment": "중립적",
         "rating": 3.6,
         "review_count": 20,
-        "rating_status": "평범합니다"
+        "rating_status": "평범합니다",
+        "detail_url": "https://place.map.kakao.com/10929553"
     },
     {
         "restaurant_name": "허브향기",
@@ -114,7 +126,8 @@
         "sentiment": "긍정적",
         "rating": 4.1,
         "review_count": 11,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/21437926"
     },
     {
         "restaurant_name": "고향콩나물밥집",
@@ -123,7 +136,8 @@
         "sentiment": "긍정적",
         "rating": 4.0,
         "review_count": 7,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/25046661"
     },
     {
         "restaurant_name": "꼬꼬치킨",
@@ -132,7 +146,8 @@
         "sentiment": "긍정적",
         "rating": 2.8,
         "review_count": 4,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/768097959"
     },
     {
         "restaurant_name": "논두렁 추어칼국수",
@@ -141,7 +156,8 @@
         "sentiment": "중립적",
         "rating": 4.3,
         "review_count": 11,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/8211888"
     },
     {
         "restaurant_name": "별뜨는 집",
@@ -150,7 +166,8 @@
         "sentiment": "긍정적",
         "rating": 4.5,
         "review_count": 33,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/9071008"
     },
     {
         "restaurant_name": "세웅이네 가족식당",
@@ -159,7 +176,8 @@
         "sentiment": "부정적",
         "rating": 2.6,
         "review_count": 11,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/729837576"
     },
     {
         "restaurant_name": "소담회",
@@ -168,16 +186,18 @@
         "sentiment": "부정적",
         "rating": 4.3,
         "review_count": 8,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/22105700"
     },
     {
         "restaurant_name": "신화수산",
         "positive_count": 2,
-        "negative_count": 50,
+        "negative_count": 48,
         "sentiment": "부정적",
         "rating": 1.4,
-        "review_count": 37,
-        "rating_status": "3.3 이하 가지 마세요"
+        "review_count": 38,
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/1377331312"
     },
     {
         "restaurant_name": "시골막국수와 옹심이",
@@ -186,7 +206,8 @@
         "sentiment": "중립적",
         "rating": 4.3,
         "review_count": 8,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/1472281932"
     },
     {
         "restaurant_name": "와와삼겹살",
@@ -195,7 +216,8 @@
         "sentiment": "긍정적",
         "rating": 5.0,
         "review_count": 3,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/12751695"
     },
     {
         "restaurant_name": "진주냉면 이설옥",
@@ -204,7 +226,8 @@
         "sentiment": "부정적",
         "rating": 3.9,
         "review_count": 53,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/998342092"
     },
     {
         "restaurant_name": "진로집",
@@ -213,7 +236,8 @@
         "sentiment": "부정적",
         "rating": 3.2,
         "review_count": 53,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/12468740"
     },
     {
         "restaurant_name": "포항구룡포 과메기와 생태",
@@ -222,7 +246,8 @@
         "sentiment": "긍정적",
         "rating": 4.3,
         "review_count": 6,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/15726873"
     },
     {
         "restaurant_name": "하루방만두",
@@ -231,16 +256,18 @@
         "sentiment": "부정적",
         "rating": 3.7,
         "review_count": 29,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/21337831"
     },
     {
         "restaurant_name": "항아리보쌈",
         "positive_count": 7,
         "negative_count": 4,
         "sentiment": "긍정적",
-        "rating": 3.8,
-        "review_count": 26,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating": 3.7,
+        "review_count": 27,
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/26094194"
     },
     {
         "restaurant_name": "갈마짬뽕",
@@ -249,7 +276,8 @@
         "sentiment": "긍정적",
         "rating": 3.8,
         "review_count": 53,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/1518439786"
     },
     {
         "restaurant_name": "금강 어죽 매운탕",
@@ -258,7 +286,8 @@
         "sentiment": "중립적",
         "rating": 4.1,
         "review_count": 10,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/1803213536"
     },
     {
         "restaurant_name": "동창 관저점",
@@ -267,7 +296,8 @@
         "sentiment": "부정적",
         "rating": 5.0,
         "review_count": 1,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/908079724"
     },
     {
         "restaurant_name": "만년횟집",
@@ -276,7 +306,8 @@
         "sentiment": "중립적",
         "rating": 3.4,
         "review_count": 5,
-        "rating_status": "평범합니다"
+        "rating_status": "평범합니다",
+        "detail_url": "https://place.map.kakao.com/26884166"
     },
     {
         "restaurant_name": "몽상도취",
@@ -285,16 +316,18 @@
         "sentiment": "긍정적",
         "rating": 3.3,
         "review_count": 3,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/1440508930"
     },
     {
         "restaurant_name": "병규돈가스 본점",
         "positive_count": 8,
-        "negative_count": 10,
+        "negative_count": 12,
         "sentiment": "부정적",
         "rating": 3.4,
-        "review_count": 43,
-        "rating_status": "평범합니다"
+        "review_count": 44,
+        "rating_status": "평범합니다",
+        "detail_url": "https://place.map.kakao.com/10381799"
     },
     {
         "restaurant_name": "설짬뽕",
@@ -303,7 +336,8 @@
         "sentiment": "긍정적",
         "rating": 4.3,
         "review_count": 53,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/1289494210"
     },
     {
         "restaurant_name": "어담",
@@ -312,7 +346,8 @@
         "sentiment": "긍정적",
         "rating": 5.0,
         "review_count": 4,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/16625390"
     },
     {
         "restaurant_name": "오렌지블루스",
@@ -321,7 +356,8 @@
         "sentiment": "긍정적",
         "rating": 3.8,
         "review_count": 20,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/1014056292"
     },
     {
         "restaurant_name": "옥수 숯불구이",
@@ -330,7 +366,8 @@
         "sentiment": "중립적",
         "rating": 4.0,
         "review_count": 3,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/1976676542"
     },
     {
         "restaurant_name": "온유네 닭매운탕",
@@ -338,8 +375,9 @@
         "negative_count": 5,
         "sentiment": "긍정적",
         "rating": 3.4,
-        "review_count": 27,
-        "rating_status": "평범합니다"
+        "review_count": 28,
+        "rating_status": "평범합니다",
+        "detail_url": "https://place.map.kakao.com/863535795"
     },
     {
         "restaurant_name": "와타요업",
@@ -348,7 +386,8 @@
         "sentiment": "부정적",
         "rating": 4.0,
         "review_count": 53,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/118007880"
     },
     {
         "restaurant_name": "운향",
@@ -357,7 +396,8 @@
         "sentiment": "긍정적",
         "rating": 3.2,
         "review_count": 15,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/1328025785"
     },
     {
         "restaurant_name": "초가집",
@@ -366,7 +406,8 @@
         "sentiment": "부정적",
         "rating": 3.6,
         "review_count": 20,
-        "rating_status": "평범합니다"
+        "rating_status": "평범합니다",
+        "detail_url": "https://place.map.kakao.com/9963463"
     },
     {
         "restaurant_name": "카페멜리사",
@@ -375,25 +416,28 @@
         "sentiment": "긍정적",
         "rating": 5.0,
         "review_count": 4,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/1762530681"
     },
     {
         "restaurant_name": "해몽",
         "positive_count": 24,
-        "negative_count": 8,
+        "negative_count": 7,
         "sentiment": "긍정적",
         "rating": 4.3,
         "review_count": 53,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/13294737"
     },
     {
         "restaurant_name": "행복한 분식",
-        "positive_count": 15,
+        "positive_count": 16,
         "negative_count": 12,
         "sentiment": "긍정적",
-        "rating": 3.6,
-        "review_count": 34,
-        "rating_status": "평범합니다"
+        "rating": 3.7,
+        "review_count": 35,
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/17079020"
     },
     {
         "restaurant_name": "황짬뽕",
@@ -402,7 +446,8 @@
         "sentiment": "긍정적",
         "rating": 3.3,
         "review_count": 15,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/274800949"
     },
     {
         "restaurant_name": "권영철 콩짬뽕",
@@ -411,7 +456,8 @@
         "sentiment": "긍정적",
         "rating": 4.7,
         "review_count": 18,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/23258446"
     },
     {
         "restaurant_name": "나마미돈카츠",
@@ -420,16 +466,18 @@
         "sentiment": "긍정적",
         "rating": 3.7,
         "review_count": 39,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/27481969"
     },
     {
         "restaurant_name": "늘상상",
         "positive_count": 20,
-        "negative_count": 25,
+        "negative_count": 28,
         "sentiment": "부정적",
-        "rating": 3.4,
-        "review_count": 49,
-        "rating_status": "평범합니다"
+        "rating": 3.3,
+        "review_count": 51,
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/1488057051"
     },
     {
         "restaurant_name": "다해어죽",
@@ -438,7 +486,8 @@
         "sentiment": "부정적",
         "rating": 3.8,
         "review_count": 25,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/22019067"
     },
     {
         "restaurant_name": "동신수산",
@@ -447,7 +496,8 @@
         "sentiment": "긍정적",
         "rating": 3.0,
         "review_count": 18,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/7839198"
     },
     {
         "restaurant_name": "리코타코",
@@ -456,7 +506,8 @@
         "sentiment": "부정적",
         "rating": 3.3,
         "review_count": 53,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/27500726"
     },
     {
         "restaurant_name": "마시기통차",
@@ -465,7 +516,8 @@
         "sentiment": "중립적",
         "rating": 5.0,
         "review_count": 2,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/320706868"
     },
     {
         "restaurant_name": "슬로우브레드",
@@ -474,7 +526,8 @@
         "sentiment": "긍정적",
         "rating": 3.6,
         "review_count": 39,
-        "rating_status": "평범합니다"
+        "rating_status": "평범합니다",
+        "detail_url": "https://place.map.kakao.com/20953650"
     },
     {
         "restaurant_name": "아람답다",
@@ -483,7 +536,8 @@
         "sentiment": "부정적",
         "rating": 4.0,
         "review_count": 2,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/27497234"
     },
     {
         "restaurant_name": "오시오칼국수",
@@ -492,7 +546,8 @@
         "sentiment": "긍정적",
         "rating": 3.6,
         "review_count": 53,
-        "rating_status": "평범합니다"
+        "rating_status": "평범합니다",
+        "detail_url": "https://place.map.kakao.com/10684123"
     },
     {
         "restaurant_name": "온천칼국수",
@@ -501,7 +556,8 @@
         "sentiment": "긍정적",
         "rating": 3.7,
         "review_count": 53,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/27392262"
     },
     {
         "restaurant_name": "왕비성",
@@ -510,7 +566,8 @@
         "sentiment": "부정적",
         "rating": 2.6,
         "review_count": 53,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/10618024"
     },
     {
         "restaurant_name": "잇마이타이",
@@ -519,7 +576,8 @@
         "sentiment": "긍정적",
         "rating": 3.9,
         "review_count": 42,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/317691428"
     },
     {
         "restaurant_name": "진신",
@@ -528,25 +586,28 @@
         "sentiment": "긍정적",
         "rating": 4.1,
         "review_count": 37,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/804396779"
     },
     {
         "restaurant_name": "콜마르브레드",
-        "positive_count": 11,
+        "positive_count": 16,
         "negative_count": 5,
         "sentiment": "긍정적",
         "rating": 4.1,
-        "review_count": 40,
-        "rating_status": "3.7 이상 맛집입니다"
+        "review_count": 46,
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/19452602"
     },
     {
         "restaurant_name": "테판마루",
-        "positive_count": 4,
+        "positive_count": 5,
         "negative_count": 1,
         "sentiment": "긍정적",
-        "rating": 2.8,
-        "review_count": 8,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating": 3.0,
+        "review_count": 9,
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/1349727605"
     },
     {
         "restaurant_name": "홍천식당",
@@ -555,7 +616,8 @@
         "sentiment": "긍정적",
         "rating": 3.6,
         "review_count": 13,
-        "rating_status": "평범합니다"
+        "rating_status": "평범합니다",
+        "detail_url": "https://place.map.kakao.com/9609370"
     },
     {
         "restaurant_name": "흑룡산촌두부",
@@ -564,7 +626,8 @@
         "sentiment": "부정적",
         "rating": 2.5,
         "review_count": 10,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/9624623"
     },
     {
         "restaurant_name": "강길도 낙지마을",
@@ -573,7 +636,8 @@
         "sentiment": "중립적",
         "rating": 4.0,
         "review_count": 13,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/19583961"
     },
     {
         "restaurant_name": "뚝배기에 담은 이탈리아 ",
@@ -581,8 +645,9 @@
         "negative_count": 6,
         "sentiment": "긍정적",
         "rating": 3.4,
-        "review_count": 19,
-        "rating_status": "평범합니다"
+        "review_count": 20,
+        "rating_status": "평범합니다",
+        "detail_url": "https://place.map.kakao.com/26642197"
     },
     {
         "restaurant_name": "뜰에식당",
@@ -591,7 +656,8 @@
         "sentiment": "긍정적",
         "rating": 4.6,
         "review_count": 12,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/11983493"
     },
     {
         "restaurant_name": "다온",
@@ -600,7 +666,8 @@
         "sentiment": "긍정적",
         "rating": 4.0,
         "review_count": 2,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/49688461"
     },
     {
         "restaurant_name": "부추해물칼국수",
@@ -609,7 +676,8 @@
         "sentiment": "긍정적",
         "rating": 4.5,
         "review_count": 8,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/1807142080"
     },
     {
         "restaurant_name": "비래키키",
@@ -618,7 +686,8 @@
         "sentiment": "부정적",
         "rating": 3.2,
         "review_count": 24,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/787212968"
     },
     {
         "restaurant_name": "양푼이 동태찌개",
@@ -627,7 +696,8 @@
         "sentiment": "중립적",
         "rating": 4.0,
         "review_count": 2,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/274409774"
     },
     {
         "restaurant_name": "코다리밥상 송촌점",
@@ -636,7 +706,8 @@
         "sentiment": "부정적",
         "rating": 3.6,
         "review_count": 13,
-        "rating_status": "평범합니다"
+        "rating_status": "평범합니다",
+        "detail_url": "https://place.map.kakao.com/27589279"
     },
     {
         "restaurant_name": "통일면옥",
@@ -645,7 +716,8 @@
         "sentiment": "긍정적",
         "rating": 4.2,
         "review_count": 46,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/9524501"
     },
     {
         "restaurant_name": "금광식당",
@@ -654,7 +726,8 @@
         "sentiment": "긍정적",
         "rating": 3.5,
         "review_count": 17,
-        "rating_status": "평범합니다"
+        "rating_status": "평범합니다",
+        "detail_url": "https://place.map.kakao.com/8237815"
     },
     {
         "restaurant_name": "연아식당",
@@ -663,7 +736,8 @@
         "sentiment": "긍정적",
         "rating": 3.7,
         "review_count": 6,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/16422333"
     },
     {
         "restaurant_name": "별천지",
@@ -672,7 +746,8 @@
         "sentiment": "긍정적",
         "rating": 4.0,
         "review_count": 18,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/12468925"
     },
     {
         "restaurant_name": "홍천식당",
@@ -681,7 +756,8 @@
         "sentiment": "긍정적",
         "rating": 3.6,
         "review_count": 13,
-        "rating_status": "평범합니다"
+        "rating_status": "평범합니다",
+        "detail_url": "https://place.map.kakao.com/9609370"
     },
     {
         "restaurant_name": "영동식당",
@@ -690,16 +766,18 @@
         "sentiment": "긍정적",
         "rating": 4.1,
         "review_count": 8,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/9258873"
     },
     {
         "restaurant_name": "광천식당",
         "positive_count": 19,
-        "negative_count": 51,
+        "negative_count": 49,
         "sentiment": "부정적",
-        "rating": 3.1,
+        "rating": 3.0,
         "review_count": 53,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/8209640"
     },
     {
         "restaurant_name": "사리원면옥",
@@ -708,7 +786,8 @@
         "sentiment": "부정적",
         "rating": 3.1,
         "review_count": 53,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/17968768"
     },
     {
         "restaurant_name": "중국성",
@@ -717,25 +796,28 @@
         "sentiment": "긍정적",
         "rating": 4.5,
         "review_count": 26,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/9421463"
     },
     {
         "restaurant_name": "평양숨두부",
         "positive_count": 2,
         "negative_count": 5,
         "sentiment": "부정적",
-        "rating": 3.3,
-        "review_count": 10,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating": 3.5,
+        "review_count": 11,
+        "rating_status": "평범합니다",
+        "detail_url": "https://place.map.kakao.com/27069548"
     },
     {
         "restaurant_name": "태화장",
-        "positive_count": 17,
-        "negative_count": 42,
+        "positive_count": 18,
+        "negative_count": 40,
         "sentiment": "부정적",
         "rating": 3.0,
         "review_count": 53,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/10033021"
     },
     {
         "restaurant_name": "백천집식당",
@@ -744,7 +826,8 @@
         "sentiment": "중립적",
         "rating": 5.0,
         "review_count": 1,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/16124304"
     },
     {
         "restaurant_name": "대성관",
@@ -753,16 +836,18 @@
         "sentiment": "긍정적",
         "rating": 4.1,
         "review_count": 18,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/1137242346"
     },
     {
         "restaurant_name": "정식당",
-        "positive_count": 9,
-        "negative_count": 5,
+        "positive_count": 10,
+        "negative_count": 6,
         "sentiment": "긍정적",
-        "rating": 4.0,
-        "review_count": 40,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating": 3.9,
+        "review_count": 42,
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/9937270"
     },
     {
         "restaurant_name": "왕관식당",
@@ -771,7 +856,8 @@
         "sentiment": "부정적",
         "rating": 3.4,
         "review_count": 44,
-        "rating_status": "평범합니다"
+        "rating_status": "평범합니다",
+        "detail_url": "https://place.map.kakao.com/8013624"
     },
     {
         "restaurant_name": "진로집",
@@ -780,7 +866,8 @@
         "sentiment": "부정적",
         "rating": 3.2,
         "review_count": 53,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/12468740"
     },
     {
         "restaurant_name": "만수불고기",
@@ -789,7 +876,8 @@
         "sentiment": "긍정적",
         "rating": 3.8,
         "review_count": 13,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/9021814"
     },
     {
         "restaurant_name": "경동오징어국수",
@@ -798,16 +886,18 @@
         "sentiment": "긍정적",
         "rating": 3.8,
         "review_count": 25,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/12471382"
     },
     {
         "restaurant_name": "광천식당",
         "positive_count": 19,
-        "negative_count": 51,
+        "negative_count": 49,
         "sentiment": "부정적",
-        "rating": 3.1,
+        "rating": 3.0,
         "review_count": 53,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/8209640"
     },
     {
         "restaurant_name": "사리원면옥",
@@ -816,7 +906,8 @@
         "sentiment": "부정적",
         "rating": 3.1,
         "review_count": 53,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/17968768"
     },
     {
         "restaurant_name": "신도칼국수",
@@ -825,7 +916,8 @@
         "sentiment": "긍정적",
         "rating": 3.4,
         "review_count": 27,
-        "rating_status": "평범합니다"
+        "rating_status": "평범합니다",
+        "detail_url": "https://place.map.kakao.com/18173072"
     },
     {
         "restaurant_name": "전통칼국수",
@@ -834,7 +926,8 @@
         "sentiment": "긍정적",
         "rating": 4.1,
         "review_count": 37,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/12337273"
     },
     {
         "restaurant_name": "대들보 함흥면옥",
@@ -843,7 +936,8 @@
         "sentiment": "부정적",
         "rating": 2.9,
         "review_count": 30,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/16505390"
     },
     {
         "restaurant_name": "대전갈비집",
@@ -852,7 +946,8 @@
         "sentiment": "긍정적",
         "rating": 3.4,
         "review_count": 53,
-        "rating_status": "평범합니다"
+        "rating_status": "평범합니다",
+        "detail_url": "https://place.map.kakao.com/11006001"
     },
     {
         "restaurant_name": "학선식당",
@@ -861,7 +956,8 @@
         "sentiment": "부정적",
         "rating": 2.5,
         "review_count": 8,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/21242866"
     },
     {
         "restaurant_name": "한영식당",
@@ -870,16 +966,18 @@
         "sentiment": "부정적",
         "rating": 3.6,
         "review_count": 53,
-        "rating_status": "평범합니다"
+        "rating_status": "평범합니다",
+        "detail_url": "https://place.map.kakao.com/9589060"
     },
     {
         "restaurant_name": "성심당",
-        "positive_count": 9,
-        "negative_count": 5,
+        "positive_count": 11,
+        "negative_count": 6,
         "sentiment": "긍정적",
         "rating": 4.6,
         "review_count": 53,
-        "rating_status": "3.7 이상 맛집입니다"
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/17733090"
     },
     {
         "restaurant_name": "띠울석갈비",
@@ -888,6 +986,7 @@
         "sentiment": "부정적",
         "rating": 2.6,
         "review_count": 34,
-        "rating_status": "3.3 이하 가지 마세요"
+        "rating_status": "3.3 이하 가지 마세요",
+        "detail_url": "https://place.map.kakao.com/8937961"
     }
 ]

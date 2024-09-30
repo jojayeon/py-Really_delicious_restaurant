@@ -112,7 +112,8 @@ for restaurant in results:
         'sentiment': sentiment,
         'rating': rating,
         'review_count': review_count,  # 리뷰 개수 추가
-        'rating_status': rating_status  # 평점 상태 추가
+        'rating_status': rating_status,  # 평점 상태 추가
+        'detail_url': restaurant.get('detail_url', 'N/A') 
     })
 save_directory = './data/'  # 현재 디렉토리의 ab 폴더
 os.makedirs(save_directory, exist_ok=True)  # ab 폴더가 없으면 생성

@@ -4,6 +4,7 @@
         "sentiment": "긍정적",
         "rating": 3.8,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/12471382",
         "restrntAddr": "대전 동구 성남동 200-342",
         "mapLat": "36.34479",
         "mapLot": "127.43322"
@@ -13,6 +14,7 @@
         "sentiment": "긍정적",
         "rating": 4.1,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/2043913170",
         "restrntAddr": "대전 동구 계족로 184-29",
         "mapLat": "36.331303",
         "mapLot": "127.44309"
@@ -22,6 +24,7 @@
         "sentiment": "긍정적",
         "rating": 4.0,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/27529189",
         "restrntAddr": "대전 동구 대학로 68",
         "mapLat": "36.33567",
         "mapLot": "127.45679"
@@ -31,6 +34,7 @@
         "sentiment": "긍정적",
         "rating": 4.3,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/11891952",
         "restrntAddr": "대전 동구 태전로 56-20",
         "mapLat": "36.33551",
         "mapLot": "127.42887"
@@ -40,6 +44,7 @@
         "sentiment": "긍정적",
         "rating": 4.4,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/1614184281",
         "restrntAddr": "대전 동구 용대길 4",
         "mapLat": "36.32363",
         "mapLot": "127.446785"
@@ -49,6 +54,7 @@
         "sentiment": "긍정적",
         "rating": 4.8,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/462715484",
         "restrntAddr": "대전 동구 계족로 194-21",
         "mapLat": "36.331112",
         "mapLot": "127.442825"
@@ -56,8 +62,9 @@
     {
         "restaurant_name": "투웨이버거",
         "sentiment": "긍정적",
-        "rating": 4.4,
+        "rating": 4.1,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/1855074213",
         "restrntAddr": "대전 동구 대전로 442",
         "mapLat": "36.305584",
         "mapLot": "127.45277"
@@ -67,6 +74,7 @@
         "sentiment": "긍정적",
         "rating": 4.1,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/21437926",
         "restrntAddr": "대전 동구 하소동 424",
         "mapLat": "36.211918",
         "mapLot": "127.439156"
@@ -76,6 +84,7 @@
         "sentiment": "긍정적",
         "rating": 4.0,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/25046661",
         "restrntAddr": "대전 중구 보문로 305",
         "mapLat": "36.329403",
         "mapLot": "127.41995"
@@ -85,6 +94,7 @@
         "sentiment": "긍정적",
         "rating": 4.5,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/9071008",
         "restrntAddr": "대전 중구 보문로162번길 66",
         "mapLat": "36.318874",
         "mapLot": "127.429146"
@@ -94,6 +104,7 @@
         "sentiment": "긍정적",
         "rating": 4.3,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/15726873",
         "restrntAddr": "대전 중구 중앙로13번길 34-1",
         "mapLat": "36.324127",
         "mapLot": "127.41322"
@@ -101,8 +112,9 @@
     {
         "restaurant_name": "항아리보쌈",
         "sentiment": "긍정적",
-        "rating": 3.8,
+        "rating": 3.7,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/26094194",
         "restrntAddr": "대전 중구 계룡로874번길 15",
         "mapLat": "36.323055",
         "mapLot": "127.41031"
@@ -112,6 +124,7 @@
         "sentiment": "긍정적",
         "rating": 3.8,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/1518439786",
         "restrntAddr": "대전 서구 월평동로 5-11",
         "mapLat": "36.355312",
         "mapLot": "127.36837"
@@ -121,6 +134,7 @@
         "sentiment": "긍정적",
         "rating": 4.3,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/1289494210",
         "restrntAddr": "대전 서구 도안대로 37",
         "mapLat": "36.30496",
         "mapLot": "127.334404"
@@ -130,6 +144,7 @@
         "sentiment": "긍정적",
         "rating": 3.8,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/1014056292",
         "restrntAddr": "대전 서구 갈마역로25번길 9-3",
         "mapLat": "36.3526",
         "mapLot": "127.373726"
@@ -139,15 +154,27 @@
         "sentiment": "긍정적",
         "rating": 4.3,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/13294737",
         "restrntAddr": "대전 서구 만년남로11번길 55",
         "mapLat": "36.366123",
         "mapLot": "127.3735"
+    },
+    {
+        "restaurant_name": "행복한 분식",
+        "sentiment": "긍정적",
+        "rating": 3.7,
+        "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/17079020",
+        "restrntAddr": "대전 서구 둔산로206번길 23",
+        "mapLat": "36.350166",
+        "mapLot": "127.39677"
     },
     {
         "restaurant_name": "권영철 콩짬뽕",
         "sentiment": "긍정적",
         "rating": 4.7,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/23258446",
         "restrntAddr": "대전 유성구 월드컵대로275번길 49",
         "mapLat": "36.350716",
         "mapLot": "127.33148"
@@ -157,6 +184,7 @@
         "sentiment": "긍정적",
         "rating": 3.7,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/27481969",
         "restrntAddr": "대전 유성구 관평1로 52",
         "mapLat": "36.424038",
         "mapLot": "127.39041"
@@ -166,6 +194,7 @@
         "sentiment": "긍정적",
         "rating": 3.7,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/27392262",
         "restrntAddr": "대전 유성구 온천북로 61",
         "mapLat": "36.356598",
         "mapLot": "127.349785"
@@ -175,6 +204,7 @@
         "sentiment": "긍정적",
         "rating": 3.9,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/317691428",
         "restrntAddr": "대전 유성구 문화원로 77",
         "mapLat": "36.359432",
         "mapLot": "127.344536"
@@ -184,6 +214,7 @@
         "sentiment": "긍정적",
         "rating": 4.1,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/804396779",
         "restrntAddr": "대전 유성구 원신흥로55번길 66-25",
         "mapLat": "36.33891",
         "mapLot": "127.344185"
@@ -193,6 +224,7 @@
         "sentiment": "긍정적",
         "rating": 4.1,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/19452602",
         "restrntAddr": "대전 유성구 어은로51번길 52",
         "mapLat": "36.36201",
         "mapLot": "127.35406"
@@ -202,6 +234,7 @@
         "sentiment": "긍정적",
         "rating": 4.6,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/11983493",
         "restrntAddr": "대전 대덕구 덕암로 247",
         "mapLat": "36.44272",
         "mapLot": "127.424675"
@@ -211,6 +244,7 @@
         "sentiment": "긍정적",
         "rating": 4.5,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/1807142080",
         "restrntAddr": "대전 대덕구 신탄진로804번길 31",
         "mapLat": "36.44956",
         "mapLot": "127.43165"
@@ -220,6 +254,7 @@
         "sentiment": "긍정적",
         "rating": 4.2,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/9524501",
         "restrntAddr": "대전 대덕구 한밭대로1117번길 17",
         "mapLat": "36.359745",
         "mapLot": "127.42254"
@@ -229,6 +264,7 @@
         "sentiment": "긍정적",
         "rating": 3.7,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/16422333",
         "restrntAddr": "대전 중구 유천로 57-9",
         "mapLat": "36.317585",
         "mapLot": "127.397285"
@@ -238,6 +274,7 @@
         "sentiment": "긍정적",
         "rating": 4.0,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/12468925",
         "restrntAddr": "대전 동구 산서로1659번길 29",
         "mapLat": "36.2911",
         "mapLot": "127.460945"
@@ -247,6 +284,7 @@
         "sentiment": "긍정적",
         "rating": 4.1,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/9258873",
         "restrntAddr": "대전 중구 계룡로874번길 27-9",
         "mapLat": "36.322655",
         "mapLot": "127.40989"
@@ -256,6 +294,7 @@
         "sentiment": "긍정적",
         "rating": 4.5,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/9421463",
         "restrntAddr": "대전 동구 대전로815번길 66",
         "mapLat": "36.334675",
         "mapLot": "127.43027"
@@ -265,6 +304,7 @@
         "sentiment": "긍정적",
         "rating": 4.1,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/1137242346",
         "restrntAddr": "대전 중구 계백로1584번길 114",
         "mapLat": "36.313004",
         "mapLot": "127.39759"
@@ -272,8 +312,9 @@
     {
         "restaurant_name": "정식당",
         "sentiment": "긍정적",
-        "rating": 4.0,
+        "rating": 3.9,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/9937270",
         "restrntAddr": "대전 중구 중앙로130번길 37-13",
         "mapLat": "36.32678",
         "mapLot": "127.42573"
@@ -283,6 +324,7 @@
         "sentiment": "긍정적",
         "rating": 3.8,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/9021814",
         "restrntAddr": "대전 유성구 장대로 38",
         "mapLat": "36.358402",
         "mapLot": "127.33652"
@@ -292,6 +334,7 @@
         "sentiment": "긍정적",
         "rating": 3.8,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/12471382",
         "restrntAddr": "대전 동구 계족로 369",
         "mapLat": "36.344784",
         "mapLot": "127.433174"
@@ -301,6 +344,7 @@
         "sentiment": "긍정적",
         "rating": 4.1,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/12337273",
         "restrntAddr": "대전 동구 대전로825번길 13",
         "mapLat": "36.332554",
         "mapLot": "127.430855"
@@ -310,6 +354,7 @@
         "sentiment": "긍정적",
         "rating": 4.6,
         "rating_status": "3.7 이상 맛집입니다",
+        "detail_url": "https://place.map.kakao.com/17733090",
         "restrntAddr": "대전 중구 대종로480번길 15",
         "mapLat": "36.327744",
         "mapLot": "127.427246"
