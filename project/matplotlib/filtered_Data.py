@@ -17,6 +17,7 @@ for b_item in filtered_b_data:
             b_item['restrntAddr'] = a_item['restrntAddr']
             b_item['mapLat'] = a_item['mapLat']
             b_item['mapLot'] = a_item['mapLot']
+            b_item['restrntInqrTel'] = a_item['restrntInqrTel']
 
 
     # 제외할 항목을 제거
