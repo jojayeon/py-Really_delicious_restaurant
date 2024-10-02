@@ -1,24 +1,30 @@
-import warnings
+import os
 import pandas as pd
-
-# 경고 메시지 무시
-warnings.filterwarnings("ignore")
+import json
 
 # Excel 파일 읽기
 df = pd.read_excel('C:/Users/Administrator/py-Really_delicious_restaurant/project/other_data/data/all_delicious_restaurant.xlsx', engine='openpyxl')
 
 # 원하는 열 선택
-selected_columns = df[['업소명', '도로명주소', '소재지주소', '전화번호', '영업상태구분코드', '음식의유형']]
+selected_columns = df[['업소명', '도로명주소', '전화번호', '영업상태구분코드', '음식의유형']]
 
-# 결과 출력
-print(selected_columns.head(10))
+# JSON으로 변환
+json_data = selected_columns.to_json(orient='records', force_ascii=False)
 
+# 현재 디렉토리의 data 폴더 설정
+save_directory = './o_data/'
+os.makedirs(save_directory, exist_ok=True)  # data 폴더가 없으면 생성
 
-# 기본데이터에 영성상태 구분코드가 없는 것이 있을 줄알고 작업했으니 앖어서 제외
-# # '영업상태구분코드' 열에서 NaN 값이 없는 행만 선택
-# filtered_data = selected_columns.dropna(subset=['영업상태구분코드'])
-# print(filtered_data.head(10))
-# total_columns = df.shape[0]
-# total_columns2 = filtered_data.shape[0]
-# print(f"1총 열의 개수: {total_columns}")
-# print(f"2총 열의 개수: {total_columns2}")
+# JSON 문자열을 파일로 저장
+json_file_path = os.path.join(save_directory, 'daejeon_restaurants.json')
+with open(json_file_path, 'w', encoding='utf-8') as outfile:
+    outfile.write(json_data)  # JSON 문자열을 파일에 직접 쓰기
+
+print("모든 데이터가 성공적으로 저장되었습니다.")
+
+# JSON 파일을 읽어서 Python 객체로 변환
+with open(json_file_path, 'r', encoding='utf-8') as infile:
+    json_object = json.load(infile)  # JSON 파일을 읽어 Python 객체로 변환
+
+print("JSON 파일이 Python 객체로 변환되었습니다.")
+print(json_object)  # 변환된 Python 객체 출력
