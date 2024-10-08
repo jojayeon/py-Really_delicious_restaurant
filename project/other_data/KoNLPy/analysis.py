@@ -83,10 +83,10 @@ for restaurant in results:
                 negative_count += 1
 
     # 긍정적/부정적 판단
-    if positive_count > negative_count:
+    if positive_count > negative_count-1:
         sentiment = "긍정적"
         positive_reviews += 1
-    elif negative_count > positive_count:
+    elif negative_count > positive_count-1:
         sentiment = "부정적"
         negative_reviews += 1
     else:
@@ -94,15 +94,16 @@ for restaurant in results:
         neutral_reviews += 1
 
     # 평점이 4.0 이상인지 여부 확인
-    if rating >= 3.7:
-        rating_status = "3.7 이상 맛집입니다"
-        above_4_count += 1
-    elif rating <=3.3:
-        rating_status = "3.3 이하 가지 마세요"
-        below_4_count += 1
-    else:
-        rating_status = "평범합니다"
-        normal_4_count += 1
+    if abs(positive_count - negative_count) <= 1:
+        sentiment = "중립적"
+        neutral_reviews += 1
+    elif positive_count > negative_count:
+        sentiment = "긍정적"
+        positive_reviews += 1
+    else:   
+        sentiment = "부정적"
+        negative_reviews += 1
+
 
     # 식당별 분석 결과 저장
     restaurant_analysis.append({
