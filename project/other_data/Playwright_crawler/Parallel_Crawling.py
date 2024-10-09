@@ -87,7 +87,7 @@ def fetch_restaurant_info(name):
         driver.quit()  # 드라이버 종료
 
 # 병렬 처리
-with ThreadPoolExecutor(max_workers=10) as executor:  # 최대 10개의 스레드
+with ThreadPoolExecutor(max_workers=5) as executor:  # 최대 10개의 스레드
     future_to_name = {executor.submit(fetch_restaurant_info, restaurant['restrntNm']): restaurant['restrntNm'] for restaurant in restaurants}
     
     for future in as_completed(future_to_name):
