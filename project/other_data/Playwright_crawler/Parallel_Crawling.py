@@ -13,9 +13,9 @@ driver_path = r'C:/Program Files/chromedriver-win64/chromedriver.exe'
 # ChromeOptions 설정
 chrome_options = Options()
 chrome_options.add_argument("--start-maximized")
-chrome_options.add_argument("--user-data-dir=C:/Users/USER/AppData/Local/Google/Chrome/User Data")
+chrome_options.add_argument("--headless") 
+chrome_options.add_argument("--user-data-dir=C:/Users/USER/AppData/Local/Google/Chrome/User Data")  # 사용자 프로필 사용
 chrome_options.add_argument("--profile-directory=Default") 
-chrome_options.add_argument("--headless")  # 브라우저를 보이지 않게 설정
 
 # JSON 파일에서 식당 이름 로드
 with open('C:/Users/USER/py-Really_delicious_restaurant/project/other_data/o_data/restaurant_coordinates.json', 'r', encoding='utf-8') as f:
@@ -25,71 +25,78 @@ with open('C:/Users/USER/py-Really_delicious_restaurant/project/other_data/o_dat
 results = []
 
 def fetch_restaurant_info(name):
-    # 드라이버 초기화
+    # 서비스 객체 생성 및 드라이버 초기화
     service = Service(driver_path)
     driver = webdriver.Chrome(service=service, options=chrome_options)
+    
+    try:
+        print(f"검색 중: {name}")
+        search_url = f'https://map.kakao.com/?q={name}'
+        driver.get(search_url)
+        
+        time.sleep(1)  # 페이지 로딩 대기
 
-    retries = 3  # 최대 재시도 횟수
-    for attempt in range(retries):
-        try:
-            search_url = f'https://map.kakao.com/?q={name}'
-            driver.get(search_url)
-            time.sleep(1)  # 페이지 로딩 대기
+        # 검색 결과가 나올 때까지 대기
+        time.sleep(1)
+        
+        # 검색 결과의 첫 번째 상세보기 링크 찾기
+        moreview_link = driver.find_element(By.CSS_SELECTOR, "#info\\.search\\.place\\.list > li > div.info_item > div.contact.clickArea > a.moreview")
+        detail_url = moreview_link.get_attribute('href')
+        # 첫 번째 상세보기 링크 클릭
+        moreview_link.click()
+        
+        time.sleep(1)  # 로딩 대기
 
-            # 검색 결과의 첫 번째 상세보기 링크 찾기
-            moreview_link = driver.find_element(By.CSS_SELECTOR, "#info\\.search\\.place\\.list > li > div.info_item > div.contact.clickArea > a.moreview")
-            detail_url = moreview_link.get_attribute('href')
-            moreview_link.click()
-            time.sleep(1)  # 로딩 대기
+        # 새 탭으로 전환
+        driver.switch_to.window(driver.window_handles[-1])
+        
+        time.sleep(1)  # 페이지 로딩 대기
 
-            # 새 탭으로 전환
-            driver.switch_to.window(driver.window_handles[-1])
-            time.sleep(1)  # 페이지 로딩 대기
+        # 평점 가져오기
+        rating_element = driver.find_element(By.CSS_SELECTOR, "#mArticle > div.cont_evaluation > div.ahead_info > div > em.num_rate")
+        rating = rating_element.text
 
-            # 평점 가져오기
-            rating_element = driver.find_element(By.CSS_SELECTOR, "#mArticle > div.cont_evaluation > div.ahead_info > div > em.num_rate")
-            rating = rating_element.text
+        # 모든 리뷰 가져오기
+        reviews = []
+        for _ in range(10):  # 최대 10번 시도
+            try:
+                more_reviews_button = driver.find_element(By.CSS_SELECTOR, "#mArticle > div.cont_evaluation > div.evaluation_review > a > span.txt_more")
+                more_reviews_button.click()
+                time.sleep(1)  # 클릭 후 로딩 대기
+            except Exception:
+                break  # 버튼이 더 이상 존재하지 않으면 종료
 
-            # 리뷰 가져오기
-            reviews = []
-            for _ in range(10):  # 최대 10번 시도
-                try:
-                    more_reviews_button = driver.find_element(By.CSS_SELECTOR, "#mArticle > div.cont_evaluation > div.evaluation_review > a > span.txt_more")
-                    more_reviews_button.click()
-                    time.sleep(1)  # 클릭 후 로딩 대기
-                except Exception:
-                    break  # 버튼이 더 이상 존재하지 않으면 종료
+        # 리뷰 가져오기
+        review_elements = driver.find_elements(By.CSS_SELECTOR, "#mArticle > div.cont_evaluation > div.evaluation_review > ul > li > div.comment_info > p > span")
+        
+        for review_element in review_elements:
+            reviews.append(review_element.text)
 
-            # 리뷰 가져오기
-            review_elements = driver.find_elements(By.CSS_SELECTOR, "#mArticle > div.cont_evaluation > div.evaluation_review > ul > li > div.comment_info > p > span")
-            for review_element in review_elements:
-                reviews.append(review_element.text)
+        # 결과 저장
+        return {
+            'restaurant_name': name,
+            'rating': rating,
+            'reviews': reviews,  # 리스트로 저장
+            'detail_url': detail_url 
+        }
 
-            # 결과 저장
-            return {
-                'restaurant_name': name,
-                'rating': rating,
-                'reviews': reviews,
-                'detail_url': detail_url 
-            }
-
-        except Exception as e:
-            print(f"식당: {name} 정보를 가져오는 데 실패했습니다: {e}. 재시도 중...")
-            if attempt == retries - 1:
-                return None  # 모든 시도 후에도 실패하면 None 반환
-        finally:
-            driver.quit()  # 드라이버 종료
+    except Exception as e:
+        print(f"식당: {name} 정보를 가져오는 데 실패했습니다: {e}")
+        return None  # 오류 발생 시 None 반환
+    finally:
+        driver.quit()  # 드라이버 종료
 
 # 병렬 처리
 with ThreadPoolExecutor(max_workers=10) as executor:  # 최대 10개의 스레드
     future_to_name = {executor.submit(fetch_restaurant_info, restaurant['restrntNm']): restaurant['restrntNm'] for restaurant in restaurants}
+    
     for future in as_completed(future_to_name):
         name = future_to_name[future]
         try:
             result = future.result()
             if result:
                 results.append(result)
-                print(f"식당: {result['restaurant_name']} 정보를 성공적으로 가져왔습니다.")
+                # print(f"식당: {result['restaurant_name']} 정보 가져오기 성공")
             else:
                 print(f"식당: {name} 정보를 가져오는 데 실패했습니다.")
         except Exception as exc:
