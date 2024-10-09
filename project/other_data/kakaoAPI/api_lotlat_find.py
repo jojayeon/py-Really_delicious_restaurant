@@ -42,7 +42,8 @@ def get_coordinates(restaurant):
     return None  # 좌표를 찾지 못한 경우
 
 # JSON 파일 읽기
-with open('C:/Users/Administrator/jojayeon/py-Really_delicious_restaurant/project/other_data/o_data/daejeon_restaurants.json', 'r', encoding='utf-8') as file:
+# 'C:/Users/Administrator/jojayeon/py-Really_delicious_restaurant/project/other_data/o_data/daejeon_restaurants.json'
+with open('C:/Users/USER/py-Really_delicious_restaurant/project/other_data/o_data/daejeon_restaurants.json', 'r', encoding='utf-8') as file:
     restaurants = json.load(file)
 
 # 좌표 정보를 저장할 리스트
@@ -57,7 +58,8 @@ with ThreadPoolExecutor(max_workers=5) as executor:
             coordinates_list.append(result)
 
 # 결과를 JSON 파일로 저장
-with open('C:/Users/Administrator/jojayeon/py-Really_delicious_restaurant/project/other_data/o_data/restaurant_coordinates.json', 'w', encoding='utf-8') as file:
+# with open('C:/Users/Administrator/jojayeon/py-Really_delicious_restaurant/project/other_data/o_data/restaurant_coordinates.json', 'w', encoding='utf-8') as file:
+with open('C:/Users/USER/py-Really_delicious_restaurant/project/other_data/o_data/restaurant_coordinates.json', 'w', encoding='utf-8') as file:
     json.dump(coordinates_list, file, ensure_ascii=False, indent=4)
 
 print("좌표 정보가 restaurant_coordinates.json 파일에 저장되었습니다.")
