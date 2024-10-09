@@ -7,12 +7,14 @@ import json
 import os
 
 # 크롬 드라이버 경로 (설치한 경로에 맞게 수정)
-driver_path = r'C:\Program Files\chromedriver-win64\chromedriver.exe'
+driver_path = r'C:/Program Files/chromedriver-win64/chromedriver.exe'
 
 # ChromeOptions 설정
 chrome_options = Options()
 chrome_options.add_argument("--start-maximized")
-chrome_options.add_argument("--user-data-dir=C:/Users/Administrator/AppData/Local/Google/Chrome/User Data")  # 사용자 프로필 사용
+chrome_options.add_argument("--headless") 
+# chrome_options.add_argument("--user-data-dir=C:/Users/Administrator/AppData/Local/Google/Chrome/User Data")  # 사용자 프로필 사용
+chrome_options.add_argument("--user-data-dir=C:/Users/USER/AppData/Local/Google/Chrome/User Data")  # 사용자 프로필 사용
 chrome_options.add_argument("--profile-directory=Default") 
 
 # 서비스 객체 생성
@@ -22,7 +24,8 @@ service = Service(driver_path)
 driver = webdriver.Chrome(service=service, options=chrome_options)
 
 # JSON 파일에서 식당 이름 로드
-with open('./o_data/restaurant_coordinates.json', 'r', encoding='utf-8') as f:
+# C:/Users/USER/py-Really_delicious_restaurant/project/other_data/o_data/restaurant_coordinates.json
+with open('C:/Users/USER/py-Really_delicious_restaurant/project/other_data/o_data/restaurant_coordinates.json', 'r', encoding='utf-8') as f:
     restaurants = json.load(f)
 
 # 결과를 저장할 리스트
