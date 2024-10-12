@@ -12,7 +12,6 @@ driver_path = r'C:/Program Files/chromedriver-win64/chromedriver.exe'
 # ChromeOptions 설정
 chrome_options = Options()
 chrome_options.add_argument("--start-maximized")
-chrome_options.add_argument("--headless") 
 # chrome_options.add_argument("--user-data-dir=C:/Users/Administrator/AppData/Local/Google/Chrome/User Data")  # 사용자 프로필 사용
 chrome_options.add_argument("--user-data-dir=C:/Users/USER/AppData/Local/Google/Chrome/User Data")  # 사용자 프로필 사용
 chrome_options.add_argument("--profile-directory=Default") 
@@ -25,7 +24,7 @@ driver = webdriver.Chrome(service=service, options=chrome_options)
 
 # JSON 파일에서 식당 이름 로드
 # C:/Users/USER/py-Really_delicious_restaurant/project/other_data/o_data/restaurant_coordinates.json
-with open('C:/Users/USER/py-Really_delicious_restaurant/project/other_data/o_data/restaurant_coordinates.json', 'r', encoding='utf-8') as f:
+with open('C:/Users/USER/py-Really_delicious_restaurant/project/other_data/o_data/restaurant_coordinates1.json', 'r', encoding='utf-8') as f:
     restaurants = json.load(f)
 
 # 결과를 저장할 리스트
