@@ -1,0 +1,1496 @@
+[
+    {
+        "restrntNm": "예산(대전방향)휴게소",
+        "restrntAddr": "충청남도 예산군 신양면 당진영덕고속도로 34",
+        "restrntInqrTel": "     3340094",
+        "restrntDtlAddr": "충청남도 예산군 신양면 서계양리 661-1 외 28필지 ",
+        "foodType": "한식",
+        "mapLat": "36.6222947718355",
+        "mapLot": "126.841185094228"
+    },
+    {
+        "restrntNm": "해둥지",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3554504",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 569 ",
+        "foodType": "한식",
+        "mapLat": "37.6300721845471",
+        "mapLot": "126.377616602547"
+    },
+    {
+        "restrntNm": "대감",
+        "restrntAddr": "충청남도 당진시 합덕읍 덕평로 540",
+        "restrntInqrTel": " 041 3635533",
+        "restrntDtlAddr": "충청남도 당진시 합덕읍 운산리 260-53 ",
+        "foodType": null,
+        "mapLat": "37.50398700929091",
+        "mapLot": "127.05400316360698"
+    },
+    {
+        "restrntNm": "주식회사 가마솥설렁탕",
+        "restrntAddr": "충청남도 당진시 당진중앙2로 26-5 (읍내동)",
+        "restrntInqrTel": " 041 3573800",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 634-5 ",
+        "foodType": null,
+        "mapLat": "35.0912463486643",
+        "mapLot": "129.039853757929"
+    },
+    {
+        "restrntNm": "은미식당",
+        "restrntAddr": "충청남도 당진시 합덕읍 중동길 48-3",
+        "restrntInqrTel": " 041 3623565",
+        "restrntDtlAddr": "충청남도 당진시 합덕읍 운산리 267-5 ",
+        "foodType": null,
+        "mapLat": "33.4114591013717",
+        "mapLot": "126.902852220121"
+    },
+    {
+        "restrntNm": "충남식당",
+        "restrntAddr": "충청남도 당진시 합덕읍 중동길 33",
+        "restrntInqrTel": " 041 3622613",
+        "restrntDtlAddr": "충청남도 당진시 합덕읍 운산리 273-18 ",
+        "foodType": null,
+        "mapLat": "34.886416616640055",
+        "mapLot": "128.6236008963253"
+    },
+    {
+        "restrntNm": "금호가든",
+        "restrntAddr": "충청남도 당진시 우강면 당진3거리길 38",
+        "restrntInqrTel": " 041 3621549",
+        "restrntDtlAddr": "충청남도 당진시 우강면 송산리 411-1 ",
+        "foodType": null,
+        "mapLat": "36.6160991912398",
+        "mapLot": "126.669464690034"
+    },
+    {
+        "restrntNm": "원조돼지국밥",
+        "restrntAddr": "충청남도 당진시 당진중앙3로 51 (읍내동)",
+        "restrntInqrTel": "0413525192",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 698-22 ",
+        "foodType": null,
+        "mapLat": "35.565563551572474",
+        "mapLot": "129.1187020666294"
+    },
+    {
+        "restrntNm": "서래원",
+        "restrntAddr": "충청남도 당진시 원당골길 15 (원당동)",
+        "restrntInqrTel": " 041 3535537",
+        "restrntDtlAddr": "충청남도 당진시 원당동 354 ",
+        "foodType": null,
+        "mapLat": "36.90939046971028",
+        "mapLot": "126.6454842608413"
+    },
+    {
+        "restrntNm": "조박사부대찌개",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3555552",
+        "restrntDtlAddr": "충청남도 당진시 용연동 931-2 ",
+        "foodType": null,
+        "mapLat": "37.30163000569942",
+        "mapLot": "126.8399934415089"
+    },
+    {
+        "restrntNm": "동경일식",
+        "restrntAddr": "충청남도 당진시 당진중앙2로 236 (읍내동)",
+        "restrntInqrTel": " 041 3541414",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 24-2 ",
+        "foodType": null,
+        "mapLat": "34.8103439190133",
+        "mapLot": "126.455905337087"
+    },
+    {
+        "restrntNm": "돈스탑당진점",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3553334",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 254-18 ",
+        "foodType": null,
+        "mapLat": "36.89493488939064",
+        "mapLot": "126.63733769684555"
+    },
+    {
+        "restrntNm": "원조풍천장어2호점",
+        "restrntAddr": "충청남도 당진시 남부로 122, 1층 (채운동)",
+        "restrntInqrTel": " 041 3533581",
+        "restrntDtlAddr": "충청남도 당진시 채운동 30 ",
+        "foodType": "한식",
+        "mapLat": "36.88463529379633",
+        "mapLot": "126.6302902283768"
+    },
+    {
+        "restrntNm": "용왕회집",
+        "restrntAddr": "충청남도 당진시 석문면 장고항로 309",
+        "restrntInqrTel": " 041 3524649",
+        "restrntDtlAddr": "충청남도 당진시 석문면 장고항리 583-2 ",
+        "foodType": null,
+        "mapLat": "37.4639055828784",
+        "mapLot": "126.646516803538"
+    },
+    {
+        "restrntNm": "장수장어",
+        "restrntAddr": "충청남도 당진시 합덕읍 합덕교동1길 12, 장수장어 1-2층",
+        "restrntInqrTel": " 041 3631443",
+        "restrntDtlAddr": "충청남도 당진시 합덕읍 운산리 257-11 장수장어 ",
+        "foodType": null,
+        "mapLat": "36.8072648816105",
+        "mapLot": "126.775162231292"
+    },
+    {
+        "restrntNm": "합덕동천홍",
+        "restrntAddr": "충청남도 당진시 합덕읍 남부로 1875",
+        "restrntInqrTel": "041 362 3373",
+        "restrntDtlAddr": "충청남도 당진시 합덕읍 운산리 403 ",
+        "foodType": null,
+        "mapLat": "36.8011286970147",
+        "mapLot": "126.770639765168"
+    },
+    {
+        "restrntNm": "수복회관",
+        "restrntAddr": "충청남도 당진시 고대면 고대로 10-7",
+        "restrntInqrTel": " 041 3533255",
+        "restrntDtlAddr": "충청남도 당진시 고대면 용두리 644-7 ",
+        "foodType": null,
+        "mapLat": "35.49357561007977",
+        "mapLot": "126.7328138028521"
+    },
+    {
+        "restrntNm": "현대식당",
+        "restrntAddr": "충청남도 당진시 합덕읍 문화길 19",
+        "restrntInqrTel": " 041 3620881",
+        "restrntDtlAddr": "충청남도 당진시 합덕읍 운산리 273-19 ",
+        "foodType": null,
+        "mapLat": "36.3264878851072",
+        "mapLot": "127.42562587768772"
+    },
+    {
+        "restrntNm": "중국성",
+        "restrntAddr": "충청남도 당진시 당진중앙2로 42-8 (읍내동)",
+        "restrntInqrTel": " 041 3552862",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 635-10 ",
+        "foodType": null,
+        "mapLat": "36.3346674021545",
+        "mapLot": "127.430284883811"
+    },
+    {
+        "restrntNm": "민속촌",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3632778",
+        "restrntDtlAddr": "충청남도 당진시 신평면 도성리 산 130-1 ",
+        "foodType": null,
+        "mapLat": "37.25961522542851",
+        "mapLot": "127.11980072025162"
+    },
+    {
+        "restrntNm": "동우회 회관",
+        "restrntAddr": "충청남도 당진시 송악읍 한진포구길 24-3",
+        "restrntInqrTel": " 041 3561889",
+        "restrntDtlAddr": "충청남도 당진시 송악읍 한진리 111-24 ",
+        "foodType": null,
+        "mapLat": "36.96840864718756",
+        "mapLot": "126.78072971077917"
+    },
+    {
+        "restrntNm": "가원레스토랑",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041        ",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 25-9 ",
+        "foodType": null,
+        "mapLat": "37.4239696955561",
+        "mapLot": "126.9992249903149"
+    },
+    {
+        "restrntNm": "서울식당",
+        "restrntAddr": "충청남도 당진시 송악읍 안섬포구길 32-1",
+        "restrntInqrTel": " 041 3558766",
+        "restrntDtlAddr": "충청남도 당진시 송악읍 고대리 159-4 ",
+        "foodType": null,
+        "mapLat": "36.988595719794944",
+        "mapLot": "128.3820794698703"
+    },
+    {
+        "restrntNm": "우렁이박사",
+        "restrntAddr": "충청남도 당진시 신평면 서해로 7439",
+        "restrntInqrTel": " 041 3629554",
+        "restrntDtlAddr": "충청남도 당진시 신평면 도성리 499-1 ",
+        "foodType": null,
+        "mapLat": "36.87993128030061",
+        "mapLot": "126.80282325274621"
+    },
+    {
+        "restrntNm": "원당해장",
+        "restrntAddr": "충청남도 당진시 원당로 1 (원당동)",
+        "restrntInqrTel": " 041 3553715",
+        "restrntDtlAddr": "충청남도 당진시 원당동 937 ",
+        "foodType": null,
+        "mapLat": "36.903331599942604",
+        "mapLot": "126.63862868113469"
+    },
+    {
+        "restrntNm": "한일식당",
+        "restrntAddr": "충청남도 당진시 석문면 장고항로 331",
+        "restrntInqrTel": " 041 3533200",
+        "restrntDtlAddr": "충청남도 당진시 석문면 장고항리 615-21 ",
+        "foodType": null,
+        "mapLat": "36.68461012043024",
+        "mapLot": "126.74907594941268"
+    },
+    {
+        "restrntNm": "나무그림",
+        "restrntAddr": "충청남도 당진시 원우두실로 103 (우두동)",
+        "restrntInqrTel": " 041 3555759",
+        "restrntDtlAddr": "충청남도 당진시 우두동 368-1 ",
+        "foodType": null,
+        "mapLat": "37.5692612144126",
+        "mapLot": "126.983092173935"
+    },
+    {
+        "restrntNm": "고래면옥",
+        "restrntAddr": "충청남도 당진시 북문길 1-18 (읍내동)",
+        "restrntInqrTel": " 041 3576082",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 500-2 ",
+        "foodType": null,
+        "mapLat": "35.96272343824315",
+        "mapLot": "126.6978457088467"
+    },
+    {
+        "restrntNm": "만나횟집",
+        "restrntAddr": "충청남도 당진시 석문면 장고항로 298",
+        "restrntInqrTel": " 04153 0 316",
+        "restrntDtlAddr": "충청남도 당진시 석문면 장고항리 573-1 ",
+        "foodType": null,
+        "mapLat": "36.3425735780926",
+        "mapLot": "129.381713900783"
+    },
+    {
+        "restrntNm": "송정",
+        "restrntAddr": "충청남도 당진시 남부로 477-8 (수청동)",
+        "restrntInqrTel": "041 352 7332",
+        "restrntDtlAddr": "충청남도 당진시 수청동 96-9 ",
+        "foodType": null,
+        "mapLat": "36.119300743421",
+        "mapLot": "128.358442837069"
+    },
+    {
+        "restrntNm": "태평양식당",
+        "restrntAddr": "충청남도 당진시 당진천1길 73 (채운동)",
+        "restrntInqrTel": " 041 3551070",
+        "restrntDtlAddr": "충청남도 당진시 채운동 482-5 ",
+        "foodType": null,
+        "mapLat": "36.8103941889745",
+        "mapLot": "127.151532691616"
+    },
+    {
+        "restrntNm": "구구단감자탕",
+        "restrntAddr": "충청남도 당진시 반촌로 27-44 (시곡동)",
+        "restrntInqrTel": " 041 3569947",
+        "restrntDtlAddr": "충청남도 당진시 시곡동 63-13 ",
+        "foodType": null,
+        "mapLat": "36.9025992678976",
+        "mapLot": "126.685274220062"
+    },
+    {
+        "restrntNm": "뚱이네",
+        "restrntAddr": "충청남도 당진시 당진시장북길 37-12 (읍내동)",
+        "restrntInqrTel": " 041 3559588",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 641-3 ",
+        "foodType": null,
+        "mapLat": "37.37622377132052",
+        "mapLot": "126.8490649744809"
+    },
+    {
+        "restrntNm": "당나루",
+        "restrntAddr": "충청남도 당진시 신평면 삽교천2길 33-4",
+        "restrntInqrTel": " 041 3635318",
+        "restrntDtlAddr": "충청남도 당진시 신평면 965-3 ",
+        "foodType": null,
+        "mapLat": "36.90289412839922",
+        "mapLot": "126.67169659161237"
+    },
+    {
+        "restrntNm": "옹기촌",
+        "restrntAddr": "충청남도 당진시 무수동안길 13 (읍내동)",
+        "restrntInqrTel": " 041 3553027",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 1295-5 ",
+        "foodType": null,
+        "mapLat": "36.6190238934059",
+        "mapLot": "127.445256531982"
+    },
+    {
+        "restrntNm": "한탄강가든",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3524544",
+        "restrntDtlAddr": "충청남도 당진시 석문면 교로리 901-4 ",
+        "foodType": null,
+        "mapLat": "38.0829376825114",
+        "mapLot": "127.208577119914"
+    },
+    {
+        "restrntNm": "대송회관",
+        "restrntAddr": "충청남도 당진시 석문면 장고항로 320",
+        "restrntInqrTel": " 041 3523886",
+        "restrntDtlAddr": "충청남도 당진시 석문면 장고항리 615-6 ",
+        "foodType": null,
+        "mapLat": "35.9783883644169",
+        "mapLot": "129.362128852222"
+    },
+    {
+        "restrntNm": "대아우렁이식당",
+        "restrntAddr": "충청남도 당진시 신평면 서해로 7437",
+        "restrntInqrTel": " 041 3624456",
+        "restrntDtlAddr": "충청남도 당진시 신평면 도성리 499-2 ",
+        "foodType": null,
+        "mapLat": "36.8797078040419",
+        "mapLot": "126.802278689938"
+    },
+    {
+        "restrntNm": "석문가든",
+        "restrntAddr": "충청남도 당진시 석문면 통정3길 25",
+        "restrntInqrTel": " 041 3539122",
+        "restrntDtlAddr": "충청남도 당진시 석문면 통정리 355-1 ",
+        "foodType": null,
+        "mapLat": "37.016029741079",
+        "mapLot": "126.542882159892"
+    },
+    {
+        "restrntNm": "한우정가",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3522220",
+        "restrntDtlAddr": "충청남도 당진시 송산면 금암리 74-2 ",
+        "foodType": null,
+        "mapLat": "37.4827419188134",
+        "mapLot": "126.939890867985"
+    },
+    {
+        "restrntNm": "풍년회관",
+        "restrntAddr": "충청남도 당진시 정미면 4.4만세로 670",
+        "restrntInqrTel": " 041 3521546",
+        "restrntDtlAddr": "충청남도 당진시 정미면 승산리 41-2 ",
+        "foodType": null,
+        "mapLat": "37.5116164146781",
+        "mapLot": "126.89275182085"
+    },
+    {
+        "restrntNm": "원당골",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3522208",
+        "restrntDtlAddr": "충청남도 당진시 원당동 355-6 ",
+        "foodType": null,
+        "mapLat": "35.1810976013156",
+        "mapLot": "129.057044458089"
+    },
+    {
+        "restrntNm": "제주복집",
+        "restrntAddr": "충청남도 당진시 우강면 면천로 1641",
+        "restrntInqrTel": " 041 3628866",
+        "restrntDtlAddr": "충청남도 당진시 우강면 송산리 429-69 ",
+        "foodType": null,
+        "mapLat": "36.651560766513185",
+        "mapLot": "128.4325609032273"
+    },
+    {
+        "restrntNm": "대구왕뽈대기",
+        "restrntAddr": null,
+        "restrntInqrTel": "     3526789",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 551-1 ",
+        "foodType": null,
+        "mapLat": "37.2796225119682",
+        "mapLot": "127.447949963972"
+    },
+    {
+        "restrntNm": "그랜드레스토랑",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3543177",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 340-3 ",
+        "foodType": null,
+        "mapLat": "36.386797700388",
+        "mapLot": "128.43414138885"
+    },
+    {
+        "restrntNm": "황금사과",
+        "restrntAddr": "충청남도 당진시 면천면 아미로 476",
+        "restrntInqrTel": " 041 3552676",
+        "restrntDtlAddr": "충청남도 당진시 면천면 죽동리 85 ",
+        "foodType": null,
+        "mapLat": "37.608895414741355",
+        "mapLot": "127.15831246489559"
+    },
+    {
+        "restrntNm": "삼봉골",
+        "restrntAddr": "충청남도 당진시 석문면 대호만로 1697",
+        "restrntInqrTel": " 041 3520120",
+        "restrntDtlAddr": "충청남도 당진시 석문면 삼봉리 966-27 ",
+        "foodType": null,
+        "mapLat": "37.3366401631025",
+        "mapLot": "128.11699922404"
+    },
+    {
+        "restrntNm": "국제가든",
+        "restrntAddr": "충청남도 당진시 합덕읍 조정이2길 55",
+        "restrntInqrTel": " 041 3622496",
+        "restrntDtlAddr": "충청남도 당진시 합덕읍 운산리 34-5 ",
+        "foodType": null,
+        "mapLat": "36.8005721316741",
+        "mapLot": "126.781335726062"
+    },
+    {
+        "restrntNm": "태화루",
+        "restrntAddr": "충청남도 당진시 정미면 상구실로 84-2",
+        "restrntInqrTel": " 041  532110",
+        "restrntDtlAddr": "충청남도 당진시 정미면 천의리 194 ",
+        "foodType": null,
+        "mapLat": "37.5610038888518",
+        "mapLot": "127.001136344903"
+    },
+    {
+        "restrntNm": "길손가든",
+        "restrntAddr": "충청남도 당진시 합덕읍 예덕로 187",
+        "restrntInqrTel": " 041 3625686",
+        "restrntDtlAddr": "충청남도 당진시 합덕읍 석우리 526-2 ",
+        "foodType": null,
+        "mapLat": "36.79693361868458",
+        "mapLot": "126.74944508554198"
+    },
+    {
+        "restrntNm": "석천가든",
+        "restrntAddr": "충청남도 당진시 합덕읍 합덕대덕로 333-53",
+        "restrntInqrTel": "050714394747",
+        "restrntDtlAddr": "충청남도 당진시 합덕읍 석우리 751-6 ",
+        "foodType": null,
+        "mapLat": "37.93096815593707",
+        "mapLot": "127.226742287323"
+    },
+    {
+        "restrntNm": "더본감자탕",
+        "restrntAddr": "충청남도 당진시 무수동로 218 (읍내동)",
+        "restrntInqrTel": " 041 3538893",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 792 ",
+        "foodType": null,
+        "mapLat": "36.8952177053132",
+        "mapLot": "126.637295970216"
+    },
+    {
+        "restrntNm": "푸른숲식당",
+        "restrntAddr": "충청남도 당진시 면천면 아미로 354-23",
+        "restrntInqrTel": " 041 3566868",
+        "restrntDtlAddr": "충청남도 당진시 면천면 죽동리 349 ",
+        "foodType": null,
+        "mapLat": "35.2258607003331",
+        "mapLot": "128.726316047602"
+    },
+    {
+        "restrntNm": "동해회센타",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3531781",
+        "restrntDtlAddr": "충청남도 당진시 송산면 가곡리 6-14 ",
+        "foodType": null,
+        "mapLat": "33.51216171636309",
+        "mapLot": "126.52826371170772"
+    },
+    {
+        "restrntNm": "원조옛날감자탕",
+        "restrntAddr": "충청남도 당진시 합덕읍 중동길 31-1",
+        "restrntInqrTel": " 041 3626443",
+        "restrntDtlAddr": "충청남도 당진시 합덕읍 운산리 273-29 ",
+        "foodType": null,
+        "mapLat": "36.8074750959859",
+        "mapLot": "126.771983519497"
+    },
+    {
+        "restrntNm": "다원가든",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3566645",
+        "restrntDtlAddr": "충청남도 당진시 대덕동 1214-3 ",
+        "foodType": null,
+        "mapLat": "36.5636803678006",
+        "mapLot": "128.523402833225"
+    },
+    {
+        "restrntNm": "명태어장",
+        "restrntAddr": "충청남도 당진시 신평면 신평길 100",
+        "restrntInqrTel": " 041 3632444",
+        "restrntDtlAddr": "충청남도 당진시 신평면 금천리 317-37 ",
+        "foodType": null,
+        "mapLat": "37.5215627885956",
+        "mapLot": "126.895997764777"
+    },
+    {
+        "restrntNm": "북경",
+        "restrntAddr": "충청남도 당진시 당진중앙2로 163-44 (읍내동)",
+        "restrntInqrTel": " 041 3569077",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 244-25 ",
+        "foodType": null,
+        "mapLat": "37.32085561587913",
+        "mapLot": "126.83236212774916"
+    },
+    {
+        "restrntNm": "풍천장어",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3572100",
+        "restrntDtlAddr": "충청남도 당진시 대덕동 1214-14 ",
+        "foodType": null,
+        "mapLat": "37.4963569007869",
+        "mapLot": "127.118652367837"
+    },
+    {
+        "restrntNm": "한우갈비",
+        "restrntAddr": "충청남도 당진시 당진천2길 18, 1층 (읍내동)",
+        "restrntInqrTel": " 041 3575454",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 675-3 ",
+        "foodType": null,
+        "mapLat": "37.558091732755",
+        "mapLot": "126.845526535777"
+    },
+    {
+        "restrntNm": "매월농장",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3570451",
+        "restrntDtlAddr": "충청남도 당진시 정미면 봉생리 347-1 ",
+        "foodType": null,
+        "mapLat": "35.1142429315789",
+        "mapLot": "126.846219573587"
+    },
+    {
+        "restrntNm": "현대회센터",
+        "restrntAddr": "충청남도 당진시 송악읍 한진포구길 61",
+        "restrntInqrTel": "041 356 6664",
+        "restrntDtlAddr": "충청남도 당진시 송악읍 한진리 95-12 ",
+        "foodType": null,
+        "mapLat": "34.87197255744289",
+        "mapLot": "128.63411042513337"
+    },
+    {
+        "restrntNm": "청해",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3586688",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 269-5 ",
+        "foodType": null,
+        "mapLat": "37.56027579271471",
+        "mapLot": "126.99523509413757"
+    },
+    {
+        "restrntNm": "가마니",
+        "restrntAddr": "충청남도 당진시 계성3길 31-3 (읍내동)",
+        "restrntInqrTel": " 041 3533579",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 299-36 ",
+        "foodType": null,
+        "mapLat": "36.321786475396",
+        "mapLot": "127.436610734539"
+    },
+    {
+        "restrntNm": "설악칡냉면",
+        "restrntAddr": "충청남도 당진시 먹거리길 19 (채운동)",
+        "restrntInqrTel": " 041 3558550",
+        "restrntDtlAddr": "충청남도 당진시 채운동 1059 ",
+        "foodType": null,
+        "mapLat": "36.367479232790465",
+        "mapLot": "127.38256712563877"
+    },
+    {
+        "restrntNm": "도비도횟집",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3520902",
+        "restrntDtlAddr": "충청남도 당진시 석문면 난지도리 556 ",
+        "foodType": null,
+        "mapLat": "37.018228857335174",
+        "mapLot": "126.46237689545445"
+    },
+    {
+        "restrntNm": "대호회관",
+        "restrntAddr": "충청남도 당진시 석문면 대호만로 2902-11",
+        "restrntInqrTel": " 041 3534311",
+        "restrntDtlAddr": "충청남도 당진시 석문면 난지도리 538 ",
+        "foodType": null,
+        "mapLat": "37.0196510735826",
+        "mapLot": "126.461853333244"
+    },
+    {
+        "restrntNm": "길목",
+        "restrntAddr": "충청남도 당진시 우강면 덕평로 616",
+        "restrntInqrTel": " 041 3635505",
+        "restrntDtlAddr": "충청남도 당진시 우강면 송산리 396-7 ",
+        "foodType": null,
+        "mapLat": "37.519026323125196",
+        "mapLot": "127.0564630117036"
+    },
+    {
+        "restrntNm": "금강산",
+        "restrntAddr": "충청남도 당진시 신평면 삽교천길 67",
+        "restrntInqrTel": " 041 3626669",
+        "restrntDtlAddr": "충청남도 당진시 신평면 운정리 122-4 ",
+        "foodType": null,
+        "mapLat": "34.59111942719618",
+        "mapLot": "126.60106368424862"
+    },
+    {
+        "restrntNm": "원할머니보쌈",
+        "restrntAddr": "충청남도 당진시 먹거리길 99 (대덕동)",
+        "restrntInqrTel": " 041 3569930",
+        "restrntDtlAddr": "충청남도 당진시 대덕동 1586 ",
+        "foodType": "한식",
+        "mapLat": "37.56962595323379",
+        "mapLot": "127.02318229666076"
+    },
+    {
+        "restrntNm": "일출횟집",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3527797",
+        "restrntDtlAddr": "충청남도 당진시 석문면 교로리 844-11 ",
+        "foodType": null,
+        "mapLat": "35.1591015167556",
+        "mapLot": "129.060892775764"
+    },
+    {
+        "restrntNm": "회당",
+        "restrntAddr": "충청남도 당진시 석문면 기와말길 3-11",
+        "restrntInqrTel": " 041 3540037",
+        "restrntDtlAddr": "충청남도 당진시 석문면 삼봉리 933-3 ",
+        "foodType": null,
+        "mapLat": "35.6985179979499",
+        "mapLot": "128.696195152597"
+    },
+    {
+        "restrntNm": "중원",
+        "restrntAddr": "충청남도 당진시 원당로 32 (원당동)",
+        "restrntInqrTel": " 041 3555577",
+        "restrntDtlAddr": "충청남도 당진시 원당동 856-5 ",
+        "foodType": null,
+        "mapLat": "37.4530605719605",
+        "mapLot": "127.167182033552"
+    },
+    {
+        "restrntNm": "오리박사",
+        "restrntAddr": "충청남도 당진시 역천로 849-20 (채운동)",
+        "restrntInqrTel": " 041 3529252",
+        "restrntDtlAddr": "충청남도 당진시 채운동 123-41 ",
+        "foodType": null,
+        "mapLat": "36.02072895916496",
+        "mapLot": "129.36024717214943"
+    },
+    {
+        "restrntNm": "한일관",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3635413",
+        "restrntDtlAddr": "충청남도 당진시 신평면 금천리 803-5 ",
+        "foodType": null,
+        "mapLat": "34.7324624205951",
+        "mapLot": "127.726180909841"
+    },
+    {
+        "restrntNm": "대덕보신정",
+        "restrntAddr": "충청남도 당진시 아미로 793 (대덕동)",
+        "restrntInqrTel": " 041 3543320",
+        "restrntDtlAddr": "충청남도 당진시 대덕동 1152-11 ",
+        "foodType": null,
+        "mapLat": "36.3498941152574",
+        "mapLot": "127.442008001608"
+    },
+    {
+        "restrntNm": "들녘레스토랑",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3526474",
+        "restrntDtlAddr": "충청남도 당진시 행정동 452-2 ",
+        "foodType": null,
+        "mapLat": "36.8755034315047",
+        "mapLot": "126.609393690788"
+    },
+    {
+        "restrntNm": "7080 아메리카 라이브",
+        "restrntAddr": "충청남도 당진시 당진중앙2로 88 (읍내동)",
+        "restrntInqrTel": " 041 3552077",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 531-12 ",
+        "foodType": null,
+        "mapLat": "36.89339074003077",
+        "mapLot": "126.63013469643677"
+    },
+    {
+        "restrntNm": "어업인쎈타",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3568050",
+        "restrntDtlAddr": "충청남도 당진시 송악읍 한진리 106-3 ",
+        "foodType": null,
+        "mapLat": "33.414773518033684",
+        "mapLot": "126.26011556396304"
+    },
+    {
+        "restrntNm": "우렁이농장",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3634225",
+        "restrntDtlAddr": "충청남도 당진시 합덕읍 운산리 649 ",
+        "foodType": null,
+        "mapLat": "35.2776489932741",
+        "mapLot": "128.296518514125"
+    },
+    {
+        "restrntNm": "OB호프광장",
+        "restrntAddr": "충청남도 당진시 당진중앙3로 72 (읍내동)",
+        "restrntInqrTel": " 041 3552126",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 541-3 ",
+        "foodType": null,
+        "mapLat": "37.544541339498",
+        "mapLot": "127.057366004478"
+    },
+    {
+        "restrntNm": "대아우렁촌식당",
+        "restrntAddr": "충청남도 당진시 신평면 서해로 7437",
+        "restrntInqrTel": " 041 3636199",
+        "restrntDtlAddr": "충청남도 당진시 신평면 도성리 499-5 ",
+        "foodType": null,
+        "mapLat": "36.8797078040419",
+        "mapLot": "126.802278689938"
+    },
+    {
+        "restrntNm": "미림회관",
+        "restrntAddr": "충청남도 당진시 면천면 옥수로 383-33",
+        "restrntInqrTel": " 041 3569433",
+        "restrntDtlAddr": "충청남도 당진시 면천면 문봉리 430-4 ",
+        "foodType": null,
+        "mapLat": "36.8036604447397",
+        "mapLot": "126.692954300686"
+    },
+    {
+        "restrntNm": "황토자라가든",
+        "restrntAddr": "충청남도 당진시 서해로 6117-31 (시곡동)",
+        "restrntInqrTel": " 041 3554750",
+        "restrntDtlAddr": "충청남도 당진시 시곡동 700-1 ",
+        "foodType": null,
+        "mapLat": "36.90327858026044",
+        "mapLot": "126.66737178866596"
+    },
+    {
+        "restrntNm": "반도회관 당진점",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3542005",
+        "restrntDtlAddr": "충청남도 당진시 우두동 209-3 ",
+        "foodType": null,
+        "mapLat": "36.7632867100762",
+        "mapLot": "126.496124685848"
+    },
+    {
+        "restrntNm": "행복한찜닭 당진본점",
+        "restrntAddr": "충청남도 당진시 송악읍 송악로 9-10",
+        "restrntInqrTel": " 041 3634562",
+        "restrntDtlAddr": "충청남도 당진시 송악읍 기지시리 333-5 오른쪽 첫번째 ",
+        "foodType": null,
+        "mapLat": "36.8992464140227",
+        "mapLot": "126.705348724551"
+    },
+    {
+        "restrntNm": "마산아구찜",
+        "restrntAddr": "충청남도 당진시 신평면 거산3거리길 39",
+        "restrntInqrTel": " 041 3638289",
+        "restrntDtlAddr": "충청남도 당진시 신평면 거산리 12-24 ",
+        "foodType": null,
+        "mapLat": "37.52336940841829",
+        "mapLot": "126.89715252409802"
+    },
+    {
+        "restrntNm": "우리집한식",
+        "restrntAddr": "충청남도 당진시 송악읍 북부산업로 1227",
+        "restrntInqrTel": " 041 3565511",
+        "restrntDtlAddr": "충청남도 당진시 송악읍 고대리 39-16 ",
+        "foodType": null,
+        "mapLat": "35.1800175939334",
+        "mapLot": "129.080485010742"
+    },
+    {
+        "restrntNm": "제주목장",
+        "restrntAddr": "충청남도 당진시 합덕읍 버그내1길 193-1",
+        "restrntInqrTel": "041 362 3383",
+        "restrntDtlAddr": "충청남도 당진시 합덕읍 운산리 257-18 ",
+        "foodType": null,
+        "mapLat": "33.4119057359833",
+        "mapLot": "126.674075927907"
+    },
+    {
+        "restrntNm": "고맛참",
+        "restrntAddr": "충청남도 당진시 계성3길 44-47",
+        "restrntInqrTel": " 041353 3355",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 304-59 ",
+        "foodType": null,
+        "mapLat": "36.8999882574099",
+        "mapLot": "126.63441011643667"
+    },
+    {
+        "restrntNm": "시골한우",
+        "restrntAddr": "충청남도 당진시 송악읍 신복운로4길 6-41",
+        "restrntInqrTel": " 041 3577861",
+        "restrntDtlAddr": "충청남도 당진시 송악읍 복운리 1649-4 ",
+        "foodType": null,
+        "mapLat": "36.5650380315046",
+        "mapLot": "128.732236450709"
+    },
+    {
+        "restrntNm": "송산바다사랑",
+        "restrntAddr": null,
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 당진시 송산면 가곡리 38-17 ",
+        "foodType": null,
+        "mapLat": "37.205932540561",
+        "mapLot": "126.644686566944"
+    },
+    {
+        "restrntNm": "칠복칼국수",
+        "restrntAddr": "충청남도 당진시 신평면 거산3거리길 67",
+        "restrntInqrTel": " 041363 8985",
+        "restrntDtlAddr": "충청남도 당진시 신평면 거산리 15-41 ",
+        "foodType": null,
+        "mapLat": "36.8836122816256",
+        "mapLot": "126.756205557532"
+    },
+    {
+        "restrntNm": "이삭",
+        "restrntAddr": null,
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 당진시 읍내동 488-3 ",
+        "foodType": null,
+        "mapLat": "37.6725028334541",
+        "mapLot": "126.75165972022775"
+    },
+    {
+        "restrntNm": "인디아나",
+        "restrntAddr": "충청남도 당진시 아미로 643 (대덕동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 당진시 대덕동 633-3 ",
+        "foodType": null,
+        "mapLat": "37.5213423180753",
+        "mapLot": "127.039995351841"
+    },
+    {
+        "restrntNm": "해바라기갈비",
+        "restrntAddr": "충청남도 당진시 당진중앙3로 26 (읍내동)",
+        "restrntInqrTel": "     3565615",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 633-2 ",
+        "foodType": null,
+        "mapLat": "35.8970552637016",
+        "mapLot": "128.616618563304"
+    },
+    {
+        "restrntNm": "해송",
+        "restrntAddr": "충청남도 당진시 교동2길 83-15 (읍내동)",
+        "restrntInqrTel": " 041 3570333",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 61-4 ",
+        "foodType": null,
+        "mapLat": "37.3031743540586",
+        "mapLot": "127.933036299203"
+    },
+    {
+        "restrntNm": "황소고집",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3561707",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 499-1 ",
+        "foodType": null,
+        "mapLat": "37.34647426310713",
+        "mapLot": "127.09258948147175"
+    },
+    {
+        "restrntNm": "김밥천국(명동점)",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3573769",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 489-19 ",
+        "foodType": null,
+        "mapLat": "37.5605559793197",
+        "mapLot": "126.984476082338"
+    },
+    {
+        "restrntNm": "태공수산",
+        "restrntAddr": "충청남도 당진시 석문면 왜목길 35",
+        "restrntInqrTel": " 041 3536545",
+        "restrntDtlAddr": "충청남도 당진시 석문면 교로리 844-9번지 ",
+        "foodType": null,
+        "mapLat": "37.045031806763944",
+        "mapLot": "126.52662692408747"
+    },
+    {
+        "restrntNm": "용궁",
+        "restrntAddr": "충청남도 당진시 정미면 산동로 371-9",
+        "restrntInqrTel": " 041 3557222",
+        "restrntDtlAddr": "충청남도 당진시 정미면 모평리 355 ",
+        "foodType": "한식",
+        "mapLat": "34.9274561172337",
+        "mapLot": "128.070844390285"
+    },
+    {
+        "restrntNm": "지중해",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3570877",
+        "restrntDtlAddr": "충청남도 당진시 송산면 가곡리 12-41 ",
+        "foodType": null,
+        "mapLat": "35.1501031587968",
+        "mapLot": "128.5905381902459"
+    },
+    {
+        "restrntNm": "건강한두부마을 율촌칡냉면",
+        "restrntAddr": "충청남도 당진시 계성2길 17 (읍내동)",
+        "restrntInqrTel": " 041 3555756",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 277-17 ",
+        "foodType": null,
+        "mapLat": "36.8969633232564",
+        "mapLot": "126.631794742138"
+    },
+    {
+        "restrntNm": "천석회관",
+        "restrntAddr": "충청남도 당진시 우강면 평야1로 743",
+        "restrntInqrTel": " 041 3623008",
+        "restrntDtlAddr": "충청남도 당진시 우강면 내경리 190-4 ",
+        "foodType": null,
+        "mapLat": "36.8101533997848",
+        "mapLot": "126.83285465117"
+    },
+    {
+        "restrntNm": "대덕동갈비",
+        "restrntAddr": "충청남도 당진시 아미로 685 (대덕동)",
+        "restrntInqrTel": "041 356 2055",
+        "restrntDtlAddr": "충청남도 당진시 대덕동 1019-3 ",
+        "foodType": null,
+        "mapLat": "36.9782298711541",
+        "mapLot": "126.922082997809"
+    },
+    {
+        "restrntNm": "예당비빔국수",
+        "restrntAddr": "충청남도 당진시 무수동7길 111",
+        "restrntInqrTel": "041 352 8554",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 1049 ",
+        "foodType": null,
+        "mapLat": "36.8917872064503",
+        "mapLot": "126.639950802141"
+    },
+    {
+        "restrntNm": "은송횟집",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3537059",
+        "restrntDtlAddr": "충청남도 당진시 석문면 장고항리 110-10 ",
+        "foodType": null,
+        "mapLat": "34.948316098002",
+        "mapLot": "127.860497202935"
+    },
+    {
+        "restrntNm": "소우리생고기숯불굼터",
+        "restrntAddr": "충청남도 당진시 신평면 신평로 812-28",
+        "restrntInqrTel": " 041 3627946",
+        "restrntDtlAddr": "충청남도 당진시 신평면 금천리 361-8 ",
+        "foodType": null,
+        "mapLat": "36.8840603552744",
+        "mapLot": "126.775053930372"
+    },
+    {
+        "restrntNm": "용인토종순대국",
+        "restrntAddr": "충청남도 당진시 서부로 51 (채운동)",
+        "restrntInqrTel": " 041 3530080",
+        "restrntDtlAddr": "충청남도 당진시 채운동 214-1 ",
+        "foodType": "한식",
+        "mapLat": "36.2870157498795",
+        "mapLot": "127.236738264561"
+    },
+    {
+        "restrntNm": "시골장터순대국",
+        "restrntAddr": "충청남도 당진시 송악읍 신복운로4길 6-15",
+        "restrntInqrTel": " 041 3572808",
+        "restrntDtlAddr": "충청남도 당진시 송악읍 복운리 1648-5 ",
+        "foodType": null,
+        "mapLat": "37.268856844318236",
+        "mapLot": "126.97610411828849"
+    },
+    {
+        "restrntNm": "등대",
+        "restrntAddr": "충청남도 당진시 천변1길 224-14 (주)신화건설 (대덕동)",
+        "restrntInqrTel": " 041 3580369",
+        "restrntDtlAddr": "충청남도 당진시 대덕동 1689 (주)신화건설 ",
+        "foodType": null,
+        "mapLat": "35.80722828526161",
+        "mapLot": "129.5113556677616"
+    },
+    {
+        "restrntNm": "거북선",
+        "restrntAddr": "충청남도 당진시 송악읍 신복운로4길 6-33",
+        "restrntInqrTel": " 041 3587114",
+        "restrntDtlAddr": "충청남도 당진시 송악읍 복운리 1649-1 ",
+        "foodType": null,
+        "mapLat": "37.5290106583394",
+        "mapLot": "126.847962326067"
+    },
+    {
+        "restrntNm": "전라도싱싱횟집",
+        "restrntAddr": "충청남도 당진시 신평면 삽교천3길 10-15",
+        "restrntInqrTel": "041 363 3263",
+        "restrntDtlAddr": "충청남도 당진시 신평면 운정리 963-1 ",
+        "foodType": null,
+        "mapLat": "36.8905825184636",
+        "mapLot": "126.823018168981"
+    },
+    {
+        "restrntNm": "밀사랑해물손칼국수",
+        "restrntAddr": "충청남도 당진시 밤절로 42-77 (원당동)",
+        "restrntInqrTel": " 041 3559333",
+        "restrntDtlAddr": "충청남도 당진시 원당동 1197 ",
+        "foodType": "분식",
+        "mapLat": "36.9012069015245",
+        "mapLot": "126.640436131496"
+    },
+    {
+        "restrntNm": "설악웨딩타운(주)",
+        "restrntAddr": "충청남도 당진시 남부로 122 (채운동)",
+        "restrntInqrTel": " 041 3557744",
+        "restrntDtlAddr": "충청남도 당진시 채운동 30-24 ",
+        "foodType": null,
+        "mapLat": "36.88398665866708",
+        "mapLot": "126.6297605293049"
+    },
+    {
+        "restrntNm": "벌떼해장국",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 3552677",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 19-16 ",
+        "foodType": null,
+        "mapLat": "36.8923457814688",
+        "mapLot": "126.639916766556"
+    },
+    {
+        "restrntNm": "하나비",
+        "restrntAddr": "충청남도 당진시 무수동로 246 (읍내동)",
+        "restrntInqrTel": "041 358 0078",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 743 ",
+        "foodType": null,
+        "mapLat": "35.1545100472592",
+        "mapLot": "126.8532073388"
+    },
+    {
+        "restrntNm": "다오리",
+        "restrntAddr": "충청남도 당진시 무수동7길 216-13 (읍내동)",
+        "restrntInqrTel": "041 352 5233",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 842 ",
+        "foodType": null,
+        "mapLat": "37.56708111451415",
+        "mapLot": "127.0001131909577"
+    },
+    {
+        "restrntNm": "한나루갈비",
+        "restrntAddr": "충청남도 당진시 송악읍 한진포구길 39-10",
+        "restrntInqrTel": "041 358 3380",
+        "restrntDtlAddr": "충청남도 당진시 송악읍 한진리 103-1 ",
+        "foodType": null,
+        "mapLat": "36.9707481407254",
+        "mapLot": "126.780391710564"
+    },
+    {
+        "restrntNm": "남원골추어탕",
+        "restrntAddr": "충청남도 당진시 먹거리길 10-25 (채운동)",
+        "restrntInqrTel": "041 357 8999",
+        "restrntDtlAddr": "충청남도 당진시 채운동 1087 ",
+        "foodType": null,
+        "mapLat": "37.011815281099715",
+        "mapLot": "127.11148576070461"
+    },
+    {
+        "restrntNm": "통큰할매순대국",
+        "restrntAddr": "충청남도 당진시 시장중앙길 27 (채운동)",
+        "restrntInqrTel": "0413572100",
+        "restrntDtlAddr": "충청남도 당진시 채운동 1105 ",
+        "foodType": null,
+        "mapLat": "36.815264058371",
+        "mapLot": "128.621532011064"
+    },
+    {
+        "restrntNm": "서원갈비",
+        "restrntAddr": "충청남도 당진시 우강면 면천로 1681",
+        "restrntInqrTel": "041 362 9089",
+        "restrntDtlAddr": "충청남도 당진시 우강면 423-2 ",
+        "foodType": null,
+        "mapLat": "37.61738938889809",
+        "mapLot": "126.83344067574119"
+    },
+    {
+        "restrntNm": "김영희강남동태찜",
+        "restrntAddr": "충청남도 당진시 송악읍 틀모시로 784",
+        "restrntInqrTel": "0413534566",
+        "restrntDtlAddr": "충청남도 당진시 송악읍 기지시리 324-2 ",
+        "foodType": null,
+        "mapLat": "37.4859708042405",
+        "mapLot": "126.983139229708"
+    },
+    {
+        "restrntNm": "청하식당",
+        "restrntAddr": "충청남도 당진시 반촌로 22, 1층 (시곡동)",
+        "restrntInqrTel": "041 358 7005",
+        "restrntDtlAddr": "충청남도 당진시 시곡동 98-14 ",
+        "foodType": "한식",
+        "mapLat": "34.725076629277304",
+        "mapLot": "126.5679745565924"
+    },
+    {
+        "restrntNm": "소들곱창",
+        "restrntAddr": "충청남도 당진시 먹거리길 120-28 (대덕동)",
+        "restrntInqrTel": "041 357 9202",
+        "restrntDtlAddr": "충청남도 당진시 대덕동 1633 ",
+        "foodType": null,
+        "mapLat": "36.8092710685201",
+        "mapLot": "126.77628598338923"
+    },
+    {
+        "restrntNm": "놀부부대찌개&철판구이",
+        "restrntAddr": "충청남도 당진시 계성3길 38 (읍내동)",
+        "restrntInqrTel": " 041358 8281",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 299-110 2층 ",
+        "foodType": "한식",
+        "mapLat": "37.5008652258996",
+        "mapLot": "127.02720402205607"
+    },
+    {
+        "restrntNm": "본가 건하은칼국수",
+        "restrntAddr": "충청남도 당진시 먹거리길 120-28 (대덕동)",
+        "restrntInqrTel": "041 358 6263",
+        "restrntDtlAddr": "충청남도 당진시 대덕동 1633 ",
+        "foodType": "분식",
+        "mapLat": "36.8858582347678",
+        "mapLot": "126.636474243009"
+    },
+    {
+        "restrntNm": "아리랑한정식",
+        "restrntAddr": "충청남도 당진시 반촌로 20 (시곡동)",
+        "restrntInqrTel": "041 385 7783",
+        "restrntDtlAddr": "충청남도 당진시 시곡동 98-16 ",
+        "foodType": "한식",
+        "mapLat": "35.1595934587477",
+        "mapLot": "126.84433865265"
+    },
+    {
+        "restrntNm": "팔각정횟집",
+        "restrntAddr": "충청남도 당진시 송악읍 한진포구길 55-13",
+        "restrntInqrTel": "041 357 8764",
+        "restrntDtlAddr": "충청남도 당진시 송악읍 한진리 95-3 ",
+        "foodType": null,
+        "mapLat": "36.97150818548842",
+        "mapLot": "126.78258392177733"
+    },
+    {
+        "restrntNm": "고바우식당",
+        "restrntAddr": "충청남도 당진시 신평면 삽교천길 41",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 당진시 신평면 운정리 336 ",
+        "foodType": null,
+        "mapLat": "36.0399150228211",
+        "mapLot": "129.364343239356"
+    },
+    {
+        "restrntNm": "행복푸드",
+        "restrntAddr": "충청남도 당진시 무수동1길 25-26",
+        "restrntInqrTel": "041 357 3206",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 1125 ",
+        "foodType": "한식",
+        "mapLat": "36.0866127072372",
+        "mapLot": "129.38517907507"
+    },
+    {
+        "restrntNm": "원당풍천장어",
+        "restrntAddr": "충청남도 당진시 고실1길 41-10 (수청동)",
+        "restrntInqrTel": "041 352 9925",
+        "restrntDtlAddr": "충청남도 당진시 수청동 438-7 ",
+        "foodType": null,
+        "mapLat": "36.903581515223",
+        "mapLot": "126.649867968256"
+    },
+    {
+        "restrntNm": "수참치",
+        "restrntAddr": "충청남도 당진시 밤절로 146, 2층 201,202호 (수청동, 원당그린상가)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 당진시 수청동 982 원당그린상가2층 201,202호 ",
+        "foodType": null,
+        "mapLat": "35.2193779374472",
+        "mapLot": "128.681595885118"
+    },
+    {
+        "restrntNm": "나주곰탕",
+        "restrntAddr": "충청남도 당진시 송악읍 북부산업로 1038",
+        "restrntInqrTel": "041 357 7782",
+        "restrntDtlAddr": "충청남도 당진시 송악읍 한진리 193-30 ",
+        "foodType": null,
+        "mapLat": "35.1374318331753",
+        "mapLot": "126.792133331615"
+    },
+    {
+        "restrntNm": "담쟝동치미냉면",
+        "restrntAddr": "충청남도 당진시 먹거리길 120-14 (대덕동)",
+        "restrntInqrTel": "041 357 5064",
+        "restrntDtlAddr": "충청남도 당진시 대덕동 1638 ",
+        "foodType": null,
+        "mapLat": "36.8861361247164",
+        "mapLot": "126.636589589761"
+    },
+    {
+        "restrntNm": "거북이횟집",
+        "restrntAddr": "충청남도 당진시 석문면 석문해안로 19-22",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 당진시 석문면 교로리 786 ",
+        "foodType": null,
+        "mapLat": "35.3258066866804",
+        "mapLot": "128.999774116654"
+    },
+    {
+        "restrntNm": "한가네감자탕",
+        "restrntAddr": "충청남도 당진시 신평면 신평길 108",
+        "restrntInqrTel": "041 363 8555",
+        "restrntDtlAddr": "충청남도 당진시 신평면 금천리 317-44 ",
+        "foodType": "한식",
+        "mapLat": "36.7943097295873",
+        "mapLot": "127.131521384295"
+    },
+    {
+        "restrntNm": "아미일식",
+        "restrntAddr": "충청남도 당진시 무수동로 250, 2층 (읍내동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 당진시 읍내동 742 2층 ",
+        "foodType": null,
+        "mapLat": "36.8966162638555",
+        "mapLot": "126.637316278445"
+    },
+    {
+        "restrntNm": "허리우드",
+        "restrntAddr": "충청남도 당진시 청룡길 25 (대덕동)",
+        "restrntInqrTel": "041 358 3352",
+        "restrntDtlAddr": "충청남도 당진시 대덕동 1479 매직터치 ",
+        "foodType": null,
+        "mapLat": "37.5077948283047",
+        "mapLot": "126.96001640121"
+    },
+    {
+        "restrntNm": "장어가",
+        "restrntAddr": "충청남도 당진시 송악읍 송악로 184",
+        "restrntInqrTel": "041 352 4846",
+        "restrntDtlAddr": "충청남도 당진시 송악읍 가학리 312-2 ",
+        "foodType": null,
+        "mapLat": "37.40231317530771",
+        "mapLot": "126.95981500529099"
+    },
+    {
+        "restrntNm": "동가",
+        "restrntAddr": "충청남도 당진시 담들기길 14-5 (대덕동)",
+        "restrntInqrTel": "041 355 0445",
+        "restrntDtlAddr": "충청남도 당진시 대덕동 1186-5 ",
+        "foodType": null,
+        "mapLat": "36.879978472089284",
+        "mapLot": "126.63059197659295"
+    },
+    {
+        "restrntNm": "장수옥설렁탕",
+        "restrntAddr": "충청남도 당진시 서해로 6298-1 (시곡동)",
+        "restrntInqrTel": "041 358 7892",
+        "restrntDtlAddr": "충청남도 당진시 시곡동 85-2 ",
+        "foodType": null,
+        "mapLat": "37.6529038620312",
+        "mapLot": "127.128846061388"
+    },
+    {
+        "restrntNm": "화덕생선구이",
+        "restrntAddr": "충청남도 당진시 천변1길 218-2 (대덕동)",
+        "restrntInqrTel": "041 353 3882",
+        "restrntDtlAddr": "충청남도 당진시 대덕동 1686 ",
+        "foodType": null,
+        "mapLat": "36.5024361811346",
+        "mapLot": "127.223292398897"
+    },
+    {
+        "restrntNm": "소담푸드",
+        "restrntAddr": "충청남도 당진시 계성2길 11 (읍내동)",
+        "restrntInqrTel": "041 353 8080",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 277-2 ",
+        "foodType": null,
+        "mapLat": "35.9517317146977",
+        "mapLot": "128.415076624892"
+    },
+    {
+        "restrntNm": "신벌떼해장국",
+        "restrntAddr": "충청남도 당진시 무수동7길 123 (읍내동)",
+        "restrntInqrTel": "041 355 3282",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 1041 ",
+        "foodType": null,
+        "mapLat": "36.8923457814688",
+        "mapLot": "126.639916766556"
+    },
+    {
+        "restrntNm": "현대옥당진시청점",
+        "restrntAddr": "충청남도 당진시 무수동1길 25-60 (읍내동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 당진시 읍내동 1116 ",
+        "foodType": null,
+        "mapLat": "36.8892065326617",
+        "mapLot": "126.638782770978"
+    },
+    {
+        "restrntNm": "정동진횟집",
+        "restrntAddr": "충청남도 당진시 무수동로 12 (대덕동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 당진시 대덕동 1708 ",
+        "foodType": null,
+        "mapLat": "37.4262362499334",
+        "mapLot": "126.651402904597"
+    },
+    {
+        "restrntNm": "고메샤브",
+        "restrntAddr": "충청남도 당진시 시청1로 33 (수청동, 상야빌딩 302호)",
+        "restrntInqrTel": "041 357 3080",
+        "restrntDtlAddr": "충청남도 당진시 수청동 1008 상야빌딩 302호 ",
+        "foodType": null,
+        "mapLat": "36.8907322122205",
+        "mapLot": "126.643900141943"
+    },
+    {
+        "restrntNm": "돈가스클럽",
+        "restrntAddr": "충청남도 당진시 서부로 61-3 (채운동)",
+        "restrntInqrTel": "041 352 2800",
+        "restrntDtlAddr": "충청남도 당진시 채운동 214-2 ",
+        "foodType": null,
+        "mapLat": "37.787681595870126",
+        "mapLot": "127.08944873141037"
+    },
+    {
+        "restrntNm": "숯불왕꼼장어",
+        "restrntAddr": "충청남도 당진시 신평면 신평길 91",
+        "restrntInqrTel": "041 362 9960",
+        "restrntDtlAddr": "충청남도 당진시 신평면 금천리 342-28 ",
+        "foodType": "한식",
+        "mapLat": "36.8832137010329",
+        "mapLot": "126.773355867486"
+    },
+    {
+        "restrntNm": "롯대정육식당",
+        "restrntAddr": "충청남도 당진시 대덕1로1길 20-30, 1층 (대덕동)",
+        "restrntInqrTel": "041 355 5629",
+        "restrntDtlAddr": "충청남도 당진시 대덕동 1775 1층 ",
+        "foodType": null,
+        "mapLat": "36.8847263683956",
+        "mapLot": "126.635268118237"
+    },
+    {
+        "restrntNm": "갈비명가",
+        "restrntAddr": "충청남도 당진시 면천면 성하로 271",
+        "restrntInqrTel": "041 356 2138",
+        "restrntDtlAddr": "충청남도 당진시 면천면 성상리 970-5 ",
+        "foodType": null,
+        "mapLat": "37.4952873268005",
+        "mapLot": "126.88963148337"
+    },
+    {
+        "restrntNm": "요남자",
+        "restrntAddr": "충청남도 당진시 시청1로 33 (수청동, 2층)",
+        "restrntInqrTel": "041 354 7999",
+        "restrntDtlAddr": "충청남도 당진시 수청동 1008 2층 ",
+        "foodType": null,
+        "mapLat": "35.9507168791505",
+        "mapLot": "126.938785028215"
+    },
+    {
+        "restrntNm": "당진냉면갈비",
+        "restrntAddr": "충청남도 당진시 남부로 252 (수청동, 1,2층)",
+        "restrntInqrTel": "041 355 8181",
+        "restrntDtlAddr": "충청남도 당진시 수청동 1073 1,2층 ",
+        "foodType": null,
+        "mapLat": "36.8856952023389",
+        "mapLot": "126.644538262749"
+    },
+    {
+        "restrntNm": "북경차이나",
+        "restrntAddr": "충청남도 당진시 정안로 12 (원당동)",
+        "restrntInqrTel": "041 355 0550",
+        "restrntDtlAddr": "충청남도 당진시 원당동 797-3 ",
+        "foodType": null,
+        "mapLat": "36.9069561360677",
+        "mapLot": "126.645321602932"
+    },
+    {
+        "restrntNm": "한근에한근더",
+        "restrntAddr": "충청남도 당진시 신평면 거산3거리길 43",
+        "restrntInqrTel": "041 362 3617",
+        "restrntDtlAddr": "충청남도 당진시 신평면 거산리 12-8 ",
+        "foodType": null,
+        "mapLat": "35.9209312705028",
+        "mapLot": "128.641880350284"
+    },
+    {
+        "restrntNm": "스시윤",
+        "restrntAddr": "충청남도 당진시 신평면 거산3거리길 67-1",
+        "restrntInqrTel": "041 363 7779",
+        "restrntDtlAddr": "충청남도 당진시 신평면 거산리 15-49 ",
+        "foodType": null,
+        "mapLat": "37.50628306964464",
+        "mapLot": "127.09827179421353"
+    },
+    {
+        "restrntNm": "소바애",
+        "restrntAddr": "충청남도 당진시 무수동옛길 78-14 (읍내동, 1층)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 당진시 읍내동 1246-1 1층 ",
+        "foodType": null,
+        "mapLat": "37.50368462025882",
+        "mapLot": "126.80462817751852"
+    },
+    {
+        "restrntNm": "무한장어",
+        "restrntAddr": "충청남도 당진시 먹거리길 99 (대덕동, 1층)",
+        "restrntInqrTel": "041 354 2555",
+        "restrntDtlAddr": "충청남도 당진시 대덕동 1587 2층 ",
+        "foodType": "한식",
+        "mapLat": "37.50653804081709",
+        "mapLot": "127.04701319183526"
+    },
+    {
+        "restrntNm": "그집감자탕",
+        "restrntAddr": "충청남도 당진시 서부로 51 (채운동, 1층)",
+        "restrntInqrTel": "041 356 1833",
+        "restrntDtlAddr": "충청남도 당진시 채운동 214-1 1층 ",
+        "foodType": null,
+        "mapLat": "36.779968210039",
+        "mapLot": "126.999283053722"
+    },
+    {
+        "restrntNm": "해화가든",
+        "restrntAddr": "충청남도 당진시 송산로 270-9 (원당동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 당진시 원당동 603-5 ",
+        "foodType": null,
+        "mapLat": "36.92094974662895",
+        "mapLot": "126.65283669199901"
+    },
+    {
+        "restrntNm": "천하일품",
+        "restrntAddr": "충청남도 당진시 당진시장북길 21 (읍내동)",
+        "restrntInqrTel": "0413581259",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 660-10 ",
+        "foodType": null,
+        "mapLat": "33.4876367234159",
+        "mapLot": "126.492688695786"
+    },
+    {
+        "restrntNm": "흑돈",
+        "restrntAddr": "충청남도 당진시 북문로1길 31-5 (읍내동)",
+        "restrntInqrTel": "041 357 9235",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 1578 ",
+        "foodType": null,
+        "mapLat": "36.0899255865715",
+        "mapLot": "129.407336037262"
+    },
+    {
+        "restrntNm": "전주콩뿌리콩나물국밥",
+        "restrntAddr": "충청남도 당진시 북문로1길 41-17 (읍내동)",
+        "restrntInqrTel": "041 358 9963",
+        "restrntDtlAddr": "충청남도 당진시 읍내동 1530 101호",
+        "foodType": null,
+        "mapLat": "37.4568219199883",
+        "mapLot": "126.879077294111"
+    },
+    {
+        "restrntNm": "우렁이박사",
+        "restrntAddr": "충청남도 당진시 신평면 샛터로 7-1",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 당진시 신평면 도성리 499-11 ",
+        "foodType": "한식",
+        "mapLat": "36.87993128030061",
+        "mapLot": "126.80282325274621"
+    },
+    {
+        "restrntNm": "두리식당",
+        "restrntAddr": "충청남도 당진시 신평면 서해로 6861 ((8.9.10호))",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 당진시 신평면 거산리 457-9 (8.9.10호) ",
+        "foodType": null,
+        "mapLat": "37.5439668534769",
+        "mapLot": "126.970552282378"
+    }
+]

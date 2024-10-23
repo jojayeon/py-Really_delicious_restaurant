@@ -1,0 +1,1613 @@
+[
+    {
+        "restrntNm": "매향밤막국수",
+        "restrntAddr": "충청남도 공주시 백미고을길 18 (금성동)",
+        "restrntInqrTel": " 041 8813161",
+        "restrntDtlAddr": "충청남도 공주시 금성동 178-6 ",
+        "foodType": "면류",
+        "mapLat": "36.465590515416686",
+        "mapLot": "127.12163237061982"
+    },
+    {
+        "restrntNm": "고창애풍천장어",
+        "restrntAddr": "충청남도 공주시 창벽로 234-1 (소학동)",
+        "restrntInqrTel": " 041 8538844",
+        "restrntDtlAddr": "충청남도 공주시 소학동 23-3 ",
+        "foodType": null,
+        "mapLat": "36.4507634761664",
+        "mapLot": "127.160659783219"
+    },
+    {
+        "restrntNm": "나그네식당",
+        "restrntAddr": "충청남도 공주시 제민천1길 3-1 (봉황동)",
+        "restrntInqrTel": " 041 8552101",
+        "restrntDtlAddr": "충청남도 공주시 봉황동 360-3 ",
+        "foodType": "탕반류",
+        "mapLat": "33.4065199197459",
+        "mapLot": "126.817833045845"
+    },
+    {
+        "restrntNm": "풍미당",
+        "restrntAddr": "충청남도 공주시 무령로 222 (중동)",
+        "restrntInqrTel": " 041 8556442",
+        "restrntDtlAddr": "충청남도 공주시 중동 147-30 ",
+        "foodType": null,
+        "mapLat": "36.299686589433385",
+        "mapLot": "127.56776664041031"
+    },
+    {
+        "restrntNm": "계명식당",
+        "restrntAddr": "충청남도 공주시 반포면 동학사1로 282",
+        "restrntInqrTel": " 042 8254015",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 730-5 ",
+        "foodType": null,
+        "mapLat": "36.3581574850479",
+        "mapLot": "127.237363534413"
+    },
+    {
+        "restrntNm": "남해아구",
+        "restrntAddr": "충청남도 공주시 반포면 동학사1로 266-14",
+        "restrntInqrTel": " 042 8254029",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 730-10 ",
+        "foodType": null,
+        "mapLat": "34.5275874023065",
+        "mapLot": "127.138439545152"
+    },
+    {
+        "restrntNm": "마곡사서울식당",
+        "restrntAddr": "충청남도 공주시 사곡면 마곡상가길 10-3",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 공주시 사곡면 운암리 728-2 728-3 ",
+        "foodType": null,
+        "mapLat": "36.55619007705946",
+        "mapLot": "127.01968136183807"
+    },
+    {
+        "restrntNm": "카페씨앤디마운틴",
+        "restrntAddr": "충청남도 공주시 계룡면 갑사로 476-27",
+        "restrntInqrTel": " 041 8575144",
+        "restrntDtlAddr": "충청남도 공주시 계룡면 중장리 28 ",
+        "foodType": null,
+        "mapLat": "36.36905518405731",
+        "mapLot": "127.18026167020722"
+    },
+    {
+        "restrntNm": "추억의삼학",
+        "restrntAddr": "충청남도 공주시 사곡면 마곡사로 847",
+        "restrntInqrTel": "041 841 8023",
+        "restrntDtlAddr": "충청남도 공주시 사곡면 운암리 730-1 ",
+        "foodType": "한정식",
+        "mapLat": "36.5565146533506",
+        "mapLot": "127.018671681079"
+    },
+    {
+        "restrntNm": "태화식당",
+        "restrntAddr": "충청남도 공주시 사곡면 마곡상가길 10",
+        "restrntInqrTel": " 041 8418020",
+        "restrntDtlAddr": "충청남도 공주시 사곡면 운암리 728-5 ",
+        "foodType": "한정식",
+        "mapLat": "36.5564748159387",
+        "mapLot": "127.019828877253"
+    },
+    {
+        "restrntNm": "옛날어씨네집",
+        "restrntAddr": "충청남도 공주시 반포면 창벽로 720",
+        "restrntInqrTel": " 041 8530999",
+        "restrntDtlAddr": "충청남도 공주시 반포면 마암리 542-1 ",
+        "foodType": null,
+        "mapLat": "36.434267850868956",
+        "mapLot": "127.2098299979006"
+    },
+    {
+        "restrntNm": "귀빈식당",
+        "restrntAddr": "충청남도 공주시 사곡면 마곡상가길 12",
+        "restrntInqrTel": " 041 8418027",
+        "restrntDtlAddr": "충청남도 공주시 사곡면 운암리 728-6 ",
+        "foodType": "한정식",
+        "mapLat": "36.5563306431137",
+        "mapLot": "127.019761820902"
+    },
+    {
+        "restrntNm": "마곡사서울식당",
+        "restrntAddr": "충청남도 공주시 사곡면 마곡상가길 13-2",
+        "restrntInqrTel": " 041 8418016",
+        "restrntDtlAddr": "충청남도 공주시 사곡면 운암리 729-10 ",
+        "foodType": "한정식",
+        "mapLat": "36.55619007705946",
+        "mapLot": "127.01968136183807"
+    },
+    {
+        "restrntNm": "수정식당",
+        "restrntAddr": "충청남도 공주시 계룡면 갑사로 476-16, 1층",
+        "restrntInqrTel": " 041 8575164",
+        "restrntDtlAddr": "충청남도 공주시 계룡면 중장리 28-12 ",
+        "foodType": "한정식",
+        "mapLat": "35.32031860777005",
+        "mapLot": "128.26294548975298"
+    },
+    {
+        "restrntNm": "메아리식당",
+        "restrntAddr": "충청남도 공주시 계룡면 갑사로 476-11",
+        "restrntInqrTel": " 041 8570312",
+        "restrntDtlAddr": "충청남도 공주시 계룡면 중장리 28-11 ",
+        "foodType": "한정식",
+        "mapLat": "36.3696843074616",
+        "mapLot": "127.180194033918"
+    },
+    {
+        "restrntNm": "장순루",
+        "restrntAddr": "충청남도 공주시 계룡면 마방길 5-12",
+        "restrntInqrTel": " 041 8575010",
+        "restrntDtlAddr": "충청남도 공주시 계룡면 월암리 23-5 ",
+        "foodType": "면류",
+        "mapLat": "36.3593026950444",
+        "mapLot": "127.142903388913"
+    },
+    {
+        "restrntNm": "전라도군산식당",
+        "restrntAddr": "충청남도 공주시 반포면 동학사1로 295",
+        "restrntInqrTel": "042 825 7210",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 716-7 ",
+        "foodType": null,
+        "mapLat": "36.35731755733079",
+        "mapLot": "127.23601399033954"
+    },
+    {
+        "restrntNm": "신부산식당",
+        "restrntAddr": "충청남도 공주시 산성시장5길 78-29 (금성동)",
+        "restrntInqrTel": " 041 8522869",
+        "restrntDtlAddr": "충청남도 공주시 금성동 20-10 ",
+        "foodType": null,
+        "mapLat": "37.4816813104082",
+        "mapLot": "126.953617443677"
+    },
+    {
+        "restrntNm": "대전식당",
+        "restrntAddr": "충청남도 공주시 계룡면 갑사로 476-14, 1층",
+        "restrntInqrTel": " 041 8575145",
+        "restrntDtlAddr": "충청남도 공주시 계룡면 중장리 28-10 ",
+        "foodType": null,
+        "mapLat": "35.738332205641605",
+        "mapLot": "127.92437741181256"
+    },
+    {
+        "restrntNm": "훈개성만두",
+        "restrntAddr": "충청남도 공주시 무령로 485 (신관동)",
+        "restrntInqrTel": "041 858 5730",
+        "restrntDtlAddr": "충청남도 공주시 신관동 38-4 ",
+        "foodType": null,
+        "mapLat": "36.4691645898173",
+        "mapLot": "127.144229440726"
+    },
+    {
+        "restrntNm": "여수회가",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8529229",
+        "restrntDtlAddr": "충청남도 공주시 금성동 176-6 ",
+        "foodType": null,
+        "mapLat": "34.741530991084",
+        "mapLot": "127.752234027293"
+    },
+    {
+        "restrntNm": "양반찜갈비",
+        "restrntAddr": "충청남도 공주시 봉산길 20 (중동)",
+        "restrntInqrTel": " 041 8557590",
+        "restrntDtlAddr": "충청남도 공주시 중동 147-26 ",
+        "foodType": "찜, 조림류",
+        "mapLat": "36.45537228794995",
+        "mapLot": "127.1233231918492"
+    },
+    {
+        "restrntNm": "결성식당",
+        "restrntAddr": "충청남도 공주시 계룡면 양화새말길 33-1",
+        "restrntInqrTel": " 041 8529860",
+        "restrntDtlAddr": "충청남도 공주시 계룡면 양화리 47 ",
+        "foodType": null,
+        "mapLat": "36.527226757730894",
+        "mapLot": "126.54806608891923"
+    },
+    {
+        "restrntNm": "새이학가든",
+        "restrntAddr": "충청남도 공주시 금강공원길 15-2 (금성동)",
+        "restrntInqrTel": " 041 8557080",
+        "restrntDtlAddr": "충청남도 공주시 금성동 173-5 ",
+        "foodType": "국밥",
+        "mapLat": "36.4665292068051",
+        "mapLot": "127.121946233392"
+    },
+    {
+        "restrntNm": "금강회관",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8568900",
+        "restrntDtlAddr": "충청남도 공주시 금성동 174-5 ",
+        "foodType": null,
+        "mapLat": "36.136965677772",
+        "mapLot": "127.000319973261"
+    },
+    {
+        "restrntNm": "공주식당",
+        "restrntAddr": "충청남도 공주시 사곡면 마곡상가길 13-4",
+        "restrntInqrTel": " 041 8415913",
+        "restrntDtlAddr": "충청남도 공주시 사곡면 운암리 729-11 ",
+        "foodType": "한정식",
+        "mapLat": "34.7107041270062",
+        "mapLot": "128.047775236363"
+    },
+    {
+        "restrntNm": "명성불고기",
+        "restrntAddr": "충청남도 공주시 웅진로 200 (산성동)",
+        "restrntInqrTel": " 041 8553082",
+        "restrntDtlAddr": "충청남도 공주시 산성동 133-1 ",
+        "foodType": "식육조리",
+        "mapLat": "36.4581559734922",
+        "mapLot": "127.125065675344"
+    },
+    {
+        "restrntNm": "종로맥가",
+        "restrntAddr": "충청남도 공주시 흑수골길 24 (신관동)",
+        "restrntInqrTel": " 041 8562070",
+        "restrntDtlAddr": "충청남도 공주시 신관동 247-3 ",
+        "foodType": null,
+        "mapLat": "36.6494842330704",
+        "mapLot": "127.457062414978"
+    },
+    {
+        "restrntNm": "삼대째손두부",
+        "restrntAddr": "충청남도 공주시 전막3길 28 (신관동)",
+        "restrntInqrTel": " 041 8533339",
+        "restrntDtlAddr": "충청남도 공주시 신관동 586-8 ",
+        "foodType": "탕반류",
+        "mapLat": "37.268893719296486",
+        "mapLot": "127.10507652478218"
+    },
+    {
+        "restrntNm": "청죽일식",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8542753",
+        "restrntDtlAddr": "충청남도 공주시 산성동 170-9 ",
+        "foodType": null,
+        "mapLat": "35.11288997247237",
+        "mapLot": "129.01306329392168"
+    },
+    {
+        "restrntNm": "공주의남자",
+        "restrntAddr": "충청남도 공주시 금강공원길 15-4, 1층 (금성동)",
+        "restrntInqrTel": " 041 8560208",
+        "restrntDtlAddr": "충청남도 공주시 금성동 173-6 ",
+        "foodType": null,
+        "mapLat": "36.4663832756561",
+        "mapLot": "127.121890219869"
+    },
+    {
+        "restrntNm": "무조건회수산",
+        "restrntAddr": "충청남도 공주시 번영1로 7 (신관동)",
+        "restrntInqrTel": "041 857 6709",
+        "restrntDtlAddr": "충청남도 공주시 신관동 597-9 ",
+        "foodType": null,
+        "mapLat": "36.469248422905665",
+        "mapLot": "127.13091769843619"
+    },
+    {
+        "restrntNm": "남강일식",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8552417",
+        "restrntDtlAddr": "충청남도 공주시 금성동 178-7 ",
+        "foodType": null,
+        "mapLat": "34.80695795014566",
+        "mapLot": "126.46641899696962"
+    },
+    {
+        "restrntNm": "도토리묵촌",
+        "restrntAddr": "충청남도 공주시 관골1길 34-15 (신관동)",
+        "restrntInqrTel": " 041 8566963",
+        "restrntDtlAddr": "충청남도 공주시 신관동 643-7 ",
+        "foodType": null,
+        "mapLat": "35.8263493596091",
+        "mapLot": "127.17706535539104"
+    },
+    {
+        "restrntNm": "동학산장(사비성)",
+        "restrntAddr": "충청남도 공주시 반포면 동학사1로 266-4",
+        "restrntInqrTel": " 042 8254301",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 735-2 ",
+        "foodType": "전골류, 육류",
+        "mapLat": "36.3593451957419",
+        "mapLot": "127.238289671687"
+    },
+    {
+        "restrntNm": "슈엔챠이",
+        "restrntAddr": "충청남도 공주시 관골1길 34-6 (신관동)",
+        "restrntInqrTel": " 041 8564525",
+        "restrntDtlAddr": "충청남도 공주시 신관동 585-5 ",
+        "foodType": null,
+        "mapLat": "37.64799787003456",
+        "mapLot": "127.06228850715222"
+    },
+    {
+        "restrntNm": "고마나루1999",
+        "restrntAddr": "충청남도 공주시 백미고을길 5-8 (금성동)",
+        "restrntInqrTel": " 041 8579999",
+        "restrntDtlAddr": "충청남도 공주시 금성동 183-4 ",
+        "foodType": "한정식",
+        "mapLat": "36.46490993756712",
+        "mapLot": "127.12270793712241"
+    },
+    {
+        "restrntNm": "동화식당",
+        "restrntAddr": "충청남도 공주시 반포면 동학사1로 293",
+        "restrntInqrTel": " 042 8252261",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 716-1 ",
+        "foodType": null,
+        "mapLat": "37.5597510610485",
+        "mapLot": "126.976952051817"
+    },
+    {
+        "restrntNm": "명동회관",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8531365",
+        "restrntDtlAddr": "충청남도 공주시 중동 147-188 ",
+        "foodType": null,
+        "mapLat": "34.5762981528808",
+        "mapLot": "126.436287857421"
+    },
+    {
+        "restrntNm": "감나무가든",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8582445",
+        "restrntDtlAddr": "충청남도 공주시 신관동 598-7 ",
+        "foodType": null,
+        "mapLat": "35.9237964358147",
+        "mapLot": "127.058220269204"
+    },
+    {
+        "restrntNm": "무조건회센터",
+        "restrntAddr": "충청남도 공주시 번영1로 27 (신관동)",
+        "restrntInqrTel": "041 881 3888",
+        "restrntDtlAddr": "충청남도 공주시 신관동 586-4 ",
+        "foodType": null,
+        "mapLat": "36.469248422905665",
+        "mapLot": "127.13091769843619"
+    },
+    {
+        "restrntNm": "해상공원",
+        "restrntAddr": "충청남도 공주시 백미고을길 17-14 (금성동)",
+        "restrntInqrTel": " 041 8579595",
+        "restrntDtlAddr": "충청남도 공주시 금성동 180-6 ",
+        "foodType": "회정식",
+        "mapLat": "36.889841042162",
+        "mapLot": "126.826156518451"
+    },
+    {
+        "restrntNm": "자연농장",
+        "restrntAddr": "충청남도 공주시 반포면 사봉길 43",
+        "restrntInqrTel": " 042 8252162",
+        "restrntDtlAddr": "충청남도 공주시 반포면 온천리 340 ",
+        "foodType": null,
+        "mapLat": "37.6710165743213",
+        "mapLot": "127.128574730187"
+    },
+    {
+        "restrntNm": "고들식당",
+        "restrntAddr": "충청남도 공주시 반포면 계룡대로 1378, 1층",
+        "restrntInqrTel": " 042 8254242",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 222 ",
+        "foodType": null,
+        "mapLat": "36.3585256389645",
+        "mapLot": "127.252945006714"
+    },
+    {
+        "restrntNm": "농원",
+        "restrntAddr": "충청남도 공주시 반포면 동학사2로 46",
+        "restrntInqrTel": " 042 8251588",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 667 ",
+        "foodType": "식육조리",
+        "mapLat": "37.78732280039268",
+        "mapLot": "127.08360397968927"
+    },
+    {
+        "restrntNm": "신관한우가든",
+        "restrntAddr": "충청남도 공주시 번영2로 40-11 (신관동)",
+        "restrntInqrTel": " 041 8549269",
+        "restrntDtlAddr": "충청남도 공주시 신관동 602-12 ",
+        "foodType": "식육조리",
+        "mapLat": "36.47080752670732",
+        "mapLot": "127.13488016211889"
+    },
+    {
+        "restrntNm": "밤음식전문농가식당",
+        "restrntAddr": "충청남도 공주시 미나리3길 6-5 (금성동)",
+        "restrntInqrTel": "041 854 8338",
+        "restrntDtlAddr": "충청남도 공주시 금성동 192-3 ",
+        "foodType": null,
+        "mapLat": "36.4634574861992",
+        "mapLot": "127.122490326461"
+    },
+    {
+        "restrntNm": "가든이화",
+        "restrntAddr": "충청남도 공주시 사곡면 통천포길 277",
+        "restrntInqrTel": " 041 8548866",
+        "restrntDtlAddr": "충청남도 공주시 사곡면 신영리 7-19 ",
+        "foodType": null,
+        "mapLat": "36.4806006122537",
+        "mapLot": "127.04730093684"
+    },
+    {
+        "restrntNm": "역전할머니맥주공주대점",
+        "restrntAddr": "충청남도 공주시 번영2로 68-3 (신관동)",
+        "restrntInqrTel": " 041 8587624",
+        "restrntDtlAddr": "충청남도 공주시 신관동 656-2 ",
+        "foodType": null,
+        "mapLat": "36.4727533337875",
+        "mapLot": "127.136291661169"
+    },
+    {
+        "restrntNm": "딸부자집",
+        "restrntAddr": "충청남도 공주시 번영2로 68-5 (신관동)",
+        "restrntInqrTel": " 041 8566044",
+        "restrntDtlAddr": "충청남도 공주시 신관동 656-8 ",
+        "foodType": null,
+        "mapLat": "37.5443761388581",
+        "mapLot": "126.675514788829"
+    },
+    {
+        "restrntNm": "돈수레식당",
+        "restrntAddr": "충청남도 공주시 전막3길 35 (신관동)",
+        "restrntInqrTel": " 041 8564327",
+        "restrntDtlAddr": "충청남도 공주시 신관동 587-10 ",
+        "foodType": null,
+        "mapLat": "35.8552514078262",
+        "mapLot": "129.224745826902"
+    },
+    {
+        "restrntNm": "연기숯불갈비",
+        "restrntAddr": "충청남도 공주시 번영1로 80 (신관동)",
+        "restrntInqrTel": " 041 8562403",
+        "restrntDtlAddr": "충청남도 공주시 신관동 652-9 ",
+        "foodType": null,
+        "mapLat": "36.5460075177312",
+        "mapLot": "127.278665502267"
+    },
+    {
+        "restrntNm": "알마즈",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8557575",
+        "restrntDtlAddr": "충청남도 공주시 중동 117-7 ",
+        "foodType": null,
+        "mapLat": "35.8439338745578",
+        "mapLot": "128.585315654731"
+    },
+    {
+        "restrntNm": "고가네칼국수",
+        "restrntAddr": "충청남도 공주시 제민천3길 56 (중동)",
+        "restrntInqrTel": " 041 8566476",
+        "restrntDtlAddr": "충청남도 공주시 중동 187-5 ",
+        "foodType": "면류",
+        "mapLat": "36.45346438268725",
+        "mapLot": "127.12345849518721"
+    },
+    {
+        "restrntNm": "금촌숯불갈비",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8548440",
+        "restrntDtlAddr": "충청남도 공주시 금학동 236-13 ",
+        "foodType": null,
+        "mapLat": "35.8329204746578",
+        "mapLot": "128.727772657842"
+    },
+    {
+        "restrntNm": "배나무골",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8538300",
+        "restrntDtlAddr": "충청남도 공주시 사곡면 신영리 5-67 ",
+        "foodType": null,
+        "mapLat": "37.321273991047",
+        "mapLot": "126.977097282785"
+    },
+    {
+        "restrntNm": "공주삼계탕",
+        "restrntAddr": "충청남도 공주시 의당면 의당로 305",
+        "restrntInqrTel": " 041 8547100",
+        "restrntDtlAddr": "충청남도 공주시 의당면 청룡리 838 ",
+        "foodType": null,
+        "mapLat": "36.4977067983589",
+        "mapLot": "127.139111237741"
+    },
+    {
+        "restrntNm": "청남가든",
+        "restrntAddr": "충청남도 공주시 사곡면 운정길 78",
+        "restrntInqrTel": " 041 8417575",
+        "restrntDtlAddr": "충청남도 공주시 사곡면 운암리 576-1 ",
+        "foodType": null,
+        "mapLat": "36.55956099137",
+        "mapLot": "127.01551342946"
+    },
+    {
+        "restrntNm": "소담정",
+        "restrntAddr": "충청남도 공주시 백미고을길 5-1 (금성동)",
+        "restrntInqrTel": " 041 8582253",
+        "restrntDtlAddr": "충청남도 공주시 금성동 184-1 ",
+        "foodType": "한정식",
+        "mapLat": "37.5136770006576",
+        "mapLot": "127.108246497468"
+    },
+    {
+        "restrntNm": "공산성본가",
+        "restrntAddr": "충청남도 공주시 왕릉로 136 (금성동)",
+        "restrntInqrTel": " 041 8569393",
+        "restrntDtlAddr": "충청남도 공주시 금성동 190-1 ",
+        "foodType": "탕반류",
+        "mapLat": "36.4639552887663",
+        "mapLot": "127.122138559466"
+    },
+    {
+        "restrntNm": "우금치가든",
+        "restrntAddr": "충청남도 공주시 우금티로 431-61 (금학동)",
+        "restrntInqrTel": " 041 8527974",
+        "restrntDtlAddr": "충청남도 공주시 금학동 324-1 327-6 ",
+        "foodType": null,
+        "mapLat": "36.4559809882659",
+        "mapLot": "127.108016571425"
+    },
+    {
+        "restrntNm": "전통궁중칼국수",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8582397",
+        "restrntDtlAddr": "충청남도 공주시 월송동 179-5 ",
+        "foodType": null,
+        "mapLat": "36.4556491374507",
+        "mapLot": "127.156935014286"
+    },
+    {
+        "restrntNm": "녹수원글램핑",
+        "restrntAddr": "충청남도 공주시 유구읍 금계산로 919-13",
+        "restrntInqrTel": " 041 8416417",
+        "restrntDtlAddr": "충청남도 공주시 유구읍 덕곡리 11-7 ",
+        "foodType": null,
+        "mapLat": "36.6286471136047",
+        "mapLot": "126.969915924924"
+    },
+    {
+        "restrntNm": "오미돌솥쌈밥",
+        "restrntAddr": "충청남도 공주시 반포면 동학사1로 229-4 (,707-10)",
+        "restrntInqrTel": "004208255254",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 707-9 ,707-10 ",
+        "foodType": null,
+        "mapLat": "36.35962773342462",
+        "mapLot": "127.24209097234329"
+    },
+    {
+        "restrntNm": "이뭐꼬",
+        "restrntAddr": "충청남도 공주시 반포면 계룡대로 1407",
+        "restrntInqrTel": " 042 8258575",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 628-3 ",
+        "foodType": "면류",
+        "mapLat": "36.3606126252549",
+        "mapLot": "127.251302765735"
+    },
+    {
+        "restrntNm": "천하일품",
+        "restrntAddr": "충청남도 공주시 반포면 왕흥장악로 826",
+        "restrntInqrTel": " 041 8550288",
+        "restrntDtlAddr": "충청남도 공주시 반포면 마암리 593-4 ",
+        "foodType": null,
+        "mapLat": "33.4876367234159",
+        "mapLot": "126.492688695786"
+    },
+    {
+        "restrntNm": "한가위",
+        "restrntAddr": "충청남도 공주시 반포면 동학사1로 212-2",
+        "restrntInqrTel": "042 825 7111",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 695-2 ",
+        "foodType": "한식",
+        "mapLat": "35.5744398120412",
+        "mapLot": "129.356151476525"
+    },
+    {
+        "restrntNm": "텃밭식당",
+        "restrntAddr": "충청남도 공주시 반포면 동학사2로 8",
+        "restrntInqrTel": " 042 8252338",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 215 ",
+        "foodType": null,
+        "mapLat": "35.4462982625239",
+        "mapLot": "126.673091395655"
+    },
+    {
+        "restrntNm": "펠리스레스토랑",
+        "restrntAddr": "충청남도 공주시 반포면 동학사1로 186-1",
+        "restrntInqrTel": "042 825 6969",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 597-1 ",
+        "foodType": null,
+        "mapLat": "36.360440971968",
+        "mapLot": "127.247188650314"
+    },
+    {
+        "restrntNm": "동학사1로부대찌개",
+        "restrntAddr": "충청남도 공주시 반포면 동학사1로 70-16",
+        "restrntInqrTel": " 042 8223579",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 465-3 ",
+        "foodType": "탕반류",
+        "mapLat": "36.365665383899",
+        "mapLot": "127.255615588729"
+    },
+    {
+        "restrntNm": "시골풍경꽃게장",
+        "restrntAddr": "충청남도 공주시 반포면 학봉사기소길 6-9",
+        "restrntInqrTel": " 042 8220122",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 226 ",
+        "foodType": null,
+        "mapLat": "36.3584018235007",
+        "mapLot": "127.253537335906"
+    },
+    {
+        "restrntNm": "주봉마을우렁촌",
+        "restrntAddr": "충청남도 공주시 이인면 검바위로 712",
+        "restrntInqrTel": " 041 8570949",
+        "restrntDtlAddr": "충청남도 공주시 이인면 주봉리 372-1 ",
+        "foodType": null,
+        "mapLat": "36.4001112520815",
+        "mapLot": "127.087022002175"
+    },
+    {
+        "restrntNm": "청룡짜장",
+        "restrntAddr": "충청남도 공주시 의당면 의당로 314",
+        "restrntInqrTel": " 041 8526669",
+        "restrntDtlAddr": "충청남도 공주시 의당면 청룡리 827 ",
+        "foodType": null,
+        "mapLat": "36.498154465363875",
+        "mapLot": "127.1400596539182"
+    },
+    {
+        "restrntNm": "마당깊은집",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8583033",
+        "restrntDtlAddr": "충청남도 공주시 중동 187-1 ",
+        "foodType": null,
+        "mapLat": "37.29336784820582",
+        "mapLot": "127.63653572079922"
+    },
+    {
+        "restrntNm": "유구매운탕",
+        "restrntAddr": "충청남도 공주시 유구읍 구장터길 8-26",
+        "restrntInqrTel": " 041 8416667",
+        "restrntDtlAddr": "충청남도 공주시 유구읍 석남리 228 ",
+        "foodType": "한식",
+        "mapLat": "36.5551626743952",
+        "mapLot": "126.953864461585"
+    },
+    {
+        "restrntNm": "구즉묵보리밥전문점",
+        "restrntAddr": "충청남도 공주시 반포면 동학사1로 143",
+        "restrntInqrTel": " 042 8256468",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 270-4 ",
+        "foodType": null,
+        "mapLat": "36.3610727294839",
+        "mapLot": "127.251919278929"
+    },
+    {
+        "restrntNm": "청벽가든",
+        "restrntAddr": "충청남도 공주시 반포면 창벽로 750",
+        "restrntInqrTel": " 041 8547383",
+        "restrntDtlAddr": "충청남도 공주시 반포면 마암리 529-2 ",
+        "foodType": "수산물조리",
+        "mapLat": "36.4334551536106",
+        "mapLot": "127.212847955331"
+    },
+    {
+        "restrntNm": "싸리골",
+        "restrntAddr": "충청남도 공주시 반포면 정광터1길 137",
+        "restrntInqrTel": " 041 8569300",
+        "restrntDtlAddr": "충청남도 공주시 반포면 봉곡리 501-2 ",
+        "foodType": "한정식",
+        "mapLat": "37.0586740528269",
+        "mapLot": "127.897865935247"
+    },
+    {
+        "restrntNm": "청풍식당",
+        "restrntAddr": "충청남도 공주시 번영2로 52 (신관동)",
+        "restrntInqrTel": " 041 8566505",
+        "restrntDtlAddr": "충청남도 공주시 신관동 641-16 ",
+        "foodType": "탕반류",
+        "mapLat": "37.50205721542007",
+        "mapLot": "127.10871601864993"
+    },
+    {
+        "restrntNm": "장암본가",
+        "restrntAddr": "충청남도 공주시 금벽로 1083 (석장리동)",
+        "restrntInqrTel": " 041 8569078",
+        "restrntDtlAddr": "충청남도 공주시 석장리동 22-2 ",
+        "foodType": null,
+        "mapLat": "36.443656161643",
+        "mapLot": "127.198304586661"
+    },
+    {
+        "restrntNm": "동다송",
+        "restrntAddr": null,
+        "restrntInqrTel": " 042 8250531",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 632-1 ",
+        "foodType": null,
+        "mapLat": "37.44847142336737",
+        "mapLot": "127.01087627564968"
+    },
+    {
+        "restrntNm": "차령산맥",
+        "restrntAddr": "충청남도 공주시 사곡면 마곡사로 850",
+        "restrntInqrTel": "041 841 2507",
+        "restrntDtlAddr": "충청남도 공주시 사곡면 운암리 722-8 ",
+        "foodType": null,
+        "mapLat": "36.95774530608737",
+        "mapLot": "127.31085651748873"
+    },
+    {
+        "restrntNm": "산마루식당",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8410486",
+        "restrntDtlAddr": "충청남도 공주시 사곡면 운암리 541-4 ",
+        "foodType": null,
+        "mapLat": "35.4458421866811",
+        "mapLot": "129.087913009755"
+    },
+    {
+        "restrntNm": "한우타운",
+        "restrntAddr": "충청남도 공주시 번영2로 70 (신관동)",
+        "restrntInqrTel": " 041 8542289",
+        "restrntDtlAddr": "충청남도 공주시 신관동 656-1 ",
+        "foodType": "식육조리",
+        "mapLat": "37.67536065979525",
+        "mapLot": "128.69983839851275"
+    },
+    {
+        "restrntNm": "배꼽",
+        "restrntAddr": "충청남도 공주시 관골1길 34-10 (신관동)",
+        "restrntInqrTel": " 041 8540073",
+        "restrntDtlAddr": "충청남도 공주시 신관동 585-9 ",
+        "foodType": "한식",
+        "mapLat": "36.4720395772711",
+        "mapLot": "127.1331305216"
+    },
+    {
+        "restrntNm": "도화담",
+        "restrntAddr": "충청남도 공주시 무릉중말길 6 (무릉동)",
+        "restrntInqrTel": " 041 8580822",
+        "restrntDtlAddr": "충청남도 공주시 무릉동 376-3 ",
+        "foodType": "수산물조리",
+        "mapLat": "36.2933443611345",
+        "mapLot": "126.676522211711"
+    },
+    {
+        "restrntNm": "뉴크리스탈부페",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8546121",
+        "restrntDtlAddr": "충청남도 공주시 금성동 178-3 ",
+        "foodType": null,
+        "mapLat": "36.4658697116245",
+        "mapLot": "127.12179346641"
+    },
+    {
+        "restrntNm": "장수고을",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8560208",
+        "restrntDtlAddr": "충청남도 공주시 금성동 184-3 ",
+        "foodType": null,
+        "mapLat": "33.33254914480251",
+        "mapLot": "126.8166509724348"
+    },
+    {
+        "restrntNm": "이지비아",
+        "restrntAddr": "충청남도 공주시 먹자3길 6 (중동)",
+        "restrntInqrTel": " 041 8526500",
+        "restrntDtlAddr": "충청남도 공주시 중동 147-58 ",
+        "foodType": null,
+        "mapLat": "35.795522510139804",
+        "mapLot": "128.46659673279825"
+    },
+    {
+        "restrntNm": "이학식당",
+        "restrntAddr": "충청남도 공주시 가구점길 6 (중동)",
+        "restrntInqrTel": " 041 8553202",
+        "restrntDtlAddr": "충청남도 공주시 중동 147-58 ",
+        "foodType": null,
+        "mapLat": "35.0011145331958",
+        "mapLot": "126.139620753232"
+    },
+    {
+        "restrntNm": "양자강",
+        "restrntAddr": "충청남도 공주시 무령로 329-1 (옥룡동)",
+        "restrntInqrTel": " 041 8585885",
+        "restrntDtlAddr": "충청남도 공주시 옥룡동 30-11 ",
+        "foodType": null,
+        "mapLat": "37.4620340158578",
+        "mapLot": "126.372013279267"
+    },
+    {
+        "restrntNm": "능소야",
+        "restrntAddr": "충청남도 공주시 백제큰길 2053 (웅진동,,산22-1)",
+        "restrntInqrTel": " 041 8525002",
+        "restrntDtlAddr": "충청남도 공주시 웅진동 427-2 ,산22-1 ",
+        "foodType": null,
+        "mapLat": "36.4526139734006",
+        "mapLot": "127.103221935354"
+    },
+    {
+        "restrntNm": "서울숯불양꼬치구이",
+        "restrntAddr": "충청남도 공주시 무령로 148 (반죽동,,65)",
+        "restrntInqrTel": " 041 8580051",
+        "restrntDtlAddr": "충청남도 공주시 반죽동 63-4 ,65 ",
+        "foodType": "육류",
+        "mapLat": "37.4944801320233",
+        "mapLot": "126.89776095124"
+    },
+    {
+        "restrntNm": "부산면관",
+        "restrntAddr": "충청남도 공주시 반포면 동학사2로 145",
+        "restrntInqrTel": " 042 8251375",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 714 ",
+        "foodType": null,
+        "mapLat": "36.35376014212897",
+        "mapLot": "127.38216910267326"
+    },
+    {
+        "restrntNm": "만나칼국수",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8578737",
+        "restrntDtlAddr": "충청남도 공주시 반포면 봉곡리 339-1 ,2 ",
+        "foodType": null,
+        "mapLat": "37.49054062484806",
+        "mapLot": "126.92641056188126"
+    },
+    {
+        "restrntNm": "강산닭갈비",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8537333",
+        "restrntDtlAddr": "충청남도 공주시 신관동 605-16 ",
+        "foodType": null,
+        "mapLat": "36.1937722849732",
+        "mapLot": "127.090800121569"
+    },
+    {
+        "restrntNm": "명가닭오리전문",
+        "restrntAddr": "충청남도 공주시 사곡면 마곡사로 734",
+        "restrntInqrTel": "041 841 0430",
+        "restrntDtlAddr": "충청남도 공주시 사곡면 가교리 523-12 ",
+        "foodType": null,
+        "mapLat": "36.5485497924491",
+        "mapLot": "127.021599341237"
+    },
+    {
+        "restrntNm": "서울돈까스전문점",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8552658",
+        "restrntDtlAddr": "충청남도 공주시 신관동 597-2 ",
+        "foodType": null,
+        "mapLat": "35.1913413808834",
+        "mapLot": "129.079652960384"
+    },
+    {
+        "restrntNm": "돈방석",
+        "restrntAddr": "충청남도 공주시 신관로 59 (신관동)",
+        "restrntInqrTel": " 041 8585505",
+        "restrntDtlAddr": "충청남도 공주시 신관동 455-2 ",
+        "foodType": null,
+        "mapLat": "37.4638466921072",
+        "mapLot": "126.680580067593"
+    },
+    {
+        "restrntNm": "케이프타운",
+        "restrntAddr": "충청남도 공주시 금벽로 537 (신관동)",
+        "restrntInqrTel": " 041 8578757",
+        "restrntDtlAddr": "충청남도 공주시 신관동 121-2 ",
+        "foodType": "경양식",
+        "mapLat": "36.4616463427686",
+        "mapLot": "127.143354248236"
+    },
+    {
+        "restrntNm": "무궁화회관",
+        "restrntAddr": "충청남도 공주시 당간지주길 8-1 (반죽동,,306-1)",
+        "restrntInqrTel": " 041 8528383",
+        "restrntDtlAddr": "충청남도 공주시 반죽동 263 ,306-1 ",
+        "foodType": null,
+        "mapLat": "36.4520206559747",
+        "mapLot": "127.121762887756"
+    },
+    {
+        "restrntNm": "명동샤브샤브칼국수",
+        "restrntAddr": "충청남도 공주시 번영1로 84-8 (신관동)",
+        "restrntInqrTel": "041 854 7030",
+        "restrntDtlAddr": "충청남도 공주시 신관동 652-4 ",
+        "foodType": null,
+        "mapLat": "37.51477577346711",
+        "mapLot": "127.03112500484575"
+    },
+    {
+        "restrntNm": "엄마의식탁",
+        "restrntAddr": "충청남도 공주시 반포면 정광터2길 1",
+        "restrntInqrTel": "041 881 8212",
+        "restrntDtlAddr": "충청남도 공주시 반포면 봉곡리 501 ",
+        "foodType": "한정식",
+        "mapLat": "36.4016799026371",
+        "mapLot": "127.228475094575"
+    },
+    {
+        "restrntNm": "고갯마루",
+        "restrntAddr": "충청남도 공주시 백제문화로 2056 (웅진동)",
+        "restrntInqrTel": " 041 8528895",
+        "restrntDtlAddr": "충청남도 공주시 웅진동 685-3 ",
+        "foodType": null,
+        "mapLat": "37.4994012448685",
+        "mapLot": "127.039436297067"
+    },
+    {
+        "restrntNm": "꽃피는산골",
+        "restrntAddr": "충청남도 공주시 반포면 왕흥장악로 794",
+        "restrntInqrTel": " 041 8551338",
+        "restrntDtlAddr": "충청남도 공주시 반포면 마암리 608 ",
+        "foodType": null,
+        "mapLat": "37.5710977734845",
+        "mapLot": "126.985583225511"
+    },
+    {
+        "restrntNm": "여정",
+        "restrntAddr": "충청남도 공주시 반포면 사봉길 109",
+        "restrntInqrTel": " 042 8253337",
+        "restrntDtlAddr": "충청남도 공주시 반포면 온천리 405 ",
+        "foodType": null,
+        "mapLat": "35.9889849134788",
+        "mapLot": "126.708956935723"
+    },
+    {
+        "restrntNm": "우리밀칼국수",
+        "restrntAddr": "충청남도 공주시 번영1로 61-1 (신관동)",
+        "restrntInqrTel": " 041 8549292",
+        "restrntDtlAddr": "충청남도 공주시 신관동 650-15 ",
+        "foodType": null,
+        "mapLat": "37.4912979556266",
+        "mapLot": "126.986163959458"
+    },
+    {
+        "restrntNm": "선비가든",
+        "restrntAddr": "충청남도 공주시 계룡면 갑사로 2",
+        "restrntInqrTel": " 041 8578731",
+        "restrntDtlAddr": "충청남도 공주시 계룡면 유평리 262-1 ",
+        "foodType": null,
+        "mapLat": "36.357476096737",
+        "mapLot": "127.142071127552"
+    },
+    {
+        "restrntNm": "심마니약초오리백숙",
+        "restrntAddr": "충청남도 공주시 미나리3길 16 (금성동)",
+        "restrntInqrTel": "041 857 9697",
+        "restrntDtlAddr": "충청남도 공주시 금성동 193-6 ",
+        "foodType": null,
+        "mapLat": "36.462958918549354",
+        "mapLot": "127.1218290772092"
+    },
+    {
+        "restrntNm": "대가일식",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8536900",
+        "restrntDtlAddr": "충청남도 공주시 신관동 610-12 ",
+        "foodType": null,
+        "mapLat": "37.5630116707611",
+        "mapLot": "126.972305943275"
+    },
+    {
+        "restrntNm": "본죽앤비빔밥공주중동점",
+        "restrntAddr": "충청남도 공주시 무령로 225 (산성동,,121-4)",
+        "restrntInqrTel": " 041 8578085",
+        "restrntDtlAddr": "충청남도 공주시 산성동 120-5 ,121-4 ",
+        "foodType": null,
+        "mapLat": "36.475940182260295",
+        "mapLot": "127.15310396477147"
+    },
+    {
+        "restrntNm": "할로인풍",
+        "restrntAddr": "충청남도 공주시 정안면 차령로 3952-2",
+        "restrntInqrTel": " 041 8581723",
+        "restrntDtlAddr": "충청남도 공주시 정안면 인풍리 50-18 ",
+        "foodType": null,
+        "mapLat": "36.6405654755707",
+        "mapLot": "127.122868538151"
+    },
+    {
+        "restrntNm": "돈까스날다",
+        "restrntAddr": "충청남도 공주시 먹자2길 19, 1층 (중동)",
+        "restrntInqrTel": " 041 8556355",
+        "restrntDtlAddr": "충청남도 공주시 중동 147-85 ",
+        "foodType": "생선회류, 탕류",
+        "mapLat": "36.4562163890847",
+        "mapLot": "127.123603416701"
+    },
+    {
+        "restrntNm": "용궁칼국수",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8566988",
+        "restrntDtlAddr": "충청남도 공주시 신관동 600-21 ",
+        "foodType": null,
+        "mapLat": "37.7903404851772",
+        "mapLot": "126.683940116474"
+    },
+    {
+        "restrntNm": "콩마루손두부",
+        "restrntAddr": "충청남도 공주시 느티나무길 66 (금성동)",
+        "restrntInqrTel": "041  8547707",
+        "restrntDtlAddr": "충청남도 공주시 금성동 179-10 ",
+        "foodType": null,
+        "mapLat": "36.4660650029608",
+        "mapLot": "127.121164519955"
+    },
+    {
+        "restrntNm": "산장",
+        "restrntAddr": "충청남도 공주시 백미고을길 13-2 (금성동)",
+        "restrntInqrTel": " 041 8570075",
+        "restrntDtlAddr": "충청남도 공주시 금성동 181-2 ",
+        "foodType": null,
+        "mapLat": "35.0969938090601",
+        "mapLot": "127.603231645565"
+    },
+    {
+        "restrntNm": "북촌35제빵소",
+        "restrntAddr": "충청남도 공주시 반포면 동학사1로 215",
+        "restrntInqrTel": " 042 8254048",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 697-7 ",
+        "foodType": null,
+        "mapLat": "36.35980846164036",
+        "mapLot": "127.24406362025557"
+    },
+    {
+        "restrntNm": "한라참치",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8553364",
+        "restrntDtlAddr": "충청남도 공주시 금흥동 259-8 ",
+        "foodType": null,
+        "mapLat": "37.065521066576835",
+        "mapLot": "127.060824031944"
+    },
+    {
+        "restrntNm": "회떠",
+        "restrntAddr": "충청남도 공주시 번영1로 84-10 (신관동)",
+        "restrntInqrTel": "041 855 9288",
+        "restrntDtlAddr": "충청남도 공주시 신관동 652-5 ",
+        "foodType": null,
+        "mapLat": "36.47329709819828",
+        "mapLot": "127.13676124850905"
+    },
+    {
+        "restrntNm": "바람처럼구름처럼",
+        "restrntAddr": "충청남도 공주시 사곡면 마곡상가길 24",
+        "restrntInqrTel": " 041 8419994",
+        "restrntDtlAddr": "충청남도 공주시 사곡면 운암리 726-5 ",
+        "foodType": "한정식",
+        "mapLat": "36.55694351685922",
+        "mapLot": "127.0191990086019"
+    },
+    {
+        "restrntNm": "북경",
+        "restrntAddr": "충청남도 공주시 연수원길 12-3 (금흥동)",
+        "restrntInqrTel": " 041 8810097",
+        "restrntDtlAddr": "충청남도 공주시 금흥동 180-1 ",
+        "foodType": null,
+        "mapLat": "37.32085561587913",
+        "mapLot": "126.83236212774916"
+    },
+    {
+        "restrntNm": "신풍인삼면옥",
+        "restrntAddr": "충청남도 공주시 신풍면 신풍길 58",
+        "restrntInqrTel": " 041 8419982",
+        "restrntDtlAddr": "충청남도 공주시 신풍면 산정리 185-2 ",
+        "foodType": null,
+        "mapLat": "36.51686141575552",
+        "mapLot": "126.95500809800744"
+    },
+    {
+        "restrntNm": "와사비",
+        "restrntAddr": "충청남도 공주시 번영3로 46 (신관동)",
+        "restrntInqrTel": " 041 8540001",
+        "restrntDtlAddr": "충청남도 공주시 신관동 215 ",
+        "foodType": null,
+        "mapLat": "35.5444845307724",
+        "mapLot": "129.344174649495"
+    },
+    {
+        "restrntNm": "알바트로스",
+        "restrntAddr": "충청남도 공주시 신관로 43 (신관동)",
+        "restrntInqrTel": " 041 8532777",
+        "restrntDtlAddr": "충청남도 공주시 신관동 604-15 ",
+        "foodType": null,
+        "mapLat": "37.459754906318345",
+        "mapLot": "126.68347970054968"
+    },
+    {
+        "restrntNm": "예가",
+        "restrntAddr": "충청남도 공주시 금벽로 535, 2층 (신관동)",
+        "restrntInqrTel": " 041 8547900",
+        "restrntDtlAddr": "충청남도 공주시 신관동 122-3 ",
+        "foodType": "식육조리",
+        "mapLat": "36.4619347733154",
+        "mapLot": "127.143305691216"
+    },
+    {
+        "restrntNm": "솔내음",
+        "restrntAddr": "충청남도 공주시 의당면 의당전의로 369-3",
+        "restrntInqrTel": " 041 8521780",
+        "restrntDtlAddr": "충청남도 공주시 의당면 유계리 311-4 ",
+        "foodType": null,
+        "mapLat": "36.2858690217833",
+        "mapLot": "126.90891298049102"
+    },
+    {
+        "restrntNm": "산우물가든",
+        "restrntAddr": "충청남도 공주시 의당면 연수원길 170-3",
+        "restrntInqrTel": " 041 8520582",
+        "restrntDtlAddr": "충청남도 공주시 의당면 청룡리 630-1 ",
+        "foodType": null,
+        "mapLat": "36.4954679567163",
+        "mapLot": "127.149831994066"
+    },
+    {
+        "restrntNm": "양달가든",
+        "restrntAddr": "충청남도 공주시 우성면 해포길 40-13",
+        "restrntInqrTel": " 041 8537893",
+        "restrntDtlAddr": "충청남도 공주시 우성면 도천리 103 ",
+        "foodType": null,
+        "mapLat": "36.4801373392795",
+        "mapLot": "127.09331578776"
+    },
+    {
+        "restrntNm": "레스토랑전",
+        "restrntAddr": "충청남도 공주시 계룡면 갑사로 155-6",
+        "restrntInqrTel": " 041 8567272",
+        "restrntDtlAddr": "충청남도 공주시 계룡면 중장리 821-3 ",
+        "foodType": null,
+        "mapLat": "35.86944577935636",
+        "mapLot": "128.17161278438618"
+    },
+    {
+        "restrntNm": "팔미낙지한마리수제비",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8588881",
+        "restrntDtlAddr": "충청남도 공주시 금성동 20-48 지상1층 ",
+        "foodType": null,
+        "mapLat": "37.5604880814898",
+        "mapLot": "126.91685725748"
+    },
+    {
+        "restrntNm": "들샘",
+        "restrntAddr": "충청남도 공주시 유구읍 유구외곽로 372",
+        "restrntInqrTel": "041 841 1365",
+        "restrntDtlAddr": "충청남도 공주시 유구읍 만천리 505-5 ",
+        "foodType": null,
+        "mapLat": "35.8962345623048",
+        "mapLot": "128.617337256162"
+    },
+    {
+        "restrntNm": "밈(meme)",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8817831",
+        "restrntDtlAddr": "충청남도 공주시 신관동 640-13 (지상2층) ",
+        "foodType": null,
+        "mapLat": "35.82835292978516",
+        "mapLot": "127.1127063741764"
+    },
+    {
+        "restrntNm": "운수대박춘천닭갈비",
+        "restrntAddr": "충청남도 공주시 번영2로 51-1 (신관동,지상1층)",
+        "restrntInqrTel": " 041 8557662",
+        "restrntDtlAddr": "충청남도 공주시 신관동 642-3 지상1층 ",
+        "foodType": null,
+        "mapLat": "36.4721317012058",
+        "mapLot": "127.13455441657"
+    },
+    {
+        "restrntNm": "예가촌",
+        "restrntAddr": "충청남도 공주시 느티나무길 40 (금성동)",
+        "restrntInqrTel": " 041 8573355",
+        "restrntDtlAddr": "충청남도 공주시 금성동 194-1 ",
+        "foodType": "식육조리",
+        "mapLat": "36.4636569813508",
+        "mapLot": "127.121276801755"
+    },
+    {
+        "restrntNm": "진족발",
+        "restrntAddr": "충청남도 공주시 반포면 사봉길 64",
+        "restrntInqrTel": " 042 8258212",
+        "restrntDtlAddr": "충청남도 공주시 반포면 온천리 352-1 ",
+        "foodType": null,
+        "mapLat": "35.3211659272104",
+        "mapLot": "129.177775849549"
+    },
+    {
+        "restrntNm": "이화수전통육개장신관점",
+        "restrntAddr": "충청남도 공주시 번영1로 101-7 (신관동)",
+        "restrntInqrTel": "041 857 1132",
+        "restrntDtlAddr": "충청남도 공주시 신관동 321-3 ",
+        "foodType": null,
+        "mapLat": "36.4747828973511",
+        "mapLot": "127.139285611307"
+    },
+    {
+        "restrntNm": "원조설악추어탕",
+        "restrntAddr": "충청남도 공주시 미나리3길 6-8 (금성동)",
+        "restrntInqrTel": " 041 8528803",
+        "restrntDtlAddr": "충청남도 공주시 금성동 191-3 ",
+        "foodType": null,
+        "mapLat": "37.3425063499342",
+        "mapLot": "126.938111405107"
+    },
+    {
+        "restrntNm": "뜰안채",
+        "restrntAddr": null,
+        "restrntInqrTel": "004208255828",
+        "restrntDtlAddr": "충청남도 공주시 반포면 온천리 433-70 ",
+        "foodType": null,
+        "mapLat": "37.5451503529032",
+        "mapLot": "127.584853401724"
+    },
+    {
+        "restrntNm": "서울식당",
+        "restrntAddr": "충청남도 공주시 계룡면 갑사로 476-26, 1층",
+        "restrntInqrTel": " 041 8815566",
+        "restrntDtlAddr": "충청남도 공주시 계룡면 중장리 28-14 ",
+        "foodType": "한정식",
+        "mapLat": "36.988595719794944",
+        "mapLot": "128.3820794698703"
+    },
+    {
+        "restrntNm": "인향",
+        "restrntAddr": "충청남도 공주시 반포면 동학사2로 32",
+        "restrntInqrTel": "042 825 0450",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 661-2 ",
+        "foodType": null,
+        "mapLat": "37.52150078194901",
+        "mapLot": "126.69550292428364"
+    },
+    {
+        "restrntNm": "계룡산묵사랑",
+        "restrntAddr": "충청남도 공주시 전진배길 389 (신기동)",
+        "restrntInqrTel": " 041 8552032",
+        "restrntDtlAddr": "충청남도 공주시 신기동 240 ",
+        "foodType": "묵, 두부 조리",
+        "mapLat": "36.4351406767713",
+        "mapLot": "127.149711495562"
+    },
+    {
+        "restrntNm": "들마루칼국수",
+        "restrntAddr": "충청남도 공주시 신금1길 48 (신관동)",
+        "restrntInqrTel": "041 858 7227",
+        "restrntDtlAddr": "충청남도 공주시 신관동 280-29 ",
+        "foodType": "면류",
+        "mapLat": "36.4768590130206",
+        "mapLot": "127.145462204956"
+    },
+    {
+        "restrntNm": "거부네집",
+        "restrntAddr": "충청남도 공주시 우성면 우성길 134",
+        "restrntInqrTel": " 041 8816114",
+        "restrntDtlAddr": "충청남도 공주시 우성면 상서리 721 ",
+        "foodType": "탕반류",
+        "mapLat": "36.4780626282062",
+        "mapLot": "127.075852209602"
+    },
+    {
+        "restrntNm": "금강산",
+        "restrntAddr": "충청남도 공주시 무령로 421, 2층 (신관동)",
+        "restrntInqrTel": " 041 8537800",
+        "restrntDtlAddr": "충청남도 공주시 신관동 158 ",
+        "foodType": null,
+        "mapLat": "34.59111942719618",
+        "mapLot": "126.60106368424862"
+    },
+    {
+        "restrntNm": "의당명가",
+        "restrntAddr": "충청남도 공주시 의당면 새동네길 12-1",
+        "restrntInqrTel": "041 855 7003",
+        "restrntDtlAddr": "충청남도 공주시 의당면 청룡리 650-2 ",
+        "foodType": null,
+        "mapLat": "36.480161260954546",
+        "mapLot": "127.14214300495033"
+    },
+    {
+        "restrntNm": "산너머남촌에는",
+        "restrntAddr": "충청남도 공주시 반포면 동학사2로 36",
+        "restrntInqrTel": " 042 8259114",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 662-1 ",
+        "foodType": null,
+        "mapLat": "36.35846286532097",
+        "mapLot": "127.24893607483824"
+    },
+    {
+        "restrntNm": "유성복집동학사점",
+        "restrntAddr": "충청남도 공주시 반포면 제석골길 10-14",
+        "restrntInqrTel": "042 825 1616",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 427-11 ",
+        "foodType": null,
+        "mapLat": "36.36400626157942",
+        "mapLot": "127.25352765959964"
+    },
+    {
+        "restrntNm": "마이쿡",
+        "restrntAddr": "충청남도 공주시 가구점길 4 (중동)",
+        "restrntInqrTel": "041 856 8560",
+        "restrntDtlAddr": "충청남도 공주시 중동 147-59 ",
+        "foodType": null,
+        "mapLat": "37.7401554856384",
+        "mapLot": "127.200292679841"
+    },
+    {
+        "restrntNm": "다담가",
+        "restrntAddr": "충청남도 공주시 반포면 동학사1로 228-1, 1,2층",
+        "restrntInqrTel": "042  8256329",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 703 ",
+        "foodType": null,
+        "mapLat": "37.545644760763",
+        "mapLot": "126.858721602339"
+    },
+    {
+        "restrntNm": "고향손칼국수",
+        "restrntAddr": "충청남도 공주시 무령로 670 (금흥동)",
+        "restrntInqrTel": "041 853 9566",
+        "restrntDtlAddr": "충청남도 공주시 금흥동 240-15 ",
+        "foodType": "면류",
+        "mapLat": "36.4816264954791",
+        "mapLot": "127.157951537698"
+    },
+    {
+        "restrntNm": "하얀책상",
+        "restrntAddr": "충청남도 공주시 번영2로 68-23 (신관동)",
+        "restrntInqrTel": "041 881 9984",
+        "restrntDtlAddr": "충청남도 공주시 신관동 655-7 ",
+        "foodType": null,
+        "mapLat": "36.3259867706244",
+        "mapLot": "127.429421935789"
+    },
+    {
+        "restrntNm": "자작바위",
+        "restrntAddr": "충청남도 공주시 반포면 동학사1로 207 (외1필지)",
+        "restrntInqrTel": "042 825 6622",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 692-7 외1필지 ",
+        "foodType": "탕반류",
+        "mapLat": "36.3592545744276",
+        "mapLot": "127.236729562538"
+    },
+    {
+        "restrntNm": "신주쿠일식",
+        "restrntAddr": "충청남도 공주시 번영3로 34 (신관동)",
+        "restrntInqrTel": " 041 8525989",
+        "restrntDtlAddr": "충청남도 공주시 신관동 454-17 ",
+        "foodType": null,
+        "mapLat": "37.52758625057083",
+        "mapLot": "127.03105452878567"
+    },
+    {
+        "restrntNm": "춤바위가든",
+        "restrntAddr": "충청남도 공주시 사곡면 가교새알골길 7-6",
+        "restrntInqrTel": " 041 8418456",
+        "restrntDtlAddr": "충청남도 공주시 사곡면 가교리 641-2 ",
+        "foodType": null,
+        "mapLat": "36.54551192132003",
+        "mapLot": "127.01652917641016"
+    },
+    {
+        "restrntNm": "도덕봉가든",
+        "restrntAddr": "충청남도 공주시 반포면 동학사1로 159",
+        "restrntInqrTel": " 042 8266777",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 635-1 ",
+        "foodType": null,
+        "mapLat": "36.3455875158227",
+        "mapLot": "127.295697452083"
+    },
+    {
+        "restrntNm": "용궁칼국수샤브샤브",
+        "restrntAddr": "충청남도 공주시 번영2로 38 (신관동)",
+        "restrntInqrTel": "041 856 6988",
+        "restrntDtlAddr": "충청남도 공주시 신관동 603-1 ",
+        "foodType": null,
+        "mapLat": "36.470989783083",
+        "mapLot": "127.133882983703"
+    },
+    {
+        "restrntNm": "들마루",
+        "restrntAddr": "충청남도 공주시 정안면 정안중앙길 215-54",
+        "restrntInqrTel": "041 857 5289",
+        "restrntDtlAddr": "충청남도 공주시 정안면 사현리 479-31 ",
+        "foodType": "식육조리",
+        "mapLat": "36.7591747874031",
+        "mapLot": "126.973986356592"
+    },
+    {
+        "restrntNm": "국수정",
+        "restrntAddr": "충청남도 공주시 흑수골길 19 (신관동)",
+        "restrntInqrTel": "041 858 3697",
+        "restrntDtlAddr": "충청남도 공주시 신관동 265-14 ",
+        "foodType": "분식",
+        "mapLat": "36.4738092173731",
+        "mapLot": "127.139649853308"
+    },
+    {
+        "restrntNm": "대왕산삼백숙농원",
+        "restrntAddr": "충청남도 공주시 반포면 사봉길 7",
+        "restrntInqrTel": "042 825 8334",
+        "restrntDtlAddr": "충청남도 공주시 반포면 온천리 324-5 ",
+        "foodType": "탕반류",
+        "mapLat": "36.4659380425591",
+        "mapLot": "127.468670186822"
+    },
+    {
+        "restrntNm": "마중사골진곰탕",
+        "restrntAddr": "충청남도 공주시 유구읍 유구마곡사로 18",
+        "restrntInqrTel": "041 841 5588",
+        "restrntDtlAddr": "충청남도 공주시 유구읍 석남리 353 ",
+        "foodType": null,
+        "mapLat": "36.5501014579981",
+        "mapLot": "126.952951610044"
+    },
+    {
+        "restrntNm": "원진노기순청국장",
+        "restrntAddr": "충청남도 공주시 백미고을길 6 (금성동)",
+        "restrntInqrTel": "041  8553456",
+        "restrntDtlAddr": "충청남도 공주시 금성동 176-6 ",
+        "foodType": "한정식",
+        "mapLat": "36.4656126748091",
+        "mapLot": "127.122873050744"
+    },
+    {
+        "restrntNm": "화평동왕냉면",
+        "restrntAddr": "충청남도 공주시 연수원길 13 (금흥동)",
+        "restrntInqrTel": " 041 8811199",
+        "restrntDtlAddr": "충청남도 공주시 금흥동 174-1 ",
+        "foodType": null,
+        "mapLat": "37.4962460639977",
+        "mapLot": "126.859183366172"
+    },
+    {
+        "restrntNm": "공주율찬",
+        "restrntAddr": "충청남도 공주시 신관로 74 (신관동)",
+        "restrntInqrTel": " 041 8531001",
+        "restrntDtlAddr": "충청남도 공주시 신관동 609 ",
+        "foodType": "한식",
+        "mapLat": "36.4685628698065",
+        "mapLot": "127.134758005939"
+    },
+    {
+        "restrntNm": "청룡가든염소탕",
+        "restrntAddr": "충청남도 공주시 금강공원길 21 (금성동)",
+        "restrntInqrTel": "041 881 0909",
+        "restrntDtlAddr": "충청남도 공주시 금성동 173-3 ",
+        "foodType": "한식",
+        "mapLat": "36.4666845253332",
+        "mapLot": "127.12163407959"
+    },
+    {
+        "restrntNm": "도토뱅이",
+        "restrntAddr": "충청남도 공주시 쌍신길 127 (쌍신동)",
+        "restrntInqrTel": " 041 8523700",
+        "restrntDtlAddr": "충청남도 공주시 쌍신동 239-19 ",
+        "foodType": "탕류",
+        "mapLat": "36.48267503942884",
+        "mapLot": "127.12133544862161"
+    },
+    {
+        "restrntNm": "공산성부추해물칼국수",
+        "restrntAddr": "충청남도 공주시 왕릉로 143 (금성동)",
+        "restrntInqrTel": "041 856 2913",
+        "restrntDtlAddr": "충청남도 공주시 금성동 184-6 ",
+        "foodType": "면류",
+        "mapLat": "36.4644989769439",
+        "mapLot": "127.122737412674"
+    },
+    {
+        "restrntNm": "춘산메밀꽃",
+        "restrntAddr": "충청남도 공주시 반포면 금벽로 1336",
+        "restrntInqrTel": " 041 8585506",
+        "restrntDtlAddr": "충청남도 공주시 반포면 마암리 319-3 ",
+        "foodType": "면류",
+        "mapLat": "36.426752114592",
+        "mapLot": "127.215947562049"
+    },
+    {
+        "restrntNm": "바다향굴&복어",
+        "restrntAddr": "충청남도 공주시 번영1로 157-7 (신관동,(1층))",
+        "restrntInqrTel": " 041 8563737",
+        "restrntDtlAddr": "충청남도 공주시 신관동 276-27 (1층) ",
+        "foodType": "탕반류",
+        "mapLat": "36.4750538882467",
+        "mapLot": "127.144802727375"
+    },
+    {
+        "restrntNm": "맛깔",
+        "restrntAddr": "충청남도 공주시 제민천3길 58 (중동)",
+        "restrntInqrTel": "041 858 7003",
+        "restrntDtlAddr": "충청남도 공주시 중동 187-1 ",
+        "foodType": null,
+        "mapLat": "35.8665191121756",
+        "mapLot": "127.079105008904"
+    },
+    {
+        "restrntNm": "갈비백반",
+        "restrntAddr": "충청남도 공주시 반포면 금벽로 1490",
+        "restrntInqrTel": "041 854 1236",
+        "restrntDtlAddr": "충청남도 공주시 반포면 마암리 16-2 (1층) ",
+        "foodType": null,
+        "mapLat": "37.0013282438283",
+        "mapLot": "128.168941096638"
+    },
+    {
+        "restrntNm": "이가네족발",
+        "restrntAddr": "충청남도 공주시 전막3길 35-1, 1층 (신관동)",
+        "restrntInqrTel": "041 858 5259",
+        "restrntDtlAddr": "충청남도 공주시 신관동 587-21 ",
+        "foodType": null,
+        "mapLat": "37.5820837341098",
+        "mapLot": "126.912703213903"
+    },
+    {
+        "restrntNm": "우송식당",
+        "restrntAddr": "충청남도 공주시 반포면 동학사1로 138",
+        "restrntInqrTel": "042 822 8861",
+        "restrntDtlAddr": "충청남도 공주시 반포면 학봉리 273-2 ",
+        "foodType": "탕반류",
+        "mapLat": "36.36190197547",
+        "mapLot": "127.251841728926"
+    },
+    {
+        "restrntNm": "자금성",
+        "restrntAddr": "충청남도 공주시 계룡면 영규대사로 473-1, 1층",
+        "restrntInqrTel": "041 854 4388",
+        "restrntDtlAddr": "충청남도 공주시 계룡면 월암리 252-2 ",
+        "foodType": "면류",
+        "mapLat": "37.59717437607087",
+        "mapLot": "126.92023506406996"
+    },
+    {
+        "restrntNm": "옥돌돼지갈비",
+        "restrntAddr": "충청남도 공주시 봉황로 19-6 (봉황동)",
+        "restrntInqrTel": "041  8538252",
+        "restrntDtlAddr": "충청남도 공주시 봉황동 373-1 ",
+        "foodType": null,
+        "mapLat": "36.7231663731132",
+        "mapLot": "127.119619388763"
+    },
+    {
+        "restrntNm": "신야춘추",
+        "restrntAddr": "충청남도 공주시 반포면 하신소1길 62-9",
+        "restrntInqrTel": " 041 8562510",
+        "restrntDtlAddr": "충청남도 공주시 반포면 하신리 274-2 ",
+        "foodType": "한정식",
+        "mapLat": "36.3826073437538",
+        "mapLot": "127.235966679523"
+    },
+    {
+        "restrntNm": "육남매고기집",
+        "restrntAddr": "충청남도 공주시 사곡면 마곡사로 815-1, 1층",
+        "restrntInqrTel": " 041 8415624",
+        "restrntDtlAddr": "충청남도 공주시 사곡면 운암리 541-4 ",
+        "foodType": "한식",
+        "mapLat": "36.55480945673363",
+        "mapLot": "127.02003397424788"
+    },
+    {
+        "restrntNm": "귀연당",
+        "restrntAddr": "충청남도 공주시 의당면 의당로 981",
+        "restrntInqrTel": " 041 8529779",
+        "restrntDtlAddr": "충청남도 공주시 의당면 월곡리 289-1 ",
+        "foodType": "국밥",
+        "mapLat": "36.5549904267483",
+        "mapLot": "127.153083279382"
+    },
+    {
+        "restrntNm": "숙성고깃나루",
+        "restrntAddr": "충청남도 공주시 신관로 8, 1층 (신관동)",
+        "restrntInqrTel": "041 856 2355",
+        "restrntDtlAddr": "충청남도 공주시 신관동 590-2 ",
+        "foodType": "식육조리",
+        "mapLat": "36.4715821467111",
+        "mapLot": "127.129528021388"
+    },
+    {
+        "restrntNm": "동해식당",
+        "restrntAddr": "충청남도 공주시 계룡면 영규대사로 509, 1층",
+        "restrntInqrTel": "041 858 9071",
+        "restrntDtlAddr": "충청남도 공주시 계룡면 월암리 361 ",
+        "foodType": null,
+        "mapLat": "37.45778628817774",
+        "mapLot": "126.5962832242333"
+    }
+]

@@ -1,0 +1,1667 @@
+[
+  {
+      "restrntNm": "굽네치킨 서산동문점",
+      "restrntAddr": "충청남도 서산시 율지19길 47-10, 1층 (동문동)",
+      "restrntInqrTel": " 041 6659300",
+      "restrntDtlAddr": "충청남도 서산시 동문동 189-7 ",
+      "foodType": null,
+      "mapLat": "36.7793082022448",
+      "mapLot": "126.4663254148"
+  },
+  {
+      "restrntNm": "동명반점",
+      "restrntAddr": "충청남도 서산시 고운로 137 (읍내동)",
+      "restrntInqrTel": "041 665 2531",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 254 ",
+      "foodType": "중식",
+      "mapLat": "35.98294598915076",
+      "mapLot": "128.55330039519555"
+  },
+  {
+      "restrntNm": "서산촌닭",
+      "restrntAddr": "충청남도 서산시 율지16로 15, 1층 (동문동)",
+      "restrntInqrTel": " 041 6696122",
+      "restrntDtlAddr": "충청남도 서산시 동문동 224-14 (1층) ",
+      "foodType": "한식",
+      "mapLat": "36.77849719100585",
+      "mapLot": "126.46192083702559"
+  },
+  {
+      "restrntNm": "은행나무골",
+      "restrntAddr": "충청남도 서산시 남원1길 22 (석남동)",
+      "restrntInqrTel": " 041 6654714",
+      "restrntDtlAddr": "충청남도 서산시 석남동 498-1 ",
+      "foodType": null,
+      "mapLat": "36.8968527085585",
+      "mapLot": "127.595465960327"
+  },
+  {
+      "restrntNm": "삼국통일",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6819074",
+      "restrntDtlAddr": "충청남도 서산시 동문동 281-4 ",
+      "foodType": null,
+      "mapLat": "35.0987944531072",
+      "mapLot": "126.878852800447"
+  },
+  {
+      "restrntNm": "대도관",
+      "restrntAddr": "충청남도 서산시 부춘3로 19 (읍내동)",
+      "restrntInqrTel": " 041 6660333",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 610-3 ",
+      "foodType": "한식",
+      "mapLat": "36.784946509599",
+      "mapLot": "126.446044980467"
+  },
+  {
+      "restrntNm": "흥부네식당",
+      "restrntAddr": "충청남도 서산시 부춘3로 27 (읍내동)",
+      "restrntInqrTel": " 041 6686646",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 589-5 ",
+      "foodType": null,
+      "mapLat": "35.158508312665724",
+      "mapLot": "129.06122455846784"
+  },
+  {
+      "restrntNm": "전국구",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6685588",
+      "restrntDtlAddr": "충청남도 서산시 동문동 202-1 ",
+      "foodType": null,
+      "mapLat": "36.8118660628612",
+      "mapLot": "127.107317556593"
+  },
+  {
+      "restrntNm": "고향생각",
+      "restrntAddr": "충청남도 서산시 운산면 장벌7로 10",
+      "restrntInqrTel": "041 663 4654",
+      "restrntDtlAddr": "충청남도 서산시 운산면 용장리 449-20 ",
+      "foodType": null,
+      "mapLat": "35.8284672742242",
+      "mapLot": "127.170232863262"
+  },
+  {
+      "restrntNm": "푸드박스 서산도시락",
+      "restrntAddr": "충청남도 서산시 율지7로 20 (동문동)",
+      "restrntInqrTel": null,
+      "restrntDtlAddr": "충청남도 서산시 동문동 201-2 ",
+      "foodType": "한식",
+      "mapLat": "36.778215894082884",
+      "mapLot": "126.46568551826883"
+  },
+  {
+      "restrntNm": "노걸대뼈다귀",
+      "restrntAddr": "충청남도 서산시 율지7로 20 (동문동)",
+      "restrntInqrTel": " 041 6815486",
+      "restrntDtlAddr": "충청남도 서산시 동문동 201-2 ",
+      "foodType": null,
+      "mapLat": "36.78094106644811",
+      "mapLot": "127.0091355793487"
+  },
+  {
+      "restrntNm": "재래식가든",
+      "restrntAddr": "충청남도 서산시 부춘4로 6 (읍내동)",
+      "restrntInqrTel": "041 667 8860",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 606-6 ",
+      "foodType": "한식",
+      "mapLat": "36.7847981188919",
+      "mapLot": "126.447851946307"
+  },
+  {
+      "restrntNm": "담음",
+      "restrntAddr": "충청남도 서산시 부춘공원2로 6-3, 1,2층 (읍내동)",
+      "restrntInqrTel": "041 665 3366",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 519-4 ",
+      "foodType": "일식",
+      "mapLat": "36.7862064443787",
+      "mapLot": "126.449580554623"
+  },
+  {
+      "restrntNm": "예당숯불갈비",
+      "restrntAddr": "충청남도 서산시 율지18로 37 (동문동)",
+      "restrntInqrTel": " 041 6653392",
+      "restrntDtlAddr": "충청남도 서산시 동문동 194-7 ",
+      "foodType": "한식",
+      "mapLat": "36.7788275442074",
+      "mapLot": "126.465239914679"
+  },
+  {
+      "restrntNm": "로얄레스토랑",
+      "restrntAddr": null,
+      "restrntInqrTel": "            ",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 114-1 (6층) ",
+      "foodType": null,
+      "mapLat": "37.8439217875656",
+      "mapLot": "127.063518615226"
+  },
+  {
+      "restrntNm": "광어촌",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6887722",
+      "restrntDtlAddr": "충청남도 서산시 해미면 읍내리 339-2 ",
+      "foodType": null,
+      "mapLat": "37.0802229806213",
+      "mapLot": "127.058966638676"
+  },
+  {
+      "restrntNm": "라울",
+      "restrntAddr": "충청남도 서산시 대산읍 삼길포1로 34 ((1,2층))",
+      "restrntInqrTel": "            ",
+      "restrntDtlAddr": "충청남도 서산시 대산읍 화곡리 35-3 (1,2층) ",
+      "foodType": "일식",
+      "mapLat": "36.72246791942002",
+      "mapLot": "126.98039495198225"
+  },
+  {
+      "restrntNm": "늘푸른쌈밥",
+      "restrntAddr": "충청남도 서산시 문화로 61 (읍내동,(1층))",
+      "restrntInqrTel": "041 667 9289",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 413-6 (1층) ",
+      "foodType": "한식",
+      "mapLat": "36.354650458834016",
+      "mapLot": "127.3331052764667"
+  },
+  {
+      "restrntNm": "서령 산 아구",
+      "restrntAddr": "충청남도 서산시 율지7로 8 (동문동)",
+      "restrntInqrTel": "041 669 1508",
+      "restrntDtlAddr": "충청남도 서산시 동문동 199-4 ",
+      "foodType": "한식",
+      "mapLat": "36.7788716190017",
+      "mapLot": "126.464621258841"
+  },
+  {
+      "restrntNm": "갯마을 식당",
+      "restrntAddr": "충청남도 서산시 부춘1로 53 (읍내동)",
+      "restrntInqrTel": "041 668 3554",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 439-4 ",
+      "foodType": null,
+      "mapLat": "35.0012486060002",
+      "mapLot": "126.139715745432"
+  },
+  {
+      "restrntNm": "자금성",
+      "restrntAddr": "충청남도 서산시 서령로 82, 1층 (동문동)",
+      "restrntInqrTel": "041 681 9639",
+      "restrntDtlAddr": "충청남도 서산시 동문동 659-3 1층 ",
+      "foodType": "중식",
+      "mapLat": "37.59717437607087",
+      "mapLot": "126.92023506406996"
+  },
+  {
+      "restrntNm": "웰빙갈비랑메밀막국수",
+      "restrntAddr": "충청남도 서산시 율지17로 34, 1층 (동문동)",
+      "restrntInqrTel": " 041 6658787",
+      "restrntDtlAddr": "충청남도 서산시 동문동 199-1 1층 ",
+      "foodType": "한식",
+      "mapLat": "36.7792403405306",
+      "mapLot": "126.464058592351"
+  },
+  {
+      "restrntNm": "부석냉면",
+      "restrntAddr": "충청남도 서산시 율지18로 12, 1층 (동문동)",
+      "restrntInqrTel": "041 666 0608",
+      "restrntDtlAddr": "충청남도 서산시 동문동 239-1 (1층) ",
+      "foodType": "한식",
+      "mapLat": "36.713608352905865",
+      "mapLot": "126.39192931780575"
+  },
+  {
+      "restrntNm": "중왕뻘낙지",
+      "restrntAddr": "충청남도 서산시 지곡면 어름들2길 70",
+      "restrntInqrTel": " 041 6648088",
+      "restrntDtlAddr": "충청남도 서산시 지곡면 중왕리 195-2 ",
+      "foodType": null,
+      "mapLat": "36.8808372733683",
+      "mapLot": "126.384463643896"
+  },
+  {
+      "restrntNm": "참터",
+      "restrntAddr": "충청남도 서산시 부춘4로 20-1, 1층 (읍내동)",
+      "restrntInqrTel": "            ",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 413-7 (1층) ",
+      "foodType": null,
+      "mapLat": "37.50110075062331",
+      "mapLot": "127.12809055030279"
+  },
+  {
+      "restrntNm": "명문",
+      "restrntAddr": "충청남도 서산시 율지11로 8 (동문동)",
+      "restrntInqrTel": "041 663 6652",
+      "restrntDtlAddr": "충청남도 서산시 동문동 208-1 ",
+      "foodType": "중식",
+      "mapLat": "35.409022525954406",
+      "mapLot": "127.38248276932178"
+  },
+  {
+      "restrntNm": "갈산농장가든",
+      "restrntAddr": "충청남도 서산시 갈산1길 119 (갈산동)",
+      "restrntInqrTel": "041 681 4200",
+      "restrntDtlAddr": "충청남도 서산시 갈산동 85-1 ",
+      "foodType": "한식",
+      "mapLat": "37.32652358516971",
+      "mapLot": "127.36833222810516"
+  },
+  {
+      "restrntNm": "서원생고기",
+      "restrntAddr": "충청남도 서산시 한마음14로 17 (석림동)",
+      "restrntInqrTel": " 041 6641480",
+      "restrntDtlAddr": "충청남도 서산시 석림동 631-2 ",
+      "foodType": "한식",
+      "mapLat": "36.7742275542849",
+      "mapLot": "126.460285044238"
+  },
+  {
+      "restrntNm": "하얀나비",
+      "restrntAddr": "충청남도 서산시 대산읍 충의로 1934, 지하1층",
+      "restrntInqrTel": "041 681 9995",
+      "restrntDtlAddr": "충청남도 서산시 대산읍 대산리 124-1 ",
+      "foodType": "한식",
+      "mapLat": "37.4472381960294",
+      "mapLot": "126.699045285836"
+  },
+  {
+      "restrntNm": "서산보쌈",
+      "restrntAddr": "충청남도 서산시 율지6로 42 (동문동)",
+      "restrntInqrTel": " 041 6662251",
+      "restrntDtlAddr": "충청남도 서산시 동문동 225-1 ",
+      "foodType": "한식",
+      "mapLat": "36.7847082261965",
+      "mapLot": "126.448287260927"
+  },
+  {
+      "restrntNm": "서산아구",
+      "restrntAddr": "충청남도 서산시 읍내5로 3, 1~2층 (읍내동)",
+      "restrntInqrTel": "041 664 7507",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 85-4 ",
+      "foodType": "한식",
+      "mapLat": "36.77881735367635",
+      "mapLot": "126.4480158300601"
+  },
+  {
+      "restrntNm": "우리두리곱창",
+      "restrntAddr": "충청남도 서산시 율지15로 12, 1층 (동문동)",
+      "restrntInqrTel": " 041 6655454",
+      "restrntDtlAddr": "충청남도 서산시 동문동 246-11 ",
+      "foodType": null,
+      "mapLat": "37.65669074082094",
+      "mapLot": "127.30093457292186"
+  },
+  {
+      "restrntNm": "해물칼국수.오리",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6687790",
+      "restrntDtlAddr": "충청남도 서산시 동문동 425-16 ,426-3 ",
+      "foodType": null,
+      "mapLat": "35.207029540428124",
+      "mapLot": "128.150105752588"
+  },
+  {
+      "restrntNm": "가야면옥",
+      "restrntAddr": "충청남도 서산시 명륜1로 80 (읍내동,(2,3층))",
+      "restrntInqrTel": "041 668 8123",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 440 (2,3층) ",
+      "foodType": "한식",
+      "mapLat": "36.7841675053222",
+      "mapLot": "126.447497982617"
+  },
+  {
+      "restrntNm": "배가짬뽕 서산점",
+      "restrntAddr": "충청남도 서산시 동서1로 81, 1층 (석남동)",
+      "restrntInqrTel": " 041 6656636",
+      "restrntDtlAddr": "충청남도 서산시 석남동 69-11 -2, 1층 ",
+      "foodType": "한식",
+      "mapLat": "36.76739815292285",
+      "mapLot": "126.46169486994987"
+  },
+  {
+      "restrntNm": "산해별미",
+      "restrntAddr": "충청남도 서산시 대사동5로 10, 2층 (동문동)",
+      "restrntInqrTel": " 041 6637853",
+      "restrntDtlAddr": "충청남도 서산시 동문동 426-2 2층 ",
+      "foodType": "한식",
+      "mapLat": "36.7844107037499",
+      "mapLot": "126.458053742452"
+  },
+  {
+      "restrntNm": "서산정보쌈",
+      "restrntAddr": "충청남도 서산시 대사동5로 3 (동문동,(1층))",
+      "restrntInqrTel": "041 668 4542",
+      "restrntDtlAddr": "충청남도 서산시 동문동 426-4 (1층) ",
+      "foodType": null,
+      "mapLat": "36.7268163207228",
+      "mapLot": "126.518640000777"
+  },
+  {
+      "restrntNm": "거돈",
+      "restrntAddr": "충청남도 서산시 율지7로 25, 1층 (동문동)",
+      "restrntInqrTel": null,
+      "restrntDtlAddr": "충청남도 서산시 동문동 193-10 (1층) ",
+      "foodType": "한식",
+      "mapLat": "35.3725893295972",
+      "mapLot": "127.142103543269"
+  },
+  {
+      "restrntNm": "읍성뚝배기",
+      "restrntAddr": "충청남도 서산시 해미면 읍성마을1길 7-7",
+      "restrntInqrTel": "041 688 0020",
+      "restrntDtlAddr": "충청남도 서산시 해미면 읍내리 183-1 ",
+      "foodType": "한식",
+      "mapLat": "36.71143830020214",
+      "mapLot": "126.54672993049898"
+  },
+  {
+      "restrntNm": "대현횟집",
+      "restrntAddr": "충청남도 서산시 대산읍 삼길포1로 37, 1~2층",
+      "restrntInqrTel": " 041 6637417",
+      "restrntDtlAddr": "충청남도 서산시 대산읍 화곡리 10-1 1~2층 ",
+      "foodType": null,
+      "mapLat": "37.001070174969",
+      "mapLot": "126.45221479767"
+  },
+  {
+      "restrntNm": "반도회관",
+      "restrntAddr": "충청남도 서산시 홍안벌로 136, 1층 (수석동)",
+      "restrntInqrTel": " 041 6652262",
+      "restrntDtlAddr": "충청남도 서산시 수석동 503-13 ",
+      "foodType": null,
+      "mapLat": "36.7632867100762",
+      "mapLot": "126.496124685848"
+  },
+  {
+      "restrntNm": "세림정",
+      "restrntAddr": "충청남도 서산시 율지19길 59 (동문동,(1,2층))",
+      "restrntInqrTel": " 041 6660072",
+      "restrntDtlAddr": "충청남도 서산시 동문동 189-5 (1,2층) ",
+      "foodType": "한식",
+      "mapLat": "36.7793452903515",
+      "mapLot": "126.466558160435"
+  },
+  {
+      "restrntNm": "소문난대구왕뽈찜",
+      "restrntAddr": "충청남도 서산시 율지7로 6 (동문동)",
+      "restrntInqrTel": " 041 6688006",
+      "restrntDtlAddr": "충청남도 서산시 동문동 199-3 ",
+      "foodType": "한식",
+      "mapLat": "37.30185978608036",
+      "mapLot": "126.99782310936814"
+  },
+  {
+      "restrntNm": "인지한우마을",
+      "restrntAddr": "충청남도 서산시 인지면 둔당로 106-23",
+      "restrntInqrTel": " 041 6888080",
+      "restrntDtlAddr": "충청남도 서산시 인지면 둔당리 247 ",
+      "foodType": "한식",
+      "mapLat": "36.75403817440735",
+      "mapLot": "126.42543386157942"
+  },
+  {
+      "restrntNm": "호박정육식당 서산점",
+      "restrntAddr": "충청남도 서산시 부춘산1로 6, 1층 (읍내동)",
+      "restrntInqrTel": null,
+      "restrntDtlAddr": "충청남도 서산시 읍내동 541-4 541-7(1층) ",
+      "foodType": "한식",
+      "mapLat": "36.78809453652631",
+      "mapLot": "126.44634049348963"
+  },
+  {
+      "restrntNm": "청원꽃게장",
+      "restrntAddr": "충청남도 서산시 율지8로 80, 1층 (동문동)",
+      "restrntInqrTel": "041 667 2012",
+      "restrntDtlAddr": "충청남도 서산시 동문동 193-7 한양빌딩, 1층 ",
+      "foodType": "한식",
+      "mapLat": "36.7783428910234",
+      "mapLot": "126.466475491622"
+  },
+  {
+      "restrntNm": "서해안해물맛집",
+      "restrntAddr": "충청남도 서산시 시장5로 15, 동부시장 D동 2층 44호 (동문동)",
+      "restrntInqrTel": " 041 6655466",
+      "restrntDtlAddr": "충청남도 서산시 동문동 900-3 900 외 11필지 동부시장내 D동 44호",
+      "foodType": "한식",
+      "mapLat": "36.78179492144485",
+      "mapLot": "126.45650046326527"
+  },
+  {
+      "restrntNm": "동아리동태찜탕",
+      "restrntAddr": "충청남도 서산시 율지8로 59 (동문동)",
+      "restrntInqrTel": "041 662 6880",
+      "restrntDtlAddr": "충청남도 서산시 동문동 139-6 ",
+      "foodType": "한식",
+      "mapLat": "36.4708670148627",
+      "mapLot": "127.13407022085"
+  },
+  {
+      "restrntNm": "힘센아나고전문점",
+      "restrntAddr": "충청남도 서산시 율지15로 20 (동문동)",
+      "restrntInqrTel": "041 665 7706",
+      "restrntDtlAddr": "충청남도 서산시 동문동 224-16 ",
+      "foodType": "한식",
+      "mapLat": "36.7792128278799",
+      "mapLot": "126.461956161927"
+  },
+  {
+      "restrntNm": "서산갯마을맛집",
+      "restrntAddr": "충청남도 서산시 시장2로 23 (동문동,(2층))",
+      "restrntInqrTel": " 041 6688840",
+      "restrntDtlAddr": "충청남도 서산시 동문동 311-3 (2층) ",
+      "foodType": "일식",
+      "mapLat": "36.78312823606829",
+      "mapLot": "126.4574175031668"
+  },
+  {
+      "restrntNm": "강미루",
+      "restrntAddr": "충청남도 서산시 양유정1로 3 (읍내동,,124-38,124-39(1,2층))",
+      "restrntInqrTel": "041 669 4938",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 124-10 ,124-38,124-39(1,2층) ",
+      "foodType": "중식",
+      "mapLat": "36.78012393781463",
+      "mapLot": "126.44840077655894"
+  },
+  {
+      "restrntNm": "채선당 서산점",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6660046",
+      "restrntDtlAddr": "충청남도 서산시 동문동 225-1 (1층) ",
+      "foodType": null,
+      "mapLat": "36.82313297775822",
+      "mapLot": "126.45023977498525"
+  },
+  {
+      "restrntNm": "갈비본가 두툼한숯불갈비",
+      "restrntAddr": "충청남도 서산시 율지19길 74 (동문동)",
+      "restrntInqrTel": "041 668 4420",
+      "restrntDtlAddr": "충청남도 서산시 동문동 139-2 ",
+      "foodType": "한식",
+      "mapLat": "36.7802053155778",
+      "mapLot": "126.465436463087"
+  },
+  {
+      "restrntNm": "거북이 횟집",
+      "restrntAddr": "충청남도 서산시 율지6로 45 (동문동,1층)",
+      "restrntInqrTel": "041 668 6116",
+      "restrntDtlAddr": "충청남도 서산시 동문동 195-6 1층 ",
+      "foodType": "한식",
+      "mapLat": "35.3258066866804",
+      "mapLot": "128.999774116654"
+  },
+  {
+      "restrntNm": "미 담",
+      "restrntAddr": "충청남도 서산시 대산읍 삼길포7로 37, 1층",
+      "restrntInqrTel": " 041 6666700",
+      "restrntDtlAddr": "충청남도 서산시 대산읍 화곡리 51-9 1층 ",
+      "foodType": null,
+      "mapLat": "37.5122580711926",
+      "mapLot": "126.704629812843"
+  },
+  {
+      "restrntNm": "유심정",
+      "restrntAddr": "충청남도 서산시 부춘3로 31, 1층 (읍내동)",
+      "restrntInqrTel": "041 665 1173",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 589-2 ",
+      "foodType": "한식",
+      "mapLat": "36.7859574217654",
+      "mapLot": "126.446405162406"
+  },
+  {
+      "restrntNm": "팔봉산솔바람가든",
+      "restrntAddr": "충청남도 서산시 팔봉면 팔봉산로 108",
+      "restrntInqrTel": " 041 6653579",
+      "restrntDtlAddr": "충청남도 서산시 팔봉면 양길리 822 ",
+      "foodType": "한식",
+      "mapLat": "36.818194807337",
+      "mapLot": "126.366195053155"
+  },
+  {
+      "restrntNm": "송호관",
+      "restrntAddr": "충청남도 서산시 음암면 진동길 192-23 ((1층))",
+      "restrntInqrTel": null,
+      "restrntDtlAddr": "충청남도 서산시 음암면 부산리 773-21 (1층) ",
+      "foodType": null,
+      "mapLat": "36.79753717199691",
+      "mapLot": "126.48463520490718"
+  },
+  {
+      "restrntNm": "한우명가 백제",
+      "restrntAddr": "충청남도 서산시 해미면 남문1로 14, 1층",
+      "restrntInqrTel": "041 688 3005",
+      "restrntDtlAddr": "충청남도 서산시 해미면 휴암리 163-5 1층 ",
+      "foodType": "한식",
+      "mapLat": "36.708215293507884",
+      "mapLot": "126.5460974999939"
+  },
+  {
+      "restrntNm": "두꺼비",
+      "restrntAddr": "충청남도 서산시 율지6로 53, 1층 (동문동)",
+      "restrntInqrTel": "041 665 7044",
+      "restrntDtlAddr": "충청남도 서산시 동문동 199-10 1층 ",
+      "foodType": "한식",
+      "mapLat": "36.7787443387706",
+      "mapLot": "126.464371220004"
+  },
+  {
+      "restrntNm": "신촌설렁탕",
+      "restrntAddr": "충청남도 서산시 율지19길 33 (동문동,(1층))",
+      "restrntInqrTel": "041 666 9200",
+      "restrntDtlAddr": "충청남도 서산시 동문동 201-6 (1층) ",
+      "foodType": "한식",
+      "mapLat": "36.36755077618531",
+      "mapLot": "127.37991548922433"
+  },
+  {
+      "restrntNm": "둥지식당",
+      "restrntAddr": "충청남도 서산시 인지면 무학로 1494, 1층",
+      "restrntInqrTel": "041 664 6583",
+      "restrntDtlAddr": "충청남도 서산시 인지면 애정리 317-7 (1층) ",
+      "foodType": "한식",
+      "mapLat": "35.2393929294885",
+      "mapLot": "128.582103450788"
+  },
+  {
+      "restrntNm": "의정부부대찌개",
+      "restrntAddr": "충청남도 서산시 명륜1로 74, 1층 (읍내동)",
+      "restrntInqrTel": "041 664 8626",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 409-10 (1층) ",
+      "foodType": "한식",
+      "mapLat": "37.5550437832412",
+      "mapLot": "126.913685416543"
+  },
+  {
+      "restrntNm": "가보",
+      "restrntAddr": "충청남도 서산시 호수공원9로 47, 1층 (예천동)",
+      "restrntInqrTel": " 041666 7700",
+      "restrntDtlAddr": "충청남도 서산시 예천동 1288-13 ",
+      "foodType": "중식",
+      "mapLat": "36.7449890068975",
+      "mapLot": "126.300489060982"
+  },
+  {
+      "restrntNm": "궁",
+      "restrntAddr": "충청남도 서산시 대지제5길 7 (석남동)",
+      "restrntInqrTel": "041 668 0205",
+      "restrntDtlAddr": "충청남도 서산시 석남동 6-49 1층 ",
+      "foodType": "한식",
+      "mapLat": "37.577613288258206",
+      "mapLot": "126.97689786832184"
+  },
+  {
+      "restrntNm": "팔봉순두부",
+      "restrntAddr": "충청남도 서산시 인지면 차동길 146, 1층",
+      "restrntInqrTel": "041 667 8007",
+      "restrntDtlAddr": "충청남도 서산시 인지면 차리 42-7 1층 ",
+      "foodType": "한식",
+      "mapLat": "36.7761887130808",
+      "mapLot": "126.400154671414"
+  },
+  {
+      "restrntNm": "서산꽃게장",
+      "restrntAddr": "충청남도 서산시 한마음5로 92, 1층 (석림동)",
+      "restrntInqrTel": "041 665 8829",
+      "restrntDtlAddr": "충청남도 서산시 석림동 634-4 1층 ",
+      "foodType": "한식",
+      "mapLat": "36.776437227518",
+      "mapLot": "126.46032108062718"
+  },
+  {
+      "restrntNm": "구도해물맛집",
+      "restrntAddr": "충청남도 서산시 팔봉면 범머리길 17, 1층",
+      "restrntInqrTel": "041 669 1943",
+      "restrntDtlAddr": "충청남도 서산시 팔봉면 호리 602 1층 ",
+      "foodType": "한식",
+      "mapLat": "36.8291402874148",
+      "mapLot": "126.327944028054"
+  },
+  {
+      "restrntNm": "창포가든",
+      "restrntAddr": "충청남도 서산시 팔봉면 어송4길 4, 1층",
+      "restrntInqrTel": "041 669 8899",
+      "restrntDtlAddr": "충청남도 서산시 팔봉면 어송리 905 1층 ",
+      "foodType": "한식",
+      "mapLat": "36.7938387129754",
+      "mapLot": "126.361241873826"
+  },
+  {
+      "restrntNm": "본래순대 서산점",
+      "restrntAddr": "충청남도 서산시 남부순환로 921, 1층 (석남동)",
+      "restrntInqrTel": "041 665 7045",
+      "restrntDtlAddr": "충청남도 서산시 석남동 286-6 ",
+      "foodType": "한식",
+      "mapLat": "36.758831828799565",
+      "mapLot": "126.45134856415655"
+  },
+  {
+      "restrntNm": "무봉리순대동문점",
+      "restrntAddr": "충청남도 서산시 율지6로 69, 1층 (동문동)",
+      "restrntInqrTel": "041 663 0907",
+      "restrntDtlAddr": "충청남도 서산시 동문동 201-8 1층 ",
+      "foodType": "한식",
+      "mapLat": "36.4185951114934",
+      "mapLot": "128.150633602377"
+  },
+  {
+      "restrntNm": "오리 앤 닭",
+      "restrntAddr": "충청남도 서산시 부석면 무학로 1210-10, 1층",
+      "restrntInqrTel": "041 681 5678",
+      "restrntDtlAddr": "충청남도 서산시 부석면 취평리 10-1 (1층) ",
+      "foodType": null,
+      "mapLat": "36.60136507551465",
+      "mapLot": "126.66862897960293"
+  },
+  {
+      "restrntNm": "마두향",
+      "restrntAddr": "충청남도 서산시 팔봉면 팔봉산로 94, 1층",
+      "restrntInqrTel": "041 663 7392",
+      "restrntDtlAddr": "충청남도 서산시 팔봉면 양길리 810-1 1층 ",
+      "foodType": "한식",
+      "mapLat": "37.6622685923267",
+      "mapLot": "126.789642943056"
+  },
+  {
+      "restrntNm": "군산오징어",
+      "restrntAddr": "충청남도 서산시 호수공원3로 50, 1층 (예천동)",
+      "restrntInqrTel": "041 665 5399",
+      "restrntDtlAddr": "충청남도 서산시 예천동 1261-2 1층 ",
+      "foodType": "한식",
+      "mapLat": "37.506261589711286",
+      "mapLot": "127.09700731897676"
+  },
+  {
+      "restrntNm": "부영아구",
+      "restrntAddr": "충청남도 서산시 성암2로 29, 1층 (읍내동)",
+      "restrntInqrTel": "041 669 6333",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 619-5 ",
+      "foodType": "한식",
+      "mapLat": "36.7829958271601",
+      "mapLot": "126.445122485397"
+  },
+  {
+      "restrntNm": "해성",
+      "restrntAddr": "충청남도 서산시 부춘3로 27, 1층 (읍내동)",
+      "restrntInqrTel": "041 666 1573",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 589-5 1층 ",
+      "foodType": "일식",
+      "mapLat": "37.1731092100768",
+      "mapLot": "126.65944229428"
+  },
+  {
+      "restrntNm": "현대한우촌",
+      "restrntAddr": "충청남도 서산시 율지17로 21 (동문동)",
+      "restrntInqrTel": " 041 6653271",
+      "restrntDtlAddr": "충청남도 서산시 동문동 225-5 ",
+      "foodType": "한식",
+      "mapLat": "36.7785212113436",
+      "mapLot": "126.462849309457"
+  },
+  {
+      "restrntNm": "태원식당",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6652714",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 229-1 ",
+      "foodType": null,
+      "mapLat": "37.75572870492665",
+      "mapLot": "128.8910563046035"
+  },
+  {
+      "restrntNm": "해미횟집",
+      "restrntAddr": "충청남도 서산시 해미면 남문5로 12-1",
+      "restrntInqrTel": " 041 6882048",
+      "restrntDtlAddr": "충청남도 서산시 해미면 읍내리 306-5 ",
+      "foodType": "한식",
+      "mapLat": "36.71242242101697",
+      "mapLot": "126.54392493788609"
+  },
+  {
+      "restrntNm": "동양식당",
+      "restrntAddr": "충청남도 서산시 고운로 166-4 (동문동)",
+      "restrntInqrTel": " 041 6652246",
+      "restrntDtlAddr": "충청남도 서산시 동문동 936-9 1~2층 ",
+      "foodType": "한식",
+      "mapLat": "37.6719778762913",
+      "mapLot": "128.709123209842"
+  },
+  {
+      "restrntNm": "신 부석가든",
+      "restrntAddr": null,
+      "restrntInqrTel": "041 669 0688",
+      "restrntDtlAddr": "충청남도 서산시 부석면 취평리 374-2 ",
+      "foodType": null,
+      "mapLat": "36.7144293372012",
+      "mapLot": "126.392119837219"
+  },
+  {
+      "restrntNm": "수복집",
+      "restrntAddr": "충청남도 서산시 부석면 취평2길 9",
+      "restrntInqrTel": " 041 6624128",
+      "restrntDtlAddr": "충청남도 서산시 부석면 취평리 258-2 ",
+      "foodType": "한식",
+      "mapLat": "37.6435178989274",
+      "mapLot": "126.944361812073"
+  },
+  {
+      "restrntNm": "산마루",
+      "restrntAddr": "충청남도 서산시 안견로 401 (읍내동)",
+      "restrntInqrTel": null,
+      "restrntDtlAddr": "충청남도 서산시 읍내동 683-22 ",
+      "foodType": null,
+      "mapLat": "35.1517816006649",
+      "mapLot": "129.056797610513"
+  },
+  {
+      "restrntNm": "서산골목집",
+      "restrntAddr": "충청남도 서산시 관아문길 21, 1~2층 (읍내동)",
+      "restrntInqrTel": "041 668 2800",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 239-1 1~2 층 ",
+      "foodType": null,
+      "mapLat": "36.7825196567456",
+      "mapLot": "126.45164577829833"
+  },
+  {
+      "restrntNm": "어사랑",
+      "restrntAddr": "충청남도 서산시 율지4로 22 (동문동)",
+      "restrntInqrTel": " ",
+      "restrntDtlAddr": "충청남도 서산시 동문동 221-9 ",
+      "foodType": null,
+      "mapLat": "37.5656742348872",
+      "mapLot": "126.989982788653"
+  },
+  {
+      "restrntNm": "명문해물칼국수",
+      "restrntAddr": "충청남도 서산시 운산면 운암로 1126",
+      "restrntInqrTel": "041 665 1015",
+      "restrntDtlAddr": "충청남도 서산시 운산면 수당리 259-1 (지번변경) ",
+      "foodType": null,
+      "mapLat": "36.8146214337087",
+      "mapLot": "126.590095032812"
+  },
+  {
+      "restrntNm": "오뚜기횟집",
+      "restrntAddr": "충청남도 서산시 부석면 간월도1길 107",
+      "restrntInqrTel": null,
+      "restrntDtlAddr": "충청남도 서산시 부석면 간월도리 16-8 ",
+      "foodType": null,
+      "mapLat": "36.0943531210409",
+      "mapLot": "128.427087209748"
+  },
+  {
+      "restrntNm": "유성식당",
+      "restrntAddr": "충청남도 서산시 안견로 355 (읍내동)",
+      "restrntInqrTel": " 041 6673783",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 759-12 ",
+      "foodType": null,
+      "mapLat": "35.91042188218294",
+      "mapLot": "127.07462425930674"
+  },
+  {
+      "restrntNm": "아담농원",
+      "restrntAddr": "충청남도 서산시 오남농장2길 46-5 (오남동)",
+      "restrntInqrTel": "041 665 4050",
+      "restrntDtlAddr": "충청남도 서산시 오남동 64-3 ",
+      "foodType": "한식",
+      "mapLat": "36.7559449099487",
+      "mapLot": "126.47783377718"
+  },
+  {
+      "restrntNm": "큰마을영양굴밥",
+      "restrntAddr": "충청남도 서산시 부석면 간월도1길 65",
+      "restrntInqrTel": " 041 6622706",
+      "restrntDtlAddr": "충청남도 서산시 부석면 간월도리 89-2 ",
+      "foodType": "한식",
+      "mapLat": "36.6095561865707",
+      "mapLot": "126.416452268882"
+  },
+  {
+      "restrntNm": "아리랑 회관",
+      "restrntAddr": "충청남도 서산시 문화로 73 (읍내동,(1,2,3층))",
+      "restrntInqrTel": " 041 6641840",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 412-5 (1,2,3층) ",
+      "foodType": null,
+      "mapLat": "37.2271728610168",
+      "mapLot": "128.815969218586"
+  },
+  {
+      "restrntNm": "내고향식당",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6631076",
+      "restrntDtlAddr": "충청남도 서산시 예천동 524-2 ",
+      "foodType": "분식",
+      "mapLat": "35.1343347855765",
+      "mapLot": "126.90919777777"
+  },
+  {
+      "restrntNm": "산아구탕",
+      "restrntAddr": "충청남도 서산시 율지12길 6 (동문동)",
+      "restrntInqrTel": "041 666 1508",
+      "restrntDtlAddr": "충청남도 서산시 동문동 323-9 ",
+      "foodType": "한식",
+      "mapLat": "36.78239229779331",
+      "mapLot": "126.46164043099108"
+  },
+  {
+      "restrntNm": "산호가든",
+      "restrntAddr": "충청남도 서산시 온석1길 96 (온석동)",
+      "restrntInqrTel": " 041 6658317",
+      "restrntDtlAddr": "충청남도 서산시 온석동 602 ",
+      "foodType": null,
+      "mapLat": "36.7982993355739",
+      "mapLot": "126.46620937356506"
+  },
+  {
+      "restrntNm": "구도횟집",
+      "restrntAddr": "충청남도 서산시 팔봉면 팔봉1로 748",
+      "restrntInqrTel": " 041 6626117",
+      "restrntDtlAddr": "충청남도 서산시 팔봉면 호리 625-6 ",
+      "foodType": "한식",
+      "mapLat": "36.827682447607",
+      "mapLot": "126.327647410119"
+  },
+  {
+      "restrntNm": "동막골 가든",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6661176",
+      "restrntDtlAddr": "충청남도 서산시 석림동 514-10 ",
+      "foodType": null,
+      "mapLat": "37.5632306133926",
+      "mapLot": "127.239051345913"
+  },
+  {
+      "restrntNm": "산수가든",
+      "restrntAddr": "충청남도 서산시 운산면 마애삼존불길 29",
+      "restrntInqrTel": " 041 6634567",
+      "restrntDtlAddr": "충청남도 서산시 운산면 용현리 7 ",
+      "foodType": null,
+      "mapLat": "37.4343602120855",
+      "mapLot": "128.059064834691"
+  },
+  {
+      "restrntNm": "뚱이네한식",
+      "restrntAddr": "충청남도 서산시 대산읍 독곶2로 16-1, 1층",
+      "restrntInqrTel": null,
+      "restrntDtlAddr": "충청남도 서산시 대산읍 독곶리 123-78 1층 ",
+      "foodType": null,
+      "mapLat": "37.272111665800054",
+      "mapLot": "127.009087478117"
+  },
+  {
+      "restrntNm": "해미읍성감자탕",
+      "restrntAddr": "충청남도 서산시 해미면 남문1로 30",
+      "restrntInqrTel": null,
+      "restrntDtlAddr": "충청남도 서산시 해미면 읍내리 153-14 ",
+      "foodType": null,
+      "mapLat": "36.7109316313798",
+      "mapLot": "126.547140301008"
+  },
+  {
+      "restrntNm": "태평양회타운",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6646607",
+      "restrntDtlAddr": "충청남도 서산시 동문동 221-1 ",
+      "foodType": null,
+      "mapLat": "36.359144214135",
+      "mapLot": "129.385123968286"
+  },
+  {
+      "restrntNm": "해미식당",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6692063",
+      "restrntDtlAddr": "충청남도 서산시 해미면 읍내리 298-6 ",
+      "foodType": null,
+      "mapLat": "37.46300074854984",
+      "mapLot": "126.64553993420142"
+  },
+  {
+      "restrntNm": "사대부",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6627090",
+      "restrntDtlAddr": "충청남도 서산시 동문동 884-3 ",
+      "foodType": null,
+      "mapLat": "37.5223599507558",
+      "mapLot": "126.919999165114"
+  },
+  {
+      "restrntNm": "풍진갈비",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6621601",
+      "restrntDtlAddr": "충청남도 서산시 해미면 읍내리 295-7 ",
+      "foodType": null,
+      "mapLat": "37.2667742170828",
+      "mapLot": "127.002602037109"
+  },
+  {
+      "restrntNm": "삼일가든",
+      "restrntAddr": "충청남도 서산시 음암면 운암로 417",
+      "restrntInqrTel": " 041 6633131",
+      "restrntDtlAddr": "충청남도 서산시 음암면 도당리 822 ",
+      "foodType": null,
+      "mapLat": "36.577960259437",
+      "mapLot": "128.758465417435"
+  },
+  {
+      "restrntNm": "소풍",
+      "restrntAddr": "충청남도 서산시 운산면 장벌7로 48, 1층",
+      "restrntInqrTel": " 041 6696060",
+      "restrntDtlAddr": "충청남도 서산시 운산면 용장리 471-4 1층 ",
+      "foodType": "한식",
+      "mapLat": "37.5047074291607",
+      "mapLot": "126.75711932541553"
+  },
+  {
+      "restrntNm": "만리장성식당",
+      "restrntAddr": "충청남도 서산시 고북면 고북1로 328",
+      "restrntInqrTel": " 041 6632558",
+      "restrntDtlAddr": "충청남도 서산시 고북면 가구리 624-7 ",
+      "foodType": null,
+      "mapLat": "37.503561107246846",
+      "mapLot": "126.780471450395"
+  },
+  {
+      "restrntNm": "정겨운",
+      "restrntAddr": "충청남도 서산시 서령로 5-1 (동문동)",
+      "restrntInqrTel": " 041 6652653",
+      "restrntDtlAddr": "충청남도 서산시 동문동 728-1 ",
+      "foodType": null,
+      "mapLat": "37.4926494639659",
+      "mapLot": "126.986141094447"
+  },
+  {
+      "restrntNm": "용구비어",
+      "restrntAddr": "충청남도 서산시 율지11로 15 (동문동)",
+      "restrntInqrTel": "041 666 0925",
+      "restrntDtlAddr": "충청남도 서산시 동문동 302-2 ",
+      "foodType": null,
+      "mapLat": "37.48509524976941",
+      "mapLot": "126.92839118600212"
+  },
+  {
+      "restrntNm": "아리랑해물칼국수",
+      "restrntAddr": "충청남도 서산시 한마음15로 3 (석림동)",
+      "restrntInqrTel": "041 667 6786",
+      "restrntDtlAddr": "충청남도 서산시 석림동 675-3 ",
+      "foodType": null,
+      "mapLat": "36.7726040434986",
+      "mapLot": "126.460744467805"
+  },
+  {
+      "restrntNm": "청솔가든",
+      "restrntAddr": "충청남도 서산시 운산면 마애삼존불길 259",
+      "restrntInqrTel": " 041 6696717",
+      "restrntDtlAddr": "충청남도 서산시 운산면 용현리 70 ",
+      "foodType": null,
+      "mapLat": "35.1882114274181",
+      "mapLot": "127.369424905668"
+  },
+  {
+      "restrntNm": "대곡가든",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6880557",
+      "restrntDtlAddr": "충청남도 서산시 해미면 대곡리 437-1 ",
+      "foodType": null,
+      "mapLat": "36.689034475063494",
+      "mapLot": "126.57730221349011"
+  },
+  {
+      "restrntNm": "회도둑",
+      "restrntAddr": "충청남도 서산시 부석면 간월도1길 111 (1,2층)",
+      "restrntInqrTel": " 041 6649812",
+      "restrntDtlAddr": "충청남도 서산시 부석면 간월도리 16-12 1,2층 ",
+      "foodType": "일식",
+      "mapLat": "36.77421310389",
+      "mapLot": "127.0696774833"
+  },
+  {
+      "restrntNm": "장수마을",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6675755",
+      "restrntDtlAddr": "충청남도 서산시 동문동 222-7 ",
+      "foodType": null,
+      "mapLat": "37.5806451480508",
+      "mapLot": "127.010234318615"
+  },
+  {
+      "restrntNm": "성우가든",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6658248",
+      "restrntDtlAddr": "충청남도 서산시 석남동 286-6 ",
+      "foodType": null,
+      "mapLat": "36.690326536606",
+      "mapLot": "128.1157645878"
+  },
+  {
+      "restrntNm": "부산아구",
+      "restrntAddr": "충청남도 서산시 율지8로 12 (동문동)",
+      "restrntInqrTel": "041 665 3949",
+      "restrntDtlAddr": "충청남도 서산시 동문동 305-1 ",
+      "foodType": null,
+      "mapLat": "37.5157934886313",
+      "mapLot": "127.020717859302"
+  },
+  {
+      "restrntNm": "운산왕식당",
+      "restrntAddr": "충청남도 서산시 운산면 장벌4로 2",
+      "restrntInqrTel": " 041 6634101",
+      "restrntDtlAddr": "충청남도 서산시 운산면 용장리 367 ,365-4 ",
+      "foodType": null,
+      "mapLat": "36.81096442082736",
+      "mapLot": "126.58506254184073"
+  },
+  {
+      "restrntNm": "만석식당",
+      "restrntAddr": "충청남도 서산시 대산읍 삼길포1로 61, 1층",
+      "restrntInqrTel": " 041 6648455",
+      "restrntDtlAddr": "충청남도 서산시 대산읍 화곡리 2-2 1층 ",
+      "foodType": null,
+      "mapLat": "37.0031414900492",
+      "mapLot": "126.451966253154"
+  },
+  {
+      "restrntNm": "서산횟집",
+      "restrntAddr": "충청남도 서산시 부석면 간월도1길 105",
+      "restrntInqrTel": "041 669 4111",
+      "restrntDtlAddr": "충청남도 서산시 부석면 간월도리 16-20 ",
+      "foodType": null,
+      "mapLat": "37.2062285254538",
+      "mapLot": "126.645435422961"
+  },
+  {
+      "restrntNm": "미담",
+      "restrntAddr": "충청남도 서산시 부석면 취평2길 34, 1층",
+      "restrntInqrTel": " 041 6675939",
+      "restrntDtlAddr": "충청남도 서산시 부석면 취평리 370-5 ",
+      "foodType": "한식",
+      "mapLat": "37.5122580711926",
+      "mapLot": "126.704629812843"
+  },
+  {
+      "restrntNm": "서산잠실감자탕",
+      "restrntAddr": "충청남도 서산시 호수공원4로 3 (읍내동,(1층))",
+      "restrntInqrTel": "041 666 0007",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 46-2 (1층) ",
+      "foodType": "한식",
+      "mapLat": "36.7762644092755",
+      "mapLot": "126.447796661621"
+  },
+  {
+      "restrntNm": "대현수산회센타",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6637417",
+      "restrntDtlAddr": "충청남도 서산시 대산읍 화곡리 3 ",
+      "foodType": null,
+      "mapLat": "37.5807533432479",
+      "mapLot": "126.969378512449"
+  },
+  {
+      "restrntNm": "삽교신창집",
+      "restrntAddr": "충청남도 서산시 한마음8로 64 (석림동,106호)",
+      "restrntInqrTel": "041 667 4120",
+      "restrntDtlAddr": "충청남도 서산시 석림동 641-3 106호 ",
+      "foodType": null,
+      "mapLat": "36.77528349127",
+      "mapLot": "126.461841365836"
+  },
+  {
+      "restrntNm": "가야관",
+      "restrntAddr": "충청남도 서산시 명륜3길 24-35, 1층 (읍내동)",
+      "restrntInqrTel": " 041 6676681",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 447 409-11, 448-2 (1층) ",
+      "foodType": null,
+      "mapLat": "36.7838179929723",
+      "mapLot": "126.447522897106"
+  },
+  {
+      "restrntNm": "서산한우곱창",
+      "restrntAddr": "충청남도 서산시 율지16로 20 (동문동)",
+      "restrntInqrTel": null,
+      "restrntDtlAddr": "충청남도 서산시 동문동 225-4 ",
+      "foodType": "한식",
+      "mapLat": "36.7859817548924",
+      "mapLot": "126.446212295566"
+  },
+  {
+      "restrntNm": "이가네",
+      "restrntAddr": "충청남도 서산시 문화로 69 (읍내동)",
+      "restrntInqrTel": "041 667 8822",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 413-1 ",
+      "foodType": null,
+      "mapLat": "35.1014825667343",
+      "mapLot": "129.02595233473696"
+  },
+  {
+      "restrntNm": "로뎀나무",
+      "restrntAddr": "충청남도 서산시 부석면 무학로 732-14",
+      "restrntInqrTel": "041 669 6180",
+      "restrntDtlAddr": "충청남도 서산시 부석면 칠전리 60-2 ",
+      "foodType": null,
+      "mapLat": "37.5678979730029",
+      "mapLot": "126.969465274183"
+  },
+  {
+      "restrntNm": "태능숯불갈비",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6815252",
+      "restrntDtlAddr": "충청남도 서산시 대산읍 대산리 137-5 ",
+      "foodType": null,
+      "mapLat": "37.6393006229291",
+      "mapLot": "127.070386756998"
+  },
+  {
+      "restrntNm": "물레방아",
+      "restrntAddr": "충청남도 서산시 운산면 운암로 1207-4",
+      "restrntInqrTel": " 041 6633654",
+      "restrntDtlAddr": "충청남도 서산시 운산면 수당리 산 41-2 ",
+      "foodType": null,
+      "mapLat": "37.1649304283642",
+      "mapLot": "126.673228233334"
+  },
+  {
+      "restrntNm": "레트로카페",
+      "restrntAddr": "충청남도 서산시 운산면 마애삼존불길 176-7",
+      "restrntInqrTel": "041 664 8892",
+      "restrntDtlAddr": "충청남도 서산시 운산면 용현리 159 ",
+      "foodType": null,
+      "mapLat": "37.48543708705247",
+      "mapLot": "127.01897275432817"
+  },
+  {
+      "restrntNm": "2대째 양평해장국",
+      "restrntAddr": "충청남도 서산시 율지19길 27 (동문동)",
+      "restrntInqrTel": "041 664 8037",
+      "restrntDtlAddr": "충청남도 서산시 동문동 296-2 ",
+      "foodType": "한식",
+      "mapLat": "36.7773913785496",
+      "mapLot": "126.465684520105"
+  },
+  {
+      "restrntNm": "청양식당",
+      "restrntAddr": "충청남도 서산시 고북면 문화마을1로 79",
+      "restrntInqrTel": "041 664 2517",
+      "restrntDtlAddr": "충청남도 서산시 고북면 347-55 ",
+      "foodType": null,
+      "mapLat": "36.3453556636818",
+      "mapLot": "127.79225541464464"
+  },
+  {
+      "restrntNm": "카츠백",
+      "restrntAddr": "충청남도 서산시 율지14로 12 (동문동)",
+      "restrntInqrTel": " 041 6658022",
+      "restrntDtlAddr": "충청남도 서산시 동문동 332-2 ",
+      "foodType": null,
+      "mapLat": "37.506889837560124",
+      "mapLot": "126.9022001682797"
+  },
+  {
+      "restrntNm": "푸른언덕",
+      "restrntAddr": "충청남도 서산시 고운로 244 (동문동)",
+      "restrntInqrTel": " 041 6643749",
+      "restrntDtlAddr": "충청남도 서산시 동문동 362-6 ",
+      "foodType": null,
+      "mapLat": "37.41599138980321",
+      "mapLot": "127.10900042196849"
+  },
+  {
+      "restrntNm": "삼복식당",
+      "restrntAddr": "충청남도 서산시 연당3길 3 (동문동)",
+      "restrntInqrTel": "041 667 3208",
+      "restrntDtlAddr": "충청남도 서산시 동문동 724-6 ",
+      "foodType": null,
+      "mapLat": "36.1234151039138",
+      "mapLot": "128.361954774628"
+  },
+  {
+      "restrntNm": "산천초목",
+      "restrntAddr": "충청남도 서산시 운산면 마애삼존불길 158, 1층",
+      "restrntInqrTel": " 041 6633550",
+      "restrntDtlAddr": "충청남도 서산시 운산면 용현리 167-1 1층 ",
+      "foodType": null,
+      "mapLat": "36.7664764896212",
+      "mapLot": "126.601600956686"
+  },
+  {
+      "restrntNm": "광어촌",
+      "restrntAddr": "충청남도 서산시 율지4로 9 (동문동)",
+      "restrntInqrTel": " 041 6674278",
+      "restrntDtlAddr": "충청남도 서산시 동문동 208-11 ",
+      "foodType": null,
+      "mapLat": "37.0802229806213",
+      "mapLot": "127.058966638676"
+  },
+  {
+      "restrntNm": "은혜네 영양굴밥",
+      "restrntAddr": "충청남도 서산시 부석면 간월도2길 88",
+      "restrntInqrTel": "041 662 4088",
+      "restrntDtlAddr": "충청남도 서산시 부석면 간월도리 16-35 (지번변경) ",
+      "foodType": null,
+      "mapLat": "36.6059034543394",
+      "mapLot": "126.414704895803"
+  },
+  {
+      "restrntNm": "파비",
+      "restrntAddr": "충청남도 서산시 해미면 한티로 335",
+      "restrntInqrTel": " 041 6889244",
+      "restrntDtlAddr": "충청남도 서산시 해미면 대곡리 424-1 ",
+      "foodType": null,
+      "mapLat": "37.474130522419856",
+      "mapLot": "127.10366402278429"
+  },
+  {
+      "restrntNm": "바위회관",
+      "restrntAddr": "충청남도 서산시 부석면 창리2길 56, 1층",
+      "restrntInqrTel": " 041 6698844",
+      "restrntDtlAddr": "충청남도 서산시 부석면 창리 293-50 (1층) ",
+      "foodType": "일식",
+      "mapLat": "36.6729219687582",
+      "mapLot": "127.966888708564"
+  },
+  {
+      "restrntNm": "창리꽃게장굴밥집",
+      "restrntAddr": "충청남도 서산시 부석면 창리2길 26, 1층",
+      "restrntInqrTel": " 041 6639121",
+      "restrntDtlAddr": "충청남도 서산시 부석면 창리 292-19 (1층) ",
+      "foodType": null,
+      "mapLat": "36.625586065272294",
+      "mapLot": "126.36952754663174"
+  },
+  {
+      "restrntNm": "돼지우리(서산점)",
+      "restrntAddr": "충청남도 서산시 율지4로 20, 나동 (동문동)",
+      "restrntInqrTel": " 041 6668259",
+      "restrntDtlAddr": "충청남도 서산시 동문동 221-8 나동 ",
+      "foodType": null,
+      "mapLat": "36.7794450105585",
+      "mapLot": "126.461093099983"
+  },
+  {
+      "restrntNm": "읍성숯불구이",
+      "restrntAddr": "충청남도 서산시 해미면 휴암1길 16",
+      "restrntInqrTel": "041 688 9265",
+      "restrntDtlAddr": "충청남도 서산시 해미면 휴암리 152-2 ",
+      "foodType": "한식",
+      "mapLat": "36.7081531039055",
+      "mapLot": "126.547277476412"
+  },
+  {
+      "restrntNm": "돈이수제갈비명가(본점)",
+      "restrntAddr": "충청남도 서산시 율지17로 19 (동문동)",
+      "restrntInqrTel": "041 669 2207",
+      "restrntDtlAddr": "충청남도 서산시 동문동 225-6 ",
+      "foodType": "한식",
+      "mapLat": "36.7783945548077",
+      "mapLot": "126.462738174103"
+  },
+  {
+      "restrntNm": "착한낙지",
+      "restrntAddr": "충청남도 서산시 율지14로 16 (동문동)",
+      "restrntInqrTel": " 041 6634000",
+      "restrntDtlAddr": "충청남도 서산시 동문동 336-9 ",
+      "foodType": null,
+      "mapLat": "37.54351302863365",
+      "mapLot": "126.71610379799179"
+  },
+  {
+      "restrntNm": "만리장성",
+      "restrntAddr": "충청남도 서산시 문화로 67, 1~2층 (읍내동)",
+      "restrntInqrTel": "041 667 4320",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 413-2 ",
+      "foodType": "중식",
+      "mapLat": "35.87252622802316",
+      "mapLot": "128.60074574251152"
+  },
+  {
+      "restrntNm": "효정가든",
+      "restrntAddr": "충청남도 서산시 운산면 장벌4로 8",
+      "restrntInqrTel": " 041 6633554",
+      "restrntDtlAddr": "충청남도 서산시 운산면 용장리 442-2 ",
+      "foodType": "한식",
+      "mapLat": "36.810566533788936",
+      "mapLot": "126.58183268903404"
+  },
+  {
+      "restrntNm": "부석흑콩국수",
+      "restrntAddr": "충청남도 서산시 부석면 무학로 1158",
+      "restrntInqrTel": "041 664 9988",
+      "restrntDtlAddr": "충청남도 서산시 부석면 취평리 528-1 ",
+      "foodType": "한식",
+      "mapLat": "36.7191033651862",
+      "mapLot": "126.396896111393"
+  },
+  {
+      "restrntNm": "오리사냥",
+      "restrntAddr": "충청남도 서산시 소탐1로 18 (수석동)",
+      "restrntInqrTel": " 041 6819252",
+      "restrntDtlAddr": "충청남도 서산시 수석동 665-36 ",
+      "foodType": null,
+      "mapLat": "37.6599766766484",
+      "mapLot": "127.292672373182"
+  },
+  {
+      "restrntNm": "싱글벙글 식당",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6628024",
+      "restrntDtlAddr": "충청남도 서산시 성연면 평리 293-3 ",
+      "foodType": null,
+      "mapLat": "36.12957317096224",
+      "mapLot": "128.33169136740736"
+  },
+  {
+      "restrntNm": "심마니약초삼계탕",
+      "restrntAddr": "충청남도 서산시 홍안벌로 144 (수석동)",
+      "restrntInqrTel": " 041 6630273",
+      "restrntDtlAddr": "충청남도 서산시 수석동 503-6 ",
+      "foodType": null,
+      "mapLat": "35.152309799984614",
+      "mapLot": "128.98957221467992"
+  },
+  {
+      "restrntNm": "두리하나",
+      "restrntAddr": "충청남도 서산시 운산면 마애삼존불길 192-8",
+      "restrntInqrTel": null,
+      "restrntDtlAddr": "충청남도 서산시 운산면 용현리 156-3 ",
+      "foodType": null,
+      "mapLat": "37.507959609426464",
+      "mapLot": "126.73391283578091"
+  },
+  {
+      "restrntNm": "소담정",
+      "restrntAddr": "충청남도 서산시 율지3로 46, 1층 (동문동)",
+      "restrntInqrTel": "041 681 6443",
+      "restrntDtlAddr": "충청남도 서산시 동문동 239-8 ",
+      "foodType": null,
+      "mapLat": "37.5136770006576",
+      "mapLot": "127.108246497468"
+  },
+  {
+      "restrntNm": "설악관",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6813806",
+      "restrntDtlAddr": "충청남도 서산시 대산읍 대산리 122 ",
+      "foodType": null,
+      "mapLat": "38.1952977342541",
+      "mapLot": "128.579230406388"
+  },
+  {
+      "restrntNm": "시골풍경",
+      "restrntAddr": "충청남도 서산시 부석면 무학로 745, 가동",
+      "restrntInqrTel": "041 662 8699",
+      "restrntDtlAddr": "충청남도 서산시 부석면 칠전리 37-9 가동 ",
+      "foodType": "한식",
+      "mapLat": "37.6560423450612",
+      "mapLot": "127.131779823023"
+  },
+  {
+      "restrntNm": "서산시골순대",
+      "restrntAddr": "충청남도 서산시 율지11로 12, 1층 (동문동)",
+      "restrntInqrTel": "041 665 1818",
+      "restrntDtlAddr": "충청남도 서산시 동문동 301-3 (1층) ",
+      "foodType": null,
+      "mapLat": "36.8302560149601",
+      "mapLot": "126.45431837959"
+  },
+  {
+      "restrntNm": "꽃피는산골",
+      "restrntAddr": "충청남도 서산시 운산면 마애삼존불길 235",
+      "restrntInqrTel": " 041 6657840",
+      "restrntDtlAddr": "충청남도 서산시 운산면 용현리 57-4 ",
+      "foodType": null,
+      "mapLat": "37.5710977734845",
+      "mapLot": "126.985583225511"
+  },
+  {
+      "restrntNm": "영미식당",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6691042",
+      "restrntDtlAddr": "충청남도 서산시 부석면 간월도리 16-6 ",
+      "foodType": null,
+      "mapLat": "33.51245589585329",
+      "mapLot": "126.53094426735585"
+  },
+  {
+      "restrntNm": "율도",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6813211",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 75-6 2층 ",
+      "foodType": null,
+      "mapLat": "34.803464132188",
+      "mapLot": "126.323546443696"
+  },
+  {
+      "restrntNm": "청정수산식당",
+      "restrntAddr": "충청남도 서산시 한마음5로 84, 1층 (석림동)",
+      "restrntInqrTel": "041 667 7040",
+      "restrntDtlAddr": "충청남도 서산시 석림동 632-1 1층 ",
+      "foodType": null,
+      "mapLat": "35.8421341410984",
+      "mapLot": "127.142359557949"
+  },
+  {
+      "restrntNm": "송가네한우탕",
+      "restrntAddr": "충청남도 서산시 무학로 1897 (예천동)",
+      "restrntInqrTel": " 041 6650028",
+      "restrntDtlAddr": "충청남도 서산시 예천동 652 ",
+      "foodType": "한식",
+      "mapLat": "36.7705066490312",
+      "mapLot": "126.435951712619"
+  },
+  {
+      "restrntNm": "계절그리기",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6672646",
+      "restrntDtlAddr": "충청남도 서산시 예천동 253-3 ",
+      "foodType": null,
+      "mapLat": "36.5662822480201",
+      "mapLot": "126.329772520918"
+  },
+  {
+      "restrntNm": "흙이랑",
+      "restrntAddr": "충청남도 서산시 율지3로 50 (동문동)",
+      "restrntInqrTel": " 041 6679393",
+      "restrntDtlAddr": "충청남도 서산시 동문동 239-17 ",
+      "foodType": null,
+      "mapLat": "37.868239617193204",
+      "mapLot": "128.00179799337224"
+  },
+  {
+      "restrntNm": "소청",
+      "restrntAddr": "충청남도 서산시 대산읍 충의로 1981",
+      "restrntInqrTel": "041 666 5588",
+      "restrntDtlAddr": "충청남도 서산시 대산읍 대산리 745-4 242,745-10(1층) ",
+      "foodType": "일식",
+      "mapLat": "37.392161804142184",
+      "mapLot": "126.9559921855374"
+  },
+  {
+      "restrntNm": "수도회관",
+      "restrntAddr": "충청남도 서산시 부춘산1로 16 (읍내동)",
+      "restrntInqrTel": " 041 6660123",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 545 ",
+      "foodType": null,
+      "mapLat": "35.8538337897546",
+      "mapLot": "128.005468276903"
+  },
+  {
+      "restrntNm": "우와빈",
+      "restrntAddr": "충청남도 서산시 율지8로 60 (동문동)",
+      "restrntInqrTel": " 041 6699800",
+      "restrntDtlAddr": "충청남도 서산시 동문동 194-2 ",
+      "foodType": "일식",
+      "mapLat": "36.7795282479182",
+      "mapLot": "126.464760078522"
+  },
+  {
+      "restrntNm": "미성복어",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6625193",
+      "restrntDtlAddr": "충청남도 서산시 석림동 773-6 ",
+      "foodType": null,
+      "mapLat": "35.8377490333026",
+      "mapLot": "128.616379206999"
+  },
+  {
+      "restrntNm": "바다나라식당",
+      "restrntAddr": "충청남도 서산시 대산읍 삼길포1로 161-7",
+      "restrntInqrTel": " 041 6694835",
+      "restrntDtlAddr": "충청남도 서산시 대산읍 화곡리 1851-4 ",
+      "foodType": "한식",
+      "mapLat": "38.1188739901359",
+      "mapLot": "128.630500169798"
+  },
+  {
+      "restrntNm": "안흥일품꽃게장",
+      "restrntAddr": "충청남도 서산시 양열로 212, 1동 (석남동)",
+      "restrntInqrTel": "041 681 8601",
+      "restrntDtlAddr": "충청남도 서산시 석남동 576 1동 ",
+      "foodType": "곱창",
+      "mapLat": "36.76188694912509",
+      "mapLot": "126.45358238419325"
+  },
+  {
+      "restrntNm": "등촌샤브칼국수",
+      "restrntAddr": "충청남도 서산시 율지3로 11 (동문동)",
+      "restrntInqrTel": " 041 6658898",
+      "restrntDtlAddr": "충청남도 서산시 동문동 221-14 ",
+      "foodType": "한식",
+      "mapLat": "37.66783092955472",
+      "mapLot": "126.7753074168054"
+  },
+  {
+      "restrntNm": "일오삼가든",
+      "restrntAddr": "충청남도 서산시 성암2로 29 (읍내동)",
+      "restrntInqrTel": " 041 6643132",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 619-5 ",
+      "foodType": null,
+      "mapLat": "33.5201777702405",
+      "mapLot": "126.567028789379"
+  },
+  {
+      "restrntNm": "돈키호테",
+      "restrntAddr": "충청남도 서산시 수석오남길 216-9 (오남동)",
+      "restrntInqrTel": null,
+      "restrntDtlAddr": "충청남도 서산시 오남동 3-11 ",
+      "foodType": null,
+      "mapLat": "37.5603638385398",
+      "mapLot": "126.977467967476"
+  },
+  {
+      "restrntNm": "남부가든",
+      "restrntAddr": "충청남도 서산시 한성지2길 6, C동 (수석동)",
+      "restrntInqrTel": " 041 6681413",
+      "restrntDtlAddr": "충청남도 서산시 수석동 801-5 ",
+      "foodType": null,
+      "mapLat": "36.76443130976944",
+      "mapLot": "126.4794248707671"
+  },
+  {
+      "restrntNm": "터",
+      "restrntAddr": "충청남도 서산시 소탐1로 28 (수석동)",
+      "restrntInqrTel": " 041 6677233",
+      "restrntDtlAddr": "충청남도 서산시 수석동 665-41 ",
+      "foodType": null,
+      "mapLat": "35.186629161667135",
+      "mapLot": "126.82672244000561"
+  },
+  {
+      "restrntNm": "놀부식당",
+      "restrntAddr": "충청남도 서산시 대산읍 충의로 1763",
+      "restrntInqrTel": null,
+      "restrntDtlAddr": "충청남도 서산시 대산읍 영탑리 546-1 ",
+      "foodType": null,
+      "mapLat": "35.84271290813577",
+      "mapLot": "128.59375478512197"
+  },
+  {
+      "restrntNm": "한번쯤",
+      "restrntAddr": "충청남도 서산시 명륜1로 85-3 (읍내동)",
+      "restrntInqrTel": "041 668 7852",
+      "restrntDtlAddr": "충청남도 서산시 읍내동 608-6 ",
+      "foodType": null,
+      "mapLat": "34.747433290484345",
+      "mapLot": "127.74505376798487"
+  },
+  {
+      "restrntNm": "황금버섯",
+      "restrntAddr": "충청남도 서산시 해미면 남문2로 161-1",
+      "restrntInqrTel": "041 688 8899",
+      "restrntDtlAddr": "충청남도 서산시 해미면 읍내리 99-3 ",
+      "foodType": "한식",
+      "mapLat": "36.7615425515362",
+      "mapLot": "126.883241897587"
+  },
+  {
+      "restrntNm": "황우숯불갈비",
+      "restrntAddr": "충청남도 서산시 해미면 남문5로 16",
+      "restrntInqrTel": " 041 6880599",
+      "restrntDtlAddr": "충청남도 서산시 해미면 읍내리 317-5 ",
+      "foodType": "한식",
+      "mapLat": "36.7122096633856",
+      "mapLot": "126.543900452987"
+  },
+  {
+      "restrntNm": "잠성대식당",
+      "restrntAddr": "충청남도 서산시 음암면 칠거리로 174-10, 1층",
+      "restrntInqrTel": " 041 6636768",
+      "restrntDtlAddr": "충청남도 서산시 음암면 부장리 195-14 1층 ",
+      "foodType": null,
+      "mapLat": "36.7905308319276",
+      "mapLot": "126.522799375389"
+  },
+  {
+      "restrntNm": "서산냉면갈비",
+      "restrntAddr": "충청남도 서산시 율지17로 36 (동문동)",
+      "restrntInqrTel": " 041 6673368",
+      "restrntDtlAddr": "충청남도 서산시 동문동 194-11 ",
+      "foodType": null,
+      "mapLat": "36.7793540514878",
+      "mapLot": "126.464496921246"
+  },
+  {
+      "restrntNm": "수당골식당",
+      "restrntAddr": "충청남도 서산시 운산면 운암로 1178",
+      "restrntInqrTel": " 041 6641506",
+      "restrntDtlAddr": "충청남도 서산시 운산면 수당리 233-5 ",
+      "foodType": null,
+      "mapLat": "36.8149667979685",
+      "mapLot": "126.595163375085"
+  },
+  {
+      "restrntNm": "마포숯불갈비",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6659767",
+      "restrntDtlAddr": "충청남도 서산시 동문동 225-1 ",
+      "foodType": null,
+      "mapLat": "37.5208075526598",
+      "mapLot": "127.032746271923"
+  },
+  {
+      "restrntNm": "고삐",
+      "restrntAddr": "충청남도 서산시 쌍연남2로 14 (동문동)",
+      "restrntInqrTel": "041 664 9253",
+      "restrntDtlAddr": "충청남도 서산시 동문동 146-1 ",
+      "foodType": "한식",
+      "mapLat": "37.526060582700495",
+      "mapLot": "127.03813350568632"
+  },
+  {
+      "restrntNm": "낙지나라",
+      "restrntAddr": null,
+      "restrntInqrTel": " 041 6630173",
+      "restrntDtlAddr": "충청남도 서산시 지곡면 도성리 산 56-1 ",
+      "foodType": null,
+      "mapLat": "35.5678688241472",
+      "mapLot": "129.34435306425"
+  },
+  {
+      "restrntNm": "태능갈비",
+      "restrntAddr": "충청남도 서산시 대산읍 가로림로 56-1",
+      "restrntInqrTel": " 041 6815252",
+      "restrntDtlAddr": "충청남도 서산시 대산읍 대산리 826 ",
+      "foodType": "한식",
+      "mapLat": "37.4415493151785",
+      "mapLot": "127.136225651495"
+  },
+  {
+      "restrntNm": "비에이치씨치킨 동문점",
+      "restrntAddr": "충청남도 서산시 율지11로 16, 1층 (동문동)",
+      "restrntInqrTel": " 041 6688892",
+      "restrntDtlAddr": "충청남도 서산시 동문동 302-5 (1층) ",
+      "foodType": null,
+      "mapLat": "36.78133634596196",
+      "mapLot": "126.46087597539925"
+  }
+]

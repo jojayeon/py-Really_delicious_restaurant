@@ -1,0 +1,3620 @@
+[
+    {
+        "restrntNm": "모박사 부대찌개(신창점)",
+        "restrntAddr": "충청남도 아산시 신창면 온천대로 725, 1동 1층",
+        "restrntInqrTel": " 041 5427755",
+        "restrntDtlAddr": "충청남도 아산시 신창면 읍내리 670 외8필지, 1층 1동 ",
+        "foodType": null,
+        "mapLat": "36.7687243708975",
+        "mapLot": "126.925802421824"
+    },
+    {
+        "restrntNm": "밀물식당",
+        "restrntAddr": "충청남도 아산시 온화로 5 (온천동)",
+        "restrntInqrTel": " 041 5453351",
+        "restrntDtlAddr": "충청남도 아산시 온천동 169-1 ",
+        "foodType": null,
+        "mapLat": "34.84494514291739",
+        "mapLot": "128.42508790138376"
+    },
+    {
+        "restrntNm": "영남집",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5446960",
+        "restrntDtlAddr": "충청남도 아산시 온천동 93-16 ",
+        "foodType": null,
+        "mapLat": "35.1389618020506",
+        "mapLot": "126.921254052827"
+    },
+    {
+        "restrntNm": "영화회관",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5436392",
+        "restrntDtlAddr": "충청남도 아산시 모종동 568-2 ",
+        "foodType": null,
+        "mapLat": "35.5653943354416",
+        "mapLot": "126.85030416722"
+    },
+    {
+        "restrntNm": "은정갈비",
+        "restrntAddr": "충청남도 아산시 온궁로 5 (온천동)",
+        "restrntInqrTel": " 041 5455898",
+        "restrntDtlAddr": "충청남도 아산시 온천동 220-9 ",
+        "foodType": "한식",
+        "mapLat": "36.78269137735394",
+        "mapLot": "127.00122445313367"
+    },
+    {
+        "restrntNm": "동순관",
+        "restrntAddr": "충청남도 아산시 온천대로 1471-5 (온천동)",
+        "restrntInqrTel": " 041 5444882",
+        "restrntDtlAddr": "충청남도 아산시 온천동 221-1 ",
+        "foodType": null,
+        "mapLat": "36.0104737610309",
+        "mapLot": "129.362904366955"
+    },
+    {
+        "restrntNm": "홍콩반점",
+        "restrntAddr": "충청남도 아산시 온천대로 1507 (온천동)",
+        "restrntInqrTel": " 041 5452771",
+        "restrntDtlAddr": "충청남도 아산시 온천동 86-25 ",
+        "foodType": null,
+        "mapLat": "36.78126894642633",
+        "mapLot": "127.00526393092493"
+    },
+    {
+        "restrntNm": "봉쥴레스토랑",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5456126",
+        "restrntDtlAddr": "충청남도 아산시 온천동 218-10 ",
+        "foodType": null,
+        "mapLat": "37.8511637185173",
+        "mapLot": "127.083595343118"
+    },
+    {
+        "restrntNm": "양자강",
+        "restrntAddr": "충청남도 아산시 둔포면 둔포중앙로137번길 1",
+        "restrntInqrTel": " 041 5313302",
+        "restrntDtlAddr": "충청남도 아산시 둔포면 둔포리 411-16 ",
+        "foodType": null,
+        "mapLat": "37.4620340158578",
+        "mapLot": "126.372013279267"
+    },
+    {
+        "restrntNm": "온천정육식당",
+        "restrntAddr": null,
+        "restrntInqrTel": "041 542 3429",
+        "restrntDtlAddr": "충청남도 아산시 도고면 기곡리 164-1 ",
+        "foodType": null,
+        "mapLat": "36.7294323700774",
+        "mapLot": "128.10809955732"
+    },
+    {
+        "restrntNm": "황금돼지갈비",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5414392",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1551 ",
+        "foodType": null,
+        "mapLat": "36.7682731599785",
+        "mapLot": "126.446966896706"
+    },
+    {
+        "restrntNm": "대복생고기",
+        "restrntAddr": "충청남도 아산시 시민로 389-1 (온천동)",
+        "restrntInqrTel": " 041 5495422",
+        "restrntDtlAddr": "충청남도 아산시 온천동 242-3 ",
+        "foodType": null,
+        "mapLat": "36.78350508883859",
+        "mapLot": "127.0006889722219"
+    },
+    {
+        "restrntNm": "토담한식",
+        "restrntAddr": "충청남도 아산시 시민로 370-5 (온천동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 온천동 222-4 ",
+        "foodType": null,
+        "mapLat": "36.781716374755256",
+        "mapLot": "127.00067663341666"
+    },
+    {
+        "restrntNm": "쎄븐페이스",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5410222",
+        "restrntDtlAddr": "충청남도 아산시 온천동 86-13 ",
+        "foodType": null,
+        "mapLat": "36.6698842287484",
+        "mapLot": "127.490070454053"
+    },
+    {
+        "restrntNm": "한일식당",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5452280",
+        "restrntDtlAddr": "충청남도 아산시 온천동 66 ",
+        "foodType": null,
+        "mapLat": "36.68461012043024",
+        "mapLot": "126.74907594941268"
+    },
+    {
+        "restrntNm": "휴정로",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5458679",
+        "restrntDtlAddr": "충청남도 아산시 권곡동 542-4 ",
+        "foodType": null,
+        "mapLat": "37.7245484645041",
+        "mapLot": "126.537641771726"
+    },
+    {
+        "restrntNm": "예산집",
+        "restrntAddr": "충청남도 아산시 시민로449번길 22-5 (온천동)",
+        "restrntInqrTel": "0415336974",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1405 ",
+        "foodType": null,
+        "mapLat": "37.54673756191413",
+        "mapLot": "126.94556768752255"
+    },
+    {
+        "restrntNm": "싱싱이막회",
+        "restrntAddr": "충청남도 아산시 번영로216번길 11 (모종동)",
+        "restrntInqrTel": "041 543 1588",
+        "restrntDtlAddr": "충청남도 아산시 모종동 566-5 ",
+        "foodType": null,
+        "mapLat": "37.5067052611903",
+        "mapLot": "126.670907386192"
+    },
+    {
+        "restrntNm": "유퉁의국밥집",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5482888",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 413-5 ",
+        "foodType": null,
+        "mapLat": "35.204950136666255",
+        "mapLot": "128.81495401861454"
+    },
+    {
+        "restrntNm": "현대갈비",
+        "restrntAddr": "충청남도 아산시 충무로8번길 9 (온천동)",
+        "restrntInqrTel": "041  5457880",
+        "restrntDtlAddr": "충청남도 아산시 온천동 85-25 ",
+        "foodType": "식육취급",
+        "mapLat": "36.78238661825231",
+        "mapLot": "127.00669469620227"
+    },
+    {
+        "restrntNm": "장원식당",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5436300",
+        "restrntDtlAddr": "충청남도 아산시 권곡동 525-10 ",
+        "foodType": null,
+        "mapLat": "35.87228769505871",
+        "mapLot": "128.6051142821543"
+    },
+    {
+        "restrntNm": "인주장어",
+        "restrntAddr": "충청남도 아산시 인주면 아산만로1578번길 3",
+        "restrntInqrTel": " 041 5339925",
+        "restrntDtlAddr": "충청남도 아산시 인주면 문방리 99-6 ",
+        "foodType": null,
+        "mapLat": "36.8625534103053",
+        "mapLot": "126.869371044787"
+    },
+    {
+        "restrntNm": "수락원",
+        "restrntAddr": "충청남도 아산시 시민로329번길 108 (용화동)",
+        "restrntInqrTel": "041 544 3338",
+        "restrntDtlAddr": "충청남도 아산시 용화동 415 ",
+        "foodType": null,
+        "mapLat": "36.7718218852151",
+        "mapLot": "126.992535586767"
+    },
+    {
+        "restrntNm": "여명회관",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5423301",
+        "restrntDtlAddr": "충청남도 아산시 온천동 83-4 ",
+        "foodType": null,
+        "mapLat": "36.6040358310065",
+        "mapLot": "127.502470986453"
+    },
+    {
+        "restrntNm": "염치식당",
+        "restrntAddr": "충청남도 아산시 염치읍 염성길 110",
+        "restrntInqrTel": " 041 5422768",
+        "restrntDtlAddr": "충청남도 아산시 염치읍 염성리 268-10 ",
+        "foodType": "한식",
+        "mapLat": "36.8171164020419",
+        "mapLot": "126.973747091464"
+    },
+    {
+        "restrntNm": "신가네풍천장어",
+        "restrntAddr": "충청남도 아산시 번영로69번길 32-8 (온천동)",
+        "restrntInqrTel": " 041 5461489",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1431-1 ",
+        "foodType": null,
+        "mapLat": "36.7894551352804",
+        "mapLot": "126.997992302956"
+    },
+    {
+        "restrntNm": "강남기사식당",
+        "restrntAddr": "충청남도 아산시 충무로20번길 10 (온천동)",
+        "restrntInqrTel": " 041 5410405",
+        "restrntDtlAddr": "충청남도 아산시 온천동 85-24 ",
+        "foodType": null,
+        "mapLat": "37.49477054728456",
+        "mapLot": "127.08353347038937"
+    },
+    {
+        "restrntNm": "송원가든",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5444010",
+        "restrntDtlAddr": "충청남도 아산시 송악면 외암리 469-8 ",
+        "foodType": null,
+        "mapLat": "35.159983148916",
+        "mapLot": "128.070011303346"
+    },
+    {
+        "restrntNm": "숲속장어구이",
+        "restrntAddr": "충청남도 아산시 인주면 아산만로 1526 (1동1층, 2동1층)",
+        "restrntInqrTel": "041 543 2524",
+        "restrntDtlAddr": "충청남도 아산시 인주면 문방리 371-38 1동1층, 2동1층 ",
+        "foodType": "한식",
+        "mapLat": "36.8625534103053",
+        "mapLot": "126.869371044787"
+    },
+    {
+        "restrntNm": "신촌옥",
+        "restrntAddr": "충청남도 아산시 충무로42번길 8-1 (온천동)",
+        "restrntInqrTel": "041 545 8911",
+        "restrntDtlAddr": "충청남도 아산시 온천동 299-14 ",
+        "foodType": "한식",
+        "mapLat": "38.1968673046626",
+        "mapLot": "128.57209120755"
+    },
+    {
+        "restrntNm": "한우마을",
+        "restrntAddr": "충청남도 아산시 시민로 353 (온천동)",
+        "restrntInqrTel": "     5452279",
+        "restrntDtlAddr": "충청남도 아산시 온천동 201-3 ",
+        "foodType": null,
+        "mapLat": "36.5471920501479",
+        "mapLot": "126.775336994733"
+    },
+    {
+        "restrntNm": "칠성갈비",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5453234",
+        "restrntDtlAddr": "충청남도 아산시 온천동 81-2 ",
+        "foodType": null,
+        "mapLat": "36.4247473506819",
+        "mapLot": "127.391802109934"
+    },
+    {
+        "restrntNm": "강화족탕",
+        "restrntAddr": "충청남도 아산시 탕정면 탕정로 17",
+        "restrntInqrTel": " 041 5446957",
+        "restrntDtlAddr": "충청남도 아산시 탕정면 용두리 588-8 ",
+        "foodType": null,
+        "mapLat": "36.798516158079984",
+        "mapLot": "127.04779934863504"
+    },
+    {
+        "restrntNm": "삽교두리곱창",
+        "restrntAddr": "충청남도 아산시 번영로224번길 40 (모종동)",
+        "restrntInqrTel": " 041 5463282",
+        "restrntDtlAddr": "충청남도 아산시 모종동 582-15 ",
+        "foodType": null,
+        "mapLat": "36.8211744395779",
+        "mapLot": "127.143313616689"
+    },
+    {
+        "restrntNm": "자매식당",
+        "restrntAddr": "충청남도 아산시 번영로195번길 9 (모종동)",
+        "restrntInqrTel": " 041 5453937",
+        "restrntDtlAddr": "충청남도 아산시 모종동 560-24 ",
+        "foodType": null,
+        "mapLat": "33.498577203781664",
+        "mapLot": "126.45914433997106"
+    },
+    {
+        "restrntNm": "미경",
+        "restrntAddr": "충청남도 아산시 삼동로40번길 46, 1층 (모종동)",
+        "restrntInqrTel": "041 546 0238",
+        "restrntDtlAddr": "충청남도 아산시 모종동 570-2 1층 ",
+        "foodType": null,
+        "mapLat": "36.782672289301104",
+        "mapLot": "127.01597053932299"
+    },
+    {
+        "restrntNm": "팔도강산 동태찜",
+        "restrntAddr": "충청남도 아산시 번영로 177-1 (권곡동)",
+        "restrntInqrTel": "041 541 4234",
+        "restrntDtlAddr": "충청남도 아산시 권곡동 547-39 ",
+        "foodType": "한식",
+        "mapLat": "36.7853420048471",
+        "mapLot": "127.010459184025"
+    },
+    {
+        "restrntNm": "온양평양면옥",
+        "restrntAddr": "충청남도 아산시 온천대로 1420-1, 1층 (온천동)",
+        "restrntInqrTel": "041 546 0092",
+        "restrntDtlAddr": "충청남도 아산시 온천동 235-15 1층 ",
+        "foodType": null,
+        "mapLat": "36.7830859988889",
+        "mapLot": "126.995823618769"
+    },
+    {
+        "restrntNm": "목화반점",
+        "restrntAddr": "충청남도 아산시 온주길26번길 7-3 (읍내동)",
+        "restrntInqrTel": " 041 5458052",
+        "restrntDtlAddr": "충청남도 아산시 읍내동 151-3 ",
+        "foodType": null,
+        "mapLat": "36.76135136711693",
+        "mapLot": "127.01929687199586"
+    },
+    {
+        "restrntNm": "청주해장국",
+        "restrntAddr": null,
+        "restrntInqrTel": "            ",
+        "restrntDtlAddr": "충청남도 아산시 모종동 561-1 ",
+        "foodType": null,
+        "mapLat": "36.3553900824561",
+        "mapLot": "127.344942486155"
+    },
+    {
+        "restrntNm": "소문난해물칼국수",
+        "restrntAddr": "충청남도 아산시 신창면 온천대로 1015",
+        "restrntInqrTel": "041 542 7017",
+        "restrntDtlAddr": "충청남도 아산시 신창면 남성리 142-4 ",
+        "foodType": null,
+        "mapLat": "36.0186773685543",
+        "mapLot": "126.73647952565"
+    },
+    {
+        "restrntNm": "금강칡냉면",
+        "restrntAddr": "충청남도 아산시 삼동로28번길 55-14 (모종동)",
+        "restrntInqrTel": " 041 5459151",
+        "restrntDtlAddr": "충청남도 아산시 모종동 569-7 ",
+        "foodType": null,
+        "mapLat": "37.5035360152444",
+        "mapLot": "127.036461812745"
+    },
+    {
+        "restrntNm": "갈산정",
+        "restrntAddr": "충청남도 아산시 탕정면 탕정면로75번길 2",
+        "restrntInqrTel": " 041 5417346",
+        "restrntDtlAddr": "충청남도 아산시 탕정면 갈산리 556-1 ",
+        "foodType": null,
+        "mapLat": "37.5084532045539",
+        "mapLot": "126.729088412385"
+    },
+    {
+        "restrntNm": "일오삼갈비마을",
+        "restrntAddr": "충청남도 아산시 남산로 55, 1층 (온천동)",
+        "restrntInqrTel": " 041 5448782",
+        "restrntDtlAddr": "충청남도 아산시 온천동 200-7 외1필지 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.78038993365378",
+        "mapLot": "126.99957879175415"
+    },
+    {
+        "restrntNm": "아지매아구찜",
+        "restrntAddr": "충청남도 아산시 시민로280번길 9-9 (용화동)",
+        "restrntInqrTel": " 041 5418020",
+        "restrntDtlAddr": "충청남도 아산시 용화동 671 ",
+        "foodType": null,
+        "mapLat": "35.177451006867",
+        "mapLot": "128.812056038529"
+    },
+    {
+        "restrntNm": "둔포갈비",
+        "restrntAddr": "충청남도 아산시 둔포면 둔포중앙로 141",
+        "restrntInqrTel": " 041 5328595",
+        "restrntDtlAddr": "충청남도 아산시 둔포면 둔포리 413-28 ",
+        "foodType": null,
+        "mapLat": "36.9279702792275",
+        "mapLot": "127.038273509613"
+    },
+    {
+        "restrntNm": "오원",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5472929",
+        "restrntDtlAddr": "충청남도 아산시 용화동 611 (1동) ",
+        "foodType": null,
+        "mapLat": "35.0701329964139",
+        "mapLot": "127.263180742146"
+    },
+    {
+        "restrntNm": "한성숯불갈비",
+        "restrntAddr": "충청남도 아산시 번영로216번길 13 (모종동)",
+        "restrntInqrTel": "041 546 5522",
+        "restrntDtlAddr": "충청남도 아산시 모종동 566-8 ",
+        "foodType": null,
+        "mapLat": "35.10710421496544",
+        "mapLot": "129.0353031742036"
+    },
+    {
+        "restrntNm": "주막촌",
+        "restrntAddr": "충청남도 아산시 청운로116번길 23 (권곡동)",
+        "restrntInqrTel": " 041 5495285",
+        "restrntDtlAddr": "충청남도 아산시 권곡동 549-15 ",
+        "foodType": null,
+        "mapLat": "37.0030986245772",
+        "mapLot": "127.463345399157"
+    },
+    {
+        "restrntNm": "옛날갈비",
+        "restrntAddr": "충청남도 아산시 삼동로8번길 11 (모종동)",
+        "restrntInqrTel": " 041 5465648",
+        "restrntDtlAddr": "충청남도 아산시 모종동 595-13 ",
+        "foodType": null,
+        "mapLat": "36.35385953392",
+        "mapLot": "127.339400952263"
+    },
+    {
+        "restrntNm": "장모님가든",
+        "restrntAddr": null,
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 장존동 101-1 ",
+        "foodType": null,
+        "mapLat": "34.7983290086576",
+        "mapLot": "126.434317440848"
+    },
+    {
+        "restrntNm": "맛고을감자탕",
+        "restrntAddr": "충청남도 아산시 온천대로 1471 (온천동,1,2층)",
+        "restrntInqrTel": " 041 5443868",
+        "restrntDtlAddr": "충청남도 아산시 온천동 217-6 1,2층 ",
+        "foodType": "한식",
+        "mapLat": "36.7798582124469",
+        "mapLot": "127.003890548225"
+    },
+    {
+        "restrntNm": "다옴",
+        "restrntAddr": "충청남도 아산시 시민로244번길 11-14 (용화동)",
+        "restrntInqrTel": "041 532 3453",
+        "restrntDtlAddr": "충청남도 아산시 용화동 725 ",
+        "foodType": null,
+        "mapLat": "35.14733696912295",
+        "mapLot": "129.11090937976184"
+    },
+    {
+        "restrntNm": "강남 손 칼국수",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5469082",
+        "restrntDtlAddr": "충청남도 아산시 온천동 81-22 ",
+        "foodType": null,
+        "mapLat": "37.5076314148533",
+        "mapLot": "127.032224774323"
+    },
+    {
+        "restrntNm": "숲속장어구이",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5412524",
+        "restrntDtlAddr": "충청남도 아산시 염치읍 석정리 86-6 ",
+        "foodType": null,
+        "mapLat": "36.8625534103053",
+        "mapLot": "126.869371044787"
+    },
+    {
+        "restrntNm": "집나간오리돌아온닭백숙",
+        "restrntAddr": "충청남도 아산시 배방읍 모산로126번길 19",
+        "restrntInqrTel": " 041 5311143",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 공수리 273-7 ",
+        "foodType": null,
+        "mapLat": "36.772895142586",
+        "mapLot": "127.057144327099"
+    },
+    {
+        "restrntNm": "강계숙한식뷔페 원골점",
+        "restrntAddr": "충청남도 아산시 염치읍 서원길 24-1",
+        "restrntInqrTel": " 041 5426181",
+        "restrntDtlAddr": "충청남도 아산시 염치읍 서원리 32-49 ",
+        "foodType": null,
+        "mapLat": "36.83780290161367",
+        "mapLot": "126.96568736732102"
+    },
+    {
+        "restrntNm": "신흥정육점식당",
+        "restrntAddr": "충청남도 아산시 도고면 온천대로 170",
+        "restrntInqrTel": " 041 5338925",
+        "restrntDtlAddr": "충청남도 아산시 도고면 금산리 90-1 ",
+        "foodType": "한식",
+        "mapLat": "37.00628492869731",
+        "mapLot": "127.2718797012676"
+    },
+    {
+        "restrntNm": "해남보리밥",
+        "restrntAddr": "충청남도 아산시 둔포면 충무로 1762",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 둔포면 둔포리 432-1 ",
+        "foodType": null,
+        "mapLat": "36.929228171702555",
+        "mapLot": "127.03547934076936"
+    },
+    {
+        "restrntNm": "먹골갈비영인점",
+        "restrntAddr": "충청남도 아산시 영인면 영인로 54 ((1층))",
+        "restrntInqrTel": " 041 5416665",
+        "restrntDtlAddr": "충청남도 아산시 영인면 아산리 149-5 (1층) ",
+        "foodType": null,
+        "mapLat": "36.8549180089563",
+        "mapLot": "126.955981411282"
+    },
+    {
+        "restrntNm": "광시한우식당",
+        "restrntAddr": "충청남도 아산시 시민로 334-1 (온천동)",
+        "restrntInqrTel": " 041 5466545",
+        "restrntDtlAddr": "충청남도 아산시 온천동 172-5 ",
+        "foodType": null,
+        "mapLat": "36.778864331618",
+        "mapLot": "126.998203179158"
+    },
+    {
+        "restrntNm": "낙원갈비",
+        "restrntAddr": "충청남도 아산시 청운로96번길 7 (온천동)",
+        "restrntInqrTel": " 041 5413938",
+        "restrntDtlAddr": "충청남도 아산시 온천동 304-14 ",
+        "foodType": null,
+        "mapLat": "36.60633588827255",
+        "mapLot": "127.47105280700292"
+    },
+    {
+        "restrntNm": "이왕이면오리",
+        "restrntAddr": "충청남도 아산시 번영로234번길 34 (모종동)",
+        "restrntInqrTel": " 041 5433233",
+        "restrntDtlAddr": "충청남도 아산시 모종동 585-2 ",
+        "foodType": null,
+        "mapLat": "35.219607903792",
+        "mapLot": "128.681130593676"
+    },
+    {
+        "restrntNm": "가화",
+        "restrntAddr": "충청남도 아산시 시장길15번길 4-4 (온천동)",
+        "restrntInqrTel": " 041 5452431",
+        "restrntDtlAddr": "충청남도 아산시 온천동 98-26 ",
+        "foodType": null,
+        "mapLat": "36.3627687084261",
+        "mapLot": "127.252789376879"
+    },
+    {
+        "restrntNm": "옛날손칼국수",
+        "restrntAddr": "충청남도 아산시 충무로97번길 7, 1층 (권곡동)",
+        "restrntInqrTel": " 041 5490111",
+        "restrntDtlAddr": "충청남도 아산시 권곡동 443-125 1층 ",
+        "foodType": null,
+        "mapLat": "37.27514668403909",
+        "mapLot": "127.02085919271909"
+    },
+    {
+        "restrntNm": "산수갑산",
+        "restrntAddr": "충청남도 아산시 염치읍 은행나무길215번길 3",
+        "restrntInqrTel": " 041 5499292",
+        "restrntDtlAddr": "충청남도 아산시 염치읍 송곡리 244-29 ",
+        "foodType": null,
+        "mapLat": "35.10032473294268",
+        "mapLot": "129.0299808680215"
+    },
+    {
+        "restrntNm": "토종왕족발",
+        "restrntAddr": null,
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 모종동 554-7 ",
+        "foodType": null,
+        "mapLat": "37.357570136412",
+        "mapLot": "126.705982049563"
+    },
+    {
+        "restrntNm": "강남수제비&강남식당",
+        "restrntAddr": "충청남도 아산시 배방읍 북수로 23, 1동 1층",
+        "restrntInqrTel": " 041 5416222",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 711-2 외2필지 ",
+        "foodType": null,
+        "mapLat": "36.772266142367",
+        "mapLot": "127.064249878166"
+    },
+    {
+        "restrntNm": "진주네보신탕",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5440371",
+        "restrntDtlAddr": "충청남도 아산시 염치읍 곡교리 202 -1,4,34 ",
+        "foodType": null,
+        "mapLat": "36.808104011537274",
+        "mapLot": "126.98126180702891"
+    },
+    {
+        "restrntNm": "무봉리 토종순대국",
+        "restrntAddr": "충청남도 아산시 삼동로 27, 1층 (온천동)",
+        "restrntInqrTel": " 041 5486995",
+        "restrntDtlAddr": "충청남도 아산시 온천동 307-3 1층 ",
+        "foodType": null,
+        "mapLat": "37.8152180474154",
+        "mapLot": "127.135287607408"
+    },
+    {
+        "restrntNm": "권박사횟집",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5484679",
+        "restrntDtlAddr": "충청남도 아산시 온천동 567 ",
+        "foodType": null,
+        "mapLat": "36.6359900183449",
+        "mapLot": "127.42764741076"
+    },
+    {
+        "restrntNm": "선미네",
+        "restrntAddr": "충청남도 아산시 청운로146번길 17 (권곡동)",
+        "restrntInqrTel": "041 546 4391",
+        "restrntDtlAddr": "충청남도 아산시 권곡동 535-7 ",
+        "foodType": null,
+        "mapLat": "37.55868286661505",
+        "mapLot": "126.9962515362814"
+    },
+    {
+        "restrntNm": "화평동왕냉면 황제갈비",
+        "restrntAddr": "충청남도 아산시 번영로206번길 7-3, 1층 (모종동)",
+        "restrntInqrTel": " 041 5453936",
+        "restrntDtlAddr": "충청남도 아산시 모종동 565-3 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.7839431296478",
+        "mapLot": "127.013833296571"
+    },
+    {
+        "restrntNm": "가마솥추어탕어죽",
+        "restrntAddr": "충청남도 아산시 영인면 영인로 147",
+        "restrntInqrTel": " 041 5415016",
+        "restrntDtlAddr": "충청남도 아산시 영인면 아산리 265-2 ",
+        "foodType": null,
+        "mapLat": "36.8611948121617",
+        "mapLot": "126.950662314276"
+    },
+    {
+        "restrntNm": "여명양평해장국",
+        "restrntAddr": "충청남도 아산시 탕정면 탕정면로 398",
+        "restrntInqrTel": " 041 5416625",
+        "restrntDtlAddr": "충청남도 아산시 탕정면 동산리 84-6 ",
+        "foodType": null,
+        "mapLat": "37.603289349196224",
+        "mapLot": "126.86958617031479"
+    },
+    {
+        "restrntNm": "쌍용가든",
+        "restrntAddr": "충청남도 아산시 음봉면 월암로 358",
+        "restrntInqrTel": "041 546 6868",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 쌍암리 356 ",
+        "foodType": null,
+        "mapLat": "35.22609399721685",
+        "mapLot": "127.64144908666833"
+    },
+    {
+        "restrntNm": "양지가든",
+        "restrntAddr": "충청남도 아산시 염치읍 충무로431번길 37",
+        "restrntInqrTel": "041 545 1526",
+        "restrntDtlAddr": "충청남도 아산시 염치읍 방현리 277 ",
+        "foodType": "한식",
+        "mapLat": "37.3306817259605",
+        "mapLot": "129.040299719598"
+    },
+    {
+        "restrntNm": "온양왕갈비",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5421440",
+        "restrntDtlAddr": "충청남도 아산시 온천동 307-41 ",
+        "foodType": null,
+        "mapLat": "36.78679239538873",
+        "mapLot": "127.08532416293146"
+    },
+    {
+        "restrntNm": "모박사부대찌개아산점",
+        "restrntAddr": "충청남도 아산시 음봉면 음봉면로 56",
+        "restrntInqrTel": " 041 5441210",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 삼거리 225-1 ",
+        "foodType": null,
+        "mapLat": "36.8515298655995",
+        "mapLot": "127.014877034708"
+    },
+    {
+        "restrntNm": "예담",
+        "restrntAddr": "충청남도 아산시 아산로 78 (온천동)",
+        "restrntInqrTel": "041 549 5919",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1298 ",
+        "foodType": null,
+        "mapLat": "35.33536355875573",
+        "mapLot": "126.9620631115694"
+    },
+    {
+        "restrntNm": "올인레스토랑",
+        "restrntAddr": "충청남도 아산시 충무로 40 (온천동)",
+        "restrntInqrTel": " 041 5442534",
+        "restrntDtlAddr": "충청남도 아산시 온천동 299-8 ",
+        "foodType": null,
+        "mapLat": "35.26265827539762",
+        "mapLot": "128.6250642271741"
+    },
+    {
+        "restrntNm": "햇살마루꼬마김밥 권곡점",
+        "restrntAddr": "충청남도 아산시 충무로72번길 21 (권곡동)",
+        "restrntInqrTel": " 041 5415702",
+        "restrntDtlAddr": "충청남도 아산시 권곡동 542-18 ",
+        "foodType": null,
+        "mapLat": "36.7870326887601",
+        "mapLot": "127.007976759461"
+    },
+    {
+        "restrntNm": "동신참치",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5448837",
+        "restrntDtlAddr": "충청남도 아산시 온천동 220-9 ",
+        "foodType": null,
+        "mapLat": "37.205220320493375",
+        "mapLot": "127.07424422555687"
+    },
+    {
+        "restrntNm": "소뚜레",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5415829",
+        "restrntDtlAddr": "충청남도 아산시 방축동 113-11 ",
+        "foodType": null,
+        "mapLat": "35.87733042963159",
+        "mapLot": "128.72653561645024"
+    },
+    {
+        "restrntNm": "호미곶횟집",
+        "restrntAddr": "충청남도 아산시 청운로84번길 21-1, 1층 (온천동)",
+        "restrntInqrTel": " 041 5422596",
+        "restrntDtlAddr": "충청남도 아산시 온천동 307-34 1층 ",
+        "foodType": null,
+        "mapLat": "36.78111676039159",
+        "mapLot": "127.00943806642395"
+    },
+    {
+        "restrntNm": "향림원",
+        "restrntAddr": "충청남도 아산시 시민로 347 (온천동)",
+        "restrntInqrTel": " 041 5464825",
+        "restrntDtlAddr": "충청남도 아산시 온천동 202-3 ",
+        "foodType": null,
+        "mapLat": "37.3711516302077",
+        "mapLot": "127.395577433506"
+    },
+    {
+        "restrntNm": "십원집",
+        "restrntAddr": "충청남도 아산시 온화로 119, 1층 (용화동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 온천동 2860 1층 ",
+        "foodType": null,
+        "mapLat": "37.4794442151045",
+        "mapLot": "126.956268920652"
+    },
+    {
+        "restrntNm": "처갓집",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5448444",
+        "restrntDtlAddr": "충청남도 아산시 영인면 창용리 216-2 ",
+        "foodType": null,
+        "mapLat": "37.25294610455044",
+        "mapLot": "127.45864111678249"
+    },
+    {
+        "restrntNm": "음봉생태찌개",
+        "restrntAddr": "충청남도 아산시 음봉면 음봉로 279-7",
+        "restrntInqrTel": "041 543 5522",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 송촌리 180 ",
+        "foodType": null,
+        "mapLat": "36.8457565729099",
+        "mapLot": "127.041228306997"
+    },
+    {
+        "restrntNm": "가람",
+        "restrntAddr": "충청남도 아산시 인주면 아산만로 1592",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 인주면 문방리 95-2 ",
+        "foodType": null,
+        "mapLat": "35.8566216341126",
+        "mapLot": "128.531442179906"
+    },
+    {
+        "restrntNm": "일품갈비",
+        "restrntAddr": "충청남도 아산시 둔포면 둔포중앙로 145",
+        "restrntInqrTel": " 041 5317535",
+        "restrntDtlAddr": "충청남도 아산시 둔포면 둔포리 414-38 ",
+        "foodType": null,
+        "mapLat": "36.5637408092961",
+        "mapLot": "128.731970685805"
+    },
+    {
+        "restrntNm": "착한낙지 (배방점)",
+        "restrntAddr": "충청남도 아산시 배방읍 모산로 134",
+        "restrntInqrTel": " 041 5484414",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 공수리 73-3 ",
+        "foodType": null,
+        "mapLat": "36.7743494754312",
+        "mapLot": "127.057288785275"
+    },
+    {
+        "restrntNm": "본토박이",
+        "restrntAddr": "충청남도 아산시 탕정면 탕정면로 311, 1층",
+        "restrntInqrTel": " 041 5438809",
+        "restrntDtlAddr": "충청남도 아산시 탕정면 호산리 324-1 1층 ",
+        "foodType": null,
+        "mapLat": "37.5217767509644",
+        "mapLot": "126.926547315514"
+    },
+    {
+        "restrntNm": "동양식당",
+        "restrntAddr": "충청남도 아산시 번영로 207 (모종동)",
+        "restrntInqrTel": " 041 5454757",
+        "restrntDtlAddr": "충청남도 아산시 모종동 557-14 ",
+        "foodType": null,
+        "mapLat": "37.6719778762913",
+        "mapLot": "128.709123209842"
+    },
+    {
+        "restrntNm": "(주)류가본가",
+        "restrntAddr": "충청남도 아산시 음봉면 탕정면로 497",
+        "restrntInqrTel": " 041 5433562",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 덕지리 169-2 ",
+        "foodType": null,
+        "mapLat": "36.8281245036203",
+        "mapLot": "127.091476861609"
+    },
+    {
+        "restrntNm": "삽교곱창 오발탄",
+        "restrntAddr": "충청남도 아산시 번영로 105-5 (온천동)",
+        "restrntInqrTel": " 041 5463812",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1699 ",
+        "foodType": null,
+        "mapLat": "36.7869860736296",
+        "mapLot": "127.002419914328"
+    },
+    {
+        "restrntNm": "옛날장어집",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5459668",
+        "restrntDtlAddr": "충청남도 아산시 염치읍 방현리 285-2 ",
+        "foodType": null,
+        "mapLat": "35.1691517239242",
+        "mapLot": "128.572878506073"
+    },
+    {
+        "restrntNm": "도원",
+        "restrntAddr": "충청남도 아산시 염치읍 강청리길 82",
+        "restrntInqrTel": " 041 5418004",
+        "restrntDtlAddr": "충청남도 아산시 염치읍 강청리 315-1 ",
+        "foodType": null,
+        "mapLat": "37.46551794717283",
+        "mapLot": "126.88766319041387"
+    },
+    {
+        "restrntNm": "산들원",
+        "restrntAddr": "충청남도 아산시 도고면 도고산로 457",
+        "restrntInqrTel": " 041 5440860",
+        "restrntDtlAddr": "충청남도 아산시 도고면 신유리 178-3 ",
+        "foodType": null,
+        "mapLat": "36.7392052512454",
+        "mapLot": "126.912202638312"
+    },
+    {
+        "restrntNm": "북경반점",
+        "restrntAddr": "충청남도 아산시 시민로 463-8 (온천동)",
+        "restrntInqrTel": "041 545 8504",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1618 ",
+        "foodType": null,
+        "mapLat": "37.84772288180929",
+        "mapLot": "126.88161854417513"
+    },
+    {
+        "restrntNm": "설화본점",
+        "restrntAddr": "충청남도 아산시 배방읍 배방로229번길 30-6",
+        "restrntInqrTel": " 041 5495525",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 687-17 ",
+        "foodType": null,
+        "mapLat": "37.2319106403043",
+        "mapLot": "127.187336914238"
+    },
+    {
+        "restrntNm": "숲마을 식당",
+        "restrntAddr": "충청남도 아산시 도고면 기곡로31번길 30-4",
+        "restrntInqrTel": "041 543 6914",
+        "restrntDtlAddr": "충청남도 아산시 도고면 기곡리 330-1 ",
+        "foodType": null,
+        "mapLat": "36.4910727351835",
+        "mapLot": "127.793592968345"
+    },
+    {
+        "restrntNm": "붕어마을",
+        "restrntAddr": "충청남도 아산시 송악면 송악로 647",
+        "restrntInqrTel": " 041 5472983",
+        "restrntDtlAddr": "충청남도 아산시 송악면 역촌리 333-5 ",
+        "foodType": null,
+        "mapLat": "36.185693910181726",
+        "mapLot": "127.17638097051857"
+    },
+    {
+        "restrntNm": "가장맛있는족발 아산시청점",
+        "restrntAddr": "충청남도 아산시 번영로 82 (온천동)",
+        "restrntInqrTel": "041 534 3281",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1345 ",
+        "foodType": null,
+        "mapLat": "36.78661006299251",
+        "mapLot": "126.999899170729"
+    },
+    {
+        "restrntNm": "장원가든",
+        "restrntAddr": "충청남도 아산시 탕정면 탕정면로 122 (,11)",
+        "restrntInqrTel": " 041 5435660",
+        "restrntDtlAddr": "충청남도 아산시 탕정면 갈산리 79-5 ,11 ",
+        "foodType": null,
+        "mapLat": "37.4643466773575",
+        "mapLot": "126.790956052358"
+    },
+    {
+        "restrntNm": "금강민물매운탕",
+        "restrntAddr": "충청남도 아산시 순천향로 996 (좌부동)",
+        "restrntInqrTel": " 041 5336264",
+        "restrntDtlAddr": "충청남도 아산시 좌부동 8-2 ",
+        "foodType": null,
+        "mapLat": "35.8530311783166",
+        "mapLot": "129.26304015905"
+    },
+    {
+        "restrntNm": "김해뒷고기",
+        "restrntAddr": "충청남도 아산시 배방읍 모산로 112",
+        "restrntInqrTel": " 041 5459990",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 공수리 151-25 ",
+        "foodType": null,
+        "mapLat": "35.1726770131948",
+        "mapLot": "129.068478945164"
+    },
+    {
+        "restrntNm": "한방설렁탕전문점",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5456135",
+        "restrntDtlAddr": "충청남도 아산시 모종동 567-2 ",
+        "foodType": null,
+        "mapLat": "37.1336488003038",
+        "mapLot": "128.207025570368"
+    },
+    {
+        "restrntNm": "돈뼈랑 감자탕",
+        "restrntAddr": "충청남도 아산시 영인면 영인로 45",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 영인면 아산리 83-2 ",
+        "foodType": null,
+        "mapLat": "37.8259975047919",
+        "mapLot": "127.515021131456"
+    },
+    {
+        "restrntNm": "금성가든",
+        "restrntAddr": "충청남도 아산시 인주면 아산만로 1204",
+        "restrntInqrTel": " 041 5412229",
+        "restrntDtlAddr": "충청남도 아산시 인주면 금성리 399 ",
+        "foodType": null,
+        "mapLat": "35.2125985381583",
+        "mapLot": "129.062758310258"
+    },
+    {
+        "restrntNm": "둥글레식당 용화점",
+        "restrntAddr": "충청남도 아산시 온중로 60-13 (용화동)",
+        "restrntInqrTel": " 041 5416827",
+        "restrntDtlAddr": "충청남도 아산시 용화동 588 ",
+        "foodType": "한식",
+        "mapLat": "36.7757293541607",
+        "mapLot": "126.998655799747"
+    },
+    {
+        "restrntNm": "논두렁민물매운탕",
+        "restrntAddr": "충청남도 아산시 음봉면 음봉로 150",
+        "restrntInqrTel": " 041 5423984",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 삼거리 75-3 ",
+        "foodType": null,
+        "mapLat": "36.8472094312177",
+        "mapLot": "127.02787773398"
+    },
+    {
+        "restrntNm": "대구볼테기",
+        "restrntAddr": "충청남도 아산시 시민로234번길 8-1 (용화동)",
+        "restrntInqrTel": " 041 5465944",
+        "restrntDtlAddr": "충청남도 아산시 용화동 809 ",
+        "foodType": null,
+        "mapLat": "37.543451434548246",
+        "mapLot": "126.68103282808323"
+    },
+    {
+        "restrntNm": "대명오리",
+        "restrntAddr": "충청남도 아산시 음봉면 월암로 120",
+        "restrntInqrTel": "041 531 8700",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 월랑리 224 ",
+        "foodType": null,
+        "mapLat": "35.0595752090907",
+        "mapLot": "128.971212208348"
+    },
+    {
+        "restrntNm": "향토길추어탕",
+        "restrntAddr": "충청남도 아산시 송악면 송악로 22",
+        "restrntInqrTel": " 041 5442118",
+        "restrntDtlAddr": "충청남도 아산시 송악면 강장리 237 ",
+        "foodType": null,
+        "mapLat": "36.7021137119231",
+        "mapLot": "126.95529204711679"
+    },
+    {
+        "restrntNm": "서라벌",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5322589",
+        "restrntDtlAddr": "충청남도 아산시 용화동 623 ",
+        "foodType": null,
+        "mapLat": "35.80681628351618",
+        "mapLot": "129.2595364744878"
+    },
+    {
+        "restrntNm": "총각수산",
+        "restrntAddr": "충청남도 아산시 번영로 197, 1,2층 (모종동)",
+        "restrntInqrTel": "041 531 6766",
+        "restrntDtlAddr": "충청남도 아산시 모종동 558-12 1층,2층 ",
+        "foodType": null,
+        "mapLat": "37.1440600381564",
+        "mapLot": "127.080136445765"
+    },
+    {
+        "restrntNm": "고은밥상",
+        "restrntAddr": "충청남도 아산시 송악면 역촌길 30, 1층",
+        "restrntInqrTel": "041 543 6286",
+        "restrntDtlAddr": "충청남도 아산시 송악면 역촌리 61-1 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.73076384112609",
+        "mapLot": "127.01132387763333"
+    },
+    {
+        "restrntNm": "진주황포냉면",
+        "restrntAddr": "충청남도 아산시 번영로 105-2 (온천동)",
+        "restrntInqrTel": " 041 5497892",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1695 ",
+        "foodType": null,
+        "mapLat": "36.7866850943106",
+        "mapLot": "127.002741438519"
+    },
+    {
+        "restrntNm": "고성생선찜",
+        "restrntAddr": "충청남도 아산시 시민로280번길 9-8 (용화동)",
+        "restrntInqrTel": " 041 5420008",
+        "restrntDtlAddr": "충청남도 아산시 용화동 667 ",
+        "foodType": null,
+        "mapLat": "36.7749002863045",
+        "mapLot": "126.99661265184"
+    },
+    {
+        "restrntNm": "송이가든",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5446450",
+        "restrntDtlAddr": "충청남도 아산시 영인면 창용리 207-3 ",
+        "foodType": null,
+        "mapLat": "36.378996467422795",
+        "mapLot": "129.1106224846213"
+    },
+    {
+        "restrntNm": "옛날집",
+        "restrntAddr": "충청남도 아산시 시민로457번길 31 (온천동)",
+        "restrntInqrTel": " 041 5466693",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1411 ",
+        "foodType": null,
+        "mapLat": "37.4853760561437",
+        "mapLot": "126.932457957851"
+    },
+    {
+        "restrntNm": "복주골오리한상",
+        "restrntAddr": "충청남도 아산시 둔포면 충무로 1151",
+        "restrntInqrTel": " 041 5465251",
+        "restrntDtlAddr": "충청남도 아산시 둔포면 봉재리 401-3 ",
+        "foodType": null,
+        "mapLat": "36.87442618724189",
+        "mapLot": "127.02861442264211"
+    },
+    {
+        "restrntNm": "회토랑",
+        "restrntAddr": "충청남도 아산시 번영로 127 (온천동)",
+        "restrntInqrTel": " 041 5492366",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1805 ",
+        "foodType": null,
+        "mapLat": "36.7863984671899",
+        "mapLot": "127.004978711647"
+    },
+    {
+        "restrntNm": "향촌",
+        "restrntAddr": "충청남도 아산시 도고면 온천대로511번길 17",
+        "restrntInqrTel": "041 542 2029",
+        "restrntDtlAddr": "충청남도 아산시 도고면 향산리 183 ",
+        "foodType": null,
+        "mapLat": "34.9265864489336",
+        "mapLot": "128.096397983973"
+    },
+    {
+        "restrntNm": "미술관 아산용화점",
+        "restrntAddr": "충청남도 아산시 용화로 70, 1층 (용화동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 온천동 2833 1층 ",
+        "foodType": null,
+        "mapLat": "36.7789023243324",
+        "mapLot": "127.019933070856"
+    },
+    {
+        "restrntNm": "돌이가든",
+        "restrntAddr": "충청남도 아산시 영인면 아산온천로 13",
+        "restrntInqrTel": " 041 5417378",
+        "restrntDtlAddr": "충청남도 아산시 영인면 아산리 129 ",
+        "foodType": null,
+        "mapLat": "36.8535385981364",
+        "mapLot": "126.959005229965"
+    },
+    {
+        "restrntNm": "다도횟집",
+        "restrntAddr": "충청남도 아산시 시민로457번길 35 (온천동)",
+        "restrntInqrTel": "041 545 9555",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1412 ",
+        "foodType": null,
+        "mapLat": "35.07139866657389",
+        "mapLot": "129.0176229034662"
+    },
+    {
+        "restrntNm": "쌍둥이네매운탕",
+        "restrntAddr": "충청남도 아산시 음봉면 연암율금로 155",
+        "restrntInqrTel": "041 547 8851",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 소동리 351-4 ",
+        "foodType": null,
+        "mapLat": "36.8654395509572",
+        "mapLot": "127.043320337214"
+    },
+    {
+        "restrntNm": "박가네꼬막",
+        "restrntAddr": "충청남도 아산시 시민로244번길 3-16 (용화동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 용화동 758 ",
+        "foodType": null,
+        "mapLat": "36.7726798895832",
+        "mapLot": "126.995291004963"
+    },
+    {
+        "restrntNm": "현대갈비",
+        "restrntAddr": "충청남도 아산시 충무로20번길 19 (온천동)",
+        "restrntInqrTel": "041 545 7880",
+        "restrntDtlAddr": "충청남도 아산시 온천동 301-8 ",
+        "foodType": "한식",
+        "mapLat": "36.78238661825231",
+        "mapLot": "127.00669469620227"
+    },
+    {
+        "restrntNm": "하눌소",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5497979",
+        "restrntDtlAddr": "충청남도 아산시 권곡동 403 ",
+        "foodType": null,
+        "mapLat": "36.5007666698485",
+        "mapLot": "126.613558002542"
+    },
+    {
+        "restrntNm": "김밥사랑",
+        "restrntAddr": "충청남도 아산시 삼동로 24 (모종동)",
+        "restrntInqrTel": " 041 5328889",
+        "restrntDtlAddr": "충청남도 아산시 모종동 577-10 ",
+        "foodType": null,
+        "mapLat": "36.80287889669398",
+        "mapLot": "127.11997856614025"
+    },
+    {
+        "restrntNm": "정원숯불갈비",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5324681",
+        "restrntDtlAddr": "충청남도 아산시 온천동 301-3 ",
+        "foodType": null,
+        "mapLat": "37.7646957751448",
+        "mapLot": "128.880132265294"
+    },
+    {
+        "restrntNm": "고가네칼국수",
+        "restrntAddr": "충청남도 아산시 번영로 83-5 (온천동)",
+        "restrntInqrTel": " 041 5497799",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1369 ",
+        "foodType": null,
+        "mapLat": "36.45346438268725",
+        "mapLot": "127.12345849518721"
+    },
+    {
+        "restrntNm": "영진밥상",
+        "restrntAddr": "충청남도 아산시 송악면 외암로 996",
+        "restrntInqrTel": " 041 5419876",
+        "restrntDtlAddr": "충청남도 아산시 송악면 역촌리 114-3 ",
+        "foodType": null,
+        "mapLat": "36.725651847429766",
+        "mapLot": "127.01043765068864"
+    },
+    {
+        "restrntNm": "왕건가든",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5456895",
+        "restrntDtlAddr": "충청남도 아산시 권곡동 530-2 ",
+        "foodType": null,
+        "mapLat": "35.8409982077931",
+        "mapLot": "128.707475782975"
+    },
+    {
+        "restrntNm": "대명가든",
+        "restrntAddr": "충청남도 아산시 인주면 대음남길76번길 23",
+        "restrntInqrTel": " 041 5455215",
+        "restrntDtlAddr": "충청남도 아산시 인주면 대음리 175-2 ",
+        "foodType": null,
+        "mapLat": "37.64619413218",
+        "mapLot": "126.552926192868"
+    },
+    {
+        "restrntNm": "생생고기전문점",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041        ",
+        "restrntDtlAddr": "충청남도 아산시 용화동 636 ",
+        "foodType": null,
+        "mapLat": "37.3959090668818",
+        "mapLot": "126.917182820037"
+    },
+    {
+        "restrntNm": "자금성",
+        "restrntAddr": "충청남도 아산시 시민로449번길 29 (온천동)",
+        "restrntInqrTel": " 041 5340330",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1387 ",
+        "foodType": null,
+        "mapLat": "37.59717437607087",
+        "mapLot": "126.92023506406996"
+    },
+    {
+        "restrntNm": "향촌손칼국수",
+        "restrntAddr": "충청남도 아산시 충무로42번길 9 (권곡동)",
+        "restrntInqrTel": " 041 5441693",
+        "restrntDtlAddr": "충청남도 아산시 권곡동 553-12 ",
+        "foodType": null,
+        "mapLat": "36.7863456355711",
+        "mapLot": "127.012636104861"
+    },
+    {
+        "restrntNm": "개미식당",
+        "restrntAddr": "충청남도 아산시 온중로 60-5 (용화동)",
+        "restrntInqrTel": " 041 5467002",
+        "restrntDtlAddr": "충청남도 아산시 용화동 620 ",
+        "foodType": null,
+        "mapLat": "37.4965919528133",
+        "mapLot": "126.983657030718"
+    },
+    {
+        "restrntNm": "농원식당",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5419296",
+        "restrntDtlAddr": "충청남도 아산시 용화동 452-2 ",
+        "foodType": null,
+        "mapLat": "36.0110607225758",
+        "mapLot": "129.365122060642"
+    },
+    {
+        "restrntNm": "오륙도해물찜",
+        "restrntAddr": "충청남도 아산시 청운로 102 (온천동)",
+        "restrntInqrTel": "041 546 2008",
+        "restrntDtlAddr": "충청남도 아산시 온천동 304-18 ",
+        "foodType": null,
+        "mapLat": "35.1134149158591",
+        "mapLot": "129.111417794447"
+    },
+    {
+        "restrntNm": "강나루 어죽",
+        "restrntAddr": "충청남도 아산시 시민로234번길 8-11 (용화동)",
+        "restrntInqrTel": " 041 5419244",
+        "restrntDtlAddr": "충청남도 아산시 용화동 803 ",
+        "foodType": null,
+        "mapLat": "36.016275409544",
+        "mapLot": "127.644658234194"
+    },
+    {
+        "restrntNm": "석정갈비",
+        "restrntAddr": "충청남도 아산시 음봉면 음봉로 633",
+        "restrntInqrTel": " 041 5323182",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 덕지리 44-1 ",
+        "foodType": null,
+        "mapLat": "35.2104815204395",
+        "mapLot": "129.074211886499"
+    },
+    {
+        "restrntNm": "전주막걸리",
+        "restrntAddr": "충청남도 아산시 배방읍 호서로 517",
+        "restrntInqrTel": " 041549 9011",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 세교리 966-3 ",
+        "foodType": null,
+        "mapLat": "37.29677932403818",
+        "mapLot": "126.96907218695782"
+    },
+    {
+        "restrntNm": "염치관광농원식당",
+        "restrntAddr": "충청남도 아산시 염치읍 방현서길31번길 16-15",
+        "restrntInqrTel": " 041 5483757",
+        "restrntDtlAddr": "충청남도 아산시 염치읍 방현리 486-1 ",
+        "foodType": null,
+        "mapLat": "36.8156883258016",
+        "mapLot": "127.001613878347"
+    },
+    {
+        "restrntNm": "일억조 생고기",
+        "restrntAddr": "충청남도 아산시 번영로195번길 5 (모종동)",
+        "restrntInqrTel": " 041 5428585",
+        "restrntDtlAddr": "충청남도 아산시 모종동 560-16 ",
+        "foodType": null,
+        "mapLat": "36.7822209797733",
+        "mapLot": "126.997732591037"
+    },
+    {
+        "restrntNm": "차사랑",
+        "restrntAddr": "충청남도 아산시 배방읍 고불로 214",
+        "restrntInqrTel": " 041 5495679",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 수철리 240-16 ",
+        "foodType": null,
+        "mapLat": "35.2081978079923",
+        "mapLot": "129.008722626494"
+    },
+    {
+        "restrntNm": "아산협동정육점식당",
+        "restrntAddr": "충청남도 아산시 시민로 423 (온천동)",
+        "restrntInqrTel": " 041 5458427",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1554 ",
+        "foodType": null,
+        "mapLat": "36.786276008449",
+        "mapLot": "127.001640149022"
+    },
+    {
+        "restrntNm": "사계의들녘",
+        "restrntAddr": "충청남도 아산시 둔포면 해위길 166",
+        "restrntInqrTel": " 041 5315966",
+        "restrntDtlAddr": "충청남도 아산시 둔포면 신항리 62-5 ",
+        "foodType": null,
+        "mapLat": "36.9021443063717",
+        "mapLot": "127.027327723219"
+    },
+    {
+        "restrntNm": "시인과촌장",
+        "restrntAddr": "충청남도 아산시 음봉면 음봉로 162",
+        "restrntInqrTel": " 041 5418667",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 삼거리 9-2 ",
+        "foodType": null,
+        "mapLat": "36.8469638738768",
+        "mapLot": "127.029761269435"
+    },
+    {
+        "restrntNm": "우슬초",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5419273",
+        "restrntDtlAddr": "충청남도 아산시 신창면 읍내리 174-6 ",
+        "foodType": null,
+        "mapLat": "36.3125169760393",
+        "mapLot": "127.610481679973"
+    },
+    {
+        "restrntNm": "북한강쭈꾸미",
+        "restrntAddr": "충청남도 아산시 신창면 신정호길 266",
+        "restrntInqrTel": "041 546 4384",
+        "restrntDtlAddr": "충청남도 아산시 신창면 창암리 1 ",
+        "foodType": null,
+        "mapLat": "36.761420453037054",
+        "mapLot": "126.96702841467346"
+    },
+    {
+        "restrntNm": "서천칼국수",
+        "restrntAddr": "충청남도 아산시 시민로244번길 7-11 (용화동)",
+        "restrntInqrTel": " 041 5481300",
+        "restrntDtlAddr": "충청남도 아산시 용화동 743 ",
+        "foodType": "한식",
+        "mapLat": "37.587119831772",
+        "mapLot": "127.094888491459"
+    },
+    {
+        "restrntNm": "산골",
+        "restrntAddr": "충청남도 아산시 신창면 온천대로 896-26 (1층)",
+        "restrntInqrTel": " 041 5413838",
+        "restrntDtlAddr": "충청남도 아산시 신창면 읍내리 211 1층 ",
+        "foodType": null,
+        "mapLat": "37.484195398826714",
+        "mapLot": "126.95432142002741"
+    },
+    {
+        "restrntNm": "아산초당두부",
+        "restrntAddr": "충청남도 아산시 음봉면 아산온천로 401, 1동 1층, 2층",
+        "restrntInqrTel": "041 544 5435",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 산정리 252 1층,2층 1동 ",
+        "foodType": "한식",
+        "mapLat": "36.8524138790091",
+        "mapLot": "127.000273593479"
+    },
+    {
+        "restrntNm": "소담",
+        "restrntAddr": "충청남도 아산시 순천향로 822, 1동 1층 (장존동)",
+        "restrntInqrTel": " 041 5450084",
+        "restrntDtlAddr": "충청남도 아산시 장존동 50-1 1층 1동 ",
+        "foodType": null,
+        "mapLat": "34.7996288016261",
+        "mapLot": "126.432376569039"
+    },
+    {
+        "restrntNm": "카리브",
+        "restrntAddr": "충청남도 아산시 둔포면 충무로 1222-3",
+        "restrntInqrTel": " 041 5331224",
+        "restrntDtlAddr": "충청남도 아산시 둔포면 봉재리 317-23 ",
+        "foodType": null,
+        "mapLat": "37.4935552627846",
+        "mapLot": "126.723320897044"
+    },
+    {
+        "restrntNm": "가파도",
+        "restrntAddr": "충청남도 아산시 번영로 200 (모종동)",
+        "restrntInqrTel": " 041 5458879",
+        "restrntDtlAddr": "충청남도 아산시 모종동 562-3 ",
+        "foodType": null,
+        "mapLat": "33.170012123095724",
+        "mapLot": "126.27141034691293"
+    },
+    {
+        "restrntNm": "아리랑",
+        "restrntAddr": "충청남도 아산시 인주면 서해로548번길 89-21",
+        "restrntInqrTel": " 041 5342828",
+        "restrntDtlAddr": "충청남도 아산시 인주면 신성리 44-3 ",
+        "foodType": null,
+        "mapLat": "37.5638999031614",
+        "mapLot": "126.980586312613"
+    },
+    {
+        "restrntNm": "명동숯불갈비",
+        "restrntAddr": "충청남도 아산시 번영로85번길 4 (온천동)",
+        "restrntInqrTel": " 041 5460365",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1530 ",
+        "foodType": null,
+        "mapLat": "37.3280356788764",
+        "mapLot": "127.945186015023"
+    },
+    {
+        "restrntNm": "개성면옥",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5459884",
+        "restrntDtlAddr": "충청남도 아산시 권곡동 544-1 ,25 ",
+        "foodType": null,
+        "mapLat": "37.492904890872104",
+        "mapLot": "126.88381142761835"
+    },
+    {
+        "restrntNm": "세시봉",
+        "restrntAddr": "충청남도 아산시 음봉면 충무로 1143",
+        "restrntInqrTel": " 041 5312600",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 신정리 5-3 ",
+        "foodType": null,
+        "mapLat": "37.5574216034863",
+        "mapLot": "126.934900970137"
+    },
+    {
+        "restrntNm": "외암마을흑염소",
+        "restrntAddr": "충청남도 아산시 송악면 외암로 931",
+        "restrntInqrTel": " 041 5417762",
+        "restrntDtlAddr": "충청남도 아산시 송악면 역촌리 381-1 ",
+        "foodType": null,
+        "mapLat": "36.7207004591957",
+        "mapLot": "127.006304276644"
+    },
+    {
+        "restrntNm": "24시전주명가콩나물국밥",
+        "restrntAddr": "충청남도 아산시 번영로 112 (온천동)",
+        "restrntInqrTel": " 041 5346007",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1719 ",
+        "foodType": null,
+        "mapLat": "37.38842389539371",
+        "mapLot": "126.94817114797245"
+    },
+    {
+        "restrntNm": "대산가든",
+        "restrntAddr": "충청남도 아산시 도고면 온천대로 417",
+        "restrntInqrTel": " 041 5416958",
+        "restrntDtlAddr": "충청남도 아산시 도고면 향산리 333-1 ",
+        "foodType": null,
+        "mapLat": "36.7556855179981",
+        "mapLot": "126.899278422594"
+    },
+    {
+        "restrntNm": "흑룡각",
+        "restrntAddr": "충청남도 아산시 청운로 159 (권곡동)",
+        "restrntInqrTel": "041 534 2543",
+        "restrntDtlAddr": "충청남도 아산시 권곡동 537-10 ",
+        "foodType": null,
+        "mapLat": "37.2306960529288",
+        "mapLot": "129.344175563725"
+    },
+    {
+        "restrntNm": "노걸대 (아산시민로점)",
+        "restrntAddr": "충청남도 아산시 시민로 467-39 (온천동)",
+        "restrntInqrTel": " 041 5454070",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1438 ",
+        "foodType": null,
+        "mapLat": "36.78810257620543",
+        "mapLot": "126.99913509214545"
+    },
+    {
+        "restrntNm": "아름다운여행",
+        "restrntAddr": "충청남도 아산시 음봉면 연암산로 114",
+        "restrntInqrTel": " 041 5445111",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 송촌리 3 ",
+        "foodType": null,
+        "mapLat": "36.8532481297527",
+        "mapLot": "127.046726684378"
+    },
+    {
+        "restrntNm": "다가온",
+        "restrntAddr": "충청남도 아산시 둔포면 봉신로 96-22",
+        "restrntInqrTel": " 041 5327753",
+        "restrntDtlAddr": "충청남도 아산시 둔포면 봉재리 185-1 ",
+        "foodType": null,
+        "mapLat": "37.0005622951929",
+        "mapLot": "127.095260106756"
+    },
+    {
+        "restrntNm": "진미돌생삼겹살",
+        "restrntAddr": "충청남도 아산시 시민로244번길 7-16 (용화동)",
+        "restrntInqrTel": " 041 5333166",
+        "restrntDtlAddr": "충청남도 아산시 용화동 737 ",
+        "foodType": "한식",
+        "mapLat": "36.7726294413353",
+        "mapLot": "126.995667368965"
+    },
+    {
+        "restrntNm": "돈구찌",
+        "restrntAddr": "충청남도 아산시 남부로 132-16 (용화동)",
+        "restrntInqrTel": " 041 5329948",
+        "restrntDtlAddr": "충청남도 아산시 용화동 830 ",
+        "foodType": null,
+        "mapLat": "36.7698134470501",
+        "mapLot": "126.995582401269"
+    },
+    {
+        "restrntNm": "터 사 랑",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5311002",
+        "restrntDtlAddr": "충청남도 아산시 둔포면 봉재리 396-15 ",
+        "foodType": null,
+        "mapLat": "37.5650976140397",
+        "mapLot": "126.898470416812"
+    },
+    {
+        "restrntNm": "진안 어제비",
+        "restrntAddr": "충청남도 아산시 번영로 105-3 (온천동)",
+        "restrntInqrTel": " 041 5310205",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1698 ",
+        "foodType": null,
+        "mapLat": "35.88202640236548",
+        "mapLot": "127.53348794334613"
+    },
+    {
+        "restrntNm": "스타게이트",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5435325",
+        "restrntDtlAddr": "충청남도 아산시 영인면 아산리 산 38-5 ",
+        "foodType": null,
+        "mapLat": "36.36191166661986",
+        "mapLot": "127.37892875158593"
+    },
+    {
+        "restrntNm": "장수촌",
+        "restrntAddr": "충청남도 아산시 외암로 1566-7 (풍기동)",
+        "restrntInqrTel": " 041 5454696",
+        "restrntDtlAddr": "충청남도 아산시 풍기동 220-15 ",
+        "foodType": null,
+        "mapLat": "37.4029954912791",
+        "mapLot": "127.008113873682"
+    },
+    {
+        "restrntNm": "전라도밥상",
+        "restrntAddr": "충청남도 아산시 곡교천로 28-6, 1층 (방축동)",
+        "restrntInqrTel": " 041 5490077",
+        "restrntDtlAddr": "충청남도 아산시 방축동 151 1층 ",
+        "foodType": null,
+        "mapLat": "37.447089831468006",
+        "mapLot": "126.70814766784771"
+    },
+    {
+        "restrntNm": "이데아",
+        "restrntAddr": "충청남도 아산시 음봉면 아산온천로 460-19",
+        "restrntInqrTel": " 041 5411411",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 산정리 63-4 ",
+        "foodType": null,
+        "mapLat": "36.3592356726216",
+        "mapLot": "127.425624738817"
+    },
+    {
+        "restrntNm": "신대흥식당",
+        "restrntAddr": "충청남도 아산시 시장길 11-15, 2층 (온천동)",
+        "restrntInqrTel": " 041 5335288",
+        "restrntDtlAddr": "충청남도 아산시 온천동 40-29 2층 ",
+        "foodType": null,
+        "mapLat": "36.78460803885105",
+        "mapLot": "127.0020120517775"
+    },
+    {
+        "restrntNm": "밤골생고기",
+        "restrntAddr": "충청남도 아산시 번영로 119 (온천동)",
+        "restrntInqrTel": " 041 5465419",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1836 ",
+        "foodType": "한식",
+        "mapLat": "36.7864741924914",
+        "mapLot": "127.00415415863"
+    },
+    {
+        "restrntNm": "낙원가든",
+        "restrntAddr": "충청남도 아산시 음봉면 아산온천로 217-14",
+        "restrntInqrTel": " 041 5416866",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 신수리 292-1 ",
+        "foodType": null,
+        "mapLat": "36.07912453549883",
+        "mapLot": "129.32636151940093"
+    },
+    {
+        "restrntNm": "백운곰탕",
+        "restrntAddr": "충청남도 아산시 음봉면 음봉면로 8 (외 3필지)",
+        "restrntInqrTel": " 041 5428557",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 삼거리 288-1 외 3필지 ",
+        "foodType": null,
+        "mapLat": "36.8480734935697",
+        "mapLot": "127.012557679249"
+    },
+    {
+        "restrntNm": "송탄부대찌개",
+        "restrntAddr": "충청남도 아산시 시민로449번길 22-5 (온천동)",
+        "restrntInqrTel": " 041 5463390",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1405 ",
+        "foodType": null,
+        "mapLat": "37.0433554524466",
+        "mapLot": "127.100682184898"
+    },
+    {
+        "restrntNm": "설악칡냉면",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5336993",
+        "restrntDtlAddr": "충청남도 아산시 인주면 밀두리 296-1 ",
+        "foodType": null,
+        "mapLat": "36.367479232790465",
+        "mapLot": "127.38256712563877"
+    },
+    {
+        "restrntNm": "청정황태찜전문점",
+        "restrntAddr": "충청남도 아산시 시민로292번길 7-12 (용화동)",
+        "restrntInqrTel": " 041 5494808",
+        "restrntDtlAddr": "충청남도 아산시 용화동 651 ",
+        "foodType": "한식",
+        "mapLat": "36.775909555077",
+        "mapLot": "126.997329515913"
+    },
+    {
+        "restrntNm": "신천도식당",
+        "restrntAddr": "충청남도 아산시 충무로8번길 16 (온천동,(1층))",
+        "restrntInqrTel": " 041 5443600",
+        "restrntDtlAddr": "충청남도 아산시 온천동 83-11 (1층) ",
+        "foodType": null,
+        "mapLat": "36.7814783330992",
+        "mapLot": "127.00595525185"
+    },
+    {
+        "restrntNm": "두레촌",
+        "restrntAddr": "충청남도 아산시 음봉면 음봉면로 259",
+        "restrntInqrTel": " 041 5418088",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 원남리 256-1 ",
+        "foodType": null,
+        "mapLat": "37.50065400063602",
+        "mapLot": "127.02488558802801"
+    },
+    {
+        "restrntNm": "삽교원조두리곱창",
+        "restrntAddr": "충청남도 아산시 온화로 12 (온천동)",
+        "restrntInqrTel": " 041 5466376",
+        "restrntDtlAddr": "충청남도 아산시 온천동 175-5 ",
+        "foodType": null,
+        "mapLat": "36.7781515534663",
+        "mapLot": "126.998543737241"
+    },
+    {
+        "restrntNm": "본죽",
+        "restrntAddr": "충청남도 아산시 배방읍 모산로 145, 1층",
+        "restrntInqrTel": " 041 5483445",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 공수리 87-13 1층 ",
+        "foodType": null,
+        "mapLat": "37.49970069286392",
+        "mapLot": "127.02902433515636"
+    },
+    {
+        "restrntNm": "부산아구별미집",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5328787",
+        "restrntDtlAddr": "충청남도 아산시 용화동 619 ",
+        "foodType": null,
+        "mapLat": "35.1133272223012",
+        "mapLot": "129.015383735123"
+    },
+    {
+        "restrntNm": "백두산숯불구이",
+        "restrntAddr": null,
+        "restrntInqrTel": " 941 5326640",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 공수리 42-5 65-3 ",
+        "foodType": null,
+        "mapLat": "34.8852611017394",
+        "mapLot": "128.626572861302"
+    },
+    {
+        "restrntNm": "오리사냥",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5338952",
+        "restrntDtlAddr": "충청남도 아산시 온천동 576 ",
+        "foodType": null,
+        "mapLat": "37.6599766766484",
+        "mapLot": "127.292672373182"
+    },
+    {
+        "restrntNm": "인주짬뽕옛날짜장",
+        "restrntAddr": "충청남도 아산시 인주면 서해로 612",
+        "restrntInqrTel": " 041 5330112",
+        "restrntDtlAddr": "충청남도 아산시 인주면 공세리 126-1 ",
+        "foodType": null,
+        "mapLat": "36.79400071796385",
+        "mapLot": "126.86611839376"
+    },
+    {
+        "restrntNm": "산천정육점식당",
+        "restrntAddr": "충청남도 아산시 염치읍 염성길 115",
+        "restrntInqrTel": "041 542 6233",
+        "restrntDtlAddr": "충청남도 아산시 염치읍 염성리 267-4 ",
+        "foodType": null,
+        "mapLat": "37.5377569755137",
+        "mapLot": "126.946834669298"
+    },
+    {
+        "restrntNm": "감꽃마을 토종순대",
+        "restrntAddr": "충청남도 아산시 시민로244번길 7-10 (용화동)",
+        "restrntInqrTel": " 041 5454778",
+        "restrntDtlAddr": "충청남도 아산시 용화동 740 ",
+        "foodType": "한식",
+        "mapLat": "36.772182483511",
+        "mapLot": "126.99556434351"
+    },
+    {
+        "restrntNm": "한라참치용화점",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5413788",
+        "restrntDtlAddr": "충청남도 아산시 용화동 780 ",
+        "foodType": null,
+        "mapLat": "36.786968057618",
+        "mapLot": "126.99791170405"
+    },
+    {
+        "restrntNm": "남도해물아구탕",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5429393",
+        "restrntDtlAddr": "충청남도 아산시 온천동 735 ",
+        "foodType": null,
+        "mapLat": "36.5130450558979",
+        "mapLot": "127.258738486823"
+    },
+    {
+        "restrntNm": "천도식당",
+        "restrntAddr": "충청남도 아산시 충무로82번길 20 (권곡동)",
+        "restrntInqrTel": "041 533 9141",
+        "restrntDtlAddr": "충청남도 아산시 권곡동 542-1 ",
+        "foodType": null,
+        "mapLat": "36.7814783330992",
+        "mapLot": "127.00595525185"
+    },
+    {
+        "restrntNm": "한우리정육식당",
+        "restrntAddr": "충청남도 아산시 둔포면 둔포로 31 (외1필지)",
+        "restrntInqrTel": " 041 5313122",
+        "restrntDtlAddr": "충청남도 아산시 둔포면 둔포리 414-3 외1필지 ",
+        "foodType": null,
+        "mapLat": "37.4583551301888",
+        "mapLot": "126.677955217668"
+    },
+    {
+        "restrntNm": "남문",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5342500",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1314 ",
+        "foodType": null,
+        "mapLat": "33.4887803072179",
+        "mapLot": "126.538933291512"
+    },
+    {
+        "restrntNm": "등촌샤브칼국수",
+        "restrntAddr": "충청남도 아산시 번영로 190, 1동 1층 (모종동)",
+        "restrntInqrTel": " 041 5459969",
+        "restrntDtlAddr": "충청남도 아산시 모종동 561-1 외1 필지, 1동 1층 ",
+        "foodType": "한식",
+        "mapLat": "37.66783092955472",
+        "mapLot": "126.7753074168054"
+    },
+    {
+        "restrntNm": "시골솥단지 삼겹살",
+        "restrntAddr": "충청남도 아산시 번영로69번길 16 (온천동)",
+        "restrntInqrTel": " 041 5312294",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1391 ",
+        "foodType": null,
+        "mapLat": "35.1750805127612",
+        "mapLot": "128.98914364355"
+    },
+    {
+        "restrntNm": "오대양",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5499200",
+        "restrntDtlAddr": "충청남도 아산시 용화동 263-12 ",
+        "foodType": null,
+        "mapLat": "35.2491531055326",
+        "mapLot": "128.509457749418"
+    },
+    {
+        "restrntNm": "김씨 아저씨",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5445721",
+        "restrntDtlAddr": "충청남도 아산시 온천동 40-52 ",
+        "foodType": null,
+        "mapLat": "37.3469917648079",
+        "mapLot": "127.935212418097"
+    },
+    {
+        "restrntNm": "토지",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5345293",
+        "restrntDtlAddr": "충청남도 아산시 신인동 296-5 ",
+        "foodType": null,
+        "mapLat": "37.451007616089555",
+        "mapLot": "126.63846301164898"
+    },
+    {
+        "restrntNm": "무교동낙지촌",
+        "restrntAddr": "충청남도 아산시 번영로69번길 32-6 (온천동)",
+        "restrntInqrTel": " 041 5454676",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1431 ",
+        "foodType": null,
+        "mapLat": "37.4502196848028",
+        "mapLot": "126.634217475934"
+    },
+    {
+        "restrntNm": "아산곱창마을",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5345111",
+        "restrntDtlAddr": "충청남도 아산시 용화동 589 ",
+        "foodType": null,
+        "mapLat": "36.78355189722386",
+        "mapLot": "127.01505545250474"
+    },
+    {
+        "restrntNm": "바르바커피",
+        "restrntAddr": "충청남도 아산시 둔포면 둔포중앙로 143",
+        "restrntInqrTel": " 041 5311041",
+        "restrntDtlAddr": "충청남도 아산시 둔포면 둔포리 413-29 ",
+        "foodType": null,
+        "mapLat": "37.15255860546882",
+        "mapLot": "127.06587602846659"
+    },
+    {
+        "restrntNm": "춘천명동닭갈비",
+        "restrntAddr": "충청남도 아산시 시민로244번길 3-10 (용화동)",
+        "restrntInqrTel": " 041 5422345",
+        "restrntDtlAddr": "충청남도 아산시 용화동 755 ",
+        "foodType": null,
+        "mapLat": "37.8107256624792",
+        "mapLot": "127.636470113311"
+    },
+    {
+        "restrntNm": "호박촌",
+        "restrntAddr": "충청남도 아산시 번영로 193 (모종동,외1필지)",
+        "restrntInqrTel": " 041 5459259",
+        "restrntDtlAddr": "충청남도 아산시 모종동 560-18 외1필지 ",
+        "foodType": "한식",
+        "mapLat": "37.2594036911617",
+        "mapLot": "127.143143146789"
+    },
+    {
+        "restrntNm": "부산아구",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5330771",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1449 ",
+        "foodType": null,
+        "mapLat": "37.5157934886313",
+        "mapLot": "127.020717859302"
+    },
+    {
+        "restrntNm": "채플린",
+        "restrntAddr": "충청남도 아산시 번영로85번길 30 (온천동)",
+        "restrntInqrTel": " 041 5328636",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1477 ",
+        "foodType": null,
+        "mapLat": "35.23370644782565",
+        "mapLot": "129.2446335511795"
+    },
+    {
+        "restrntNm": "경성보쌈",
+        "restrntAddr": "충청남도 아산시 충무로8번길 3 (온천동)",
+        "restrntInqrTel": " 041 5334811",
+        "restrntDtlAddr": "충청남도 아산시 온천동 85-10 ",
+        "foodType": null,
+        "mapLat": "36.782121782049494",
+        "mapLot": "127.004794712377"
+    },
+    {
+        "restrntNm": "온양감자탕",
+        "restrntAddr": "충청남도 아산시 삼동로 72 (모종동)",
+        "restrntInqrTel": " 041 5454025",
+        "restrntDtlAddr": "충청남도 아산시 모종동 551-36 ",
+        "foodType": null,
+        "mapLat": "36.787492488013186",
+        "mapLot": "127.00295545185429"
+    },
+    {
+        "restrntNm": "아산정",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5349973",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 신수리 290-5 ",
+        "foodType": null,
+        "mapLat": "36.8902293557791",
+        "mapLot": "126.978357509733"
+    },
+    {
+        "restrntNm": "어두육미",
+        "restrntAddr": "충청남도 아산시 번영로85번길 8 (온천동)",
+        "restrntInqrTel": " 041 5445552",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1522 ",
+        "foodType": "한식",
+        "mapLat": "36.78722309099473",
+        "mapLot": "127.00032041556916"
+    },
+    {
+        "restrntNm": "참이맛뼈다귀",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5422025",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 신수리 295-6 ",
+        "foodType": null,
+        "mapLat": "37.8495153989475",
+        "mapLot": "126.870967092898"
+    },
+    {
+        "restrntNm": "김해본가뒷고기",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5318808",
+        "restrntDtlAddr": "충청남도 아산시 용화동 410-10 ",
+        "foodType": null,
+        "mapLat": "35.535858724459445",
+        "mapLot": "129.33377292862406"
+    },
+    {
+        "restrntNm": "풍천민물장어직판장",
+        "restrntAddr": "충청남도 아산시 삼동로28번길 55-13 (모종동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 모종동 570-4 ",
+        "foodType": null,
+        "mapLat": "37.2630785440263",
+        "mapLot": "127.034523782215"
+    },
+    {
+        "restrntNm": "본가장수촌",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5340070",
+        "restrntDtlAddr": "충청남도 아산시 염치읍 방현리 237-12 ",
+        "foodType": null,
+        "mapLat": "36.6171404023782",
+        "mapLot": "127.43603007318791"
+    },
+    {
+        "restrntNm": "농원식당",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5325700",
+        "restrntDtlAddr": "충청남도 아산시 용화동 777 ",
+        "foodType": null,
+        "mapLat": "36.0110607225758",
+        "mapLot": "129.365122060642"
+    },
+    {
+        "restrntNm": "생생고기전문점",
+        "restrntAddr": "충청남도 아산시 온주길26번길 30, 1층 (읍내동)",
+        "restrntInqrTel": " 041 5319393",
+        "restrntDtlAddr": "충청남도 아산시 읍내동 138-22 1층 ",
+        "foodType": null,
+        "mapLat": "37.3959090668818",
+        "mapLot": "126.917182820037"
+    },
+    {
+        "restrntNm": "도담생삼겹살",
+        "restrntAddr": "충청남도 아산시 시민로234번길 12-2 (용화동)",
+        "restrntInqrTel": "0415412026",
+        "restrntDtlAddr": "충청남도 아산시 용화동 809-1 ",
+        "foodType": null,
+        "mapLat": "36.51127050121758",
+        "mapLot": "127.25547844678573"
+    },
+    {
+        "restrntNm": "저팔계족발보쌈",
+        "restrntAddr": "충청남도 아산시 시민로292번길 5-10 (용화동)",
+        "restrntInqrTel": " 041 5410476",
+        "restrntDtlAddr": "충청남도 아산시 용화동 640 ",
+        "foodType": null,
+        "mapLat": "35.7935794577527",
+        "mapLot": "127.131440822242"
+    },
+    {
+        "restrntNm": "온양해물탕찜",
+        "restrntAddr": "충청남도 아산시 시민로280번길 3-12 (용화동)",
+        "restrntInqrTel": " 041 5344900",
+        "restrntDtlAddr": "충청남도 아산시 용화동 676 ",
+        "foodType": null,
+        "mapLat": "36.7766243082087",
+        "mapLot": "126.980100004201"
+    },
+    {
+        "restrntNm": "이순신반점",
+        "restrntAddr": "충청남도 아산시 염치읍 아산로 627",
+        "restrntInqrTel": " 041 5419225",
+        "restrntDtlAddr": "충청남도 아산시 염치읍 서원리 293-7 ",
+        "foodType": null,
+        "mapLat": "36.83015112238692",
+        "mapLot": "126.96719847554175"
+    },
+    {
+        "restrntNm": "선비촌보쌈",
+        "restrntAddr": "충청남도 아산시 온화로 11 (온천동)",
+        "restrntInqrTel": " 041 5345353",
+        "restrntDtlAddr": "충청남도 아산시 온천동 175-3 ",
+        "foodType": null,
+        "mapLat": "37.620718390421466",
+        "mapLot": "127.0277743500119"
+    },
+    {
+        "restrntNm": "송가네감자탕",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5447719",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 월랑리 200-1 ",
+        "foodType": null,
+        "mapLat": "37.5618192051882",
+        "mapLot": "126.924066665182"
+    },
+    {
+        "restrntNm": "명성갈비",
+        "restrntAddr": "충청남도 아산시 온화로 15 (온천동)",
+        "restrntInqrTel": "041 547 3345",
+        "restrntDtlAddr": "충청남도 아산시 온천동 496 ",
+        "foodType": "한식",
+        "mapLat": "36.778072261863066",
+        "mapLot": "126.99926066736066"
+    },
+    {
+        "restrntNm": "동문장어",
+        "restrntAddr": "충청남도 아산시 청운로 182-26 (권곡동)",
+        "restrntInqrTel": " 041546 4633",
+        "restrntDtlAddr": "충청남도 아산시 권곡동 528-24 ",
+        "foodType": "한식",
+        "mapLat": "36.789440091783",
+        "mapLot": "127.012364363951"
+    },
+    {
+        "restrntNm": "황제능이버섯백숙ㆍ남원추어탕",
+        "restrntAddr": "충청남도 아산시 탕정면 탕정면로 438",
+        "restrntInqrTel": " 041 5311011",
+        "restrntDtlAddr": "충청남도 아산시 탕정면 동산리 111-1 ",
+        "foodType": null,
+        "mapLat": "36.8236826231886",
+        "mapLot": "127.088319701794"
+    },
+    {
+        "restrntNm": "화진 곰탕",
+        "restrntAddr": "충청남도 아산시 시민로 287-1 (용화동)",
+        "restrntInqrTel": " 041 5453467",
+        "restrntDtlAddr": "충청남도 아산시 용화동 251-5 ",
+        "foodType": null,
+        "mapLat": "36.7754661555235",
+        "mapLot": "126.995631364113"
+    },
+    {
+        "restrntNm": "어랑",
+        "restrntAddr": "충청남도 아산시 음봉면 아산온천로 372",
+        "restrntInqrTel": "041 543 2378",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 산정리 246 ",
+        "foodType": null,
+        "mapLat": "37.4869960573691",
+        "mapLot": "127.123327702825"
+    },
+    {
+        "restrntNm": "사계절 해물탕",
+        "restrntAddr": "충청남도 아산시 번영로 124 (온천동,외1필지)",
+        "restrntInqrTel": " 041 5441182",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1752 외1필지 ",
+        "foodType": null,
+        "mapLat": "37.5032590635235",
+        "mapLot": "126.764008066098"
+    },
+    {
+        "restrntNm": "청국장집",
+        "restrntAddr": "충청남도 아산시 온천대로 1452 (온천동,외1필지(228-23))",
+        "restrntInqrTel": " 041 5339942",
+        "restrntDtlAddr": "충청남도 아산시 온천동 228-14 외1필지(228-23) ",
+        "foodType": "한식",
+        "mapLat": "37.4777351257611",
+        "mapLot": "126.980192578158"
+    },
+    {
+        "restrntNm": "초이스아구",
+        "restrntAddr": "충청남도 아산시 남부로 130 (용화동)",
+        "restrntInqrTel": " 041 5648003",
+        "restrntDtlAddr": "충청남도 아산시 용화동 775 ",
+        "foodType": null,
+        "mapLat": "36.770751518437",
+        "mapLot": "126.995810846722"
+    },
+    {
+        "restrntNm": "띵호와손짜장",
+        "restrntAddr": "충청남도 아산시 탕정면 탕정면로 423",
+        "restrntInqrTel": " 041 5345734",
+        "restrntDtlAddr": "충청남도 아산시 탕정면 동산리 107-6 ",
+        "foodType": null,
+        "mapLat": "36.8227645137165",
+        "mapLot": "127.086933274078"
+    },
+    {
+        "restrntNm": "멍석갈비",
+        "restrntAddr": "충청남도 아산시 시민로234번길 4-24 (용화동)",
+        "restrntInqrTel": "041 547 2300",
+        "restrntDtlAddr": "충청남도 아산시 용화동 862 ",
+        "foodType": null,
+        "mapLat": "36.9867677057167",
+        "mapLot": "128.370723784338"
+    },
+    {
+        "restrntNm": "신토불이",
+        "restrntAddr": "충청남도 아산시 번영로43번길 22 (실옥동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 실옥동 181-19 ",
+        "foodType": null,
+        "mapLat": "35.404508615658",
+        "mapLot": "127.3779390744"
+    },
+    {
+        "restrntNm": "검은콩두부사랑",
+        "restrntAddr": null,
+        "restrntInqrTel": "            ",
+        "restrntDtlAddr": "충청남도 아산시 인주면 신성리 378-1 외 1필지 ",
+        "foodType": null,
+        "mapLat": "36.8790186257732",
+        "mapLot": "126.908197759101"
+    },
+    {
+        "restrntNm": "보보스2호점",
+        "restrntAddr": null,
+        "restrntInqrTel": "            ",
+        "restrntDtlAddr": "충청남도 아산시 용화동 253-11 ",
+        "foodType": null,
+        "mapLat": "37.4243397093317",
+        "mapLot": "126.647786324195"
+    },
+    {
+        "restrntNm": "옛집",
+        "restrntAddr": "충청남도 아산시 둔포면 중앙공원로17번길 15-8, 1층",
+        "restrntInqrTel": "041 531 0701",
+        "restrntDtlAddr": "충청남도 아산시 둔포면 석곡리 1429 1층 ",
+        "foodType": null,
+        "mapLat": "37.5471126395399",
+        "mapLot": "127.106828264965"
+    },
+    {
+        "restrntNm": "낙원회관",
+        "restrntAddr": "충청남도 아산시 시민로439번길 14 (온천동,외1필지)",
+        "restrntInqrTel": "041 547 1882",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1514 외1필지 ",
+        "foodType": null,
+        "mapLat": "34.9502161727666",
+        "mapLot": "127.485734092482"
+    },
+    {
+        "restrntNm": "할머니묵집",
+        "restrntAddr": "충청남도 아산시 서부북로 995-19 (배미동)",
+        "restrntInqrTel": " 041 5452100",
+        "restrntDtlAddr": "충청남도 아산시 배미동 238-1 ",
+        "foodType": null,
+        "mapLat": "37.7138991150241",
+        "mapLot": "126.694894215136"
+    },
+    {
+        "restrntNm": "곤지암소머리국밥(아산점)",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5323405",
+        "restrntDtlAddr": "충청남도 아산시 용화동 745 ",
+        "foodType": null,
+        "mapLat": "36.807483315122",
+        "mapLot": "126.982370260597"
+    },
+    {
+        "restrntNm": "초사골",
+        "restrntAddr": "충청남도 아산시 남부로 121 (용화동)",
+        "restrntInqrTel": "041 534 4485",
+        "restrntDtlAddr": "충청남도 아산시 용화동 771 ",
+        "foodType": "한식",
+        "mapLat": "38.0687178058285",
+        "mapLot": "128.172979427612"
+    },
+    {
+        "restrntNm": "꽃동네원조장어",
+        "restrntAddr": "충청남도 아산시 인주면 아산만로 1546 (외 3필지)",
+        "restrntInqrTel": "041 533 4422",
+        "restrntDtlAddr": "충청남도 아산시 인주면 문방리 372-1 외 3필지 ",
+        "foodType": null,
+        "mapLat": "36.8635496531231",
+        "mapLot": "126.870674712872"
+    },
+    {
+        "restrntNm": "들녘추어탕",
+        "restrntAddr": "충청남도 아산시 염치읍 현대로 222",
+        "restrntInqrTel": "041 544 3789",
+        "restrntDtlAddr": "충청남도 아산시 염치읍 서원리 282-4 ",
+        "foodType": null,
+        "mapLat": "36.8215238888169",
+        "mapLot": "126.949203807776"
+    },
+    {
+        "restrntNm": "예산집해장국",
+        "restrntAddr": "충청남도 아산시 시민로449번길 30 (온천동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 온천동 1395-1 ",
+        "foodType": null,
+        "mapLat": "36.6962558325066",
+        "mapLot": "126.662788287232"
+    },
+    {
+        "restrntNm": "가보자",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5487399",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 982 ",
+        "foodType": null,
+        "mapLat": "37.92636645258441",
+        "mapLot": "127.7460803585681"
+    },
+    {
+        "restrntNm": "동방소불고기",
+        "restrntAddr": "충청남도 아산시 시민로422번길 7 (온천동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 온천동 1728 ",
+        "foodType": null,
+        "mapLat": "36.7917762723607",
+        "mapLot": "127.117283495875"
+    },
+    {
+        "restrntNm": "싱싱수산회직판장",
+        "restrntAddr": "충청남도 아산시 온천대로 1584 (풍기동)",
+        "restrntInqrTel": "041 532 3354",
+        "restrntDtlAddr": "충청남도 아산시 풍기동 215-4 ",
+        "foodType": null,
+        "mapLat": "36.77931594869059",
+        "mapLot": "127.01341798394809"
+    },
+    {
+        "restrntNm": "가마솥 두부명가",
+        "restrntAddr": "충청남도 아산시 온주길 6-7 (읍내동)",
+        "restrntInqrTel": " 041 5419789",
+        "restrntDtlAddr": "충청남도 아산시 읍내동 283-6 ",
+        "foodType": "한식",
+        "mapLat": "36.761166075327",
+        "mapLot": "127.017081554501"
+    },
+    {
+        "restrntNm": "돈골대가",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5311707",
+        "restrntDtlAddr": "충청남도 아산시 모종동 554-14 (1층) ",
+        "foodType": null,
+        "mapLat": "36.7862642534214",
+        "mapLot": "127.015057103429"
+    },
+    {
+        "restrntNm": "정가네 냉면 갈비",
+        "restrntAddr": "충청남도 아산시 인주면 현대로 1308 (외3필지)",
+        "restrntInqrTel": " 041 5334117",
+        "restrntDtlAddr": "충청남도 아산시 인주면 밀두리 131-4 외3필지 ",
+        "foodType": null,
+        "mapLat": "36.8696420735895",
+        "mapLot": "126.885688537391"
+    },
+    {
+        "restrntNm": "본가 장수촌",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 5475550",
+        "restrntDtlAddr": "충청남도 아산시 읍내동 283-4 외1필지 ",
+        "foodType": null,
+        "mapLat": "36.6171404023782",
+        "mapLot": "127.43603007318791"
+    },
+    {
+        "restrntNm": "돈까스클럽  아산점",
+        "restrntAddr": "충청남도 아산시 온천대로 1734 (풍기동)",
+        "restrntInqrTel": "041 546 6600",
+        "restrntDtlAddr": "충청남도 아산시 풍기동 12-3 ",
+        "foodType": "양식",
+        "mapLat": "36.7748281597886",
+        "mapLot": "127.029630307033"
+    },
+    {
+        "restrntNm": "동해수산",
+        "restrntAddr": "충청남도 아산시 배방읍 배방로173번길 19",
+        "restrntInqrTel": "041  5334112",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 915 ",
+        "foodType": null,
+        "mapLat": "35.0823701101556",
+        "mapLot": "128.87228372461934"
+    },
+    {
+        "restrntNm": "공주해물샤브",
+        "restrntAddr": "충청남도 아산시 남부로 127 (용화동)",
+        "restrntInqrTel": " 041 5478765",
+        "restrntDtlAddr": "충청남도 아산시 용화동 773 ",
+        "foodType": null,
+        "mapLat": "36.77093891973714",
+        "mapLot": "126.99500548665105"
+    },
+    {
+        "restrntNm": "영남식당",
+        "restrntAddr": "충청남도 아산시 시민로457번길 12 (온천동)",
+        "restrntInqrTel": "     5423900",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1468 ",
+        "foodType": null,
+        "mapLat": "36.530656644379874",
+        "mapLot": "127.82181256980611"
+    },
+    {
+        "restrntNm": "쪽.쪽갈비",
+        "restrntAddr": "충청남도 아산시 배방읍 북수서로 42",
+        "restrntInqrTel": " 041 5321345",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 1356 ",
+        "foodType": null,
+        "mapLat": "35.83558026755823",
+        "mapLot": "128.53196058479375"
+    },
+    {
+        "restrntNm": "아구대통령",
+        "restrntAddr": "충청남도 아산시 삼동로28번길 55-13 (모종동)",
+        "restrntInqrTel": "041 542 7952",
+        "restrntDtlAddr": "충청남도 아산시 모종동 570-4 ",
+        "foodType": "한식",
+        "mapLat": "36.7825587039332",
+        "mapLot": "127.016300994298"
+    },
+    {
+        "restrntNm": "송가네생태찌개",
+        "restrntAddr": "충청남도 아산시 배방읍 북수로 71",
+        "restrntInqrTel": " 041 5319882",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 645-21 ",
+        "foodType": "한식",
+        "mapLat": "36.7736803532632",
+        "mapLot": "127.068453811748"
+    },
+    {
+        "restrntNm": "돈돈촌",
+        "restrntAddr": "충청남도 아산시 온중로 56 (용화동)",
+        "restrntInqrTel": "041 533 0759",
+        "restrntDtlAddr": "충청남도 아산시 용화동 616 ",
+        "foodType": null,
+        "mapLat": "33.5064612025744",
+        "mapLot": "126.547423577576"
+    },
+    {
+        "restrntNm": "묵은지와 참두부",
+        "restrntAddr": "충청남도 아산시 영인면 토정로 216",
+        "restrntInqrTel": " 041 5425404",
+        "restrntDtlAddr": "충청남도 아산시 영인면 역리 229-5 ",
+        "foodType": "한식",
+        "mapLat": "36.8762988205505",
+        "mapLot": "126.965175514353"
+    },
+    {
+        "restrntNm": "마녀사냥",
+        "restrntAddr": "충청남도 아산시 배방읍 북수로 100",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 1320 ",
+        "foodType": null,
+        "mapLat": "36.1193716678971",
+        "mapLot": "128.127565001037"
+    },
+    {
+        "restrntNm": "대추나무집",
+        "restrntAddr": "충청남도 아산시 배방읍 고불로 76",
+        "restrntInqrTel": "041  5499252",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 수철리 82-20 ",
+        "foodType": null,
+        "mapLat": "37.1359385924105",
+        "mapLot": "128.206904394663"
+    },
+    {
+        "restrntNm": "대성한우",
+        "restrntAddr": "충청남도 아산시 신창면 남성길 130",
+        "restrntInqrTel": " 041 5311819",
+        "restrntDtlAddr": "충청남도 아산시 신창면 남성리 189-2 ",
+        "foodType": null,
+        "mapLat": "36.1229816016721",
+        "mapLot": "127.098494278994"
+    },
+    {
+        "restrntNm": "남산촌장골",
+        "restrntAddr": "충청남도 아산시 신정로 632-7 (방축동)",
+        "restrntInqrTel": " 041 5410801",
+        "restrntDtlAddr": "충청남도 아산시 방축동 5-1 ",
+        "foodType": "한식",
+        "mapLat": "36.7739368508681",
+        "mapLot": "126.983887894821"
+    },
+    {
+        "restrntNm": "수정갈비",
+        "restrntAddr": "충청남도 아산시 시민로280번길 5 (용화동)",
+        "restrntInqrTel": "041 543 2255",
+        "restrntDtlAddr": "충청남도 아산시 용화동 679 ",
+        "foodType": null,
+        "mapLat": "37.5502249792217",
+        "mapLot": "126.973455909432"
+    },
+    {
+        "restrntNm": "동백정",
+        "restrntAddr": "충청남도 아산시 배방읍 배방로173번길 10-2",
+        "restrntInqrTel": " 041 5418253",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 963 ",
+        "foodType": null,
+        "mapLat": "36.1378848157585",
+        "mapLot": "126.49354955313"
+    },
+    {
+        "restrntNm": "궁중화로",
+        "restrntAddr": "충청남도 아산시 신창면 순천향로15번길 17",
+        "restrntInqrTel": " 041 5428592",
+        "restrntDtlAddr": "충청남도 아산시 신창면 읍내리 502-5 ",
+        "foodType": "한식",
+        "mapLat": "36.77522068502522",
+        "mapLot": "126.93370896639864"
+    },
+    {
+        "restrntNm": "참숯골",
+        "restrntAddr": "충청남도 아산시 둔포면 충무로 1791",
+        "restrntInqrTel": " 041 5315492",
+        "restrntDtlAddr": "충청남도 아산시 둔포면 둔포리 445-3 ",
+        "foodType": null,
+        "mapLat": "36.0333027270277",
+        "mapLot": "127.079187115705"
+    },
+    {
+        "restrntNm": "병천본가 순대국밥",
+        "restrntAddr": "충청남도 아산시 인주면 현대로 1290",
+        "restrntInqrTel": " 041 5420085",
+        "restrntDtlAddr": "충청남도 아산시 인주면 밀두리 445 ",
+        "foodType": "한식",
+        "mapLat": "36.7596905538071",
+        "mapLot": "127.298242413584"
+    },
+    {
+        "restrntNm": "곱창마을",
+        "restrntAddr": "충청남도 아산시 번영로216번길 7, 2동 1층 (모종동)",
+        "restrntInqrTel": " 041 5479233",
+        "restrntDtlAddr": "충청남도 아산시 모종동 566-4 2동 1층 ",
+        "foodType": "한식",
+        "mapLat": "37.4103344263135",
+        "mapLot": "127.257482252837"
+    },
+    {
+        "restrntNm": "황토화로구이&셀프한식부페",
+        "restrntAddr": "충청남도 아산시 아산로 7 (온천동)",
+        "restrntInqrTel": "041 544 8592",
+        "restrntDtlAddr": "충청남도 아산시 온천동 260-3 ",
+        "foodType": "한식",
+        "mapLat": "36.7833563956848",
+        "mapLot": "126.998373356531"
+    },
+    {
+        "restrntNm": "놀부부대찌개",
+        "restrntAddr": "충청남도 아산시 배방읍 배방로173번길 14-18",
+        "restrntInqrTel": " 041 5481900",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 990 ",
+        "foodType": null,
+        "mapLat": "37.5008652258996",
+        "mapLot": "127.02720402205607"
+    },
+    {
+        "restrntNm": "참살이한식뷔페",
+        "restrntAddr": "충청남도 아산시 온천대로 1341 (방축동,외 1필지)",
+        "restrntInqrTel": " 041 5437272",
+        "restrntDtlAddr": "충청남도 아산시 방축동 139-15 외 1필지 ",
+        "foodType": null,
+        "mapLat": "35.6409938822636",
+        "mapLot": "128.424050896536"
+    },
+    {
+        "restrntNm": "맛나감자탕",
+        "restrntAddr": "충청남도 아산시 배방읍 북수서로 28",
+        "restrntInqrTel": " 041 5321240",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 1211 ",
+        "foodType": null,
+        "mapLat": "36.7728901471283",
+        "mapLot": "127.069877908631"
+    },
+    {
+        "restrntNm": "상하이",
+        "restrntAddr": "충청남도 아산시 배방읍 배방로173번길 24-17",
+        "restrntInqrTel": " 041 5433090",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 1041 ",
+        "foodType": null,
+        "mapLat": "37.5731589912065",
+        "mapLot": "127.084121292051"
+    },
+    {
+        "restrntNm": "황궁",
+        "restrntAddr": "충청남도 아산시 온천대로 1472 (온천동)",
+        "restrntInqrTel": "041 533 3036",
+        "restrntDtlAddr": "충청남도 아산시 온천동 222-1 ",
+        "foodType": null,
+        "mapLat": "35.8700012552997",
+        "mapLot": "128.729314858406"
+    },
+    {
+        "restrntNm": "구들장",
+        "restrntAddr": "충청남도 아산시 배방읍 배방로173번길 14-4",
+        "restrntInqrTel": " 041 5329242",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 983 ",
+        "foodType": null,
+        "mapLat": "37.3410400178754",
+        "mapLot": "127.953130888594"
+    },
+    {
+        "restrntNm": "본가은행나무집식당",
+        "restrntAddr": "충청남도 아산시 신정로 681 (방축동,외 1필지)",
+        "restrntInqrTel": " 041 5415292",
+        "restrntDtlAddr": "충청남도 아산시 방축동 22-3 외 1필지 ",
+        "foodType": "한식",
+        "mapLat": "36.7781685212351",
+        "mapLot": "126.984093126412"
+    },
+    {
+        "restrntNm": "장금이 꽃게장",
+        "restrntAddr": "충청남도 아산시 배방읍 배방로 219-4",
+        "restrntInqrTel": " 041 5337975",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 1249 ",
+        "foodType": "한식",
+        "mapLat": "36.770856814638826",
+        "mapLot": "127.07057724330589"
+    },
+    {
+        "restrntNm": "다인정",
+        "restrntAddr": "충청남도 아산시 시민로208번길 16 (용화동)",
+        "restrntInqrTel": "041 546 4646",
+        "restrntDtlAddr": "충청남도 아산시 용화동 869 ",
+        "foodType": "한식",
+        "mapLat": "34.7656913569765",
+        "mapLot": "127.074828801792"
+    },
+    {
+        "restrntNm": "신토불이 아산점",
+        "restrntAddr": "충청남도 아산시 시민로194번길 8 (용화동)",
+        "restrntInqrTel": " 041 5495282",
+        "restrntDtlAddr": "충청남도 아산시 용화동 175-2 ",
+        "foodType": null,
+        "mapLat": "36.788218711881",
+        "mapLot": "126.994855358989"
+    },
+    {
+        "restrntNm": "일송정",
+        "restrntAddr": "충청남도 아산시 둔포면 둔포중앙로171번길 87",
+        "restrntInqrTel": " 041 5315158",
+        "restrntDtlAddr": "충청남도 아산시 둔포면 둔포리 363-11 ",
+        "foodType": null,
+        "mapLat": "37.7588672357846",
+        "mapLot": "128.302329152356"
+    },
+    {
+        "restrntNm": "생고기나라",
+        "restrntAddr": null,
+        "restrntInqrTel": "041 548 8300",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 공수리 42-3 ",
+        "foodType": null,
+        "mapLat": "37.4749093549462",
+        "mapLot": "126.900957587906"
+    },
+    {
+        "restrntNm": "신가네 식당",
+        "restrntAddr": "충청남도 아산시 번영로224번길 38 (모종동)",
+        "restrntInqrTel": " 041 5433792",
+        "restrntDtlAddr": "충청남도 아산시 모종동 582-8 ",
+        "foodType": "한식",
+        "mapLat": "37.1539349026309",
+        "mapLot": "128.99068420756"
+    },
+    {
+        "restrntNm": "또바기감자탕해장국",
+        "restrntAddr": "충청남도 아산시 시민로449번길 17 (온천동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 온천동 1502 ",
+        "foodType": null,
+        "mapLat": "36.788262076533",
+        "mapLot": "126.999845391799"
+    },
+    {
+        "restrntNm": "채선당 아산배방점",
+        "restrntAddr": "충청남도 아산시 배방읍 배방로 21",
+        "restrntInqrTel": "041 532 9917",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 공수리 149-7 ",
+        "foodType": null,
+        "mapLat": "36.8219794510728",
+        "mapLot": "127.110020571511"
+    },
+    {
+        "restrntNm": "저잣거리",
+        "restrntAddr": "충청남도 아산시 배방읍 배방로173번길 28-12",
+        "restrntInqrTel": "041 549 9288",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 1037 ",
+        "foodType": null,
+        "mapLat": "37.3691738695527",
+        "mapLot": "126.939453253089"
+    },
+    {
+        "restrntNm": "양푼도리탕",
+        "restrntAddr": "충청남도 아산시 번영로224번길 35 (모종동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 모종동 583-50 ",
+        "foodType": null,
+        "mapLat": "35.5484251790367",
+        "mapLot": "129.262065640648"
+    },
+    {
+        "restrntNm": "신선쭈꾸미",
+        "restrntAddr": "충청남도 아산시 번영로224번길 14 (모종동)",
+        "restrntInqrTel": "041 547 7946",
+        "restrntDtlAddr": "충청남도 아산시 모종동 566-11 ",
+        "foodType": "한식",
+        "mapLat": "37.502795845267194",
+        "mapLot": "126.72250532554362"
+    },
+    {
+        "restrntNm": "마산아구찜",
+        "restrntAddr": "충청남도 아산시 용화로 83 (온천동)",
+        "restrntInqrTel": "041 545 1155",
+        "restrntDtlAddr": "충청남도 아산시 온천동 129-17 ",
+        "foodType": null,
+        "mapLat": "37.52336940841829",
+        "mapLot": "126.89715252409802"
+    },
+    {
+        "restrntNm": "인주나루터장어",
+        "restrntAddr": "충청남도 아산시 인주면 대음북길 51",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 인주면 대음리 271 ",
+        "foodType": null,
+        "mapLat": "36.8539991602829",
+        "mapLot": "126.85309525449"
+    },
+    {
+        "restrntNm": "이비가짬뽕 음봉점",
+        "restrntAddr": "충청남도 아산시 음봉면 음봉로 667",
+        "restrntInqrTel": "041 532 0680",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 덕지리 65-8 ",
+        "foodType": null,
+        "mapLat": "36.8349542160766",
+        "mapLot": "127.082561598826"
+    },
+    {
+        "restrntNm": "미담",
+        "restrntAddr": "충청남도 아산시 배방읍 배방로173번길 7",
+        "restrntInqrTel": "041 533 9279",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 933 ",
+        "foodType": "분식",
+        "mapLat": "37.5122580711926",
+        "mapLot": "126.704629812843"
+    },
+    {
+        "restrntNm": "밥풀떼기",
+        "restrntAddr": "충청남도 아산시 배방읍 북수서로 31",
+        "restrntInqrTel": "041 549 1771",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 1190 ",
+        "foodType": null,
+        "mapLat": "37.6018639319865",
+        "mapLot": "126.924183391836"
+    },
+    {
+        "restrntNm": "황금추어탕",
+        "restrntAddr": "충청남도 아산시 신창면 순천향로 283 (외 1필지)",
+        "restrntInqrTel": "041 544 6774",
+        "restrntDtlAddr": "충청남도 아산시 신창면 창암리 95-3 외 1필지 ",
+        "foodType": null,
+        "mapLat": "34.9903295289476",
+        "mapLot": "126.959101374203"
+    },
+    {
+        "restrntNm": "산이네",
+        "restrntAddr": "충청남도 아산시 번영로206번길 7-3 (모종동)",
+        "restrntInqrTel": "041 547 8833",
+        "restrntDtlAddr": "충청남도 아산시 모종동 565-3 ",
+        "foodType": null,
+        "mapLat": "37.64513103909471",
+        "mapLot": "127.00547283866707"
+    },
+    {
+        "restrntNm": "노걸대감자탕(음봉점)",
+        "restrntAddr": "충청남도 아산시 음봉면 음봉로 582",
+        "restrntInqrTel": "041 533 6886",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 덕지리 391-2 ",
+        "foodType": null,
+        "mapLat": "36.8376988798402",
+        "mapLot": "127.074542174616"
+    },
+    {
+        "restrntNm": "망향비빔국수",
+        "restrntAddr": "충청남도 아산시 염치읍 은행나무길 189 (외 1필지)",
+        "restrntInqrTel": "041 545 3575",
+        "restrntDtlAddr": "충청남도 아산시 염치읍 석정리 31-22 외 1필지 ",
+        "foodType": "분식(면류)",
+        "mapLat": "38.023877838277",
+        "mapLot": "127.109300275306"
+    },
+    {
+        "restrntNm": "운봉소갈비살전문점",
+        "restrntAddr": "충청남도 아산시 배방읍 갈산교로 14",
+        "restrntInqrTel": "041 546 5292",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 공수리 13-2 ",
+        "foodType": null,
+        "mapLat": "37.25590905930487",
+        "mapLot": "127.13503734178434"
+    },
+    {
+        "restrntNm": "소나무",
+        "restrntAddr": "충청남도 아산시 충무로97번길 16 (권곡동,외 1필지)",
+        "restrntInqrTel": "041 547 9598",
+        "restrntDtlAddr": "충청남도 아산시 권곡동 443-140 외 1필지 ",
+        "foodType": "한식",
+        "mapLat": "37.5601234351278",
+        "mapLot": "127.033279573559"
+    },
+    {
+        "restrntNm": "예가레스토랑",
+        "restrntAddr": "충청남도 아산시 시민로303번길 22 (용화동)",
+        "restrntInqrTel": "041 548 3096",
+        "restrntDtlAddr": "충청남도 아산시 용화동 321-1 ",
+        "foodType": "양식",
+        "mapLat": "36.7771745981822",
+        "mapLot": "126.993942023804"
+    },
+    {
+        "restrntNm": "천석골",
+        "restrntAddr": "충청남도 아산시 남부로350번길 7 (풍기동,1층)",
+        "restrntInqrTel": "041 534 1007",
+        "restrntDtlAddr": "충청남도 아산시 풍기동 273 1층 ",
+        "foodType": "한식",
+        "mapLat": "35.0245721729494",
+        "mapLot": "126.765845107317"
+    },
+    {
+        "restrntNm": "뚱이네동태탕",
+        "restrntAddr": "충청남도 아산시 온천대로 1502-3 (온천동)",
+        "restrntInqrTel": "041 533 5689",
+        "restrntDtlAddr": "충청남도 아산시 온천동 87-5 ",
+        "foodType": null,
+        "mapLat": "37.4505587962544",
+        "mapLot": "126.681650319944"
+    },
+    {
+        "restrntNm": "소마을",
+        "restrntAddr": "충청남도 아산시 배방읍 배방로 214",
+        "restrntInqrTel": "041 532 9004",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 253-2 ",
+        "foodType": "한정식",
+        "mapLat": "35.8532262057286",
+        "mapLot": "129.221514969294"
+    },
+    {
+        "restrntNm": "태능갈비",
+        "restrntAddr": "충청남도 아산시 음봉면 아산온천로157번길 92",
+        "restrntInqrTel": "041 546 3800",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 신수리 294-1 ",
+        "foodType": "한식",
+        "mapLat": "37.4415493151785",
+        "mapLot": "127.136225651495"
+    },
+    {
+        "restrntNm": "양평해장국",
+        "restrntAddr": "충청남도 아산시 번영로224번길 10 (모종동)",
+        "restrntInqrTel": "041  5320236",
+        "restrntDtlAddr": "충청남도 아산시 모종동 566-6 ",
+        "foodType": null,
+        "mapLat": "37.47941865723065",
+        "mapLot": "126.85310300627945"
+    },
+    {
+        "restrntNm": "이화쌈밥왕우렁",
+        "restrntAddr": "충청남도 아산시 번영로115번길 11, 1동 1층 (온천동)",
+        "restrntInqrTel": " 041 5310062",
+        "restrntDtlAddr": "충청남도 아산시 온천동 30-121 1층 1동 ",
+        "foodType": "한식",
+        "mapLat": "36.7871455069406",
+        "mapLot": "127.00459112474907"
+    },
+    {
+        "restrntNm": "늘봄갈비",
+        "restrntAddr": "충청남도 아산시 문화로 287 (모종동,1층)",
+        "restrntInqrTel": "041 532 3636",
+        "restrntDtlAddr": "충청남도 아산시 모종동 363-7 1층 ",
+        "foodType": null,
+        "mapLat": "35.8608763626876",
+        "mapLot": "128.612863488933"
+    },
+    {
+        "restrntNm": "숲속의 둥지",
+        "restrntAddr": "충청남도 아산시 음봉면 아산온천로 459-15",
+        "restrntInqrTel": "041 547 6556",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 산정리 70-3 ",
+        "foodType": null,
+        "mapLat": "36.67770159045",
+        "mapLot": "127.575631282078"
+    },
+    {
+        "restrntNm": "동의보감",
+        "restrntAddr": "충청남도 아산시 음봉면 음봉면로 4",
+        "restrntInqrTel": "041 531 0966",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 삼거리 288-2 ",
+        "foodType": "한식",
+        "mapLat": "36.1604211392582",
+        "mapLot": "128.261438921817"
+    },
+    {
+        "restrntNm": "천지인덕",
+        "restrntAddr": "충청남도 아산시 시민로244번길 7-11, 102호 (용화동)",
+        "restrntInqrTel": "041 532 5285",
+        "restrntDtlAddr": "충청남도 아산시 용화동 743 102호",
+        "foodType": null,
+        "mapLat": "35.9738204592828",
+        "mapLot": "129.411286645129"
+    },
+    {
+        "restrntNm": "사천성 아산점",
+        "restrntAddr": "충청남도 아산시 남산로 121, 1층 101호,102호 (온천동)",
+        "restrntInqrTel": "041 547 1020",
+        "restrntDtlAddr": "충청남도 아산시 온천동 131-8 외4필지 1층 101호, 102호 ",
+        "foodType": "중식",
+        "mapLat": "36.779074102995004",
+        "mapLot": "127.00693637466497"
+    },
+    {
+        "restrntNm": "농원정",
+        "restrntAddr": "충청남도 아산시 실옥로 93 (실옥동,(1층))",
+        "restrntInqrTel": "041 531 9782",
+        "restrntDtlAddr": "충청남도 아산시 실옥동 205-23 (1층) ",
+        "foodType": "식육취급",
+        "mapLat": "36.7899159900703",
+        "mapLot": "126.988742488457"
+    },
+    {
+        "restrntNm": "노다지",
+        "restrntAddr": "충청남도 아산시 배방읍 배방로 88 ((1층))",
+        "restrntInqrTel": "041 543 0234",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 공수리 324-4 (1층) ",
+        "foodType": "일식",
+        "mapLat": "37.50058185755641",
+        "mapLot": "126.94950283212596"
+    },
+    {
+        "restrntNm": "영인산마루",
+        "restrntAddr": "충청남도 아산시 영인면 아산온천로 16-8 ((1층))",
+        "restrntInqrTel": "041 543 4777",
+        "restrntDtlAddr": "충청남도 아산시 영인면 아산리 102-2 (1층) ",
+        "foodType": "한식",
+        "mapLat": "36.8526447842052",
+        "mapLot": "126.959243420313"
+    },
+    {
+        "restrntNm": "월남쌈김상사 아산모종점",
+        "restrntAddr": "충청남도 아산시 번영로234번길 32 (모종동)",
+        "restrntInqrTel": " 041 5479249",
+        "restrntDtlAddr": "충청남도 아산시 모종동 585-15 ",
+        "foodType": "뷔페",
+        "mapLat": "36.77556448683149",
+        "mapLot": "127.05664895538752"
+    },
+    {
+        "restrntNm": "오리촌",
+        "restrntAddr": "충청남도 아산시 영인면 영인로 29 ((1층))",
+        "restrntInqrTel": " 041 5410233",
+        "restrntDtlAddr": "충청남도 아산시 영인면 아산리 169-2 (1층) ",
+        "foodType": "식육취급",
+        "mapLat": "35.2370895181959",
+        "mapLot": "127.018386344445"
+    },
+    {
+        "restrntNm": "소풍",
+        "restrntAddr": "충청남도 아산시 득산로 25 (득산동,(1층))",
+        "restrntInqrTel": " 041 5416611",
+        "restrntDtlAddr": "충청남도 아산시 득산동 46-2 (1층) ",
+        "foodType": "식육취급",
+        "mapLat": "37.5047074291607",
+        "mapLot": "126.75711932541553"
+    },
+    {
+        "restrntNm": "일미정갈비",
+        "restrntAddr": "충청남도 아산시 배방읍 배방로 57-9, 1층,2층",
+        "restrntInqrTel": "041 533 6699",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 공수리 261-4 (1층,2층) ",
+        "foodType": "한식",
+        "mapLat": "36.7722451471464",
+        "mapLot": "127.055857951493"
+    },
+    {
+        "restrntNm": "한가람",
+        "restrntAddr": "충청남도 아산시 온천대로 1442 (온천동,(1층, 2층))",
+        "restrntInqrTel": "041 543 1355",
+        "restrntDtlAddr": "충청남도 아산시 온천동 230-6 (1층, 2층) ",
+        "foodType": "한식",
+        "mapLat": "35.8516151400567",
+        "mapLot": "127.119385851094"
+    },
+    {
+        "restrntNm": "영인산중화요리",
+        "restrntAddr": "충청남도 아산시 영인면 영인로 28 ((1층))",
+        "restrntInqrTel": "041 542 1588",
+        "restrntDtlAddr": "충청남도 아산시 영인면 아산리 158 (1층) ",
+        "foodType": null,
+        "mapLat": "36.8553474810554",
+        "mapLot": "126.957482622547"
+    },
+    {
+        "restrntNm": "착한낙지 배방점",
+        "restrntAddr": "충청남도 아산시 배방읍 북수동로 26 ((1층))",
+        "restrntInqrTel": " 041 5418833",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 362-7 (1층) ",
+        "foodType": null,
+        "mapLat": "36.7743494754312",
+        "mapLot": "127.057288785275"
+    },
+    {
+        "restrntNm": "둔포막창순대본점",
+        "restrntAddr": "충청남도 아산시 둔포면 충무로 1750-1, 1층",
+        "restrntInqrTel": "041 532 0276",
+        "restrntDtlAddr": "충청남도 아산시 둔포면 둔포리 428-5 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.927574631585",
+        "mapLot": "127.035593057716"
+    },
+    {
+        "restrntNm": "통나무 정육식당",
+        "restrntAddr": "충청남도 아산시 남부로 119, 1층 (용화동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 용화동 770 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.7714147049469",
+        "mapLot": "126.994895685588"
+    },
+    {
+        "restrntNm": "장수촌(아산점)",
+        "restrntAddr": "충청남도 아산시 장존길 199 (장존동,(1층))",
+        "restrntInqrTel": " 041 5416655",
+        "restrntDtlAddr": "충청남도 아산시 장존동 130 (1층) ",
+        "foodType": "한식",
+        "mapLat": "36.75165957162539",
+        "mapLot": "126.99788354610929"
+    },
+    {
+        "restrntNm": "그집감자탕",
+        "restrntAddr": "충청남도 아산시 시민로 350, 1층 (온천동)",
+        "restrntInqrTel": " 041 5476060",
+        "restrntDtlAddr": "충청남도 아산시 온천동 467 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.779968210039",
+        "mapLot": "126.999283053722"
+    },
+    {
+        "restrntNm": "원조설악추어탕 아산점",
+        "restrntAddr": "충청남도 아산시 염치읍 석정길 6, 1층",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 염치읍 석정리 30-10 1층 ",
+        "foodType": null,
+        "mapLat": "36.80052240640931",
+        "mapLot": "127.00727670775736"
+    },
+    {
+        "restrntNm": "순창순대국밥",
+        "restrntAddr": "충청남도 아산시 삼동로70번길 19-1, 1층 (모종동)",
+        "restrntInqrTel": "041 533 6397",
+        "restrntDtlAddr": "충청남도 아산시 모종동 553-16 (1층) ",
+        "foodType": "한식",
+        "mapLat": "36.78609765029122",
+        "mapLot": "127.01421907314591"
+    },
+    {
+        "restrntNm": "우남정",
+        "restrntAddr": "충청남도 아산시 온주길16번길 16 (읍내동,1층)",
+        "restrntInqrTel": " 041 5485409",
+        "restrntDtlAddr": "충청남도 아산시 읍내동 143-3 1층 ",
+        "foodType": "한식",
+        "mapLat": "35.2838085595318",
+        "mapLot": "129.156285290065"
+    },
+    {
+        "restrntNm": "대가생고기",
+        "restrntAddr": "충청남도 아산시 둔포면 충무로 1863, 1층",
+        "restrntInqrTel": "041 534 6686",
+        "restrntDtlAddr": "충청남도 아산시 둔포면 둔포리 203-1 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.9326286199659",
+        "mapLot": "127.044346094456"
+    },
+    {
+        "restrntNm": "신진성아구찜 온천점",
+        "restrntAddr": "충청남도 아산시 번영로 92, 1층 (온천동)",
+        "restrntInqrTel": " 041 5462318",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1551 1층 ",
+        "foodType": null,
+        "mapLat": "36.7865319319519",
+        "mapLot": "127.001026216872"
+    },
+    {
+        "restrntNm": "지산흑돈",
+        "restrntAddr": "충청남도 아산시 남부로 292, 1층 (용화동)",
+        "restrntInqrTel": " 041 5482929",
+        "restrntDtlAddr": "충청남도 아산시 용화동 4-1 1층 ",
+        "foodType": "한식(뷔페)",
+        "mapLat": "36.7709347256959",
+        "mapLot": "127.012854234571"
+    },
+    {
+        "restrntNm": "우리메밀막국수",
+        "restrntAddr": "충청남도 아산시 번영로230번길 25, 1층 (모종동)",
+        "restrntInqrTel": " 041 5472004",
+        "restrntDtlAddr": "충청남도 아산시 모종동 571-13 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.781866746125",
+        "mapLot": "127.015562598932"
+    },
+    {
+        "restrntNm": "공룡고기 아산배방점",
+        "restrntAddr": "충청남도 아산시 배방읍 배방로 37, 1층",
+        "restrntInqrTel": " 041 5450697",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 공수리 151-56 외1필지 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.7711036025558",
+        "mapLot": "127.066075790204"
+    },
+    {
+        "restrntNm": "해주정",
+        "restrntAddr": "충청남도 아산시 배방읍 배방로 239-19, 1층",
+        "restrntInqrTel": "041 531 6663",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 1309 외2필지 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.772333596131475",
+        "mapLot": "127.07232597979676"
+    },
+    {
+        "restrntNm": "육미관",
+        "restrntAddr": "충청남도 아산시 음봉면 음봉로681번길 9, 1층,2층",
+        "restrntInqrTel": "041 543 3132",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 덕지리 64-10 1층,2층 ",
+        "foodType": "한식",
+        "mapLat": "36.8347768501674",
+        "mapLot": "127.083633109958"
+    },
+    {
+        "restrntNm": "홍익돈까스 온양온천점",
+        "restrntAddr": "충청남도 아산시 온천대로 1379, 1층 (방축동)",
+        "restrntInqrTel": " 041 5413354",
+        "restrntDtlAddr": "충청남도 아산시 방축동 132-17 1층 ",
+        "foodType": "양식",
+        "mapLat": "36.784462675543686",
+        "mapLot": "126.99154066021079"
+    },
+    {
+        "restrntNm": "간월도",
+        "restrntAddr": "충청남도 아산시 배방읍 설화고길 12",
+        "restrntInqrTel": "041 553 8552",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 장재리 1491 ",
+        "foodType": "한식",
+        "mapLat": "36.618785912920096",
+        "mapLot": "126.42319281296987"
+    },
+    {
+        "restrntNm": "이태은의 자연",
+        "restrntAddr": "충청남도 아산시 배방읍 월천4길 7-15, 1층",
+        "restrntInqrTel": " 041 5475885",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 1602 1층 ",
+        "foodType": "한정식",
+        "mapLat": "36.77330955791652",
+        "mapLot": "127.0819723478918"
+    },
+    {
+        "restrntNm": "최고집",
+        "restrntAddr": "충청남도 아산시 용화로9번길 22, 1층 (용화동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 용화동 1463 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.7723733220085",
+        "mapLot": "127.00817686177"
+    },
+    {
+        "restrntNm": "종가면옥",
+        "restrntAddr": "충청남도 아산시 배방읍 배방로 219-28, 1층",
+        "restrntInqrTel": " 041 5432350",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 1214 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.773001610937015",
+        "mapLot": "127.0703439826026"
+    },
+    {
+        "restrntNm": "현대생고기",
+        "restrntAddr": "충청남도 아산시 둔포면 둔포중앙로 180, 1층",
+        "restrntInqrTel": " 041 5313031",
+        "restrntDtlAddr": "충청남도 아산시 둔포면 둔포리 380-9 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.92466162125134",
+        "mapLot": "127.03778139238263"
+    },
+    {
+        "restrntNm": "자연애콩밭",
+        "restrntAddr": "충청남도 아산시 배방읍 배방로14번길 18-4, 1층",
+        "restrntInqrTel": " 041 5319788",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 공수리 1496 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.7758547314951",
+        "mapLot": "127.052535910015"
+    },
+    {
+        "restrntNm": "오늘은국수",
+        "restrntAddr": "충청남도 아산시 어의정로133번길 9, 1층 (용화동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 온천동 3082 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.775260352106",
+        "mapLot": "127.010103843671"
+    },
+    {
+        "restrntNm": "방가삼대 얼큰한 뼈해장국",
+        "restrntAddr": "충청남도 아산시 탕정면 삼성로 520-9",
+        "restrntInqrTel": "041 5348223",
+        "restrntDtlAddr": "충청남도 아산시 탕정면 동산리 168 ",
+        "foodType": "한식",
+        "mapLat": "37.3460493150601",
+        "mapLot": "127.929612181358"
+    },
+    {
+        "restrntNm": "육하원칙 용화점",
+        "restrntAddr": "충청남도 아산시 용화고길 95-5, 1층 (용화동)",
+        "restrntInqrTel": "041 532 9223",
+        "restrntDtlAddr": "충청남도 아산시 용화동 1598 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.77395534597276",
+        "mapLot": "127.01212888744962"
+    },
+    {
+        "restrntNm": "웰빙한식",
+        "restrntAddr": "충청남도 아산시 배방읍 용연로 156-11, 2층 202호",
+        "restrntInqrTel": "041 532 0084",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 장재리 1560 2층 202호",
+        "foodType": "한식",
+        "mapLat": "36.91799613056369",
+        "mapLot": "127.5582690915117"
+    },
+    {
+        "restrntNm": "봄이오네",
+        "restrntAddr": "충청남도 아산시 시민로 467-9, 1층 (온천동)",
+        "restrntInqrTel": " 041 9115255",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1620 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.7900534909622",
+        "mapLot": "127.000533298674"
+    },
+    {
+        "restrntNm": "강산애뜰밀양돼지국밥",
+        "restrntAddr": "충청남도 아산시 배방읍 북수로 51, 1층",
+        "restrntInqrTel": "041 545 2235",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 707-68 외1필지 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.7735590194894",
+        "mapLot": "127.066303044519"
+    },
+    {
+        "restrntNm": "일미식당",
+        "restrntAddr": "충청남도 아산시 도고면 도고온천로 182, 1층",
+        "restrntInqrTel": " 041 5411132",
+        "restrntDtlAddr": "충청남도 아산시 도고면 기곡리 270-18 외3필지(선장면 신성리 427-11,427-10, 270-17) 1층 ",
+        "foodType": "한식",
+        "mapLat": "37.5725756555685",
+        "mapLot": "126.987801646366"
+    },
+    {
+        "restrntNm": "행당족발",
+        "restrntAddr": "충청남도 아산시 번영로115번길 20-12, 1층 (온천동)",
+        "restrntInqrTel": " 041 5475516",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1794 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.786603901161",
+        "mapLot": "127.005440298896"
+    },
+    {
+        "restrntNm": "달차네동태탕 본점",
+        "restrntAddr": "충청남도 아산시 시민로 434-6, 1층 (온천동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 온천동 1701 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.7872248696524",
+        "mapLot": "127.002389672814"
+    },
+    {
+        "restrntNm": "권구성순대국밥 배방점",
+        "restrntAddr": "충청남도 아산시 배방읍 북수동로 19, 1층",
+        "restrntInqrTel": "041 543 5792",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 365-10 1층 ",
+        "foodType": "양식",
+        "mapLat": "36.797770587234",
+        "mapLot": "127.058650807879"
+    },
+    {
+        "restrntNm": "세광양대창 아산점",
+        "restrntAddr": "충청남도 아산시 둔포면 아산밸리북로 33, 1층",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 둔포면 둔포리 78-2 외4필지, 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.92773552150193",
+        "mapLot": "127.05145582517352"
+    },
+    {
+        "restrntNm": "송학정",
+        "restrntAddr": "충청남도 아산시 송악면 송악로225번길 6",
+        "restrntInqrTel": "041 546 4999",
+        "restrntDtlAddr": "충청남도 아산시 송악면 수곡리 87-3 ",
+        "foodType": "한식",
+        "mapLat": "37.6916619168379",
+        "mapLot": "127.875516617147"
+    },
+    {
+        "restrntNm": "신돈키호테",
+        "restrntAddr": "충청남도 아산시 배방읍 배방로173번길 14-11, 1층",
+        "restrntInqrTel": "041 547 7999",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 1014 1층 ",
+        "foodType": "양식",
+        "mapLat": "36.7717100309643",
+        "mapLot": "127.066117754602"
+    },
+    {
+        "restrntNm": "황금추어탕",
+        "restrntAddr": "충청남도 아산시 도고면 온천대로 364",
+        "restrntInqrTel": "041 542 7080",
+        "restrntDtlAddr": "충청남도 아산시 도고면 시전리 337-8 ",
+        "foodType": "한식",
+        "mapLat": "34.9903295289476",
+        "mapLot": "126.959101374203"
+    },
+    {
+        "restrntNm": "육하원칙",
+        "restrntAddr": "충청남도 아산시 배방읍 용연로 84-23, 1층",
+        "restrntInqrTel": "041 548 5556",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 장재리 1526 1층 ",
+        "foodType": "한식",
+        "mapLat": "35.8933481040088",
+        "mapLot": "128.619953060182"
+    },
+    {
+        "restrntNm": "청지기꽃게장 (온양점)",
+        "restrntAddr": "충청남도 아산시 박물관로 2, 2층 (권곡동)",
+        "restrntInqrTel": "041 533 7600",
+        "restrntDtlAddr": "충청남도 아산시 권곡동 395-4 2층 ",
+        "foodType": "한식",
+        "mapLat": "36.7929836045823",
+        "mapLot": "127.008595847135"
+    },
+    {
+        "restrntNm": "황금뒷고기",
+        "restrntAddr": "충청남도 아산시 온화로 19, 1층 (온천동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 온천동 644 1층 ",
+        "foodType": "한식",
+        "mapLat": "35.2567832279279",
+        "mapLot": "128.609421881185"
+    },
+    {
+        "restrntNm": "온양한순희부대찌개",
+        "restrntAddr": "충청남도 아산시 청운로 119, 1층 (권곡동)",
+        "restrntInqrTel": "041 547 5988",
+        "restrntDtlAddr": "충청남도 아산시 권곡동 552-51 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.7846095928426",
+        "mapLot": "127.007944019727"
+    },
+    {
+        "restrntNm": "북경",
+        "restrntAddr": "충청남도 아산시 온천대로 1440, A동 1층 (온천동)",
+        "restrntInqrTel": " 041 5347888",
+        "restrntDtlAddr": "충청남도 아산시 온천동 230-11 1층 A동 ",
+        "foodType": "중식",
+        "mapLat": "37.32085561587913",
+        "mapLot": "126.83236212774916"
+    },
+    {
+        "restrntNm": "서울설렁탕",
+        "restrntAddr": "충청남도 아산시 온천대로 1436, 1층 (온천동)",
+        "restrntInqrTel": "041 532 2588",
+        "restrntDtlAddr": "충청남도 아산시 온천동 233-1 1층 ",
+        "foodType": "한식",
+        "mapLat": "35.18028715161032",
+        "mapLot": "128.11278332335036"
+    },
+    {
+        "restrntNm": "다인정",
+        "restrntAddr": "충청남도 아산시 번영로 124, 1층 (온천동)",
+        "restrntInqrTel": "041 545 2205",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1752 외1필지 1층 ",
+        "foodType": "한식",
+        "mapLat": "34.7656913569765",
+        "mapLot": "127.074828801792"
+    },
+    {
+        "restrntNm": "대왕정육식당",
+        "restrntAddr": "충청남도 아산시 염치읍 염성길 104, 1동 1층",
+        "restrntInqrTel": "041 543 2829",
+        "restrntDtlAddr": "충청남도 아산시 염치읍 염성리 221-5 1층 1동 ",
+        "foodType": "한식",
+        "mapLat": "36.815851076702",
+        "mapLot": "126.973003344788"
+    },
+    {
+        "restrntNm": "금정참치전문점",
+        "restrntAddr": "충청남도 아산시 번영로 118, 3층 (온천동)",
+        "restrntInqrTel": "041 543 4747",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1737 외2필지 3층 1동 ",
+        "foodType": "일식",
+        "mapLat": "37.441034808020056",
+        "mapLot": "126.78592685138143"
+    },
+    {
+        "restrntNm": "대가불고기",
+        "restrntAddr": "충청남도 아산시 온천대로 1547, 1층 (온천동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 온천동 76-3 1층 ",
+        "foodType": "한식",
+        "mapLat": "35.2614888050794",
+        "mapLot": "128.870947217286"
+    },
+    {
+        "restrntNm": "대가볼태기",
+        "restrntAddr": "충청남도 아산시 온천대로 1547, 1층 (온천동)",
+        "restrntInqrTel": "041 541 8820",
+        "restrntDtlAddr": "충청남도 아산시 온천동 76-3 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.7805120909428",
+        "mapLot": "127.009696766908"
+    },
+    {
+        "restrntNm": "누나감자탕",
+        "restrntAddr": "충청남도 아산시 배방읍 배방로 239-31, 1동 1층",
+        "restrntInqrTel": "041 548 8592",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 북수리 1323 외1필지 1층 1동 ",
+        "foodType": "한식",
+        "mapLat": "36.77340958604124",
+        "mapLot": "127.07223289937104"
+    },
+    {
+        "restrntNm": "도뜰정육식당",
+        "restrntAddr": "충청남도 아산시 온천대로 1686-11, 2층,3층 (풍기동)",
+        "restrntInqrTel": "041 549 2215",
+        "restrntDtlAddr": "충청남도 아산시 풍기동 496 2층,3층 ",
+        "foodType": "한식",
+        "mapLat": "36.77607504722038",
+        "mapLot": "127.02259386720735"
+    },
+    {
+        "restrntNm": "정통옛날짜장",
+        "restrntAddr": "충청남도 아산시 탕정면 선문로 388, 1동 1층",
+        "restrntInqrTel": "041 533 8244",
+        "restrntDtlAddr": "충청남도 아산시 탕정면 호산리 496-9 1층 1동 ",
+        "foodType": "중식",
+        "mapLat": "36.8094768356075",
+        "mapLot": "127.079055712695"
+    },
+    {
+        "restrntNm": "남해수산시장",
+        "restrntAddr": "충청남도 아산시 번영로 113-19, 1층 (온천동)",
+        "restrntInqrTel": "041 545 9967",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1681 1층 ",
+        "foodType": "한식",
+        "mapLat": "34.73809941823187",
+        "mapLot": "127.73181000364545"
+    },
+    {
+        "restrntNm": "등촌샤브칼국수 배방점",
+        "restrntAddr": "충청남도 아산시 배방읍 모산로 127-4, 1층",
+        "restrntInqrTel": "041 542 1030",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 공수리 1633 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.7750703079032",
+        "mapLot": "127.057414779246"
+    },
+    {
+        "restrntNm": "진국본가 도고점",
+        "restrntAddr": "충청남도 아산시 도고면 도고면로 149, 1층",
+        "restrntInqrTel": "041 532 4808",
+        "restrntDtlAddr": "충청남도 아산시 도고면 기곡리 245-10 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.7606623117705",
+        "mapLot": "126.882481667814"
+    },
+    {
+        "restrntNm": "고려옥",
+        "restrntAddr": "충청남도 아산시 청운로 163, 1층 (권곡동)",
+        "restrntInqrTel": "041 545 6254",
+        "restrntDtlAddr": "충청남도 아산시 권곡동 537-4 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.7885933518185",
+        "mapLot": "127.008926981515"
+    },
+    {
+        "restrntNm": "대풍농원",
+        "restrntAddr": "충청남도 아산시 배방읍 호서로 272, 1층,2층",
+        "restrntInqrTel": "041 541 8383",
+        "restrntDtlAddr": "충청남도 아산시 배방읍 회룡리 160-1 외1필지 1층,2층 ",
+        "foodType": "한식",
+        "mapLat": "37.470438736517",
+        "mapLot": "126.781673931254"
+    },
+    {
+        "restrntNm": "고기목장 용화점",
+        "restrntAddr": "충청남도 아산시 용화고길 95-9, 1층 (용화동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 용화동 1597 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.771216196852",
+        "mapLot": "127.072349572441"
+    },
+    {
+        "restrntNm": "직접만든두부집",
+        "restrntAddr": "충청남도 아산시 순천향로 412-2, 2동 1층 (기산동)",
+        "restrntInqrTel": "041 546 1110",
+        "restrntDtlAddr": "충청남도 아산시 기산동 145-6 1층 2동 ",
+        "foodType": "한식",
+        "mapLat": "36.7566760166044",
+        "mapLot": "126.970278125505"
+    },
+    {
+        "restrntNm": "소미옥",
+        "restrntAddr": "충청남도 아산시 신창면 순천향로 321, 1층",
+        "restrntInqrTel": "0415321033",
+        "restrntDtlAddr": "충청남도 아산시 신창면 창암리 28-9 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.761921959491",
+        "mapLot": "126.962574095263"
+    },
+    {
+        "restrntNm": "루트일공이(Route102)",
+        "restrntAddr": "충청남도 아산시 신정로 442-5, 1층,2층 (기산동)",
+        "restrntInqrTel": "041 543 2300",
+        "restrntDtlAddr": "충청남도 아산시 기산동 102-18 외1필지 1층,2층 ",
+        "foodType": "양식",
+        "mapLat": "36.75947685095034",
+        "mapLot": "126.97486428007564"
+    },
+    {
+        "restrntNm": "경동식당",
+        "restrntAddr": "충청남도 아산시 염치읍 염성길 122, 1층",
+        "restrntInqrTel": "041 543 7117",
+        "restrntDtlAddr": "충청남도 아산시 염치읍 염성리 269-42 1층 ",
+        "foodType": "한식",
+        "mapLat": "37.5815832656008",
+        "mapLot": "127.039376581349"
+    },
+    {
+        "restrntNm": "신복관 아산점",
+        "restrntAddr": "충청남도 아산시 모종남로12번길 67-3, 1층 (모종동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 모종동 719 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.7783691432473",
+        "mapLot": "127.023349558856"
+    },
+    {
+        "restrntNm": "화담원 신정호점",
+        "restrntAddr": "충청남도 아산시 신정호길 33-29, 2층 (방축동)",
+        "restrntInqrTel": "041 534 6464",
+        "restrntDtlAddr": "충청남도 아산시 방축동 727 2층 ",
+        "foodType": "뷔페",
+        "mapLat": "36.77498549845324",
+        "mapLot": "126.98212230944735"
+    },
+    {
+        "restrntNm": "킹콩부대찌개 아산온천점",
+        "restrntAddr": "충청남도 아산시 곡교천로 141, 1층 (온천동)",
+        "restrntInqrTel": "041 541 6699",
+        "restrntDtlAddr": "충청남도 아산시 온천동 967 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.7950455312067",
+        "mapLot": "126.994393277908"
+    },
+    {
+        "restrntNm": "춘천진미닭갈비",
+        "restrntAddr": "충청남도 아산시 순천향로 412-4, 1동 1층 (기산동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 기산동 145-6 1층 1동 ",
+        "foodType": "한식",
+        "mapLat": "37.7542010027142",
+        "mapLot": "128.881595697984"
+    },
+    {
+        "restrntNm": "서가앤쿡 신정호수점",
+        "restrntAddr": "충청남도 아산시 신정호길 33-1, 2층 (방축동)",
+        "restrntInqrTel": "041 532 1977",
+        "restrntDtlAddr": "충청남도 아산시 방축동 712 2층 ",
+        "foodType": "경양식",
+        "mapLat": "36.77663421767611",
+        "mapLot": "126.98008319893867"
+    },
+    {
+        "restrntNm": "쌍교숯불갈비",
+        "restrntAddr": "충청남도 아산시 신정로 739, 1층 (방축동)",
+        "restrntInqrTel": "041 534 7300",
+        "restrntDtlAddr": "충청남도 아산시 방축동 98-2 1층 ",
+        "foodType": "한식",
+        "mapLat": "35.2532588569762",
+        "mapLot": "126.95221963923494"
+    },
+    {
+        "restrntNm": "원조광시한우정육식당",
+        "restrntAddr": "충청남도 아산시 아산로 78, 1층 (온천동)",
+        "restrntInqrTel": "041 531 8100",
+        "restrntDtlAddr": "충청남도 아산시 온천동 1298 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.7891775570924",
+        "mapLot": "126.996486542847"
+    },
+    {
+        "restrntNm": "이우철한방누룽지삼계탕",
+        "restrntAddr": "충청남도 아산시 모종남로12번길 42, 1층 (모종동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 모종동 677 1층 전체 ",
+        "foodType": "한식",
+        "mapLat": "37.6105381410451",
+        "mapLot": "127.055733662314"
+    },
+    {
+        "restrntNm": "신비우동 아산휴대점",
+        "restrntAddr": "충청남도 아산시 배방읍 휴대길 126, 1층 103호",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 아산시 배방읍 휴대리 9-2 1층 103호",
+        "foodType": "한식",
+        "mapLat": "36.773972742275",
+        "mapLot": "127.118398913455"
+    },
+    {
+        "restrntNm": "뉴욕본스테이크",
+        "restrntAddr": "충청남도 아산시 신정호길 33-1, 4층 401호 (방축동)",
+        "restrntInqrTel": "041 546 1288",
+        "restrntDtlAddr": "충청남도 아산시 방축동 712 4층 401호",
+        "foodType": "한식",
+        "mapLat": "36.77663782232883",
+        "mapLot": "126.98008431818616"
+    },
+    {
+        "restrntNm": "아산축산농협 한우프라자 온궁",
+        "restrntAddr": "충청남도 아산시 온천대로 1721, 4층 (모종동)",
+        "restrntInqrTel": "041 547 6837",
+        "restrntDtlAddr": "충청남도 아산시 모종동 66-2 4층 ",
+        "foodType": "한식",
+        "mapLat": "36.7764251772987",
+        "mapLot": "127.02865412737"
+    },
+    {
+        "restrntNm": "지즐미육회관",
+        "restrntAddr": "충청남도 아산시 용화고길 95-9, 1층 (용화동)",
+        "restrntInqrTel": "041 532 3078",
+        "restrntDtlAddr": "충청남도 아산시 용화동 1597 1층 ",
+        "foodType": "한식",
+        "mapLat": "37.5648128214191",
+        "mapLot": "126.91183145409"
+    },
+    {
+        "restrntNm": "덕수궁 아산점",
+        "restrntAddr": "충청남도 아산시 신정호길 33-1, 3층 301호 (방축동)",
+        "restrntInqrTel": "041 534 1254",
+        "restrntDtlAddr": "충청남도 아산시 방축동 712 3층 301호",
+        "foodType": "한식",
+        "mapLat": "36.77663421767611",
+        "mapLot": "126.98008319893867"
+    },
+    {
+        "restrntNm": "김여사능이버섯백숙",
+        "restrntAddr": "충청남도 아산시 음봉면 음봉로401번길 5, 1층",
+        "restrntInqrTel": "041 534 6070",
+        "restrntDtlAddr": "충청남도 아산시 음봉면 동암리 486 1층 ",
+        "foodType": "한식",
+        "mapLat": "36.8446102680783",
+        "mapLot": "127.054851036579"
+    }
+]
