@@ -1,0 +1,524 @@
+[
+    {
+        "restrntNm": "태풍루",
+        "restrntAddr": "충청남도 청양군 청양읍 중앙로 137",
+        "restrntInqrTel": " 041 9432178",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 읍내리 209-15 ",
+        "foodType": null,
+        "mapLat": "36.4518048201246",
+        "mapLot": "126.802982026827"
+    },
+    {
+        "restrntNm": "공주식당",
+        "restrntAddr": "충청남도 청양군 장평면 미당큰길 53",
+        "restrntInqrTel": " 041 9427107",
+        "restrntDtlAddr": "충청남도 청양군 장평면 미당리 87-10 ",
+        "foodType": null,
+        "mapLat": "34.7107041270062",
+        "mapLot": "128.047775236363"
+    },
+    {
+        "restrntNm": "식당백미",
+        "restrntAddr": "충청남도 청양군 청양읍 중앙로11길 12",
+        "restrntInqrTel": " 041 9437218",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 읍내리 214 ",
+        "foodType": "한식",
+        "mapLat": "36.8268015774882",
+        "mapLot": "127.141291900812"
+    },
+    {
+        "restrntNm": "개평만두전골",
+        "restrntAddr": "충청남도 청양군 청양읍 중앙로 238",
+        "restrntInqrTel": " 041 9432355",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 송방리 55-1 ",
+        "foodType": null,
+        "mapLat": "36.4596484125081",
+        "mapLot": "126.799653312214"
+    },
+    {
+        "restrntNm": "한밭식당",
+        "restrntAddr": "충청남도 청양군 청양읍 칠갑산로5길 7-1",
+        "restrntInqrTel": " 041 9432353",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 읍내리 203-19 ",
+        "foodType": null,
+        "mapLat": "36.5011144273636",
+        "mapLot": "126.625971667251"
+    },
+    {
+        "restrntNm": "토속촌",
+        "restrntAddr": "충청남도 청양군 대치면 한티고개길 9-1",
+        "restrntInqrTel": " 041 9425770",
+        "restrntDtlAddr": "충청남도 청양군 대치면 대치리 81-7 ",
+        "foodType": null,
+        "mapLat": "37.5777229294346",
+        "mapLot": "126.971494461387"
+    },
+    {
+        "restrntNm": "모드니식당",
+        "restrntAddr": "충청남도 청양군 운곡면 청신로 583",
+        "restrntInqrTel": " 041 9428936",
+        "restrntDtlAddr": "충청남도 청양군 운곡면 효제리 10-4 ",
+        "foodType": null,
+        "mapLat": "35.1500331470247",
+        "mapLot": "126.92540048644"
+    },
+    {
+        "restrntNm": "청양 별장&봄",
+        "restrntAddr": "충청남도 청양군 청양읍 충절로 1494",
+        "restrntInqrTel": " 041 9423312",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 학당리 473-4 ",
+        "foodType": null,
+        "mapLat": "36.4779522778724",
+        "mapLot": "126.79405143502"
+    },
+    {
+        "restrntNm": "청주해장국",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 9438820",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 교월리 120 ",
+        "foodType": null,
+        "mapLat": "36.3553900824561",
+        "mapLot": "127.344942486155"
+    },
+    {
+        "restrntNm": "청솔회관식당",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 9436040",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 읍내리 157-5 ",
+        "foodType": null,
+        "mapLat": "35.4579772983238",
+        "mapLot": "127.607725402691"
+    },
+    {
+        "restrntNm": "가장맛있는족발 청양점",
+        "restrntAddr": "충청남도 청양군 청양읍 칠갑산로8길 9",
+        "restrntInqrTel": "041 944 0057",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 읍내리 170-9 ",
+        "foodType": null,
+        "mapLat": "36.44996087502095",
+        "mapLot": "126.80386790565422"
+    },
+    {
+        "restrntNm": "늘봄가든",
+        "restrntAddr": "충청남도 청양군 정산면 충의로 1324-1",
+        "restrntInqrTel": " 041 9428966",
+        "restrntDtlAddr": "충청남도 청양군 정산면 서정리 276-9 ",
+        "foodType": null,
+        "mapLat": "35.52417012935749",
+        "mapLot": "127.72411390288909"
+    },
+    {
+        "restrntNm": "명문감자탕",
+        "restrntAddr": "충청남도 청양군 화성면 무한로 82-2",
+        "restrntInqrTel": "041 943 8252",
+        "restrntDtlAddr": "충청남도 청양군 화성면 산정리 246 ",
+        "foodType": null,
+        "mapLat": "36.425043246681064",
+        "mapLot": "126.71329036171622"
+    },
+    {
+        "restrntNm": "팔팔해물칼국수",
+        "restrntAddr": "충청남도 청양군 장평면 닭우리고개길 40-1",
+        "restrntInqrTel": " 041 9425589",
+        "restrntDtlAddr": "충청남도 청양군 장평면 중추리 524 ",
+        "foodType": null,
+        "mapLat": "36.3422130596294",
+        "mapLot": "126.893732550165"
+    },
+    {
+        "restrntNm": "은행집",
+        "restrntAddr": "충청남도 청양군 대치면 한티고개길 11",
+        "restrntInqrTel": " 041 9433790",
+        "restrntDtlAddr": "충청남도 청양군 대치면 대치리 74-2 ",
+        "foodType": null,
+        "mapLat": "36.43569590282929",
+        "mapLot": "126.88169538766023"
+    },
+    {
+        "restrntNm": "신원가든",
+        "restrntAddr": "충청남도 청양군 화성면 원통길 108",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 청양군 화성면 신정리 37-4 ",
+        "foodType": null,
+        "mapLat": "36.4640708568246",
+        "mapLot": "128.167133416069"
+    },
+    {
+        "restrntNm": "육미관",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 9435333",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 읍내리 220-8 ",
+        "foodType": null,
+        "mapLat": "36.8347768501674",
+        "mapLot": "127.083633109958"
+    },
+    {
+        "restrntNm": "임꺽정",
+        "restrntAddr": "충청남도 청양군 정산면 효자길 19-1",
+        "restrntInqrTel": " 041 9431457",
+        "restrntDtlAddr": "충청남도 청양군 정산면 서정리 161-4 ",
+        "foodType": null,
+        "mapLat": "37.11060174491501",
+        "mapLot": "127.7236899525731"
+    },
+    {
+        "restrntNm": "명랑식당",
+        "restrntAddr": "충청남도 청양군 청양읍 칠갑산로열길 7",
+        "restrntInqrTel": " 041 9420399",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 읍내리 167-29 ",
+        "foodType": null,
+        "mapLat": "36.3355087688743",
+        "mapLot": "127.42887273007"
+    },
+    {
+        "restrntNm": "가마솥회관",
+        "restrntAddr": "충청남도 청양군 청양읍 중앙로11길 19",
+        "restrntInqrTel": " 041 9429829",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 읍내리 193 ",
+        "foodType": null,
+        "mapLat": "37.416088361462975",
+        "mapLot": "126.98439298587783"
+    },
+    {
+        "restrntNm": "양명식당",
+        "restrntAddr": "충청남도 청양군 비봉면 충절로 1991",
+        "restrntInqrTel": " 041 9436881",
+        "restrntDtlAddr": "충청남도 청양군 비봉면 록평리 64-1 ",
+        "foodType": null,
+        "mapLat": "36.5191384199686",
+        "mapLot": "126.785680574318"
+    },
+    {
+        "restrntNm": "서궁일식",
+        "restrntAddr": "충청남도 청양군 청양읍 중앙로8길 11",
+        "restrntInqrTel": " 041 9437676",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 읍내리 170-1 ",
+        "foodType": null,
+        "mapLat": "36.4501701706554",
+        "mapLot": "126.804115012231"
+    },
+    {
+        "restrntNm": "경성짬뽕",
+        "restrntAddr": "충청남도 청양군 청양읍 중앙로 76",
+        "restrntInqrTel": " 041 9436366",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 읍내리 375 ",
+        "foodType": null,
+        "mapLat": "37.29702818796758",
+        "mapLot": "126.76212862624529"
+    },
+    {
+        "restrntNm": "한우촌갈비",
+        "restrntAddr": "충청남도 청양군 청양읍 충절로 1352",
+        "restrntInqrTel": " 041 9437465",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 학당리 162-8 ",
+        "foodType": null,
+        "mapLat": "35.2450078245648",
+        "mapLot": "128.6594573254626"
+    },
+    {
+        "restrntNm": "화성대복식당",
+        "restrntAddr": "충청남도 청양군 화성면 무한로 110-8",
+        "restrntInqrTel": " 041 9431971",
+        "restrntDtlAddr": "충청남도 청양군 화성면 산정리 203-2 ",
+        "foodType": null,
+        "mapLat": "37.1839136159129",
+        "mapLot": "126.759769767413"
+    },
+    {
+        "restrntNm": "뚱이네",
+        "restrntAddr": "충청남도 청양군 정산면 정현길 73-1",
+        "restrntInqrTel": " 041 9436007",
+        "restrntDtlAddr": "충청남도 청양군 정산면 서정리 156-44 ",
+        "foodType": null,
+        "mapLat": "37.37622377132052",
+        "mapLot": "126.8490649744809"
+    },
+    {
+        "restrntNm": "오미식당",
+        "restrntAddr": "충청남도 청양군 청양읍 중앙로9길 4",
+        "restrntInqrTel": " 041 9432325",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 읍내리 201-2 ",
+        "foodType": null,
+        "mapLat": "36.451689912170515",
+        "mapLot": "126.80270344547739"
+    },
+    {
+        "restrntNm": "청양고덕갈비",
+        "restrntAddr": "충청남도 청양군 화성면 대청로 717",
+        "restrntInqrTel": "041 944 0068",
+        "restrntDtlAddr": "충청남도 청양군 화성면 신정리 22-4 ",
+        "foodType": "한식",
+        "mapLat": "36.4506007872808",
+        "mapLot": "126.750861313609"
+    },
+    {
+        "restrntNm": "남양식당",
+        "restrntAddr": "충청남도 청양군 남양면 만수로 1610",
+        "restrntInqrTel": " 041 9434889",
+        "restrntDtlAddr": "충청남도 청양군 남양면 대봉리 69-14 ",
+        "foodType": null,
+        "mapLat": "36.678555532008",
+        "mapLot": "126.847567254502"
+    },
+    {
+        "restrntNm": "칠갑산나그네옻닭",
+        "restrntAddr": "충청남도 청양군 대치면 장곡길 72-38",
+        "restrntInqrTel": " 041 9422664",
+        "restrntDtlAddr": "충청남도 청양군 대치면 장곡리 190-4 ",
+        "foodType": null,
+        "mapLat": "36.4084791036674",
+        "mapLot": "126.849189128915"
+    },
+    {
+        "restrntNm": "호텔칠갑산샬레",
+        "restrntAddr": "충청남도 청양군 대치면 한티고개길 57",
+        "restrntInqrTel": " 041 9422000",
+        "restrntDtlAddr": "충청남도 청양군 대치면 대치리 12-4 ",
+        "foodType": null,
+        "mapLat": "36.4381946341939",
+        "mapLot": "126.885176894812"
+    },
+    {
+        "restrntNm": "사랑일일한식뷔페",
+        "restrntAddr": "충청남도 청양군 청양읍 칠갑산로 156",
+        "restrntInqrTel": "041 943 1800",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 송방리 199-6 ",
+        "foodType": "한식",
+        "mapLat": "36.4500197949573",
+        "mapLot": "126.794013750226"
+    },
+    {
+        "restrntNm": "자연애",
+        "restrntAddr": "충청남도 청양군 청양읍 중앙로11길 24",
+        "restrntInqrTel": "041 942 6992",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 읍내리 400-27 ",
+        "foodType": null,
+        "mapLat": "37.6314621521829",
+        "mapLot": "126.443007854973"
+    },
+    {
+        "restrntNm": "고기박사냉면",
+        "restrntAddr": "충청남도 청양군 청양읍 중앙로11길 21",
+        "restrntInqrTel": " 041 9438088",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 읍내리 192 ",
+        "foodType": "한식",
+        "mapLat": "36.81397431696626",
+        "mapLot": "128.62677160080003"
+    },
+    {
+        "restrntNm": "작은농원",
+        "restrntAddr": "충청남도 청양군 비봉면 중묵운곡로 51-60",
+        "restrntInqrTel": " 041 9433760",
+        "restrntDtlAddr": "충청남도 청양군 비봉면 중묵리 598 ",
+        "foodType": null,
+        "mapLat": "36.4907802227933",
+        "mapLot": "126.793499633798"
+    },
+    {
+        "restrntNm": "개울건너해밀",
+        "restrntAddr": "충청남도 청양군 청양읍 평촌1길 4-33",
+        "restrntInqrTel": " 041 9441111",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 교월리 215-1 ",
+        "foodType": null,
+        "mapLat": "36.447608011268215",
+        "mapLot": "126.80678844541495"
+    },
+    {
+        "restrntNm": "덕산회관",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 9438953",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 읍내리 320-6 ",
+        "foodType": null,
+        "mapLat": "34.4966918713712",
+        "mapLot": "127.365063158137"
+    },
+    {
+        "restrntNm": "고향촌",
+        "restrntAddr": "충청남도 청양군 비봉면 은골길 1",
+        "restrntInqrTel": " 041 9425033",
+        "restrntDtlAddr": "충청남도 청양군 비봉면 록평리 109-1 ",
+        "foodType": null,
+        "mapLat": "36.3544631709688",
+        "mapLot": "127.337545262055"
+    },
+    {
+        "restrntNm": "낭띠전원카페",
+        "restrntAddr": "충청남도 청양군 목면 금강변로 1563-52",
+        "restrntInqrTel": " 041 9436569",
+        "restrntDtlAddr": "충청남도 청양군 목면 신흥리 141 ",
+        "foodType": null,
+        "mapLat": "36.398189952251336",
+        "mapLot": "127.01591826887662"
+    },
+    {
+        "restrntNm": "황소집",
+        "restrntAddr": "충청남도 청양군 대치면 장곡길 83",
+        "restrntInqrTel": " 041 9437728",
+        "restrntDtlAddr": "충청남도 청양군 대치면 장곡리 193-2 ",
+        "foodType": "한식",
+        "mapLat": "37.5625137771807",
+        "mapLot": "126.99334477802"
+    },
+    {
+        "restrntNm": "다래정회관",
+        "restrntAddr": "충청남도 청양군 청양읍 중앙로11길 4-1",
+        "restrntInqrTel": " 041 9424787",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 읍내리 210-14 ",
+        "foodType": null,
+        "mapLat": "37.22797695289082",
+        "mapLot": "128.81758274189912"
+    },
+    {
+        "restrntNm": "해오름",
+        "restrntAddr": "충청남도 청양군 청양읍 칠갑산로 59-6",
+        "restrntInqrTel": " 041 9431292",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 장승리 14 ",
+        "foodType": null,
+        "mapLat": "37.5058474513376",
+        "mapLot": "126.72594012971"
+    },
+    {
+        "restrntNm": "아미가",
+        "restrntAddr": "충청남도 청양군 청양읍 중앙로11길 7",
+        "restrntInqrTel": "041 943 8500",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 읍내리 201-1 ",
+        "foodType": null,
+        "mapLat": "37.59276510947657",
+        "mapLot": "127.0348442201564"
+    },
+    {
+        "restrntNm": "한마음회관",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 9434144",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 읍내리 171-14 ",
+        "foodType": null,
+        "mapLat": "35.51896566765542",
+        "mapLot": "129.4270491790805"
+    },
+    {
+        "restrntNm": "까치내 흥부가든",
+        "restrntAddr": "충청남도 청양군 대치면 사수터길 115-8",
+        "restrntInqrTel": " 041 9431640",
+        "restrntDtlAddr": "충청남도 청양군 대치면 작천리 63 ",
+        "foodType": null,
+        "mapLat": "36.3936431147713",
+        "mapLot": "126.858781564449"
+    },
+    {
+        "restrntNm": "다미",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 9427500",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 읍내리 177-3 ",
+        "foodType": null,
+        "mapLat": "37.5201301307501",
+        "mapLot": "126.927214075105"
+    },
+    {
+        "restrntNm": "칠갑산두메산골",
+        "restrntAddr": "충청남도 청양군 대치면 칠갑산로 1037",
+        "restrntInqrTel": " 041 9439080",
+        "restrntDtlAddr": "충청남도 청양군 대치면 대치리 78-1 ",
+        "foodType": "한식",
+        "mapLat": "36.4352043088784",
+        "mapLot": "126.881234418956"
+    },
+    {
+        "restrntNm": "나루터",
+        "restrntAddr": "충청남도 청양군 대치면 칠갑산로 955",
+        "restrntInqrTel": " 041 9441121",
+        "restrntDtlAddr": "충청남도 청양군 대치면 대치리 166-1 ",
+        "foodType": null,
+        "mapLat": "36.7995216460835",
+        "mapLot": "126.862011071473"
+    },
+    {
+        "restrntNm": "고목정",
+        "restrntAddr": "충청남도 청양군 대치면 칠갑산로 668-19",
+        "restrntInqrTel": " 041 9433828",
+        "restrntDtlAddr": "충청남도 청양군 대치면 광대리 409-2 ",
+        "foodType": null,
+        "mapLat": "36.3699184810301",
+        "mapLot": "127.182654991591"
+    },
+    {
+        "restrntNm": "옻나무가든",
+        "restrntAddr": "충청남도 청양군 운곡면 청신로 982-64",
+        "restrntInqrTel": " 041 9432213",
+        "restrntDtlAddr": "충청남도 청양군 운곡면 신대리 465-2 ",
+        "foodType": "한식",
+        "mapLat": "36.5322031481077",
+        "mapLot": "126.853469441365"
+    },
+    {
+        "restrntNm": "칠갑산맛집",
+        "restrntAddr": "충청남도 청양군 대치면 장곡길 119-39",
+        "restrntInqrTel": " 041 9435912",
+        "restrntDtlAddr": "충청남도 청양군 대치면 장곡리 67-6 ",
+        "foodType": null,
+        "mapLat": "36.41038679544534",
+        "mapLot": "126.8520005586271"
+    },
+    {
+        "restrntNm": "칠갑산골",
+        "restrntAddr": "충청남도 청양군 대치면 장곡길 147",
+        "restrntInqrTel": " 041 9427211",
+        "restrntDtlAddr": "충청남도 청양군 대치면 장곡리 67-13 ",
+        "foodType": null,
+        "mapLat": "36.4104737541816",
+        "mapLot": "126.853091879886"
+    },
+    {
+        "restrntNm": "바닷물 손두부",
+        "restrntAddr": "충청남도 청양군 대치면 한티고개길 1",
+        "restrntInqrTel": " 041 9436617",
+        "restrntDtlAddr": "충청남도 청양군 대치면 대치리 79-1 ",
+        "foodType": "한식",
+        "mapLat": "36.28264240060242",
+        "mapLot": "127.22211481239817"
+    },
+    {
+        "restrntNm": "한양화로(청양읍내점)",
+        "restrntAddr": "충청남도 청양군 청양읍 칠갑산로8길 13, 1층",
+        "restrntInqrTel": " 041 9421592",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 읍내리 170-7 ",
+        "foodType": null,
+        "mapLat": "36.4494116734767",
+        "mapLot": "126.803738779944"
+    },
+    {
+        "restrntNm": "칠갑산청정한우타운",
+        "restrntAddr": "충청남도 청양군 비봉면 록평용당로 775-1",
+        "restrntInqrTel": "041 942 9259",
+        "restrntDtlAddr": null,
+        "foodType": "한식",
+        "mapLat": "36.520583564183",
+        "mapLot": "126.783515092055"
+    },
+    {
+        "restrntNm": "한오백년추어탕 청양점",
+        "restrntAddr": "충청남도 청양군 청양읍 고리섬들길 73",
+        "restrntInqrTel": "041 943 8585",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 읍내리 326 ",
+        "foodType": null,
+        "mapLat": "36.4475891957725",
+        "mapLot": "126.801364160392"
+    },
+    {
+        "restrntNm": "산골짜기",
+        "restrntAddr": "충청남도 청양군 대치면 장곡길 143-54",
+        "restrntInqrTel": "041 942 2900",
+        "restrntDtlAddr": "충청남도 청양군 대치면 장곡리 67-7 ",
+        "foodType": null,
+        "mapLat": "36.44727833010669",
+        "mapLot": "127.43223215927773"
+    },
+    {
+        "restrntNm": "청양임꺽정",
+        "restrntAddr": "충청남도 청양군 청양읍 고리섬들길 71",
+        "restrntInqrTel": "041 943 0101",
+        "restrntDtlAddr": "충청남도 청양군 청양읍 읍내리 326-5 ",
+        "foodType": null,
+        "mapLat": "36.4108163613388",
+        "mapLot": "126.948986404953"
+    }
+]

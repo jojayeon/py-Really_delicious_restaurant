@@ -1,0 +1,857 @@
+[
+    {
+        "restrntNm": "웅천집",
+        "restrntAddr": "충청남도 서천군 장항읍 장서로16번길 23",
+        "restrntInqrTel": "     9560074",
+        "restrntDtlAddr": "충청남도 서천군 장항읍 창선1리 116-16 ",
+        "foodType": null,
+        "mapLat": "35.2625724362308",
+        "mapLot": "129.015311637239"
+    },
+    {
+        "restrntNm": "돌식당",
+        "restrntAddr": "충청남도 서천군 장항읍 장서로43번길 26",
+        "restrntInqrTel": "            ",
+        "restrntDtlAddr": "충청남도 서천군 장항읍 창선2리 589 ",
+        "foodType": null,
+        "mapLat": "36.2819940074878",
+        "mapLot": "126.911453056054"
+    },
+    {
+        "restrntNm": "수정냉면",
+        "restrntAddr": "충청남도 서천군 판교면 종판로 882",
+        "restrntInqrTel": "     9515573",
+        "restrntDtlAddr": "충청남도 서천군 판교면 현암리 234-24 ",
+        "foodType": null,
+        "mapLat": "37.4512383577149",
+        "mapLot": "126.711931141424"
+    },
+    {
+        "restrntNm": "민속회관",
+        "restrntAddr": "충청남도 서천군 서천읍 충절로29번길 22",
+        "restrntInqrTel": "     9532345",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 군사리 692-1 ",
+        "foodType": null,
+        "mapLat": "36.0776598292686",
+        "mapLot": "126.686702275782"
+    },
+    {
+        "restrntNm": "청송",
+        "restrntAddr": "충청남도 서천군 비인면 비인로 145",
+        "restrntInqrTel": "     9523355",
+        "restrntDtlAddr": "충청남도 서천군 비인면 성내리 334-55 ",
+        "foodType": "한식",
+        "mapLat": "36.389350453351845",
+        "mapLot": "129.16239400732408"
+    },
+    {
+        "restrntNm": "늘봄가든",
+        "restrntAddr": "충청남도 서천군 서천읍 서천로14번길 6-1",
+        "restrntInqrTel": "     9517446",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 군사리 176-3 ",
+        "foodType": null,
+        "mapLat": "35.52417012935749",
+        "mapLot": "127.72411390288909"
+    },
+    {
+        "restrntNm": "우리식당",
+        "restrntAddr": "충청남도 서천군 장항읍 장서로29번길 42",
+        "restrntInqrTel": "041 957 0465",
+        "restrntDtlAddr": "충청남도 서천군 장항읍 창선1리 245-2 ",
+        "foodType": "한식",
+        "mapLat": "34.83163986572452",
+        "mapLot": "128.0007107162976"
+    },
+    {
+        "restrntNm": "마중",
+        "restrntAddr": "충청남도 서천군 서천읍 서천로232번길 9",
+        "restrntInqrTel": "041 953 1235",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 사곡리 249-17 ",
+        "foodType": null,
+        "mapLat": "36.9665480617694",
+        "mapLot": "127.930510575292"
+    },
+    {
+        "restrntNm": "삼성식당",
+        "restrntAddr": "충청남도 서천군 판교면 종판로 882-2",
+        "restrntInqrTel": "     9515578",
+        "restrntDtlAddr": "충청남도 서천군 판교면 현암리 234-5 ",
+        "foodType": null,
+        "mapLat": "36.15418216725794",
+        "mapLot": "126.6882417331623"
+    },
+    {
+        "restrntNm": "대명식당",
+        "restrntAddr": null,
+        "restrntInqrTel": "     9526568",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 군사리 163-2 ",
+        "foodType": null,
+        "mapLat": "36.9299206633256",
+        "mapLot": "127.69220449527"
+    },
+    {
+        "restrntNm": "명가든",
+        "restrntAddr": null,
+        "restrntInqrTel": "     9560177",
+        "restrntDtlAddr": "충청남도 서천군 장항읍 창선1리 332-14 ",
+        "foodType": null,
+        "mapLat": "35.8460395160667",
+        "mapLot": "129.097010187989"
+    },
+    {
+        "restrntNm": "형제갈비",
+        "restrntAddr": null,
+        "restrntInqrTel": "     9533137",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 군사리 163-7 ",
+        "foodType": null,
+        "mapLat": "37.5577365137263",
+        "mapLot": "126.937422275343"
+    },
+    {
+        "restrntNm": "이화가든",
+        "restrntAddr": "충청남도 서천군 마서면 금강로 1145-17",
+        "restrntInqrTel": "041 956 2501",
+        "restrntDtlAddr": "충청남도 서천군 마서면 송내리 40 ",
+        "foodType": "한식",
+        "mapLat": "35.0878190210311",
+        "mapLot": "127.719401566779"
+    },
+    {
+        "restrntNm": "태양회관",
+        "restrntAddr": null,
+        "restrntInqrTel": "     9531808",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 군사리 524-2 ",
+        "foodType": null,
+        "mapLat": "37.2135090907331",
+        "mapLot": "126.975494065159"
+    },
+    {
+        "restrntNm": "옛고을가든",
+        "restrntAddr": null,
+        "restrntInqrTel": "     9529993",
+        "restrntDtlAddr": "충청남도 서천군 마서면 덕암리 536 ",
+        "foodType": null,
+        "mapLat": "35.36258108049667",
+        "mapLot": "127.68000693429575"
+    },
+    {
+        "restrntNm": "가정식백반",
+        "restrntAddr": null,
+        "restrntInqrTel": "     9565582",
+        "restrntDtlAddr": "충청남도 서천군 장항읍 창선2리 208-4 ",
+        "foodType": null,
+        "mapLat": "35.1636436843543",
+        "mapLot": "129.166201132455"
+    },
+    {
+        "restrntNm": "김가네 갈비탕",
+        "restrntAddr": "충청남도 서천군 마서면 금강로 1123",
+        "restrntInqrTel": "     9565652",
+        "restrntDtlAddr": "충청남도 서천군 마서면 도삼리 575 ",
+        "foodType": null,
+        "mapLat": "37.26985966781024",
+        "mapLot": "127.63728931200586"
+    },
+    {
+        "restrntNm": "중앙회관",
+        "restrntAddr": "충청남도 서천군 서천읍 서천로84번길 21-5",
+        "restrntInqrTel": "     9530568",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 군사리 488 ",
+        "foodType": null,
+        "mapLat": "35.3735382345376",
+        "mapLot": "127.14226697362"
+    },
+    {
+        "restrntNm": "한산회관",
+        "restrntAddr": null,
+        "restrntInqrTel": "     9519444",
+        "restrntDtlAddr": "충청남도 서천군 한산면 지현리 60-1 ",
+        "foodType": null,
+        "mapLat": "37.8990156864489",
+        "mapLot": "127.003724726463"
+    },
+    {
+        "restrntNm": "동원장",
+        "restrntAddr": null,
+        "restrntInqrTel": "     9534300",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 군사리 692-1 ",
+        "foodType": null,
+        "mapLat": "36.1306077991277",
+        "mapLot": "127.10051680859"
+    },
+    {
+        "restrntNm": "유정식당",
+        "restrntAddr": "충청남도 서천군 장항읍 장서로29번길 24",
+        "restrntInqrTel": "     9565494",
+        "restrntDtlAddr": "충청남도 서천군 장항읍 창선1리 223-2 ",
+        "foodType": null,
+        "mapLat": "37.5183363984135",
+        "mapLot": "127.028093809321"
+    },
+    {
+        "restrntNm": "백두산가든",
+        "restrntAddr": "충청남도 서천군 서천읍 서천로 152",
+        "restrntInqrTel": "     9516692",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 사곡리 276-3 ",
+        "foodType": null,
+        "mapLat": "36.7563104362073",
+        "mapLot": "128.078242367534"
+    },
+    {
+        "restrntNm": "바다회집",
+        "restrntAddr": "충청남도 서천군 장항읍 장산로 609",
+        "restrntInqrTel": "041 956 7932",
+        "restrntDtlAddr": "충청남도 서천군 장항읍 원수리 141-17 ",
+        "foodType": null,
+        "mapLat": "35.97067807111333",
+        "mapLot": "126.70412821792954"
+    },
+    {
+        "restrntNm": "서천서해안횟집",
+        "restrntAddr": "충청남도 서천군 서면 서인로 93",
+        "restrntInqrTel": "041 952 3177",
+        "restrntDtlAddr": "충청남도 서천군 서면 마량리 산 16-1 ",
+        "foodType": null,
+        "mapLat": "36.1319571849904",
+        "mapLot": "126.500964246996"
+    },
+    {
+        "restrntNm": "오리농장",
+        "restrntAddr": "충청남도 서천군 서면 부사로 278",
+        "restrntInqrTel": "     9521897",
+        "restrntDtlAddr": "충청남도 서천군 서면 도둔리 480-113 ",
+        "foodType": null,
+        "mapLat": "35.4506475585762",
+        "mapLot": "127.247534427397"
+    },
+    {
+        "restrntNm": "신설아구집",
+        "restrntAddr": "충청남도 서천군 장항읍 장서로16번길 19",
+        "restrntInqrTel": "041 956 2150",
+        "restrntDtlAddr": "충청남도 서천군 장항읍 창선1리 116-5 ",
+        "foodType": "한식",
+        "mapLat": "36.0089610620539",
+        "mapLot": "126.699246670148"
+    },
+    {
+        "restrntNm": "미림원",
+        "restrntAddr": null,
+        "restrntInqrTel": "     9519043",
+        "restrntDtlAddr": "충청남도 서천군 기산면 황사리 221 ",
+        "foodType": null,
+        "mapLat": "36.03565625241912",
+        "mapLot": "128.9179667155002"
+    },
+    {
+        "restrntNm": "토담",
+        "restrntAddr": "충청남도 서천군 한산면 충절로 1114",
+        "restrntInqrTel": "     9510106",
+        "restrntDtlAddr": "충청남도 서천군 한산면 지현리 55 ",
+        "foodType": null,
+        "mapLat": "37.81544513473572",
+        "mapLot": "127.5163628689171"
+    },
+    {
+        "restrntNm": "금강횟집",
+        "restrntAddr": "충청남도 서천군 장항읍 장산로 612",
+        "restrntInqrTel": "041 956 7255",
+        "restrntDtlAddr": "충청남도 서천군 장항읍 원수리 141-4 ",
+        "foodType": "회집",
+        "mapLat": "36.0005566339276",
+        "mapLot": "126.725750521968"
+    },
+    {
+        "restrntNm": "일송",
+        "restrntAddr": "충청남도 서천군 장항읍 장산로 626",
+        "restrntInqrTel": "041 956 5733",
+        "restrntDtlAddr": "충청남도 서천군 장항읍 원수리 132-63 ",
+        "foodType": "일식",
+        "mapLat": "34.725480392663066",
+        "mapLot": "127.7459878128799"
+    },
+    {
+        "restrntNm": "너한쌈나한쌈",
+        "restrntAddr": "충청남도 서천군 서면 춘장대로 97",
+        "restrntInqrTel": "     9527794",
+        "restrntDtlAddr": "충청남도 서천군 서면 도둔리 457 ",
+        "foodType": null,
+        "mapLat": "36.161490425453245",
+        "mapLot": "126.52534023288183"
+    },
+    {
+        "restrntNm": "남경가든",
+        "restrntAddr": "충청남도 서천군 서천읍 서문로 101",
+        "restrntInqrTel": "041 953 7612",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 화금리 658-10 ",
+        "foodType": "한식",
+        "mapLat": "36.4979519393236",
+        "mapLot": "127.86453109808"
+    },
+    {
+        "restrntNm": "대가한우촌",
+        "restrntAddr": "충청남도 서천군 서천읍 서문로5번길 5",
+        "restrntInqrTel": " 041 9533514",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 군사리 174-6 ",
+        "foodType": "한식",
+        "mapLat": "34.859117469325",
+        "mapLot": "128.423612347776"
+    },
+    {
+        "restrntNm": "카페 라현",
+        "restrntAddr": "충청남도 서천군 종천면 대백제로 1458",
+        "restrntInqrTel": "     9532002",
+        "restrntDtlAddr": "충청남도 서천군 종천면 석촌리 598-6 ",
+        "foodType": "한식",
+        "mapLat": "36.1210489195777",
+        "mapLot": "126.692308303521"
+    },
+    {
+        "restrntNm": "자연횟집",
+        "restrntAddr": "충청남도 서천군 장항읍 장산로 622-11",
+        "restrntInqrTel": "     9570019",
+        "restrntDtlAddr": "충청남도 서천군 장항읍 원수리 132-50 ",
+        "foodType": null,
+        "mapLat": "38.0785883829919",
+        "mapLot": "128.672081480431"
+    },
+    {
+        "restrntNm": "으뜸가든",
+        "restrntAddr": "충청남도 서천군 서천읍 화금서길 79-6",
+        "restrntInqrTel": "     9538681",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 화금리 594-2 ",
+        "foodType": "한식",
+        "mapLat": "36.08560697584413",
+        "mapLot": "126.70343279835252"
+    },
+    {
+        "restrntNm": "큰맘할매순대국춘장대점",
+        "restrntAddr": "충청남도 서천군 서면 춘장대로 143",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 서천군 서면 도둔리 478-1 ",
+        "foodType": null,
+        "mapLat": "36.1650437203261",
+        "mapLot": "126.528041747201"
+    },
+    {
+        "restrntNm": "하구뚝해물칼국수",
+        "restrntAddr": "충청남도 서천군 마서면 장산로 849-1",
+        "restrntInqrTel": "041 956 3366",
+        "restrntDtlAddr": "충청남도 서천군 마서면 도삼리 73-13 ",
+        "foodType": "한식",
+        "mapLat": "36.018542047721",
+        "mapLot": "126.737238771596"
+    },
+    {
+        "restrntNm": "대덕로스",
+        "restrntAddr": "충청남도 서천군 장항읍 장마로73번길 1",
+        "restrntInqrTel": "     9563175",
+        "restrntDtlAddr": "충청남도 서천군 장항읍 신창리 39-14 ",
+        "foodType": null,
+        "mapLat": "37.579115020903934",
+        "mapLot": "126.86974608357703"
+    },
+    {
+        "restrntNm": "상원가든",
+        "restrntAddr": "충청남도 서천군 판교면 종판로491번길 65",
+        "restrntInqrTel": "     9515819",
+        "restrntDtlAddr": "충청남도 서천군 판교면 상좌리 418 ",
+        "foodType": null,
+        "mapLat": "33.2217454228843",
+        "mapLot": "126.265310378541"
+    },
+    {
+        "restrntNm": "물고기세상",
+        "restrntAddr": "충청남도 서천군 마산면 삼일로 232",
+        "restrntInqrTel": "     9523341",
+        "restrntDtlAddr": "충청남도 서천군 마산면 삼월리 19-1 ",
+        "foodType": null,
+        "mapLat": "33.47465791089134",
+        "mapLot": "126.54190426009394"
+    },
+    {
+        "restrntNm": "벨리하우스",
+        "restrntAddr": "충청남도 서천군 장항읍 장산로 632",
+        "restrntInqrTel": "     9569212",
+        "restrntDtlAddr": "충청남도 서천군 장항읍 원수리 132-43 ",
+        "foodType": null,
+        "mapLat": "36.0015659188688",
+        "mapLot": "126.727290911077"
+    },
+    {
+        "restrntNm": "나룻터횟집",
+        "restrntAddr": "충청남도 서천군 장항읍 장항로280번길 14",
+        "restrntInqrTel": "     9563251",
+        "restrntDtlAddr": "충청남도 서천군 장항읍 원수리 929-8 ",
+        "foodType": null,
+        "mapLat": "34.8361860163704",
+        "mapLot": "128.002280903334"
+    },
+    {
+        "restrntNm": "장항횟집",
+        "restrntAddr": "충청남도 서천군 마서면 장산로 716",
+        "restrntInqrTel": "     9563034",
+        "restrntDtlAddr": "충청남도 서천군 마서면 당선리 92-24 ",
+        "foodType": null,
+        "mapLat": "36.0070493190899",
+        "mapLot": "126.73385173661"
+    },
+    {
+        "restrntNm": "조은회토랑",
+        "restrntAddr": "충청남도 서천군 장항읍 장서로 53",
+        "restrntInqrTel": "     9564021",
+        "restrntDtlAddr": "충청남도 서천군 장항읍 244-2 ",
+        "foodType": null,
+        "mapLat": "36.0127063170007",
+        "mapLot": "126.69842933397"
+    },
+    {
+        "restrntNm": "보라가든",
+        "restrntAddr": "충청남도 서천군 서면 부사로 238",
+        "restrntInqrTel": "     9522616",
+        "restrntDtlAddr": "충청남도 서천군 서면 도둔리 480-64 ",
+        "foodType": null,
+        "mapLat": "36.1692891979362",
+        "mapLot": "126.528709846391"
+    },
+    {
+        "restrntNm": "서림가든",
+        "restrntAddr": "충청남도 서천군 서천읍 군사길 13-1",
+        "restrntInqrTel": "     9514457",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 군사리 189 ",
+        "foodType": null,
+        "mapLat": "37.43297821738276",
+        "mapLot": "127.06819546203869"
+    },
+    {
+        "restrntNm": "서천장어본가",
+        "restrntAddr": "충청남도 서천군 서천읍 송신로 13-20",
+        "restrntInqrTel": "952 8467",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 군사리 809-7 ",
+        "foodType": "한식(고기)",
+        "mapLat": "36.078356730970775",
+        "mapLot": "126.68439698128886"
+    },
+    {
+        "restrntNm": "해강회집",
+        "restrntAddr": "충청남도 서천군 마서면 장산로 706",
+        "restrntInqrTel": "     9568885",
+        "restrntDtlAddr": "충청남도 서천군 마서면 당선리 92-26 ",
+        "foodType": null,
+        "mapLat": "36.0063559973302",
+        "mapLot": "126.733321660789"
+    },
+    {
+        "restrntNm": "서천풍천장어타운",
+        "restrntAddr": "충청남도 서천군 서천읍 충절로41번길 23-12",
+        "restrntInqrTel": "     9530073",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 군사리 716-5 ",
+        "foodType": null,
+        "mapLat": "36.0778762702117",
+        "mapLot": "126.68675914665"
+    },
+    {
+        "restrntNm": "불로초식당",
+        "restrntAddr": null,
+        "restrntInqrTel": "     9537773",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 군사리 512-2 ",
+        "foodType": null,
+        "mapLat": "35.12148078123038",
+        "mapLot": "126.91856883141824"
+    },
+    {
+        "restrntNm": "한우마을",
+        "restrntAddr": "충청남도 서천군 판교면 종판로901번길 12",
+        "restrntInqrTel": "041 951 5110",
+        "restrntDtlAddr": "충청남도 서천군 판교면 현암리 144-34 ",
+        "foodType": "한식",
+        "mapLat": "36.5471920501479",
+        "mapLot": "126.775336994733"
+    },
+    {
+        "restrntNm": "하나비",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 9565787",
+        "restrntDtlAddr": "충청남도 서천군 마서면 당선리 90-11 ",
+        "foodType": null,
+        "mapLat": "35.1545100472592",
+        "mapLot": "126.8532073388"
+    },
+    {
+        "restrntNm": "아구나라",
+        "restrntAddr": "충청남도 서천군 한산면 충절로 1084-12",
+        "restrntInqrTel": "     9521950",
+        "restrntDtlAddr": "충청남도 서천군 한산면 지현리 368-13 ",
+        "foodType": null,
+        "mapLat": "37.7440352069777",
+        "mapLot": "126.803546554086"
+    },
+    {
+        "restrntNm": "불꽃",
+        "restrntAddr": "충청남도 서천군 마서면 장산로 811-1",
+        "restrntInqrTel": "     9565557",
+        "restrntDtlAddr": "충청남도 서천군 마서면 당선리 1 ",
+        "foodType": "한식",
+        "mapLat": "37.53001129559423",
+        "mapLot": "126.99736395644838"
+    },
+    {
+        "restrntNm": "곰솔가든",
+        "restrntAddr": "충청남도 서천군 서천읍 송신로 33",
+        "restrntInqrTel": " 041 9536006",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 군사리 817-22 ",
+        "foodType": null,
+        "mapLat": "35.0140383131832",
+        "mapLot": "126.395699671134"
+    },
+    {
+        "restrntNm": "고향산천",
+        "restrntAddr": "충청남도 서천군 서천읍 화금서길 58-7",
+        "restrntInqrTel": "     9530037",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 화금리 613-7 ",
+        "foodType": null,
+        "mapLat": "37.6240306737702",
+        "mapLot": "127.026674527465"
+    },
+    {
+        "restrntNm": "미정",
+        "restrntAddr": "충청남도 서천군 서천읍 충절로59번길 31-15",
+        "restrntInqrTel": "041 951 7733",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 군사리 862-1 ",
+        "foodType": "생선회",
+        "mapLat": "35.0977226558439",
+        "mapLot": "129.058692867714"
+    },
+    {
+        "restrntNm": "도둑과시인",
+        "restrntAddr": "충청남도 서천군 장항읍 장산로 621",
+        "restrntInqrTel": "     9567245",
+        "restrntDtlAddr": "충청남도 서천군 장항읍 원수리 132-60 ",
+        "foodType": null,
+        "mapLat": "37.8372804008769",
+        "mapLot": "128.872527770252"
+    },
+    {
+        "restrntNm": "사랑채오리",
+        "restrntAddr": "충청남도 서천군 장항읍 장산로 582-5",
+        "restrntInqrTel": "041 956 5288",
+        "restrntDtlAddr": "충청남도 서천군 장항읍 원수리 147-31 ",
+        "foodType": "한식",
+        "mapLat": "36.0012243867154",
+        "mapLot": "126.72142269232"
+    },
+    {
+        "restrntNm": "아침햇살",
+        "restrntAddr": "충청남도 서천군 서면 부사로 275",
+        "restrntInqrTel": "     9523948",
+        "restrntDtlAddr": "충청남도 서천군 서면 도둔리 480-73 ",
+        "foodType": null,
+        "mapLat": "37.508116725770954",
+        "mapLot": "126.95330024127783"
+    },
+    {
+        "restrntNm": "수라원",
+        "restrntAddr": "충청남도 서천군 장항읍 장산로 641-9",
+        "restrntInqrTel": "     9566250",
+        "restrntDtlAddr": "충청남도 서천군 장항읍 원수리 132-79 ",
+        "foodType": null,
+        "mapLat": "36.0022760928806",
+        "mapLot": "126.727292902292"
+    },
+    {
+        "restrntNm": "해돋이회센타",
+        "restrntAddr": "충청남도 서천군 서면 서인로 299",
+        "restrntInqrTel": "     9519803",
+        "restrntDtlAddr": "충청남도 서천군 서면 마량리 86-2 ",
+        "foodType": null,
+        "mapLat": "36.14633723286",
+        "mapLot": "126.504548816431"
+    },
+    {
+        "restrntNm": "우남",
+        "restrntAddr": "충청남도 서천군 시초면 시초남로 149",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 서천군 시초면 선동리 137-1 ",
+        "foodType": null,
+        "mapLat": "37.616578594507",
+        "mapLot": "127.171525354572"
+    },
+    {
+        "restrntNm": "소문난소머리국밥",
+        "restrntAddr": null,
+        "restrntInqrTel": "     9530001",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 남산리 16-4 ",
+        "foodType": null,
+        "mapLat": "37.57007417496779",
+        "mapLot": "126.81261627730558"
+    },
+    {
+        "restrntNm": "일미정",
+        "restrntAddr": "충청남도 서천군 장항읍 장산로 641-7",
+        "restrntInqrTel": "     9562535",
+        "restrntDtlAddr": "충청남도 서천군 장항읍 원수리 132-78 ",
+        "foodType": null,
+        "mapLat": "37.4709624073995",
+        "mapLot": "126.624367400513"
+    },
+    {
+        "restrntNm": "서림가든",
+        "restrntAddr": "충청남도 서천군 서천읍 서천로 144-9",
+        "restrntInqrTel": "041  9529911",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 사곡리 276-7 ",
+        "foodType": "한식",
+        "mapLat": "37.43297821738276",
+        "mapLot": "127.06819546203869"
+    },
+    {
+        "restrntNm": "해양회센타",
+        "restrntAddr": "충청남도 서천군 서면 서인로 288-15",
+        "restrntInqrTel": " 041 9523904",
+        "restrntDtlAddr": "충청남도 서천군 서면 마량리 90-4 ",
+        "foodType": null,
+        "mapLat": "36.0351043294598",
+        "mapLot": "129.369058065474"
+    },
+    {
+        "restrntNm": "소담숯불갈비",
+        "restrntAddr": "충청남도 서천군 서천읍 충절로41번길 15-9",
+        "restrntInqrTel": " 041 9517272",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 군사리 854-3 ",
+        "foodType": null,
+        "mapLat": "37.5481470981784",
+        "mapLot": "127.017920385048"
+    },
+    {
+        "restrntNm": "코너분식",
+        "restrntAddr": "충청남도 서천군 서천읍 충절로59번길 21-10",
+        "restrntInqrTel": "    951 7794",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 군사리 862-8 ",
+        "foodType": null,
+        "mapLat": "37.53735482441687",
+        "mapLot": "126.89724080806411"
+    },
+    {
+        "restrntNm": "남촌한방백숙",
+        "restrntAddr": "충청남도 서천군 서면 공암남촌길 145",
+        "restrntInqrTel": "041 953 3677",
+        "restrntDtlAddr": "충청남도 서천군 서면 도둔리 61-32 ",
+        "foodType": "한식",
+        "mapLat": "36.15298980579049",
+        "mapLot": "126.52544258358321"
+    },
+    {
+        "restrntNm": "새암물왕코다리",
+        "restrntAddr": "충청남도 서천군 서천읍 서문로 131",
+        "restrntInqrTel": "041 953 0789",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 화금리 591-2 ",
+        "foodType": "한식",
+        "mapLat": "36.0856817711762",
+        "mapLot": "126.704159758442"
+    },
+    {
+        "restrntNm": "대관령황태해밀",
+        "restrntAddr": "충청남도 서천군 서천읍 사곡로28번길 3",
+        "restrntInqrTel": "041 953 2552",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 사곡리 304-199 ",
+        "foodType": "한식",
+        "mapLat": "36.0833028580323",
+        "mapLot": "126.685862738831"
+    },
+    {
+        "restrntNm": "덕수궁해물칼국수",
+        "restrntAddr": "충청남도 서천군 마서면 장산로855번길 5",
+        "restrntInqrTel": " 041956 7066",
+        "restrntDtlAddr": "충청남도 서천군 마서면 도삼리 73-15 ",
+        "foodType": null,
+        "mapLat": "37.514211956765166",
+        "mapLot": "127.03363922951287"
+    },
+    {
+        "restrntNm": "큰집감자탕",
+        "restrntAddr": "충청남도 서천군 서천읍 충절로59번길 31-11",
+        "restrntInqrTel": " 041 9525386",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 군사리 862-2 ",
+        "foodType": null,
+        "mapLat": "37.41067987978841",
+        "mapLot": "127.26586694789194"
+    },
+    {
+        "restrntNm": "할매온정집",
+        "restrntAddr": "충청남도 서천군 장항읍 장서로47번길 20",
+        "restrntInqrTel": " 041 9564860",
+        "restrntDtlAddr": "충청남도 서천군 장항읍 창선2리 572 ",
+        "foodType": "한식",
+        "mapLat": "36.0123738109419",
+        "mapLot": "126.697374582655"
+    },
+    {
+        "restrntNm": "바닷가횟집",
+        "restrntAddr": "충청남도 서천군 서면 춘장대로151번길 35",
+        "restrntInqrTel": " 041 9537000",
+        "restrntDtlAddr": "충청남도 서천군 서면 1245 ",
+        "foodType": null,
+        "mapLat": "35.4937785094079",
+        "mapLot": "129.427691361584"
+    },
+    {
+        "restrntNm": "장벌설농탕",
+        "restrntAddr": "충청남도 서천군 서면 서인로 699",
+        "restrntInqrTel": "     9528993",
+        "restrntDtlAddr": "충청남도 서천군 서면 도둔리 72-394 ",
+        "foodType": "한식",
+        "mapLat": "36.1510666456598",
+        "mapLot": "126.543526822625"
+    },
+    {
+        "restrntNm": "강변횟집",
+        "restrntAddr": "충청남도 서천군 마서면 장산로 714",
+        "restrntInqrTel": "    956 8874",
+        "restrntDtlAddr": "충청남도 서천군 마서면 당선리 92-32 ",
+        "foodType": null,
+        "mapLat": "35.2369697735954",
+        "mapLot": "128.579116883897"
+    },
+    {
+        "restrntNm": "24시 해장국",
+        "restrntAddr": "충청남도 서천군 서천읍 군청로 7",
+        "restrntInqrTel": "     9520050",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 군사리 866-4 ",
+        "foodType": null,
+        "mapLat": "35.53974868493207",
+        "mapLot": "129.3304152382062"
+    },
+    {
+        "restrntNm": "기억속에보리밥",
+        "restrntAddr": "충청남도 서천군 서천읍 충절로 73",
+        "restrntInqrTel": "041 953 5172",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 군사리 657-13 ",
+        "foodType": null,
+        "mapLat": "36.5987533746305",
+        "mapLot": "126.665332059885"
+    },
+    {
+        "restrntNm": "서해중화요리",
+        "restrntAddr": "충청남도 서천군 서천읍 충절로81번길 7",
+        "restrntInqrTel": "041 953 8930",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 군사리 649-2 ",
+        "foodType": "중국식",
+        "mapLat": "36.07745150564584",
+        "mapLot": "126.69116156674043"
+    },
+    {
+        "restrntNm": "춘장대누룽지돈까스",
+        "restrntAddr": "충청남도 서천군 서면 춘장대로151번길 55",
+        "restrntInqrTel": "    952 9399",
+        "restrntDtlAddr": "충청남도 서천군 서면 도둔리 1289 ",
+        "foodType": "일식",
+        "mapLat": "36.1648314080247",
+        "mapLot": "126.524490986433"
+    },
+    {
+        "restrntNm": "서해안식당",
+        "restrntAddr": "충청남도 서천군 장항읍 장서로47번길 21",
+        "restrntInqrTel": "041 956 7500",
+        "restrntDtlAddr": "충청남도 서천군 장항읍 창선2리 591 ",
+        "foodType": "한식",
+        "mapLat": "36.759029002346374",
+        "mapLot": "126.19687980297905"
+    },
+    {
+        "restrntNm": "왕갈비탕 왕돈가스",
+        "restrntAddr": "충청남도 서천군 마서면 장산로855번길 56",
+        "restrntInqrTel": " 041956 6711",
+        "restrntDtlAddr": "충청남도 서천군 마서면 도삼리 71-4 ",
+        "foodType": "한식",
+        "mapLat": "36.0202135272165",
+        "mapLot": "126.73669184844"
+    },
+    {
+        "restrntNm": "황궁",
+        "restrntAddr": "충청남도 서천군 장항읍 장항로161번길 22",
+        "restrntInqrTel": "     9561315",
+        "restrntDtlAddr": "충청남도 서천군 장항읍 창선2리 623-1 ",
+        "foodType": "중식",
+        "mapLat": "35.8700012552997",
+        "mapLot": "128.729314858406"
+    },
+    {
+        "restrntNm": "마량포회집",
+        "restrntAddr": "충청남도 서천군 서면 서인로 297-1",
+        "restrntInqrTel": "041 952 8948",
+        "restrntDtlAddr": "충청남도 서천군 서면 마량리 85-6 ",
+        "foodType": "생선회",
+        "mapLat": "36.13210124413",
+        "mapLot": "126.500932228714"
+    },
+    {
+        "restrntNm": "채선정",
+        "restrntAddr": "충청남도 서천군 마서면 장서로 532",
+        "restrntInqrTel": "041 953 4888",
+        "restrntDtlAddr": "충청남도 서천군 마서면 덕암리 529-1 ",
+        "foodType": "한식",
+        "mapLat": "35.223625444516735",
+        "mapLot": "128.67893016623944"
+    },
+    {
+        "restrntNm": "예원",
+        "restrntAddr": "충청남도 서천군 판교면 종판로 882-8",
+        "restrntInqrTel": "0419513361",
+        "restrntDtlAddr": "충청남도 서천군 판교면 현암리 262-3 (1호) ",
+        "foodType": "한식",
+        "mapLat": "37.3866811922425",
+        "mapLot": "126.838268145579"
+    },
+    {
+        "restrntNm": "서천한우타운",
+        "restrntAddr": "충청남도 서천군 서천읍 충절로41번길 11-15",
+        "restrntInqrTel": "041 953 3377",
+        "restrntDtlAddr": "충청남도 서천군 서천읍 군사리 855-2 ",
+        "foodType": "한식",
+        "mapLat": "36.0762538972978",
+        "mapLot": "126.686690089965"
+    },
+    {
+        "restrntNm": "부경 한우 정육식당",
+        "restrntAddr": "충청남도 서천군 마서면 금강로 1117-13",
+        "restrntInqrTel": "041 956 9114",
+        "restrntDtlAddr": "충청남도 서천군 마서면 도삼리 570-1 ",
+        "foodType": "한식",
+        "mapLat": "36.0233352352923",
+        "mapLot": "126.728542778599"
+    },
+    {
+        "restrntNm": "콩실",
+        "restrntAddr": "충청남도 서천군 서면 서인로 1044-8",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": null,
+        "foodType": "한식",
+        "mapLat": "36.1506470397229",
+        "mapLot": "126.576491925006"
+    },
+    {
+        "restrntNm": "이화갈비",
+        "restrntAddr": "충청남도 서천군 서면 춘장대로 123-1",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": null,
+        "foodType": "한식",
+        "mapLat": "36.8402929297465",
+        "mapLot": "127.130263722573"
+    },
+    {
+        "restrntNm": "해돋이 회센타",
+        "restrntAddr": "충청남도 서천군 서면 서인로 299",
+        "restrntInqrTel": "041 951 9803",
+        "restrntDtlAddr": "충청남도 서천군 서면 마량리 86-2 ",
+        "foodType": "한식",
+        "mapLat": "36.14633723286",
+        "mapLot": "126.504548816431"
+    },
+    {
+        "restrntNm": "서산회관",
+        "restrntAddr": "충청남도 서천군 서면 서인로 318",
+        "restrntInqrTel": " 041 9517677",
+        "restrntDtlAddr": "충청남도 서천군 서면 마량리 81 ",
+        "foodType": "한식",
+        "mapLat": "36.147250830881326",
+        "mapLot": "126.50580422665466"
+    }
+]

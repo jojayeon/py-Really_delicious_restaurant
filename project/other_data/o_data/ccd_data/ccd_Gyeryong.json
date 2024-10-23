@@ -1,0 +1,155 @@
+[
+    {
+        "restrntNm": "향적산 한상",
+        "restrntAddr": "충청남도 계룡시 엄사면 광석향한길 223",
+        "restrntInqrTel": " 042 8415557",
+        "restrntDtlAddr": "충청남도 계룡시 엄사면 향한리 328-1 ",
+        "foodType": "한방오리백숙, 닭도리탕, 묵밥, 청국장",
+        "mapLat": "36.2810683067806",
+        "mapLot": "127.221475911384"
+    },
+    {
+        "restrntNm": "노적봉가든",
+        "restrntAddr": "충청남도 계룡시 엄사면 배나무골길 7",
+        "restrntInqrTel": " 042 8412633",
+        "restrntDtlAddr": "충청남도 계룡시 엄사면 유동리 129-9 ",
+        "foodType": null,
+        "mapLat": "36.02994738535509",
+        "mapLot": "129.34775069994507"
+    },
+    {
+        "restrntNm": "신도리 한우촌",
+        "restrntAddr": "충청남도 계룡시 엄사면 번영11길 4-57",
+        "restrntInqrTel": " 042 8417748",
+        "restrntDtlAddr": "충청남도 계룡시 엄사면 엄사리 340-5 ",
+        "foodType": "한식류",
+        "mapLat": "35.0473045718133",
+        "mapLot": "126.84701592338"
+    },
+    {
+        "restrntNm": "청향",
+        "restrntAddr": null,
+        "restrntInqrTel": " 042 8411093",
+        "restrntDtlAddr": "충청남도 계룡시 엄사면 엄사리 168-5 ",
+        "foodType": null,
+        "mapLat": "35.93667115444978",
+        "mapLot": "126.75821681661665"
+    },
+    {
+        "restrntNm": "국사봉",
+        "restrntAddr": "충청남도 계룡시 엄사면 번영8길 4-13",
+        "restrntInqrTel": " 042 8419440",
+        "restrntDtlAddr": "충청남도 계룡시 엄사면 엄사리 267-2 ",
+        "foodType": null,
+        "mapLat": "37.4928801470448",
+        "mapLot": "126.940063670369"
+    },
+    {
+        "restrntNm": "오후의 산책",
+        "restrntAddr": "충청남도 계룡시 엄사면 번영11길 25",
+        "restrntInqrTel": " 042 8410330",
+        "restrntDtlAddr": "충청남도 계룡시 엄사면 엄사리 396 ",
+        "foodType": null,
+        "mapLat": "36.28852485346106",
+        "mapLot": "127.23047795809197"
+    },
+    {
+        "restrntNm": "회동",
+        "restrntAddr": "충청남도 계룡시 엄사면 연화동길 19",
+        "restrntInqrTel": " 042 8411254",
+        "restrntDtlAddr": "충청남도 계룡시 엄사면 엄사리 6-6 ",
+        "foodType": null,
+        "mapLat": "35.2517601060546",
+        "mapLot": "129.135600501496"
+    },
+    {
+        "restrntNm": "계룡한우타운",
+        "restrntAddr": "충청남도 계룡시 엄사면 번영로 6",
+        "restrntInqrTel": "042  8408366",
+        "restrntDtlAddr": "충청남도 계룡시 엄사면 엄사리 284 ",
+        "foodType": null,
+        "mapLat": "36.2084834240478",
+        "mapLot": "127.220959848207"
+    },
+    {
+        "restrntNm": "이화수 전통육개장 계룡점",
+        "restrntAddr": "충청남도 계룡시 엄사면 계룡대로 486",
+        "restrntInqrTel": " 042 8413366",
+        "restrntDtlAddr": "충청남도 계룡시 엄사면 엄사리 73-1 ",
+        "foodType": null,
+        "mapLat": "36.2866751625328",
+        "mapLot": "127.24651945396"
+    },
+    {
+        "restrntNm": "미각",
+        "restrntAddr": "충청남도 계룡시 엄사면 엄사중앙로 5",
+        "restrntInqrTel": " 042 8406161",
+        "restrntDtlAddr": "충청남도 계룡시 엄사면 엄사리 226-37 ",
+        "foodType": null,
+        "mapLat": "37.61880327571286",
+        "mapLot": "126.91854803727303"
+    },
+    {
+        "restrntNm": "계룡휴게소(한식당)",
+        "restrntAddr": null,
+        "restrntInqrTel": "042 841 5250",
+        "restrntDtlAddr": "충청남도 계룡시 두마면 왕대리 5-1 ",
+        "foodType": null,
+        "mapLat": "36.3058137164396",
+        "mapLot": "127.349837873068"
+    },
+    {
+        "restrntNm": "용인토종순대국",
+        "restrntAddr": "충청남도 계룡시 엄사면 번영7길 8",
+        "restrntInqrTel": "042 841 1668",
+        "restrntDtlAddr": "충청남도 계룡시 엄사면 엄사리 318-1 ",
+        "foodType": null,
+        "mapLat": "36.2870157498795",
+        "mapLot": "127.236738264561"
+    },
+    {
+        "restrntNm": "복고풍",
+        "restrntAddr": "충청남도 계룡시 장안로 31, 3층 (금암동)",
+        "restrntInqrTel": "042 551 5678",
+        "restrntDtlAddr": "충청남도 계룡시 금암동 161-8 ",
+        "foodType": null,
+        "mapLat": "37.54101958095724",
+        "mapLot": "126.94907049011894"
+    },
+    {
+        "restrntNm": "콩밭가인",
+        "restrntAddr": "충청남도 계룡시 새터산길 12 (금암동)",
+        "restrntInqrTel": "042 841 6776",
+        "restrntDtlAddr": "충청남도 계룡시 금암동 6-9 ",
+        "foodType": null,
+        "mapLat": "36.4813568823008",
+        "mapLot": "127.290057145187"
+    },
+    {
+        "restrntNm": "돼지나라",
+        "restrntAddr": "충청남도 계룡시 계룡대로 307, 1층 (금암동)",
+        "restrntInqrTel": "042 551 3674",
+        "restrntDtlAddr": "충청남도 계룡시 금암동 146-2 ",
+        "foodType": null,
+        "mapLat": "37.82377962725712",
+        "mapLot": "127.5141379614717"
+    },
+    {
+        "restrntNm": "예사랑 막국수",
+        "restrntAddr": "충청남도 계룡시 계룡대로 263 (금암동)",
+        "restrntInqrTel": "042 841 7171",
+        "restrntDtlAddr": "충청남도 계룡시 금암동 67-2 ",
+        "foodType": null,
+        "mapLat": "36.2701399170913",
+        "mapLot": "127.258575804149"
+    },
+    {
+        "restrntNm": "장원복집",
+        "restrntAddr": "충청남도 계룡시 엄사면 평리길 71",
+        "restrntInqrTel": "842 841 7804",
+        "restrntDtlAddr": "충청남도 계룡시 엄사면 엄사리 95-12 ",
+        "foodType": null,
+        "mapLat": "35.1686281880087",
+        "mapLot": "128.113638646671"
+    }
+]

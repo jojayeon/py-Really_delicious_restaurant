@@ -1,0 +1,695 @@
+[
+    {
+        "restrntNm": "초담",
+        "restrntAddr": "충청남도 보령시 수산길 10-3 (대천동)",
+        "restrntInqrTel": "041 935 3710",
+        "restrntDtlAddr": "충청남도 보령시 대천동 208-4 ",
+        "foodType": "한식",
+        "mapLat": "35.82365382855789",
+        "mapLot": "128.63777173516357"
+    },
+    {
+        "restrntNm": "화현관광농원",
+        "restrntAddr": "충청남도 보령시 대청로 401 (화산동)",
+        "restrntInqrTel": "041 932 9952",
+        "restrntDtlAddr": "충청남도 보령시 화산동 525-12 ",
+        "foodType": "한식",
+        "mapLat": "36.3723621370586",
+        "mapLot": "126.626660290985"
+    },
+    {
+        "restrntNm": "월산숯불갈비",
+        "restrntAddr": "충청남도 보령시 신설2길 51 (동대동)",
+        "restrntInqrTel": "041 936 3773",
+        "restrntDtlAddr": "충청남도 보령시 동대동 1145 ",
+        "foodType": null,
+        "mapLat": "35.1465742660421",
+        "mapLot": "126.886595466517"
+    },
+    {
+        "restrntNm": "대천농원",
+        "restrntAddr": "충청남도 보령시 대천항로 52 (신흑동)",
+        "restrntInqrTel": "041 934 8542",
+        "restrntDtlAddr": "충청남도 보령시 신흑동 683 ",
+        "foodType": null,
+        "mapLat": "36.4045712625411",
+        "mapLot": "126.571238555425"
+    },
+    {
+        "restrntNm": "모카브레드",
+        "restrntAddr": "충청남도 보령시 해수욕장4길 84 (신흑동)",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 보령시 신흑동 1917 ",
+        "foodType": null,
+        "mapLat": "36.3087172216456",
+        "mapLot": "126.515125528403"
+    },
+    {
+        "restrntNm": "지구촌가든",
+        "restrntAddr": "충청남도 보령시 대해로 409 (남곡동)",
+        "restrntInqrTel": "041 935 2456",
+        "restrntDtlAddr": "충청남도 보령시 남곡동 569-1 ",
+        "foodType": "한식",
+        "mapLat": "36.7227464899657",
+        "mapLot": "129.34155974215"
+    },
+    {
+        "restrntNm": "파스쿠찌대천해수욕장점",
+        "restrntAddr": "충청남도 보령시 해수욕장4길 18 (신흑동)",
+        "restrntInqrTel": "070 44002207",
+        "restrntDtlAddr": "충청남도 보령시 신흑동 1982 ",
+        "foodType": null,
+        "mapLat": "36.30592362246025",
+        "mapLot": "126.51647333444019"
+    },
+    {
+        "restrntNm": "삼선횟집",
+        "restrntAddr": "충청남도 보령시 신설1길 89, 2층 (동대동)",
+        "restrntInqrTel": "041 934 7869",
+        "restrntDtlAddr": null,
+        "foodType": null,
+        "mapLat": "36.352032838917275",
+        "mapLot": "126.60707084900936"
+    },
+    {
+        "restrntNm": "해변횟집",
+        "restrntAddr": "충청남도 보령시 웅천읍 열린바다로 294",
+        "restrntInqrTel": "041 936 3765",
+        "restrntDtlAddr": "충청남도 보령시 웅천읍 관당리 797-21 ",
+        "foodType": null,
+        "mapLat": "33.4658937835487",
+        "mapLot": "126.323484068127"
+    },
+    {
+        "restrntNm": "천지",
+        "restrntAddr": "충청남도 보령시 해수욕장4길 42 (신흑동)",
+        "restrntInqrTel": "041 933 8833",
+        "restrntDtlAddr": "충청남도 보령시 신흑동 1927 ",
+        "foodType": null,
+        "mapLat": "35.12476215070688",
+        "mapLot": "126.85005171791596"
+    },
+    {
+        "restrntNm": "동우회센타",
+        "restrntAddr": "충청남도 보령시 해수욕장4길 10 (신흑동)",
+        "restrntInqrTel": "041 931 2220",
+        "restrntDtlAddr": "충청남도 보령시 신흑동 1980 ",
+        "foodType": null,
+        "mapLat": "36.3056014275241",
+        "mapLot": "126.516578869138"
+    },
+    {
+        "restrntNm": "조개톡톡",
+        "restrntAddr": "충청남도 보령시 해수욕장4길 12 (신흑동)",
+        "restrntInqrTel": "041 932 9981",
+        "restrntDtlAddr": "충청남도 보령시 신흑동 1981 ",
+        "foodType": null,
+        "mapLat": "36.3057671500963",
+        "mapLot": "126.516555578341"
+    },
+    {
+        "restrntNm": "갯푸름",
+        "restrntAddr": "충청남도 보령시 웅천읍 열린바다로 334-15",
+        "restrntInqrTel": "041 936 3394",
+        "restrntDtlAddr": "충청남도 보령시 웅천읍 관당리 818-16 ",
+        "foodType": "일식",
+        "mapLat": "36.24224769296298",
+        "mapLot": "126.53484374300132"
+    },
+    {
+        "restrntNm": "고향산천",
+        "restrntAddr": "충청남도 보령시 웅천읍 만수로 281-7",
+        "restrntInqrTel": "041 932 1793",
+        "restrntDtlAddr": "충청남도 보령시 웅천읍 수부리 742-9 ",
+        "foodType": null,
+        "mapLat": "37.6240306737702",
+        "mapLot": "127.026674527465"
+    },
+    {
+        "restrntNm": "대천간장게장",
+        "restrntAddr": "충청남도 보령시 신설1길 79 (동대동)",
+        "restrntInqrTel": "041 932 0708",
+        "restrntDtlAddr": "충청남도 보령시 동대동 1044 ",
+        "foodType": "한식",
+        "mapLat": "36.35158532454552",
+        "mapLot": "126.60663527543373"
+    },
+    {
+        "restrntNm": "도화담",
+        "restrntAddr": "충청남도 보령시 큰오랏3길 30 (동대동)",
+        "restrntInqrTel": "041 931 1114",
+        "restrntDtlAddr": "충청남도 보령시 동대동 1641 ",
+        "foodType": "한식",
+        "mapLat": "36.2933443611345",
+        "mapLot": "126.676522211711"
+    },
+    {
+        "restrntNm": "원조설악추어탕",
+        "restrntAddr": "충청남도 보령시 행복로 11-1 (대천동)",
+        "restrntInqrTel": "041 935 6055",
+        "restrntDtlAddr": "충청남도 보령시 대천동 439-23 ",
+        "foodType": "한식",
+        "mapLat": "37.3425063499342",
+        "mapLot": "126.938111405107"
+    },
+    {
+        "restrntNm": "미산한우촌가든",
+        "restrntAddr": "충청남도 보령시 미산면 판미로 1497",
+        "restrntInqrTel": "041 933 4077",
+        "restrntDtlAddr": "충청남도 보령시 미산면 도화담리 130 ",
+        "foodType": "한식",
+        "mapLat": "36.29241781159222",
+        "mapLot": "126.67614086495577"
+    },
+    {
+        "restrntNm": "시골돌솥쌈밥",
+        "restrntAddr": "충청남도 보령시 큰오랏6길 51 (동대동)",
+        "restrntInqrTel": "041 935 9315",
+        "restrntDtlAddr": "충청남도 보령시 동대동 1463 ",
+        "foodType": "한식",
+        "mapLat": "36.3491317485683",
+        "mapLot": "126.608104752611"
+    },
+    {
+        "restrntNm": "대천산호횟집",
+        "restrntAddr": "충청남도 보령시 해수욕장4길 46 (신흑동)",
+        "restrntInqrTel": "041 934 3635",
+        "restrntDtlAddr": "충청남도 보령시 신흑동 1928 ",
+        "foodType": null,
+        "mapLat": "36.3071306344181",
+        "mapLot": "126.51588802004"
+    },
+    {
+        "restrntNm": "청해횟집",
+        "restrntAddr": "충청남도 보령시 해수욕장4길 100 (신흑동)",
+        "restrntInqrTel": "041 933 3111",
+        "restrntDtlAddr": "충청남도 보령시 신흑동 1874 ",
+        "foodType": null,
+        "mapLat": "36.3094148371253",
+        "mapLot": "126.514707006517"
+    },
+    {
+        "restrntNm": "옛촌",
+        "restrntAddr": "충청남도 보령시 큰오랏3길 35 (동대동,1646)",
+        "restrntInqrTel": "041 932 5292",
+        "restrntDtlAddr": "충청남도 보령시 동대동 1645 1646 ",
+        "foodType": "한식",
+        "mapLat": "35.8263346072008",
+        "mapLot": "127.114089073853"
+    },
+    {
+        "restrntNm": "가든터",
+        "restrntAddr": "충청남도 보령시 천북면 홍보로 666",
+        "restrntInqrTel": "041 641 8921",
+        "restrntDtlAddr": "충청남도 보령시 천북면 장은리 115 ",
+        "foodType": "한식",
+        "mapLat": "36.4959619076207",
+        "mapLot": "126.52341206491"
+    },
+    {
+        "restrntNm": "다포회타운",
+        "restrntAddr": "충청남도 보령시 해수욕장4길 54 (신흑동)",
+        "restrntInqrTel": "041 931 3111",
+        "restrntDtlAddr": "충청남도 보령시 신흑동 1921-1 ",
+        "foodType": null,
+        "mapLat": "36.3074798136732",
+        "mapLot": "126.515770065909"
+    },
+    {
+        "restrntNm": "대천횟집",
+        "restrntAddr": "충청남도 보령시 해수욕장4길 56 (신흑동)",
+        "restrntInqrTel": " 041 9337121",
+        "restrntDtlAddr": "충청남도 보령시 신흑동 1921 ",
+        "foodType": null,
+        "mapLat": "36.30753626623083",
+        "mapLot": "126.51569066397157"
+    },
+    {
+        "restrntNm": "동문가든",
+        "restrntAddr": "충청남도 보령시 오천면 충청수영로 729",
+        "restrntInqrTel": " 041 9339671",
+        "restrntDtlAddr": "충청남도 보령시 오천면 소성리 117 ",
+        "foodType": "한식",
+        "mapLat": "36.43533220068956",
+        "mapLot": "126.52793619042436"
+    },
+    {
+        "restrntNm": "모아회집",
+        "restrntAddr": "충청남도 보령시 해수욕장4길 92, 1층 (신흑동)",
+        "restrntInqrTel": " 041 9348186",
+        "restrntDtlAddr": "충청남도 보령시 신흑동 1871 ",
+        "foodType": "일식",
+        "mapLat": "36.3090408605003",
+        "mapLot": "126.514932012495"
+    },
+    {
+        "restrntNm": "해녀횟집",
+        "restrntAddr": "충청남도 보령시 해수욕장4길 130 (신흑동)",
+        "restrntInqrTel": " 041 9346822",
+        "restrntDtlAddr": "충청남도 보령시 신흑동 1783 ",
+        "foodType": null,
+        "mapLat": "36.3106374219255",
+        "mapLot": "126.513964543022"
+    },
+    {
+        "restrntNm": "애즈유라이크(As you like)",
+        "restrntAddr": "충청남도 보령시 해안로 475 (남곡동)",
+        "restrntInqrTel": "041 931 5531",
+        "restrntDtlAddr": "충청남도 보령시 남곡동 772-9 ",
+        "foodType": "양식",
+        "mapLat": "36.34068978624609",
+        "mapLot": "126.54604068776597"
+    },
+    {
+        "restrntNm": "통나무집사람들",
+        "restrntAddr": "충청남도 보령시 해안로 353 (남곡동)",
+        "restrntInqrTel": " 041 9326666",
+        "restrntDtlAddr": "충청남도 보령시 남곡동 815-18 ",
+        "foodType": null,
+        "mapLat": "36.7908453144556",
+        "mapLot": "126.266582528282"
+    },
+    {
+        "restrntNm": "피사레스토랑",
+        "restrntAddr": "충청남도 보령시 주공로 11 (동대동)",
+        "restrntInqrTel": " 041 9355520",
+        "restrntDtlAddr": "충청남도 보령시 동대동 1927 ",
+        "foodType": null,
+        "mapLat": "36.3452347458778",
+        "mapLot": "126.602550017364"
+    },
+    {
+        "restrntNm": "맛나감자탕",
+        "restrntAddr": "충청남도 보령시 주공로 23 (동대동)",
+        "restrntInqrTel": " 041 9361470",
+        "restrntDtlAddr": "충청남도 보령시 동대동 1905-1 ",
+        "foodType": null,
+        "mapLat": "36.7728901471283",
+        "mapLot": "127.069877908631"
+    },
+    {
+        "restrntNm": "일억조",
+        "restrntAddr": null,
+        "restrntInqrTel": "041 934 6697",
+        "restrntDtlAddr": "충청남도 보령시 신흑동 1994-1 ",
+        "foodType": null,
+        "mapLat": "33.411272617518335",
+        "mapLot": "126.26755438707005"
+    },
+    {
+        "restrntNm": "대전횟집",
+        "restrntAddr": "충청남도 보령시 대해로 897-11 (신흑동)",
+        "restrntInqrTel": "041 932 6020",
+        "restrntDtlAddr": "충청남도 보령시 신흑동 1994 ",
+        "foodType": null,
+        "mapLat": "36.4383365413524",
+        "mapLot": "126.518429132149"
+    },
+    {
+        "restrntNm": "한양회관",
+        "restrntAddr": "충청남도 보령시 원동1길 53 (대천동)",
+        "restrntInqrTel": "041 932 3456",
+        "restrntDtlAddr": "충청남도 보령시 대천동 110-3 ",
+        "foodType": null,
+        "mapLat": "35.9753002092411",
+        "mapLot": "127.205929901165"
+    },
+    {
+        "restrntNm": "농어민후계자횟집",
+        "restrntAddr": "충청남도 보령시 큰오랏1길 80 (동대동)",
+        "restrntInqrTel": "041 932 2767",
+        "restrntDtlAddr": "충청남도 보령시 동대동 1390 ",
+        "foodType": "한식",
+        "mapLat": "36.3510440424724",
+        "mapLot": "126.607555971051"
+    },
+    {
+        "restrntNm": "천수횟집",
+        "restrntAddr": "충청남도 보령시 해수욕장4길 34 (신흑동)",
+        "restrntInqrTel": " 041 9348400",
+        "restrntDtlAddr": "충청남도 보령시 신흑동 1972 ",
+        "foodType": null,
+        "mapLat": "37.50932952860327",
+        "mapLot": "127.08530845365058"
+    },
+    {
+        "restrntNm": "서해바다",
+        "restrntAddr": "충청남도 보령시 해수욕장10길 60-6 (신흑동)",
+        "restrntInqrTel": " 041 9342292",
+        "restrntDtlAddr": "충청남도 보령시 신흑동 2223-1 ",
+        "foodType": null,
+        "mapLat": "36.31933873094989",
+        "mapLot": "126.50790716828817"
+    },
+    {
+        "restrntNm": "조개회세상",
+        "restrntAddr": "충청남도 보령시 해수욕장4길 126 (신흑동)",
+        "restrntInqrTel": " 041 9321900",
+        "restrntDtlAddr": "충청남도 보령시 신흑동 1865 ",
+        "foodType": null,
+        "mapLat": "36.3104509412571",
+        "mapLot": "126.514201754479"
+    },
+    {
+        "restrntNm": "TBG더본감자탕",
+        "restrntAddr": "충청남도 보령시 희망1길 12 (동대동)",
+        "restrntInqrTel": "041 936 8255",
+        "restrntDtlAddr": "충청남도 보령시 동대동 1234 ",
+        "foodType": null,
+        "mapLat": "35.97642304665237",
+        "mapLot": "126.67439647481706"
+    },
+    {
+        "restrntNm": "무진장횟집",
+        "restrntAddr": "충청남도 보령시 해수욕장4길 12 (신흑동)",
+        "restrntInqrTel": " 041 9322700",
+        "restrntDtlAddr": "충청남도 보령시 신흑동 1981 ",
+        "foodType": null,
+        "mapLat": "35.2169486612168",
+        "mapLot": "129.226130811856"
+    },
+    {
+        "restrntNm": "대화식당",
+        "restrntAddr": "충청남도 보령시 큰오랏6길 45 (동대동)",
+        "restrntInqrTel": "041 932 5109",
+        "restrntDtlAddr": "충청남도 보령시 동대동 1465 ",
+        "foodType": null,
+        "mapLat": "36.03575372054295",
+        "mapLot": "129.3682943584454"
+    },
+    {
+        "restrntNm": "이가네갈비",
+        "restrntAddr": "충청남도 보령시 해태로 20 (대천동)",
+        "restrntInqrTel": "041 931 5336",
+        "restrntDtlAddr": "충청남도 보령시 대천동 425-8 ",
+        "foodType": null,
+        "mapLat": "37.5625247723587",
+        "mapLot": "127.001014129213"
+    },
+    {
+        "restrntNm": "황토갈비",
+        "restrntAddr": "충청남도 보령시 큰오랏6길 69 (동대동)",
+        "restrntInqrTel": "041 936 6075",
+        "restrntDtlAddr": "충청남도 보령시 동대동 1492 ",
+        "foodType": "한식",
+        "mapLat": "35.5669845431859",
+        "mapLot": "129.332531788986"
+    },
+    {
+        "restrntNm": "신토불이(보령점)",
+        "restrntAddr": "충청남도 보령시 여상길 43-8 (내항동)",
+        "restrntInqrTel": " 041 9315279",
+        "restrntDtlAddr": "충청남도 보령시 내항동 472 ",
+        "foodType": "한식",
+        "mapLat": "36.23269266978018",
+        "mapLot": "126.60105803480616"
+    },
+    {
+        "restrntNm": "대영횟집",
+        "restrntAddr": "충청남도 보령시 오천면 오천해안로 781-17",
+        "restrntInqrTel": " 041 9322989",
+        "restrntDtlAddr": "충청남도 보령시 오천면 소성리 700-72 ",
+        "foodType": null,
+        "mapLat": "35.155040779839226",
+        "mapLot": "129.13165116906922"
+    },
+    {
+        "restrntNm": "세영숯불갈비",
+        "restrntAddr": "충청남도 보령시 보령남로 49-3, 주2동 1층 (명천동)",
+        "restrntInqrTel": " 041 9322686",
+        "restrntDtlAddr": "충청남도 보령시 명천동 442-5 ",
+        "foodType": "한식",
+        "mapLat": "36.34075103594792",
+        "mapLot": "126.60108908906072"
+    },
+    {
+        "restrntNm": "어심",
+        "restrntAddr": "충청남도 보령시 웅천읍 열린바다1길 45",
+        "restrntInqrTel": "041 936 5711",
+        "restrntDtlAddr": "충청남도 보령시 웅천읍 관당리 818-3 ",
+        "foodType": null,
+        "mapLat": "37.573467723814744",
+        "mapLot": "126.98863578945182"
+    },
+    {
+        "restrntNm": "샤브향대천점",
+        "restrntAddr": "충청남도 보령시 보령북로 24 (동대동)",
+        "restrntInqrTel": " 041 9350811",
+        "restrntDtlAddr": "충청남도 보령시 동대동 1211 ",
+        "foodType": null,
+        "mapLat": "36.3499576371109",
+        "mapLot": "126.602771099648"
+    },
+    {
+        "restrntNm": "조선시대누룽지백숙",
+        "restrntAddr": "충청남도 보령시 희망2길 10 (동대동)",
+        "restrntInqrTel": "041 931 7244",
+        "restrntDtlAddr": "충청남도 보령시 동대동 1251 ",
+        "foodType": null,
+        "mapLat": "36.3488053819854",
+        "mapLot": "126.603146804958"
+    },
+    {
+        "restrntNm": "시월애레스토랑",
+        "restrntAddr": "충청남도 보령시 천북면 홍보로 1061-166, 3층동",
+        "restrntInqrTel": " 041 6410240",
+        "restrntDtlAddr": "충청남도 보령시 천북면 사호리 778-5 3층동 ",
+        "foodType": "양식",
+        "mapLat": "37.6520884103565",
+        "mapLot": "126.334555623413"
+    },
+    {
+        "restrntNm": "명가",
+        "restrntAddr": "충청남도 보령시 목장2길 31 (동대동)",
+        "restrntInqrTel": "041 936 3338",
+        "restrntDtlAddr": "충청남도 보령시 동대동 814-4 ",
+        "foodType": null,
+        "mapLat": "37.3434082041476",
+        "mapLot": "126.985030995997"
+    },
+    {
+        "restrntNm": "취성",
+        "restrntAddr": "충청남도 보령시 큰오랏1길 56 (동대동)",
+        "restrntInqrTel": " 041 9346060",
+        "restrntDtlAddr": "충청남도 보령시 동대동 1396 ",
+        "foodType": null,
+        "mapLat": "35.4131591403362",
+        "mapLot": "126.671912911192"
+    },
+    {
+        "restrntNm": "고구려",
+        "restrntAddr": "충청남도 보령시 큰오랏2길 26 (동대동)",
+        "restrntInqrTel": "041 935 5272",
+        "restrntDtlAddr": "충청남도 보령시 동대동 1644 ",
+        "foodType": null,
+        "mapLat": "36.7562146379293",
+        "mapLot": "126.970255905838"
+    },
+    {
+        "restrntNm": "연경",
+        "restrntAddr": "충청남도 보령시 보령북로 60 (대천동)",
+        "restrntInqrTel": " 041 9362332",
+        "restrntDtlAddr": "충청남도 보령시 대천동 107-8 ",
+        "foodType": null,
+        "mapLat": "35.18048450101012",
+        "mapLot": "126.80304944757955"
+    },
+    {
+        "restrntNm": "가마솥불곰탕",
+        "restrntAddr": "충청남도 보령시 안소래길 15 (내항동)",
+        "restrntInqrTel": " 041 9314066",
+        "restrntDtlAddr": "충청남도 보령시 내항동 919-7 ",
+        "foodType": null,
+        "mapLat": "36.34793594074097",
+        "mapLot": "126.57061798314119"
+    },
+    {
+        "restrntNm": "할매",
+        "restrntAddr": "충청남도 보령시 천변북길 81 (대천동)",
+        "restrntInqrTel": "041 932 7322",
+        "restrntDtlAddr": "충청남도 보령시 대천동 618-510 ",
+        "foodType": null,
+        "mapLat": "37.57707546781634",
+        "mapLot": "127.03069016915066"
+    },
+    {
+        "restrntNm": "천북친환경식당",
+        "restrntAddr": "충청남도 보령시 천북면 홍보로 504-1",
+        "restrntInqrTel": " 041 6419460",
+        "restrntDtlAddr": "충청남도 보령시 천북면 하만리 275-8 ",
+        "foodType": null,
+        "mapLat": "36.4822248012267",
+        "mapLot": "126.52704482406"
+    },
+    {
+        "restrntNm": "하루",
+        "restrntAddr": "충청남도 보령시 웅천읍 충서로 896",
+        "restrntInqrTel": " 041 9332826",
+        "restrntDtlAddr": "충청남도 보령시 웅천읍 대창리 750-5 ",
+        "foodType": null,
+        "mapLat": "37.496786435759205",
+        "mapLot": "126.74585575576114"
+    },
+    {
+        "restrntNm": "복나라",
+        "restrntAddr": "충청남도 보령시 큰오랏4길 4 (동대동)",
+        "restrntInqrTel": "041 934 4985",
+        "restrntDtlAddr": "충청남도 보령시 동대동 1631 ",
+        "foodType": "한식",
+        "mapLat": "36.3480233985536",
+        "mapLot": "126.606488321099"
+    },
+    {
+        "restrntNm": "별난본감자탕",
+        "restrntAddr": "충청남도 보령시 명천로 30 (명천동)",
+        "restrntInqrTel": "041 931 9200",
+        "restrntDtlAddr": "충청남도 보령시 명천동 149-7 ",
+        "foodType": "한식",
+        "mapLat": "36.34061278469295",
+        "mapLot": "126.61109257781499"
+    },
+    {
+        "restrntNm": "제이푸드",
+        "restrntAddr": "충청남도 보령시 작은오랏3길 46 (동대동)",
+        "restrntInqrTel": "041 931 9933",
+        "restrntDtlAddr": "충청남도 보령시 동대동 1789 ",
+        "foodType": null,
+        "mapLat": "35.216718039399474",
+        "mapLot": "128.98481698544228"
+    },
+    {
+        "restrntNm": "주렴산한우",
+        "restrntAddr": "충청남도 보령시 큰오랏1길 14-27 (동대동)",
+        "restrntInqrTel": "041 933 1239",
+        "restrntDtlAddr": "충청남도 보령시 동대동 1638 ",
+        "foodType": "한식",
+        "mapLat": "36.3481382773929",
+        "mapLot": "126.606345150645"
+    },
+    {
+        "restrntNm": "대명정누룽지백숙",
+        "restrntAddr": "충청남도 보령시 한내로 154 (명천동)",
+        "restrntInqrTel": "041 933 7285",
+        "restrntDtlAddr": "충청남도 보령시 명천동 41-15 ",
+        "foodType": null,
+        "mapLat": "36.339685582579",
+        "mapLot": "126.617548797118"
+    },
+    {
+        "restrntNm": "도래전복바지락칼국수",
+        "restrntAddr": "충청남도 보령시 대해로 443 (요암동)",
+        "restrntInqrTel": "041 933 8000",
+        "restrntDtlAddr": "충청남도 보령시 요암동 99-5 ",
+        "foodType": "한식",
+        "mapLat": "36.32725058367265",
+        "mapLot": "126.55855649357488"
+    },
+    {
+        "restrntNm": "봉일식",
+        "restrntAddr": "충청남도 보령시 옥마역길 81 (명천동)",
+        "restrntInqrTel": "041 934 9934",
+        "restrntDtlAddr": "충청남도 보령시 명천동 14-16 ",
+        "foodType": "한식",
+        "mapLat": "36.333220321158",
+        "mapLot": "126.62030696181"
+    },
+    {
+        "restrntNm": "대성회식당",
+        "restrntAddr": "충청남도 보령시 해수욕장10길 6 (신흑동)",
+        "restrntInqrTel": "041 934 0232",
+        "restrntDtlAddr": "충청남도 보령시 신흑동 2266-3 가-102,201 ",
+        "foodType": null,
+        "mapLat": "34.31893953381149",
+        "mapLot": "126.7494681167755"
+    },
+    {
+        "restrntNm": "대박갈비탕.국밥",
+        "restrntAddr": "충청남도 보령시 터미널길 24-6 (궁촌동)",
+        "restrntInqrTel": "041 935 1513",
+        "restrntDtlAddr": "충청남도 보령시 궁촌동 342-2 ",
+        "foodType": "한식",
+        "mapLat": "36.343341334178405",
+        "mapLot": "126.58895070521358"
+    },
+    {
+        "restrntNm": "서울왕족발",
+        "restrntAddr": "충청남도 보령시 지장골길 32 (죽정동)",
+        "restrntInqrTel": "041 933 9990",
+        "restrntDtlAddr": "충청남도 보령시 죽정동 689 ",
+        "foodType": "한식",
+        "mapLat": "35.8788080526312",
+        "mapLot": "128.598650976112"
+    },
+    {
+        "restrntNm": "태조한우",
+        "restrntAddr": "충청남도 보령시 옥마역길 81, 2층 (명천동)",
+        "restrntInqrTel": "041 934 9577",
+        "restrntDtlAddr": "충청남도 보령시 명천동 14-16 ",
+        "foodType": "한식",
+        "mapLat": "36.33323193013222",
+        "mapLot": "126.62027349173881"
+    },
+    {
+        "restrntNm": "그레지오",
+        "restrntAddr": "충청남도 보령시 한내로 45 (동대동)",
+        "restrntInqrTel": "041 931 8885",
+        "restrntDtlAddr": "충청남도 보령시 동대동 502-12 ",
+        "foodType": "양식",
+        "mapLat": "36.3463320819405",
+        "mapLot": "126.608466343314"
+    },
+    {
+        "restrntNm": "진추어탕",
+        "restrntAddr": "충청남도 보령시 신설1길 89 (동대동)",
+        "restrntInqrTel": "041 936 3161",
+        "restrntDtlAddr": "충청남도 보령시 동대동 1041 ",
+        "foodType": "한식",
+        "mapLat": "35.48945086971596",
+        "mapLot": "129.30493462871127"
+    },
+    {
+        "restrntNm": "보령축협한우프라자",
+        "restrntAddr": "충청남도 보령시 주공로 52-1 (명천동)",
+        "restrntInqrTel": "041 933 5858",
+        "restrntDtlAddr": "충청남도 보령시 명천동 414-6 ",
+        "foodType": "한식",
+        "mapLat": "36.34079322769772",
+        "mapLot": "126.60347707153127"
+    },
+    {
+        "restrntNm": "보리&보리",
+        "restrntAddr": "충청남도 보령시 한내로터리길 41 (동대동)",
+        "restrntInqrTel": "041 932 5951",
+        "restrntDtlAddr": "충청남도 보령시 동대동 424 ",
+        "foodType": "한식",
+        "mapLat": "35.5898829538558",
+        "mapLot": "129.233014820392"
+    },
+    {
+        "restrntNm": "주식회사 차이나유",
+        "restrntAddr": "충청남도 보령시 구시2길 48 (대천동)",
+        "restrntInqrTel": "041 933 2100",
+        "restrntDtlAddr": "충청남도 보령시 대천동 235-1 ",
+        "foodType": "중식",
+        "mapLat": "36.346200406797365",
+        "mapLot": "126.59491660891265"
+    },
+    {
+        "restrntNm": "민형식당",
+        "restrntAddr": "충청남도 보령시 머드로 18 (신흑동)",
+        "restrntInqrTel": "041 935 0727",
+        "restrntDtlAddr": "충청남도 보령시 신흑동 1941-1 ",
+        "foodType": "한식",
+        "mapLat": "36.307634284125",
+        "mapLot": "126.517421429757"
+    },
+    {
+        "restrntNm": "바오바오",
+        "restrntAddr": "충청남도 보령시 목장길 63 (동대동)",
+        "restrntInqrTel": "041 933 1211",
+        "restrntDtlAddr": "충청남도 보령시 동대동 983-83 ",
+        "foodType": "중식",
+        "mapLat": "37.513219585085",
+        "mapLot": "127.055980183557"
+    }
+]
