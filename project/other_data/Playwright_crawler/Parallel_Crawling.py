@@ -18,7 +18,9 @@ chrome_options.add_argument("--user-data-dir=C:/Users/USER/AppData/Local/Google/
 chrome_options.add_argument("--profile-directory=Default") 
 
 # JSON 파일에서 식당 이름 로드
-with open('C:/Users/USER/py-Really_delicious_restaurant/project/other_data/o_data/restaurant_coordinates.json', 'r', encoding='utf-8') as f:
+
+my_url = "C:/Users/Administrator/jojayeon/py-Really_delicious_restaurant/project/other_data/o_data/ccd_data/ccd_Asan.json"
+with open(my_url, 'r', encoding='utf-8') as f:
     restaurants = json.load(f)
 
 # 결과를 저장할 리스트
