@@ -25,7 +25,8 @@ driver = webdriver.Chrome(service=service, options=chrome_options)
 
 # JSON 파일에서 식당 이름 로드
 # C:/Users/USER/py-Really_delicious_restaurant/project/other_data/o_data/restaurant_coordinates.json
-with open('C:/Users/USER/py-Really_delicious_restaurant/project/other_data/o_data/restaurant_coordinates.json', 'r', encoding='utf-8') as f:
+# C:\Users\USER\py-Really_delicious_restaurant\project\other_data\o_data\ccd_data\ccd_Asan.json
+with open('C:/Users/USER/py-Really_delicious_restaurant/project/other_data/o_data/ccd_data/ccd_Asan.json', 'r', encoding='utf-8') as f:
     restaurants = json.load(f)
 
 # 결과를 저장할 리스트
@@ -99,7 +100,7 @@ for restaurant in restaurants:  # 리스트를 순회
 
 # JSON 파일로 저장
 
-save_directory = './o_data/'  # 현재 디렉토리의 ab 폴더
+save_directory = './ccd_crawler_data/'  # 현재 디렉토리의 ab 폴더
 os.makedirs(save_directory, exist_ok=True)  # ab 폴더가 없으면 생성
 
 with open(os.path.join(save_directory, 'restaurant_reviews.json'), 'w', encoding='utf-8') as outfile:
