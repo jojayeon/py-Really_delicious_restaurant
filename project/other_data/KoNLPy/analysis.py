@@ -38,7 +38,7 @@ for restaurant in results:
     # 리뷰 개수
     review_count = len(restaurant['reviews'])
     
-    # 리뷰 개수가 5개 이상인 경우에만 평점 비교
+    # 리뷰 개수가 6개 이상인 경우에만 평점 비교
     if review_count >= 6:
         # 평점 비교
         if rating > highest_rating:
