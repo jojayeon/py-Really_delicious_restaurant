@@ -1,7 +1,7 @@
 import json
 
 # JSON 파일 경로
-json_file_path = 'C:/Users/Administrator/jojayeon/py-Really_delicious_restaurant/project/other_data/add_data/merged_data.json'  # 여기에 JSON 파일 경로를 입력하세요.
+json_file_path = 'C:/Users/Administrator/jojayeon/py-Really_delicious_restaurant/project/other_data/add_data/merged_data.json'
 
 # 레스토랑 이름 배열
 restaurants_to_remove = [
@@ -52,13 +52,16 @@ restaurants_to_remove = [
 with open(json_file_path, 'r', encoding='utf-8') as file:
     data = json.load(file)
 
-# 레스토랑 이름이 포함된 항목 제거
-filtered_data = [restaurant for restaurant in data if restaurant['restaurant_name'] not in restaurants_to_remove]
+# 레스토랑 이름이 포함된 항목 제거 (부분 일치)
+filtered_data = [
+    restaurant for restaurant in data
+    if not any(restaurant_name in restaurant['restaurant_name'] for restaurant_name in restaurants_to_remove)
+]
 
-# 결과 출력 (또는 필요한 작업 진행)
+# 결과 출력
 print(filtered_data)
 
-# 필터링된 데이터를 새로운 JSON 파일로 저장할 수도 있습니다.
-output_file_path = 'C:/Users/Administrator/jojayeon/py-Really_delicious_restaurant/project/other_data/o_data/filtered_data.json'  # 여기에 출력할 JSON 파일 경로를 입력하세요.
+# 필터링된 데이터를 새로운 JSON 파일로 저장
+output_file_path = 'C:/Users/Administrator/jojayeon/py-Really_delicious_restaurant/project/other_data/o_data/filtered_data.json'
 with open(output_file_path, 'w', encoding='utf-8') as output_file:
     json.dump(filtered_data, output_file, ensure_ascii=False, indent=4)
