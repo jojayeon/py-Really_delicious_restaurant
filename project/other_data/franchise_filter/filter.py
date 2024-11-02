@@ -1,7 +1,8 @@
 import json
 
 # JSON 파일 경로
-json_file_path = 'C:/Users/Administrator/jojayeon/py-Really_delicious_restaurant/project/other_data/add_data/merged_data.json'
+# json_file_path = 'C:/Users/Administrator/jojayeon/py-Really_delicious_restaurant/project/other_data/add_data/merged_data.json'
+json_file_path = 'C:/Users/USER/py-Really_delicious_restaurant/project/other_data/o_data/merged_data.json'
 
 # 레스토랑 이름 배열
 restaurants_to_remove = [
@@ -36,7 +37,7 @@ restaurants_to_remove = [
     "커피마마", "신마포갈매기", "원앤원", "오니원참치", "홍대개미", 
     "연안식당", "팔각도", "육千", "육전식당", "홍콩반점", 
     "진미평양냉면", "봉피양", "화돌농장", "경성주막", "홍익궁중전통육개장", 
-    "오발탄", "본가", "팔당초계국수", "남원추어탕", "신선설농탕", 
+    "오발탄", "팔당초계국수", "남원추어탕", "신선설농탕", 
     "전주현대옥", "역전우동0410", "리춘시장", "고래식당", "부산아지매국밥", 
     "신당동떡볶이", "인생설렁탕", "미술관", "오봉족발", "꼬지사께", 
     "도쿄등심", "모던샤브하우스", "화통삼", "온더보더", "샤브향", 
@@ -45,7 +46,7 @@ restaurants_to_remove = [
     "부추곱창", "유가네닭갈비", "비에이치씨", "유생촌", "천안점", 
     "공주점", "보령점", "아산점", "서산점", "논산점", 
     "계룡점", "당진점", "금산점", "부여점", "서천점", 
-    "청양점", "홍성점", "예산점", "태안점"
+    "청양점", "홍성점", "예산점", "태안점","김해본가뒷고기","진국본가","황제명태본가"
 ]
 
 # JSON 파일 로드
@@ -62,6 +63,6 @@ filtered_data = [
 print(filtered_data)
 
 # 필터링된 데이터를 새로운 JSON 파일로 저장
-output_file_path = 'C:/Users/Administrator/jojayeon/py-Really_delicious_restaurant/project/other_data/o_data/filtered_data.json'
+output_file_path = 'C:/Users/USER/py-Really_delicious_restaurant/project/other_data/o_data/filtered_data.json'
 with open(output_file_path, 'w', encoding='utf-8') as output_file:
     json.dump(filtered_data, output_file, ensure_ascii=False, indent=4)
