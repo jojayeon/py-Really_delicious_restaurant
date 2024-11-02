@@ -2,7 +2,7 @@ import json
 import os
 
 # a와 b의 JSON 데이터를 변수로 할당 (파일 경로는 비워둠)
-with open('./o_data/daejeon_restaurants.json', 'r', encoding='utf-8') as file_a, open('./o_data/restaurant_analysis.json', 'r', encoding='utf-8') as file_b:
+with open('../o_data/ccd.json', 'r', encoding='utf-8') as file_a, open('../o_data/restaurant_analysis.json', 'r', encoding='utf-8') as file_b:
     a_data = json.load(file_a)
     b_data = json.load(file_b)
 
@@ -30,7 +30,7 @@ for b_item in filtered_b_data:
 
 
 # 'ab' 폴더에 병합된 결과를 저장
-save_directory = './o_data/'  # 현재 디렉토리의 ab 폴더
+save_directory = '../o_data/'  # 현재 디렉토리의 ab 폴더
 os.makedirs(save_directory, exist_ok=True)  # ab 폴더가 없으면 생성
 
 # 병합된 결과를 확인하고 저장 (파일명은 원하는 대로 지정 가능)
