@@ -1,0 +1,686 @@
+[
+    {
+        "restrntNm": "백제의집",
+        "restrntAddr": "충청남도 부여군 부여읍 성왕로 248",
+        "restrntInqrTel": " 041 8341212",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 관북리 119-3 ",
+        "foodType": "한식",
+        "mapLat": "36.2830489917532",
+        "mapLot": "126.914746595139"
+    },
+    {
+        "restrntNm": "청주본가부여점",
+        "restrntAddr": "충청남도 부여군 부여읍 석탑로 71-2",
+        "restrntInqrTel": " 041 8352103",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 153-5 ",
+        "foodType": null,
+        "mapLat": "36.1577138161015",
+        "mapLot": "127.010454101714"
+    },
+    {
+        "restrntNm": "충남식당",
+        "restrntAddr": "충청남도 부여군 부여읍 중앙로5번길 26",
+        "restrntInqrTel": " 041 8352873",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 152-11 ",
+        "foodType": null,
+        "mapLat": "34.886416616640055",
+        "mapLot": "128.6236008963253"
+    },
+    {
+        "restrntNm": "나루터식당",
+        "restrntAddr": "충청남도 부여군 부여읍 나루터로 37",
+        "restrntInqrTel": " 041 8353155",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 99 ",
+        "foodType": "한식",
+        "mapLat": "36.2856727369052",
+        "mapLot": "126.909142511714"
+    },
+    {
+        "restrntNm": "장어촌",
+        "restrntAddr": "충청남도 부여군 부여읍 궁남로 6-1",
+        "restrntInqrTel": " 041 8346614",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 655-4 ",
+        "foodType": "한식",
+        "mapLat": "37.26682836607697",
+        "mapLot": "127.0289775593362"
+    },
+    {
+        "restrntNm": "백마강식당",
+        "restrntAddr": "충청남도 부여군 부여읍 중앙로13번길 23-2",
+        "restrntInqrTel": " 041 8352752",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 153-30 ",
+        "foodType": null,
+        "mapLat": "36.85659588095",
+        "mapLot": "126.953652535378"
+    },
+    {
+        "restrntNm": "굴사랑",
+        "restrntAddr": "충청남도 부여군 부여읍 사비로72번길 5-17",
+        "restrntInqrTel": " 041 8379400",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 268-1 ",
+        "foodType": null,
+        "mapLat": "36.80132635900819",
+        "mapLot": "127.11990106824322"
+    },
+    {
+        "restrntNm": "시골통닭",
+        "restrntAddr": "충청남도 부여군 부여읍 중앙로5번길 14-9",
+        "restrntInqrTel": " 041 8353522",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 173 ",
+        "foodType": null,
+        "mapLat": "36.2819905180084",
+        "mapLot": "126.91160888975"
+    },
+    {
+        "restrntNm": "만춘향",
+        "restrntAddr": "충청남도 부여군 홍산면 남촌로9번길 1-10",
+        "restrntInqrTel": " 041 8351991",
+        "restrntDtlAddr": "충청남도 부여군 홍산면 남촌리 134 ",
+        "foodType": null,
+        "mapLat": "36.21406760094977",
+        "mapLot": "126.75779437718346"
+    },
+    {
+        "restrntNm": "축제",
+        "restrntAddr": "충청남도 부여군 부여읍 석탑로 60",
+        "restrntInqrTel": " 041 8328094",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 252 ",
+        "foodType": null,
+        "mapLat": "36.5395469221053",
+        "mapLot": "126.47209862056731"
+    },
+    {
+        "restrntNm": "산장식당",
+        "restrntAddr": "충청남도 부여군 부여읍 사비로 11",
+        "restrntInqrTel": " 041 8353039",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 190 ",
+        "foodType": "한식",
+        "mapLat": "36.8262966064822",
+        "mapLot": "126.927470820571"
+    },
+    {
+        "restrntNm": "동문불고기",
+        "restrntAddr": "충청남도 부여군 부여읍 성왕로 369-1",
+        "restrntInqrTel": " 041 8354209",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 쌍북리 61-9 ",
+        "foodType": null,
+        "mapLat": "36.28412041648692",
+        "mapLot": "126.9283441725939"
+    },
+    {
+        "restrntNm": "오대양회집",
+        "restrntAddr": "충청남도 부여군 부여읍 의열로 3",
+        "restrntInqrTel": " 041 8352827",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 248 ",
+        "foodType": "한식",
+        "mapLat": "38.2266405087461",
+        "mapLot": "128.587924492753"
+    },
+    {
+        "restrntNm": "어랑어랑",
+        "restrntAddr": "충청남도 부여군 부여읍 성왕로 250-1",
+        "restrntInqrTel": "041 836 1533",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 관북리 119-6 ",
+        "foodType": "한식",
+        "mapLat": "35.5379190063589",
+        "mapLot": "129.337236840982"
+    },
+    {
+        "restrntNm": "조선왕갈비",
+        "restrntAddr": "충청남도 부여군 부여읍 나루터로 19",
+        "restrntInqrTel": "041 836 4433",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 71-1 ",
+        "foodType": "한식",
+        "mapLat": "36.2845057824998",
+        "mapLot": "126.910452876297"
+    },
+    {
+        "restrntNm": "아우내순대",
+        "restrntAddr": "충청남도 부여군 부여읍 부여로 6-14",
+        "restrntInqrTel": " 041 8343939",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 327-4 ",
+        "foodType": "한식",
+        "mapLat": "35.866583751572605",
+        "mapLot": "127.13094121709187"
+    },
+    {
+        "restrntNm": "부여대우식당",
+        "restrntAddr": "충청남도 부여군 부여읍 정림로 47-11",
+        "restrntInqrTel": " 041 8350309",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 305-2 ",
+        "foodType": "한식",
+        "mapLat": "36.2786088190132",
+        "mapLot": "126.911029479129"
+    },
+    {
+        "restrntNm": "원할머니보쌈충남부여점",
+        "restrntAddr": "충청남도 부여군 부여읍 나루터로 7-1",
+        "restrntInqrTel": " 041 8345675",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 66-5 ",
+        "foodType": null,
+        "mapLat": "36.283734958132094",
+        "mapLot": "126.91125073249248"
+    },
+    {
+        "restrntNm": "왕궁장어촌",
+        "restrntAddr": "충청남도 부여군 부여읍 성왕로 368",
+        "restrntInqrTel": "041 835 3700",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 쌍북리 174-3 ",
+        "foodType": null,
+        "mapLat": "36.2837535779934",
+        "mapLot": "126.928254347251"
+    },
+    {
+        "restrntNm": "서동한우 본점",
+        "restrntAddr": "충청남도 부여군 부여읍 성왕로 256",
+        "restrntInqrTel": " 041 8327585",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 관북리 118-2 ",
+        "foodType": "한식",
+        "mapLat": "36.28311050766631",
+        "mapLot": "126.91545834648262"
+    },
+    {
+        "restrntNm": "백제가든",
+        "restrntAddr": "충청남도 부여군 부여읍 삼충로 97",
+        "restrntInqrTel": " 041 8360306",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 가증리 200-2 ",
+        "foodType": "한식",
+        "mapLat": "35.9523398179225",
+        "mapLot": "126.989203917316"
+    },
+    {
+        "restrntNm": "엄가네곰탕",
+        "restrntAddr": "충청남도 부여군 부여읍 나루터로 21-4",
+        "restrntInqrTel": " 041 8355200",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 86-9 ",
+        "foodType": "한식",
+        "mapLat": "36.28455242981023",
+        "mapLot": "126.91016675475416"
+    },
+    {
+        "restrntNm": "카페베네부여점",
+        "restrntAddr": "충청남도 부여군 부여읍 나루터로 29",
+        "restrntInqrTel": " 041 8326232",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 96-4 ",
+        "foodType": null,
+        "mapLat": "36.2581728675681",
+        "mapLot": "126.800141198895"
+    },
+    {
+        "restrntNm": "구드래돌쌈밥",
+        "restrntAddr": "충청남도 부여군 부여읍 나루터로 31",
+        "restrntInqrTel": " 041 8369259",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 96-2 ",
+        "foodType": "한식",
+        "mapLat": "36.2853775279333",
+        "mapLot": "126.90964598313279"
+    },
+    {
+        "restrntNm": "영일루",
+        "restrntAddr": "충청남도 부여군 규암면 자온로 72-1",
+        "restrntInqrTel": "041 835 9242",
+        "restrntDtlAddr": "충청남도 부여군 규암면 규암리 108-1 ",
+        "foodType": "한식",
+        "mapLat": "36.27401846099066",
+        "mapLot": "126.88782509527918"
+    },
+    {
+        "restrntNm": "한솥도시락부여점",
+        "restrntAddr": "충청남도 부여군 부여읍 석탑로 11",
+        "restrntInqrTel": "041 833 1717",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 661 ",
+        "foodType": null,
+        "mapLat": "36.27704543571447",
+        "mapLot": "126.91250041249556"
+    },
+    {
+        "restrntNm": "충남횟집",
+        "restrntAddr": "충청남도 부여군 부여읍 부장대로 49",
+        "restrntInqrTel": "041 834 9450",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 176-8 ",
+        "foodType": null,
+        "mapLat": "37.4190189030372",
+        "mapLot": "126.679998995245"
+    },
+    {
+        "restrntNm": "미가",
+        "restrntAddr": "충청남도 부여군 석성면 금백로 723",
+        "restrntInqrTel": " 041 8321010",
+        "restrntDtlAddr": "충청남도 부여군 석성면 증산리 528 ",
+        "foodType": null,
+        "mapLat": "37.32271855940384",
+        "mapLot": "127.09820149830225"
+    },
+    {
+        "restrntNm": "참나무통삼겹막창",
+        "restrntAddr": "충청남도 부여군 부여읍 나루터로 23",
+        "restrntInqrTel": "041 837 8982",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 86-4 ",
+        "foodType": "한식",
+        "mapLat": "36.2847254624226",
+        "mapLot": "126.91017212199"
+    },
+    {
+        "restrntNm": "부여막국수",
+        "restrntAddr": "충청남도 부여군 부여읍 사비로12번길 2",
+        "restrntInqrTel": " 041 8360096",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 191-2 ",
+        "foodType": "한식",
+        "mapLat": "36.273409641253764",
+        "mapLot": "126.91075825440319"
+    },
+    {
+        "restrntNm": "백마산성",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8351616",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 190 ",
+        "foodType": null,
+        "mapLat": "35.614869154548",
+        "mapLot": "128.216036062163"
+    },
+    {
+        "restrntNm": "미락원",
+        "restrntAddr": "충청남도 부여군 부여읍 성왕로36번길 6-1",
+        "restrntInqrTel": " 041 8328552",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 군수리 98-5 ",
+        "foodType": "한식",
+        "mapLat": "36.269499515844",
+        "mapLot": "126.906241022285"
+    },
+    {
+        "restrntNm": "웨딩캐슬",
+        "restrntAddr": "충청남도 부여군 부여읍 부장대로 43",
+        "restrntInqrTel": "041 837 6100",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 176-10 ",
+        "foodType": null,
+        "mapLat": "35.23654975955557",
+        "mapLot": "128.64248969905594"
+    },
+    {
+        "restrntNm": "궁남손칼국수",
+        "restrntAddr": "충청남도 부여군 부여읍 궁남로 12",
+        "restrntInqrTel": " 041 8352162",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 652-1 ",
+        "foodType": "한식",
+        "mapLat": "36.275131325366026",
+        "mapLot": "126.91252925983625"
+    },
+    {
+        "restrntNm": "황궁",
+        "restrntAddr": "충청남도 부여군 부여읍 궁남로 26",
+        "restrntInqrTel": "041 833 4717",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 274-4 ",
+        "foodType": "한식",
+        "mapLat": "35.8700012552997",
+        "mapLot": "128.729314858406"
+    },
+    {
+        "restrntNm": "부여관광회관",
+        "restrntAddr": "충청남도 부여군 부여읍 백제문화로 33",
+        "restrntInqrTel": " 041 8351174",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 석목리 175 ",
+        "foodType": "한식",
+        "mapLat": "36.28677356571025",
+        "mapLot": "126.93149526631015"
+    },
+    {
+        "restrntNm": "보성가든",
+        "restrntAddr": null,
+        "restrntInqrTel": "041 837 2004",
+        "restrntDtlAddr": "충청남도 부여군 장암면 합곡리 284-7 ",
+        "foodType": null,
+        "mapLat": "34.9667540547865",
+        "mapLot": "127.195359134195"
+    },
+    {
+        "restrntNm": "오얏골",
+        "restrntAddr": "충청남도 부여군 부여읍 성왕로273번길 46",
+        "restrntInqrTel": null,
+        "restrntDtlAddr": "충청남도 부여군 부여읍 쌍북리 568-27 ",
+        "foodType": "한식",
+        "mapLat": "36.6832798641465",
+        "mapLot": "128.205986866371"
+    },
+    {
+        "restrntNm": "약수가든",
+        "restrntAddr": "충청남도 부여군 부여읍 흑천로12번길 32",
+        "restrntInqrTel": "041 835 5556",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 관북리 149-1 ",
+        "foodType": null,
+        "mapLat": "36.3080017306133",
+        "mapLot": "127.35108689798211"
+    },
+    {
+        "restrntNm": "놀부아구",
+        "restrntAddr": null,
+        "restrntInqrTel": " 041 8370606",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 278-3 ",
+        "foodType": null,
+        "mapLat": "35.17904007550967",
+        "mapLot": "128.55810530568607"
+    },
+    {
+        "restrntNm": "백제고을누룽지백숙",
+        "restrntAddr": "충청남도 부여군 부여읍 정림로 96",
+        "restrntInqrTel": " 041 8358353",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 420-1 ",
+        "foodType": "한식",
+        "mapLat": "36.2780684389951",
+        "mapLot": "126.916492765111"
+    },
+    {
+        "restrntNm": "고마루감자탕",
+        "restrntAddr": "충청남도 부여군 부여읍 정림로 47-14",
+        "restrntInqrTel": "041 837 1577",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 293-3 ",
+        "foodType": null,
+        "mapLat": "36.2784936617332",
+        "mapLot": "126.911292282535"
+    },
+    {
+        "restrntNm": "주당치킨 호프",
+        "restrntAddr": "충청남도 부여군 부여읍 석탑로 5",
+        "restrntInqrTel": " 041 8360909",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 658-1 ",
+        "foodType": "한식",
+        "mapLat": "37.5842530147547",
+        "mapLot": "127.029789644256"
+    },
+    {
+        "restrntNm": "행복낙지",
+        "restrntAddr": "충청남도 부여군 부여읍 부장대로 57",
+        "restrntInqrTel": " 041 8320622",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 162-7 ",
+        "foodType": "한식",
+        "mapLat": "36.3025224783584",
+        "mapLot": "127.385342532728"
+    },
+    {
+        "restrntNm": "부소산갈비",
+        "restrntAddr": null,
+        "restrntInqrTel": "041 835 7741",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 관북리 116-2 ",
+        "foodType": null,
+        "mapLat": "36.2832636116537",
+        "mapLot": "126.918828054677"
+    },
+    {
+        "restrntNm": "금천식당",
+        "restrntAddr": "충청남도 부여군 부여읍 정림로 98-9",
+        "restrntInqrTel": " 041 8323789",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 415-4 ",
+        "foodType": "한식",
+        "mapLat": "35.02188436131373",
+        "mapLot": "126.78642055182645"
+    },
+    {
+        "restrntNm": "솔내음",
+        "restrntAddr": "충청남도 부여군 부여읍 나루터로 39",
+        "restrntInqrTel": " 041 8360116",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 100 ",
+        "foodType": "한식",
+        "mapLat": "36.2858690217833",
+        "mapLot": "126.90891298049102"
+    },
+    {
+        "restrntNm": "장수마을",
+        "restrntAddr": "충청남도 부여군 부여읍 사비로30번길 14-3",
+        "restrntInqrTel": "041 835 0147",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 652-3 ",
+        "foodType": "한식",
+        "mapLat": "37.5806451480508",
+        "mapLot": "127.010234318615"
+    },
+    {
+        "restrntNm": "이바돔감자탕(부여점)",
+        "restrntAddr": "충청남도 부여군 부여읍 성왕로 160-38",
+        "restrntInqrTel": " 041 8367221",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 511-8 ",
+        "foodType": "한식",
+        "mapLat": "36.2788766213934",
+        "mapLot": "126.907658934179"
+    },
+    {
+        "restrntNm": "사비아구",
+        "restrntAddr": "충청남도 부여군 부여읍 부장대로 28",
+        "restrntInqrTel": "041 835 0025",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 518-2 ",
+        "foodType": "한식",
+        "mapLat": "36.2778453492607",
+        "mapLot": "126.907259464904"
+    },
+    {
+        "restrntNm": "황금가마솥",
+        "restrntAddr": "충청남도 부여군 남면 남성로 424",
+        "restrntInqrTel": "041 836 5345",
+        "restrntDtlAddr": "충청남도 부여군 남면 회동리 339-6 ",
+        "foodType": null,
+        "mapLat": "33.4481568839218",
+        "mapLot": "126.306994667455"
+    },
+    {
+        "restrntNm": "바다여행",
+        "restrntAddr": "충청남도 부여군 부여읍 계백로 287-1",
+        "restrntInqrTel": "041 832 8216",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 677-6 ",
+        "foodType": "한식",
+        "mapLat": "37.68420234528382",
+        "mapLot": "129.03902462123338"
+    },
+    {
+        "restrntNm": "덤덤덤쪽갈비 충남부여점",
+        "restrntAddr": "충청남도 부여군 부여읍 석탑로 7",
+        "restrntInqrTel": "041 835 2668",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 659-4 ",
+        "foodType": "한식",
+        "mapLat": "36.2766876254269",
+        "mapLot": "126.912449614058"
+    },
+    {
+        "restrntNm": "동아리 동태찜탕",
+        "restrntAddr": "충청남도 부여군 부여읍 사비로15번길 13",
+        "restrntInqrTel": "041 837 0700",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 188-2 ",
+        "foodType": "한식",
+        "mapLat": "36.4708670148627",
+        "mapLot": "127.13407022085"
+    },
+    {
+        "restrntNm": "향우정",
+        "restrntAddr": "충청남도 부여군 부여읍 나루터로 33",
+        "restrntInqrTel": " 041 8350085",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 97 ",
+        "foodType": "한싟",
+        "mapLat": "36.2854639276575",
+        "mapLot": "126.909494499355"
+    },
+    {
+        "restrntNm": "동해안 동태찜",
+        "restrntAddr": "충청남도 부여군 부여읍 금성로 41",
+        "restrntInqrTel": "041 832 8756",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 가탑리 402-13 ",
+        "foodType": "한식",
+        "mapLat": "37.43767383812702",
+        "mapLot": "129.18649782796743"
+    },
+    {
+        "restrntNm": "야야",
+        "restrntAddr": "충청남도 부여군 부여읍 부장대로 59-1",
+        "restrntInqrTel": " 041 8359244",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 161-12 ",
+        "foodType": "한식",
+        "mapLat": "33.5439834552224",
+        "mapLot": "126.673489475634"
+    },
+    {
+        "restrntNm": "하늘채",
+        "restrntAddr": "충청남도 부여군 부여읍 계백로 397",
+        "restrntInqrTel": " 041 8342227",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 쌍북리 589-1 ",
+        "foodType": null,
+        "mapLat": "36.28018557837733",
+        "mapLot": "126.91814449355836"
+    },
+    {
+        "restrntNm": "청사뜰",
+        "restrntAddr": "충청남도 부여군 부여읍 서동로37번길 30",
+        "restrntInqrTel": "041 834 1281",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 732-2 ",
+        "foodType": null,
+        "mapLat": "34.64092219437735",
+        "mapLot": "126.77010697309606"
+    },
+    {
+        "restrntNm": "청시면옥",
+        "restrntAddr": "충청남도 부여군 부여읍 정림로 47-42",
+        "restrntInqrTel": "041 835 7743",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 300-1 외 1필지 ",
+        "foodType": "한식",
+        "mapLat": "36.2787207287539",
+        "mapLot": "126.911247504689"
+    },
+    {
+        "restrntNm": "임금님숯불갈비",
+        "restrntAddr": "충청남도 부여군 부여읍 정림로 54",
+        "restrntInqrTel": "041 837 9119",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 668 ",
+        "foodType": null,
+        "mapLat": "35.9318246179099",
+        "mapLot": "128.563840597099"
+    },
+    {
+        "restrntNm": "한오백년 추어탕",
+        "restrntAddr": "충청남도 부여군 부여읍 성왕로 160-26",
+        "restrntInqrTel": "041 835 0070",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구교리 388-2 ",
+        "foodType": "한식",
+        "mapLat": "36.4711014007346",
+        "mapLot": "127.134795872987"
+    },
+    {
+        "restrntNm": "황토정",
+        "restrntAddr": "충청남도 부여군 규암면 백제문로 30",
+        "restrntInqrTel": "041 834 6263",
+        "restrntDtlAddr": "충청남도 부여군 규암면 규암리 61-1 ",
+        "foodType": "한식",
+        "mapLat": "37.5076909294194",
+        "mapLot": "126.961884888711"
+    },
+    {
+        "restrntNm": "이 민물장어 하우스",
+        "restrntAddr": "충청남도 부여군 규암면 백제문로304번길 59-2",
+        "restrntInqrTel": "041 833 3900",
+        "restrntDtlAddr": "충청남도 부여군 규암면 신리 713 ",
+        "foodType": "한식",
+        "mapLat": "36.3018285741227",
+        "mapLot": "126.895100002604"
+    },
+    {
+        "restrntNm": "궁남추어탕",
+        "restrntAddr": "충청남도 부여군 부여읍 궁남로 8",
+        "restrntInqrTel": "041 837 2367",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 655-5 ",
+        "foodType": "한식",
+        "mapLat": "36.2755278364732",
+        "mapLot": "126.912511009864"
+    },
+    {
+        "restrntNm": "준이네분식",
+        "restrntAddr": "충청남도 부여군 부여읍 흑천로 4",
+        "restrntInqrTel": "041 837 9339",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 쌍북리 601-4 ",
+        "foodType": "분식",
+        "mapLat": "36.8852715852158",
+        "mapLot": "126.77135753489"
+    },
+    {
+        "restrntNm": "나경버섯농가",
+        "restrntAddr": "충청남도 부여군 석성면 비당로109번길 100",
+        "restrntInqrTel": "041 836 0039",
+        "restrntDtlAddr": "충청남도 부여군 석성면 비당리 817 외5필지 ",
+        "foodType": "한식",
+        "mapLat": "36.218099385953586",
+        "mapLot": "127.00615694173624"
+    },
+    {
+        "restrntNm": "연꽃이야기",
+        "restrntAddr": "충청남도 부여군 부여읍 성왕로 22 (1필지)",
+        "restrntInqrTel": "041 833 3336",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 군수리 351-5 1필지 ",
+        "foodType": "한식",
+        "mapLat": "36.2686633734964",
+        "mapLot": "126.906451243383"
+    },
+    {
+        "restrntNm": "어가명가",
+        "restrntAddr": "충청남도 부여군 부여읍 사비로12번길 6",
+        "restrntInqrTel": "041 834 6609",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 192-6 ",
+        "foodType": "한식",
+        "mapLat": "37.05615529715052",
+        "mapLot": "127.47611791623373"
+    },
+    {
+        "restrntNm": "상운반점",
+        "restrntAddr": "충청남도 부여군 부여읍 정림로 48-12",
+        "restrntInqrTel": "041 833 0027",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 705 ",
+        "foodType": "중식",
+        "mapLat": "36.277696831361794",
+        "mapLot": "126.91105388721572"
+    },
+    {
+        "restrntNm": "꿈꾸는 백마강",
+        "restrntAddr": "충청남도 부여군 규암면 백제문로 553",
+        "restrntInqrTel": "041 833 6262",
+        "restrntDtlAddr": "충청남도 부여군 규암면 호암리 211-1 ",
+        "foodType": "한식",
+        "mapLat": "36.3065393727135",
+        "mapLot": "126.917295256403"
+    },
+    {
+        "restrntNm": "사비향",
+        "restrntAddr": "충청남도 부여군 부여읍 궁남로 38",
+        "restrntInqrTel": "041 832 0282",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 269-7 ",
+        "foodType": "한식",
+        "mapLat": "36.2730012822135",
+        "mapLot": "126.913043589199"
+    },
+    {
+        "restrntNm": "현대옥(부여점)",
+        "restrntAddr": "충청남도 부여군 부여읍 성왕로 177-1",
+        "restrntInqrTel": "041 837 3579",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 구아리 413 ",
+        "foodType": "한식",
+        "mapLat": "36.1872317509476",
+        "mapLot": "127.101509622527"
+    },
+    {
+        "restrntNm": "서동마실",
+        "restrntAddr": "충청남도 부여군 부여읍 계백로 299",
+        "restrntInqrTel": "041 833 1259",
+        "restrntDtlAddr": null,
+        "foodType": "일식",
+        "mapLat": "36.2752569966172",
+        "mapLot": "126.878890595858"
+    },
+    {
+        "restrntNm": "연꽃향",
+        "restrntAddr": "충청남도 부여군 부여읍 궁남로 25",
+        "restrntInqrTel": "041 837 0007",
+        "restrntDtlAddr": "충청남도 부여군 부여읍 동남리 277-7 ",
+        "foodType": "한식",
+        "mapLat": "36.2738917693806",
+        "mapLot": "126.91319396357"
+    },
+    {
+        "restrntNm": "백제궁수라간",
+        "restrntAddr": "충청남도 부여군 규암면 백제문로 555",
+        "restrntInqrTel": "041 837 1255",
+        "restrntDtlAddr": "충청남도 부여군 규암면 호암리 182 1층,2층 ",
+        "foodType": "한식",
+        "mapLat": "36.306424254497",
+        "mapLot": "126.917633856691"
+    }
+]
