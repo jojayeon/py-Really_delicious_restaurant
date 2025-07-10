@@ -110,9 +110,9 @@ js-Leafletb/ : leaflet.js으로 지도 만들기
 
 ----------------------------------------
 
-🌐 배포 사이트
+🌐 사이트
 
-[배포 사이트 바로가기](https://py-really-delicious-restaurant-fs28ehrn1-jojayeons-projects.vercel.app/)
+[사이트 바로가기](https://py-really-delicious-restaurant-fs28ehrn1-jojayeons-projects.vercel.app/)
 
 
 🗒️ 커밋 컨벤션
