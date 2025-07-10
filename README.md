@@ -28,7 +28,7 @@
 
 | 긍정 리뷰 키워드 워드클라우드 | 부정 리뷰 키워드 워드클라우드 |
 |:---------------------------:|:---------------------------:|
-| ![긍정 워드클라우드]([images/positive_wc.png](https://github.com/user-attachments/assets/caccc9dc-1e42-4c17-835f-18f22d50149c)) | ![부정 워드클라우드]([images/negative_wc.png](https://github.com/user-attachments/assets/62f35419-6923-4739-b9ab-50e4b10bd733)) |
+| ![긍정 워드클라우드](https://github.com/user-attachments/assets/a06bf423-905a-41ef-8867-f083f7b4eac3) | ![부정 워드클라우드](https://github.com/user-attachments/assets/e8986fd3-0f1e-4950-ae5a-7a28d442a5da) |
 
 
 ----------------------------------------
